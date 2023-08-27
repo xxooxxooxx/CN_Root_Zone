@@ -30,3 +30,5 @@ cat * | grep "No match found for" -v | grep "#" -v > ../../china-tlds-whois.txt
 ls * > ../../china-tlds.txt
 cd ../../
 rm -r tmp
+
+date

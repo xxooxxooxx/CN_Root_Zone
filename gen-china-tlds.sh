@@ -1,5 +1,7 @@
 #!/bin/bash
 
+### https://blog.bgme.me/posts/2020/precautions-for-registering-domains/
+
 wget https://data.iana.org/TLD/tlds-alpha-by-domain.txt
 grep -v '#' tlds-alpha-by-domain.txt | xargs -n1 whois | tee tlds-whois.txt
 

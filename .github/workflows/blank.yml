@@ -19,9 +19,9 @@ jobs:
       - run: sudo apt-get install apt-transport-https ca-certificates wget whois
       - run: bash ./gen-china-tlds.sh
       - run: echo "# CN_Root_Zone">README.md
-      - run: echo "```">>README.md
+      - run: echo '```'>>README.md
       - run: cat china-tlds.txt >>README.md
-      - run: echo "```">>README.md
+      - run: echo '```'>>README.md
       - name: Commit files
         run: |
           git config --local user.email "action@github.com"

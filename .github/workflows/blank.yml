@@ -1,19 +1,18 @@
 name: ccc
 
 on:
-  push:
-    branches: [ main ]
+#  push:
+#    branches: [ main ]
 #  pull_request:
 #    branches: [ main ]
-#  schedule:
-#    - cron:  '0 0 * * 4'
+  schedule:
+    - cron:  '0 0 * * 4'
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - run: rm -rf README.md
       - run: sudo apt-get update
       - run: sudo apt-get install apt-transport-https ca-certificates wget whois
       - run: bash ./gen-china-tlds.sh
@@ -25,7 +24,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add README.md
+          git add -A
           git commit -m "Robot update"
       - name: Push changes
         uses: ad-m/github-push-action@master

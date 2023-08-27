@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-
+      - run: rm -rf README.md
       - run: sudo apt-get update
       - run: sudo apt-get install apt-transport-https ca-certificates wget whois
       - run: bash ./gen-china-tlds.sh

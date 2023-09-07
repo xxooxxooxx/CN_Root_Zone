@@ -3086,33 +3086,31 @@ source:       IANA
 
 domain:       ARCHI
 
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
+address:      c/o Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldadmin@donuts.email
+e-mail:       tldadmin@identity.digital
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldtech@donuts.email
+e-mail:       tldtech@identity.digital
 
 nserver:      A0.NIC.ARCHI 2a01:8840:52:0:0:0:0:1 65.22.84.1
 nserver:      A2.NIC.ARCHI 2a01:8840:55:0:0:0:0:1 65.22.87.1
@@ -3123,10 +3121,10 @@ ds-rdata:     11134 8 2 ed2b030f401540096b716481cd8897e37d9a8cecbdfd98c709f4860c
 whois:        whois.nic.archi
 
 status:       ACTIVE
-remarks:      Registration information: https://donuts.domains/
+remarks:      Registration information: https://www.identity.digital/
 
 created:      2014-03-20
-changed:      2021-12-01
+changed:      2023-08-31
 source:       IANA
 
 % IANA WHOIS server
@@ -6001,33 +5999,31 @@ source:       IANA
 
 domain:       BET
 
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
+address:      c/o Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldadmin@donuts.email
+e-mail:       tldadmin@identity.digital
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldtech@donuts.email
+e-mail:       tldtech@identity.digital
 
 nserver:      A0.NIC.BET 2a01:8840:26:0:0:0:0:17 65.22.36.17
 nserver:      A2.NIC.BET 2a01:8840:29:0:0:0:0:17 65.22.39.17
@@ -6038,10 +6034,10 @@ ds-rdata:     34666 8 2 e514f93c9ff69ec196e47cdfa00e39946382363cf2cac7df3df562f3
 whois:        whois.nic.bet
 
 status:       ACTIVE
-remarks:      Registration information: https://donuts.domains/
+remarks:      Registration information: https://www.identity.digital/
 
 created:      2015-07-16
-changed:      2023-02-14
+changed:      2023-09-01
 source:       IANA
 
 % IANA WHOIS server
@@ -6056,14 +6052,14 @@ address:      Ouagadougou 01
 address:      Burkina Faso
 
 contact:      administrative
-name:         Directeur des Services Informatiques
-organisation: ARCE-AutoritÈ de RÈgulation des Communications Electroniques
-address:      01 BP 6437
-address:      Ouagadougou 01
+name:         TLD Gestionnaire Administratif (DSI/ARCEP)
+organisation: Autorité de Régulation des Communications Electroniques et des Postes (ARCEP)
+address:      Ouaga 2000
+address:      01 BP 6437 Ouagadougou 01 Ouagadougou
 address:      Burkina Faso
-phone:        +22670390190
+phone:        +22625375360
 fax-no:       +22625375364
-e-mail:       serge.sanou@arcep.bf
+e-mail:       tld-admin@arcep.bf
 
 contact:      technical
 name:         TLD Gestionnaire Technique
@@ -6088,7 +6084,7 @@ remarks:      Registration information:
 remarks:      http://www.arcep.bf/noms-de-domaine
 
 created:      1993-03-29
-changed:      2023-08-30
+changed:      2023-09-04
 source:       IANA
 
 % IANA WHOIS server
@@ -6531,33 +6527,31 @@ source:       IANA
 
 domain:       BIO
 
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
+address:      c/o Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldadmin@donuts.email
+e-mail:       tldadmin@identity.digital
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldtech@donuts.email
+e-mail:       tldtech@identity.digital
 
 nserver:      A0.NIC.BIO 2a01:8840:52:0:0:0:0:9 65.22.84.9
 nserver:      A2.NIC.BIO 2a01:8840:55:0:0:0:0:9 65.22.87.9
@@ -6568,10 +6562,10 @@ ds-rdata:     16334 8 2 aeaf99ce9c6f64b1607605dae987d3bd0acd4c5490691322b98c592c
 whois:        whois.nic.bio
 
 status:       ACTIVE
-remarks:      Registration information: https://donuts.domains/
+remarks:      Registration information: https://www.identity.digital/
 
 created:      2014-05-15
-changed:      2021-12-01
+changed:      2023-09-01
 source:       IANA
 
 % IANA WHOIS server
@@ -6675,33 +6669,31 @@ source:       IANA
 
 domain:       BLACK
 
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
+address:      c/o Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldadmin@donuts.email
+e-mail:       tldadmin@identity.digital
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldtech@donuts.email
+e-mail:       tldtech@identity.digital
 
 nserver:      A0.NIC.BLACK 2a01:8840:42:0:0:0:0:33 65.22.68.33
 nserver:      A2.NIC.BLACK 2a01:8840:45:0:0:0:0:33 65.22.71.33
@@ -6712,10 +6704,10 @@ ds-rdata:     28819 8 2 fa6792252a660261b2c191a71bcedbe4cdd7bf61c33aa5f04e558abe
 whois:        whois.nic.black
 
 status:       ACTIVE
-remarks:      Registration information: https://donuts.domains/
+remarks:      Registration information: https://www.identity.digital/
 
 created:      2014-03-20
-changed:      2021-12-01
+changed:      2023-09-01
 source:       IANA
 
 % IANA WHOIS server
@@ -6740,13 +6732,14 @@ fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
 contact:      technical
-name:         Francisco Obispo
-organisation: Tucows Inc
-address:      96 Mowat Avenue
-address:      Toronto ON M6K3M1
-address:      Canada
-phone:        +1.949.903.3449
-e-mail:       trs-ops@tucows.com
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      2155 E. GoDaddy Way
+address:      Tempe AZ 85284
+address:      United States of America (the)
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
+e-mail:       iana@registry.godaddy
 
 nserver:      A.NIC.BLACKFRIDAY 2001:dcd:1:0:0:0:0:10 37.209.192.10
 nserver:      B.NIC.BLACKFRIDAY 2001:dcd:2:0:0:0:0:10 37.209.194.10
@@ -6757,13 +6750,13 @@ nserver:      Z.NIC.BLACKFRIDAY 156.154.174.82 2610:a1:1076:0:0:0:1:82
 ds-rdata:     29900 13 2 fde16db12fdbc44766c6f83f62e029570becd685cd245da8b9889ee75e89a75c
 ds-rdata:     47938 13 2 92074d73f8c4e1b874e8c6b3f76c6994a02d962a948c94e1a504dfd7ca1cda4b
 
-whois:        whois.uniregistry.net
+whois:        whois.nic.blackfriday
 
 status:       ACTIVE
 remarks:      Registration information: http://nic.blackfriday/
 
 created:      2014-04-17
-changed:      2023-08-18
+changed:      2023-08-31
 source:       IANA
 
 % IANA WHOIS server
@@ -6913,33 +6906,31 @@ source:       IANA
 
 domain:       BLUE
 
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
+address:      c/o Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldadmin@donuts.email
+e-mail:       tldadmin@identity.digital
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldtech@donuts.email
+e-mail:       tldtech@identity.digital
 
 nserver:      A0.NIC.BLUE 2a01:8840:1e:0:0:0:0:9 65.22.28.9
 nserver:      A2.NIC.BLUE 2a01:8840:21:0:0:0:0:9 65.22.31.9
@@ -6951,10 +6942,10 @@ ds-rdata:     13015 8 2 337188914037f0d7831c5c732516d7310c1d291f55ecfe67cd8b9f4c
 whois:        whois.nic.blue
 
 status:       ACTIVE
-remarks:      Registration information: https://donuts.domains/
+remarks:      Registration information: https://www.identity.digital/
 
 created:      2014-01-23
-changed:      2021-12-01
+changed:      2023-09-01
 source:       IANA
 
 % IANA WHOIS server
@@ -16327,24 +16318,24 @@ address:      Copenhagen DK-2300
 address:      Denmark
 
 contact:      administrative
-name:         DK Hostmaster Administrative Contact
-organisation: DK Hostmaster A/S
+name:         Punktum dk Administrative Contact
+organisation: Punktum dk A/S
 address:      Ørestads Boulevard 108, 11th floor
 address:      Copenhagen DK-2300
 address:      Denmark
 phone:        +45 3364 6060
 fax-no:       +45 3364 6066
-e-mail:       tld2019admin@dk-hostmaster.dk
+e-mail:       tld2019admin@punktum.dk
 
 contact:      technical
-name:         DK Hostmaster Technical Contact
-organisation: DK Hostmaster A/S
+name:         Punktum dk Technical Contact
+organisation: Punktum dk A/S
 address:      Ørestads Boulevard 108, 11th floor
 address:      Copenhagen DK-2300
 address:      Denmark
 phone:        +45 3364 6060
 fax-no:       +45 3364 6066
-e-mail:       tld2019tech@dk-hostmaster.dk
+e-mail:       tld2019tech@punktum.dk
 
 nserver:      A.NIC.DK 2001:1580:0:180d:0:0:0:122 212.88.78.122
 nserver:      B.NIC.DK 193.163.102.222 2a01:630:0:80:0:0:0:53
@@ -16354,13 +16345,13 @@ nserver:      L.NIC.DK 130.226.213.138 2001:878:0:e000:82:e2:d5:8a
 nserver:      S.NIC.DK 193.176.144.15 2a00:d78:0:102:193:176:144:15
 ds-rdata:     21369 13 2 e6d0011e98acd5c1d332c0cfb29effa5242824f30b8ee43829ace1d789051cc1
 
-whois:        whois.dk-hostmaster.dk
+whois:        whois.punktum.dk
 
 status:       ACTIVE
-remarks:      Registration information: https://www.dk-hostmaster.dk/
+remarks:      Registration information: https://punktum.dk/
 
 created:      1987-07-14
-changed:      2023-06-20
+changed:      2023-09-06
 source:       IANA
 
 % IANA WHOIS server
@@ -21214,7 +21205,7 @@ nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      E.EXT.NIC.FR 193.176.144.22 2a00:d78:0:102:193:176:144:22
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
-ds-rdata:     51508 13 2 1b3386864d30ccc8f4541b985bf2ca320e4f52c57c53353f6d29c9ad58a5671f
+ds-rdata:     29133 13 2 1303e8da8fb60db500d5bea1ee5dc9a2bcc93dfe2fc43d346576658feccf5749
 
 whois:        whois.nic.fr
 
@@ -21222,7 +21213,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.fr
 
 created:      1986-09-02
-changed:      2022-10-04
+changed:      2023-09-01
 source:       IANA
 
 % IANA WHOIS server
@@ -24521,33 +24512,31 @@ source:       IANA
 
 domain:       GREEN
 
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
+address:      c/o Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldadmin@donuts.email
+e-mail:       tldadmin@identity.digital
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldtech@donuts.email
+e-mail:       tldtech@identity.digital
 
 nserver:      A0.NIC.GREEN 2a01:8840:22:0:0:0:0:9 65.22.32.9
 nserver:      A2.NIC.GREEN 2a01:8840:25:0:0:0:0:9 65.22.35.9
@@ -24558,10 +24547,10 @@ ds-rdata:     49042 8 2 b0a053bc2903459bd6dc6060a822285c492fbb5f20346821a48c5ef3
 whois:        whois.nic.green
 
 status:       ACTIVE
-remarks:      Registration information: https://donuts.domains/
+remarks:      Registration information: https://www.identity.digital/
 
 created:      2014-06-12
-changed:      2021-12-02
+changed:      2023-09-01
 source:       IANA
 
 % IANA WHOIS server
@@ -25830,7 +25819,7 @@ address:      Paris 75008
 address:      France
 phone:        +33 140174720
 fax-no:       +33 140174994
-e-mail:       dns@hermes.com
+e-mail:       ngtld-hermes@cscglobal.com
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
@@ -25849,13 +25838,13 @@ nserver:      B0.NIC.HERMES 2a01:8840:e3:0:0:0:0:25 65.22.233.25
 nserver:      C0.NIC.HERMES 2a01:8840:e4:0:0:0:0:25 65.22.234.25
 ds-rdata:     17194 8 2 f38ae5e161d402739020cc92a88dfa905a59972426ef42044c37ea6240bb9614
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.hermes
 
 status:       ACTIVE
 remarks:      Registration information: http://hermes.com
 
 created:      2014-10-30
-changed:      2020-12-08
+changed:      2023-08-31
 source:       IANA
 
 % IANA WHOIS server
@@ -27538,7 +27527,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2015-07-09
-changed:      2023-05-30
+changed:      2023-09-05
 source:       IANA
 
 % IANA WHOIS server
@@ -28331,33 +28320,31 @@ source:       IANA
 
 domain:       INFO
 
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
+address:      c/o Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldadmin@donuts.email
+e-mail:       tldadmin@identity.digital
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldtech@donuts.email
+e-mail:       tldtech@identity.digital
 
 nserver:      A0.INFO.AFILIAS-NST.INFO 199.254.31.1 2001:500:19:0:0:0:0:1
 nserver:      A2.INFO.AFILIAS-NST.INFO 199.249.113.1 2001:500:41:0:0:0:0:1
@@ -28370,10 +28357,10 @@ ds-rdata:     5104 8 2 1af7548a8d3e2950c20303757df9390c26cfa39e26c8b6a8f6c8b1e72
 whois:        whois.nic.info
 
 status:       ACTIVE
-remarks:      Registration information: https://donuts.domains/
+remarks:      Registration information: https://www.identity.digital/
 
 created:      2001-06-26
-changed:      2021-12-02
+changed:      2023-09-01
 source:       IANA
 
 % IANA WHOIS server
@@ -31035,33 +31022,31 @@ source:       IANA
 
 domain:       KIM
 
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
+address:      c/o Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldadmin@donuts.email
+e-mail:       tldadmin@identity.digital
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldtech@donuts.email
+e-mail:       tldtech@identity.digital
 
 nserver:      A0.NIC.KIM 2a01:8840:1e:0:0:0:0:1 65.22.28.1
 nserver:      A2.NIC.KIM 2a01:8840:21:0:0:0:0:1 65.22.31.1
@@ -31072,10 +31057,10 @@ ds-rdata:     12277 8 2 ba18a744991a561ab09a464ff96864573db04fd61a29e9d37f755198
 whois:        whois.nic.kim
 
 status:       ACTIVE
-remarks:      Registration information: https://donuts.domains/
+remarks:      Registration information: https://www.identity.digital/
 
 created:      2013-12-19
-changed:      2021-12-02
+changed:      2023-09-01
 source:       IANA
 
 % IANA WHOIS server
@@ -33129,33 +33114,31 @@ source:       IANA
 
 domain:       LGBT
 
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
+address:      c/o Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldadmin@donuts.email
+e-mail:       tldadmin@identity.digital
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldtech@donuts.email
+e-mail:       tldtech@identity.digital
 
 nserver:      A0.NIC.LGBT 2a01:8840:22:0:0:0:0:1 65.22.32.1
 nserver:      A2.NIC.LGBT 2a01:8840:25:0:0:0:0:1 65.22.35.1
@@ -33166,10 +33149,10 @@ ds-rdata:     16912 8 2 58fc6791daa780f1b589fb72ce7f1e43f39dcd185df0e57ae60178e8
 whois:        whois.nic.lgbt
 
 status:       ACTIVE
-remarks:      Registration information: https://donuts.domains/
+remarks:      Registration information: https://www.identity.digital/
 
 created:      2014-06-26
-changed:      2021-12-02
+changed:      2023-09-01
 source:       IANA
 
 % IANA WHOIS server
@@ -33955,33 +33938,31 @@ source:       IANA
 
 domain:       LLC
 
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
+address:      c/o Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldadmin@donuts.email
+e-mail:       tldadmin@identity.digital
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldtech@donuts.email
+e-mail:       tldtech@identity.digital
 
 nserver:      A0.NIC.LLC 2a01:8840:26:0:0:0:0:9 65.22.36.9
 nserver:      A2.NIC.LLC 2a01:8840:29:0:0:0:0:9 65.22.39.9
@@ -33992,10 +33973,10 @@ ds-rdata:     25591 8 2 93c8b54bd9413a06dc25a32304b423342fd3273ca6785071c4bd18a2
 whois:        whois.nic.llc
 
 status:       ACTIVE
-remarks:      Registration information: https://donuts.domains/
+remarks:      Registration information: https://www.identity.digital/
 
 created:      2018-02-16
-changed:      2021-12-02
+changed:      2023-09-01
 source:       IANA
 
 % IANA WHOIS server
@@ -34394,33 +34375,31 @@ source:       IANA
 
 domain:       LOTTO
 
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
+address:      c/o Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldadmin@donuts.email
+e-mail:       tldadmin@identity.digital
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldtech@donuts.email
+e-mail:       tldtech@identity.digital
 
 nserver:      A0.NIC.LOTTO 2a01:8840:1e:0:0:0:0:25 65.22.28.25
 nserver:      A2.NIC.LOTTO 2a01:8840:21:0:0:0:0:25 65.22.31.25
@@ -34431,10 +34410,10 @@ ds-rdata:     45466 8 2 6ffe76934a3634a61f99fad76fa0506a7682c5541452cf7b289f348f
 whois:        whois.nic.lotto
 
 status:       ACTIVE
-remarks:      Registration information: https://donuts.domains/
+remarks:      Registration information: https://www.identity.digital/
 
 created:      2014-06-05
-changed:      2021-12-02
+changed:      2023-09-01
 source:       IANA
 
 % IANA WHOIS server
@@ -37327,33 +37306,31 @@ source:       IANA
 
 domain:       MOBI
 
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
+address:      c/o Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldadmin@donuts.email
+e-mail:       tldadmin@identity.digital
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldtech@donuts.email
+e-mail:       tldtech@identity.digital
 
 nserver:      A0.MOBI.AFILIAS-NST.INFO 199.254.55.1 2001:500:21:0:0:0:0:1
 nserver:      A2.MOBI.AFILIAS-NST.INFO 199.249.118.1 2001:500:46:0:0:0:0:1
@@ -37366,10 +37343,10 @@ ds-rdata:     56191 8 2 016c0d8022bef2cabb827ce75dabd8fd24cd0160ac277a95ecd5e79b
 whois:        whois.nic.mobi
 
 status:       ACTIVE
-remarks:      Registration information: https://donuts.domains/
+remarks:      Registration information: https://www.identity.digital/
 
 created:      2005-10-17
-changed:      2021-12-02
+changed:      2023-09-01
 source:       IANA
 
 % IANA WHOIS server
@@ -42036,33 +42013,31 @@ source:       IANA
 
 domain:       ORGANIC
 
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
+address:      c/o Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldadmin@donuts.email
+e-mail:       tldadmin@identity.digital
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldtech@donuts.email
+e-mail:       tldtech@identity.digital
 
 nserver:      A0.NIC.ORGANIC 2a01:8840:16:0:0:0:0:40 65.22.20.40
 nserver:      A2.NIC.ORGANIC 2a01:8840:19:0:0:0:0:40 65.22.23.40
@@ -42073,10 +42048,10 @@ ds-rdata:     22474 8 2 5803fbc9f1fc0d4aa172dc24f6b2b099f18dc13e04cee7f605777d79
 whois:        whois.nic.organic
 
 status:       ACTIVE
-remarks:      Registration information: https://donuts.domains/
+remarks:      Registration information: https://www.identity.digital/
 
 created:      2014-05-29
-changed:      2021-12-02
+changed:      2023-09-01
 source:       IANA
 
 % IANA WHOIS server
@@ -42865,33 +42840,31 @@ source:       IANA
 
 domain:       PET
 
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
+address:      c/o Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldadmin@donuts.email
+e-mail:       tldadmin@identity.digital
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldtech@donuts.email
+e-mail:       tldtech@identity.digital
 
 nserver:      A0.NIC.PET 2a01:8840:12:0:0:0:0:17 65.22.16.17
 nserver:      A2.NIC.PET 2a01:8840:15:0:0:0:0:17 65.22.19.17
@@ -42902,10 +42875,10 @@ ds-rdata:     42856 8 2 ee6c6c84eff7b00eb70d9bd8a29cee8a04d29d4d006cc1f61a95fff8
 whois:        whois.nic.pet
 
 status:       ACTIVE
-remarks:      Registration information: https://donuts.domains/
+remarks:      Registration information: https://www.identity.digital/
 
 created:      2015-07-16
-changed:      2021-12-02
+changed:      2023-09-01
 source:       IANA
 
 % IANA WHOIS server
@@ -43309,13 +43282,14 @@ fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
 contact:      technical
-name:         Francisco Obispo
-organisation: Tucows Inc
-address:      96 Mowat Avenue
-address:      Toronto ON M6K3M1
-address:      Canada
-phone:        +1.949.903.3449
-e-mail:       trs-ops@tucows.com
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      2155 E. GoDaddy Way
+address:      Tempe AZ 85284
+address:      United States of America (the)
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
+e-mail:       iana@registry.godaddy
 
 nserver:      A.NIC.PHOTO 2001:dcd:1:0:0:0:0:10 37.209.192.10
 nserver:      B.NIC.PHOTO 2001:dcd:2:0:0:0:0:10 37.209.194.10
@@ -43326,13 +43300,13 @@ nserver:      Z.NIC.PHOTO 156.154.174.82 2610:a1:1076:0:0:0:1:82
 ds-rdata:     56016 13 2 a9c731e215bc6ba13a585782939de293da96e91dec2a3ed9cd27d34868719371
 ds-rdata:     8311 13 2 7f11b4d8e82f14ace5adcfa2c5cb6701d6e40d87c4f92b129aa62118a7890beb
 
-whois:        whois.uniregistry.net
+whois:        whois.nic.photo
 
 status:       ACTIVE
 remarks:      Registration information: http://nic.photo/
 
 created:      2014-01-16
-changed:      2023-08-18
+changed:      2023-08-31
 source:       IANA
 
 % IANA WHOIS server
@@ -43779,33 +43753,31 @@ source:       IANA
 
 domain:       PINK
 
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
+address:      c/o Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldadmin@donuts.email
+e-mail:       tldadmin@identity.digital
 
 contact:      technical
-name:         Director, DNS Infrastructure Group
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+name:         Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldtech@donuts.email
+e-mail:       tldtech@identity.digital
 
 nserver:      A0.NIC.PINK 2a01:8840:1e:0:0:0:0:17 65.22.28.17
 nserver:      A2.NIC.PINK 2a01:8840:21:0:0:0:0:17 65.22.31.17
@@ -43817,10 +43789,10 @@ ds-rdata:     53032 8 2 54475c411977fb9c94c01453633eb43b8dc64b154462de278a0644c6
 whois:        whois.nic.pink
 
 status:       ACTIVE
-remarks:      Registration information: https://donuts.domains/
+remarks:      Registration information: https://www.identity.digital/
 
 created:      2013-12-19
-changed:      2021-12-02
+changed:      2023-09-01
 source:       IANA
 
 % IANA WHOIS server
@@ -44467,33 +44439,31 @@ source:       IANA
 
 domain:       POKER
 
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
+address:      c/o Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldadmin@donuts.email
+e-mail:       tldadmin@identity.digital
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldtech@donuts.email
+e-mail:       tldtech@identity.digital
 
 nserver:      A0.NIC.POKER 2a01:8840:16:0:0:0:0:33 65.22.20.33
 nserver:      A2.NIC.POKER 2a01:8840:19:0:0:0:0:33 65.22.23.33
@@ -44504,10 +44474,10 @@ ds-rdata:     12856 8 2 571efc932d4c25e2f41df9e216b66732f8d17bb7efd2f6230af31279
 whois:        whois.nic.poker
 
 status:       ACTIVE
-remarks:      Registration information: https://donuts.domains/
+remarks:      Registration information: https://www.identity.digital/
 
 created:      2014-09-04
-changed:      2021-12-02
+changed:      2023-09-01
 source:       IANA
 
 % IANA WHOIS server
@@ -44905,33 +44875,31 @@ source:       IANA
 
 domain:       PRO
 
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
+address:      c/o Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldadmin@donuts.email
+e-mail:       tldadmin@identity.digital
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldtech@donuts.email
+e-mail:       tldtech@identity.digital
 
 nserver:      A0.PRO.AFILIAS-NST.INFO 199.182.0.1 2001:500:c0:0:0:0:0:1
 nserver:      A2.PRO.AFILIAS-NST.INFO 199.182.32.1 2001:500:e0:0:0:0:0:1
@@ -44944,10 +44912,10 @@ ds-rdata:     42154 8 2 5a8a58f4e30cde44a47091488870d109108ff45d42fdfdd30b448d78
 whois:        whois.nic.pro
 
 status:       ACTIVE
-remarks:      Registration information: https://donuts.domains/
+remarks:      Registration information: https://www.identity.digital/
 
 created:      2002-05-08
-changed:      2021-12-02
+changed:      2023-09-01
 source:       IANA
 
 % IANA WHOIS server
@@ -45146,33 +45114,31 @@ source:       IANA
 
 domain:       PROMO
 
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
+address:      c/o Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldadmin@donuts.email
+e-mail:       tldadmin@identity.digital
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldtech@donuts.email
+e-mail:       tldtech@identity.digital
 
 nserver:      A0.NIC.PROMO 2a01:8840:ee:0:0:0:0:9 65.22.244.9
 nserver:      A2.NIC.PROMO 2a01:8840:f1:0:0:0:0:9 65.22.247.9
@@ -45183,10 +45149,10 @@ ds-rdata:     61459 8 2 583dcffeacf0cf25f52e5f4d356db7e3d3e4145992edc4e8b1fea3b5
 whois:        whois.nic.promo
 
 status:       ACTIVE
-remarks:      Registration information: https://donuts.domains/
+remarks:      Registration information: https://www.identity.digital/
 
 created:      2015-12-18
-changed:      2021-12-02
+changed:      2023-09-01
 source:       IANA
 
 % IANA WHOIS server
@@ -46314,33 +46280,31 @@ source:       IANA
 
 domain:       RED
 
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
+address:      c/o Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldadmin@donuts.email
+e-mail:       tldadmin@identity.digital
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldtech@donuts.email
+e-mail:       tldtech@identity.digital
 
 nserver:      A0.NIC.RED 2a01:8840:26:0:0:0:0:25 65.22.36.25
 nserver:      A2.NIC.RED 2a01:8840:29:0:0:0:0:25 65.22.39.25
@@ -46351,10 +46315,10 @@ ds-rdata:     20191 8 2 a838978f76dab8c9a0057b3fdddbd9883e760764e5ae1cea04f0961d
 whois:        whois.nic.red
 
 status:       ACTIVE
-remarks:      Registration information: https://donuts.domains/
+remarks:      Registration information: https://www.identity.digital/
 
 created:      2014-01-16
-changed:      2021-12-02
+changed:      2023-09-01
 source:       IANA
 
 % IANA WHOIS server
@@ -48249,14 +48213,14 @@ source:       IANA
 
 domain:       SA
 
-organisation: Communications and Information Technology Commission
+organisation: Communications, Space and Technology Commission
 address:      P. O. Box 75606
 address:      Riyadh 11588
 address:      Saudi Arabia
 
 contact:      administrative
 name:         Head of Saudi Network Information Center
-organisation: Communications and Information Technology Commission
+organisation: Communications, Space and Technology Commission
 address:      P. O. Box 75606
 address:      Riyadh 11588
 address:      Saudi Arabia
@@ -48266,7 +48230,7 @@ e-mail:       tld-admin-contact@nic.net.sa
 
 contact:      technical
 name:         SA-TLD Technical Contact
-organisation: Communications and Information Technology Commission
+organisation: Communications, Space and Technology Commission
 address:      P. O. Box 75606
 address:      Riyadh 11588
 address:      Saudi Arabia
@@ -48292,7 +48256,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.net.sa/
 
 created:      1994-05-17
-changed:      2023-03-14
+changed:      2023-08-31
 source:       IANA
 
 % IANA WHOIS server
@@ -50808,33 +50772,31 @@ source:       IANA
 
 domain:       SHIKSHA
 
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
+address:      c/o Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldadmin@donuts.email
+e-mail:       tldadmin@identity.digital
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldtech@donuts.email
+e-mail:       tldtech@identity.digital
 
 nserver:      A0.NIC.SHIKSHA 2a01:8840:22:0:0:0:0:33 65.22.32.33
 nserver:      A2.NIC.SHIKSHA 2a01:8840:25:0:0:0:0:33 65.22.35.33
@@ -50845,10 +50807,10 @@ ds-rdata:     54049 8 2 b4dd9094c19c5a3be8d6921d695f16cd6412258fa8302e5d7879405e
 whois:        whois.nic.shiksha
 
 status:       ACTIVE
-remarks:      Registration information: https://donuts.domains/
+remarks:      Registration information: https://www.identity.digital/
 
 created:      2014-01-16
-changed:      2021-12-02
+changed:      2023-09-01
 source:       IANA
 
 % IANA WHOIS server
@@ -51493,33 +51455,31 @@ source:       IANA
 
 domain:       SKI
 
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
+address:      c/o Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldadmin@donuts.email
+e-mail:       tldadmin@identity.digital
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldtech@donuts.email
+e-mail:       tldtech@identity.digital
 
 nserver:      A0.NIC.SKI 2a01:8840:52:0:0:0:0:17 65.22.84.17
 nserver:      A2.NIC.SKI 2a01:8840:55:0:0:0:0:17 65.22.87.17
@@ -51530,10 +51490,10 @@ ds-rdata:     62489 8 2 d421064a672f86a83a4c7fe005ce8cd164fffdfab3e64415498c3413
 whois:        whois.nic.ski
 
 status:       ACTIVE
-remarks:      Registration information: https://donuts.domains/
+remarks:      Registration information: https://www.identity.digital/
 
 created:      2015-05-14
-changed:      2021-12-02
+changed:      2023-09-01
 source:       IANA
 
 % IANA WHOIS server
@@ -52549,25 +52509,23 @@ address:      Malaysia
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldadmin@donuts.email
+e-mail:       tldadmin@identity.digital
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldtech@donuts.email
+e-mail:       tldtech@identity.digital
 
 nserver:      A0.NIC.SPA 2a01:8840:2e:0:0:0:0:17 65.22.48.17
 nserver:      A2.NIC.SPA 2a01:8840:31:0:0:0:0:17 65.22.51.17
@@ -52581,7 +52539,7 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.spa
 
 created:      2020-09-25
-changed:      2023-08-03
+changed:      2023-09-01
 source:       IANA
 
 % IANA WHOIS server
@@ -59978,25 +59936,23 @@ address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldadmin@donuts.email
+e-mail:       tldadmin@identity.digital
 
 contact:      technical
-name:         Director, DNS infrastructure Group
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+name:         Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldtech@donuts.email
+e-mail:       tldtech@identity.digital
 
 nserver:      A0.NIC.VOTE 2a01:8840:a2:0:0:0:0:9 65.22.168.9
 nserver:      A2.NIC.VOTE 2a01:8840:a5:0:0:0:0:9 65.22.171.9
@@ -60007,10 +59963,10 @@ ds-rdata:     62749 8 2 101d2ae9c31fbe10078e74d477010aa5c8966d814421123a893b8b0e
 whois:        whois.nic.vote
 
 status:       ACTIVE
-remarks:      Registration information: https://donuts.domains/
+remarks:      Registration information: https://www.identity.digital/
 
 created:      2014-02-13
-changed:      2021-12-02
+changed:      2023-09-01
 source:       IANA
 
 % IANA WHOIS server
@@ -60075,25 +60031,23 @@ address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldadmin@donuts.email
+e-mail:       tldadmin@identity.digital
 
 contact:      technical
-name:         Director, DNS infrastructure Group
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+name:         Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldtech@donuts.email
+e-mail:       tldtech@identity.digital
 
 nserver:      A0.NIC.VOTO 2a01:8840:a2:0:0:0:0:1 65.22.168.1
 nserver:      A2.NIC.VOTO 2a01:8840:a5:0:0:0:0:1 65.22.171.1
@@ -60104,10 +60058,10 @@ ds-rdata:     26875 8 2 847371b1a0a21ae134a0e0c15b0e505bb4c88a26ed401daff4f4e879
 whois:        whois.nic.voto
 
 status:       ACTIVE
-remarks:      Registration information: https://donuts.domains/
+remarks:      Registration information: https://www.identity.digital/
 
 created:      2014-02-13
-changed:      2021-12-02
+changed:      2023-09-01
 source:       IANA
 
 % IANA WHOIS server
@@ -60512,33 +60466,31 @@ source:       IANA
 
 domain:       WATCHES
 
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
+address:      c/o Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldadmin@donuts.email
+e-mail:       tldadmin@identity.digital
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldtech@donuts.email
+e-mail:       tldtech@identity.digital
 
 nserver:      A0.NIC.WATCHES 2a01:8840:c6:0:0:0:0:1 65.22.204.1
 nserver:      A2.NIC.WATCHES 2a01:8840:c9:0:0:0:0:1 65.22.207.1
@@ -60549,10 +60501,10 @@ ds-rdata:     61699 8 2 9110905c79b0c95933eb1f037a0d7a150819f1d1553ad89187a78490
 whois:        whois.nic.watches
 
 status:       ACTIVE
-remarks:      Registration information: https://donuts.domains/
+remarks:      Registration information: https://www.identity.digital/
 
 created:      2015-11-12
-changed:      2021-12-02
+changed:      2023-09-01
 source:       IANA
 
 % IANA WHOIS server
@@ -63215,33 +63167,31 @@ source:       IANA
 domain:       移动
 domain-ace:   XN--6FRZ82G
 
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
+address:      c/o Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldadmin@donuts.email
+e-mail:       tldadmin@identity.digital
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldtech@donuts.email
+e-mail:       tldtech@identity.digital
 
 nserver:      A0.NIC.XN--6FRZ82G 2a01:8840:1a:0:0:0:0:9 65.22.24.9
 nserver:      A2.NIC.XN--6FRZ82G 2a01:8840:1d:0:0:0:0:9 65.22.27.9
@@ -63252,10 +63202,10 @@ ds-rdata:     51310 8 2 b725fa381426f5e3a9338c5c5a57447611aba619e9675d9bf973d1d2
 whois:        whois.nic.xn--6frz82g
 
 status:       ACTIVE
-remarks:      Registration information: https://donuts.domains/
+remarks:      Registration information: https://www.identity.digital/
 
 created:      2014-01-23
-changed:      2021-12-02
+changed:      2023-09-01
 source:       IANA
 
 % IANA WHOIS server
@@ -67045,18 +66995,18 @@ source:       IANA
 domain:       السعودية
 domain-ace:   XN--MGBERP4A5D4AR
 
-organisation: Communications and Information Technology Commission
+organisation: Communications, Space and Technology Commission
 address:      P.O. Box 75606
-address:      CITC Main Building, AlRuhmaniah Area
+address:      CST Main Building, AlRuhmaniah Area
 address:      King Fahad Street
 address:      Riyadh 11588
 address:      Saudi Arabia
 
 contact:      administrative
 name:         Head of Saudi Network Information Center
-organisation: Communications and Information Technology Commission
+organisation: Communications, Space and Technology Commission
 address:      SaudiNIC
-address:      Communications and Information Technology Commission (CITC)
+address:      Communications, Space and Technology Commission (CST)
 address:      P.O Box 75606
 address:      Riyadh 11588
 address:      Saudi Arabia
@@ -67066,9 +67016,9 @@ e-mail:       tld-admin-contact@nic.net.sa
 
 contact:      technical
 name:         Saudi Domain Names Director
-organisation: Communications and Information Technology Commission
+organisation: Communications, Space and Technology Commission
 address:      SaudiNIC
-address:      Communications and Information Technology Commission (CITC)
+address:      Communications, Space and Technology Commission (CST)
 address:      P.O Box 75606
 address:      Riyadh 11588
 address:      Saudi Arabia
@@ -67093,7 +67043,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.net.sa/
 
 created:      2010-05-05
-changed:      2023-03-07
+changed:      2023-08-31
 source:       IANA
 
 % IANA WHOIS server

@@ -3407,7 +3407,6 @@ nserver:      A0.NIC.ASDA 2a01:8840:6e:0:0:0:0:43 65.22.112.43
 nserver:      A2.NIC.ASDA 2a01:8840:71:0:0:0:0:43 65.22.115.43
 nserver:      B0.NIC.ASDA 2a01:8840:6f:0:0:0:0:43 65.22.113.43
 nserver:      C0.NIC.ASDA 2a01:8840:70:0:0:0:0:43 65.22.114.43
-ds-rdata:     3153 8 2 52bb4fa0c9653f7c74296f54cee26b763688040ee511162b33a67345eb2ee56b
 ds-rdata:     26782 8 2 dea162d88db4bf889a745ff70cc6d0e56245350e4aecddb262cdb1a0663347df
 
 whois:        whois.nic.asda
@@ -3416,7 +3415,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.asda.com
 
 created:      2016-07-21
-changed:      2023-09-12
+changed:      2023-09-14
 source:       IANA
 
 % IANA WHOIS server
@@ -8856,7 +8855,6 @@ nserver:      ANY.CA-SERVERS.CA 199.4.144.2 2001:500:a7:0:0:0:0:2
 nserver:      C.CA-SERVERS.CA 185.159.196.2 2620:10a:8053:0:0:0:0:2
 nserver:      D.CA-SERVERS.CA 2a0e:dbc0:0:0:0:0:0:101 45.142.220.101
 nserver:      J.CA-SERVERS.CA 198.182.167.1 2001:500:83:0:0:0:0:1
-ds-rdata:     43787 8 2 2af70b49c542b7dacec2d4754651598b740ef1d79e7a839b32bc7f7e96039a2c
 ds-rdata:     18560 13 2 86ec28ed5bff076186306dc8ce3b4e3ec0433d9d5d34c7ca8dac7b1934e8b324
 
 whois:        whois.cira.ca
@@ -8865,7 +8863,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.cira.ca/
 
 created:      1987-05-14
-changed:      2023-09-13
+changed:      2023-09-19
 source:       IANA
 
 % IANA WHOIS server
@@ -12132,13 +12130,10 @@ address:      Canada
 phone:        +1.9499033449
 e-mail:       trs-ops@tucows.com
 
-nserver:      C.NIC.CLOUD 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.UNIREGISTRY.NET 2620:57:4000:1:0:0:0:1 64.96.1.1
 nserver:      NS2.UNIREGISTRY.INFO 64.96.2.1
 nserver:      NS3.UNIREGISTRY.NET 185.159.197.3 2620:10a:80aa:0:0:0:0:3
 nserver:      NS4.UNIREGISTRY.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
-nserver:      Y.NIC.CLOUD 156.154.173.82 2610:a1:1075:0:0:0:1:82
-nserver:      Z.NIC.CLOUD 156.154.174.82 2610:a1:1076:0:0:0:1:82
 ds-rdata:     23374 8 2 0503a8fb36bc97cf3fba3b0186be04364e5743b345a89288fd5dfb9672d73619
 ds-rdata:     48499 8 2 655c17351152d0b6a959b7ac2c674ca37bb3513f612cf803eae16f572c648ab4
 
@@ -12148,7 +12143,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.get.cloud
 
 created:      2015-06-18
-changed:      2023-08-03
+changed:      2023-09-14
 source:       IANA
 
 % IANA WHOIS server
@@ -17392,6 +17387,7 @@ e-mail:       support@fury.ca
 nserver:      A.NS.NIC.ECO 185.159.197.4 2620:10a:80aa:0:0:0:0:4
 nserver:      B.NS.NIC.ECO 185.159.198.4 2620:10a:80ab:0:0:0:0:4
 ds-rdata:     38446 8 2 a2500ae83c687fd270d0660a27527c3c96c6a136a86d9f2bdc714e9280bb5e32
+ds-rdata:     34597 8 2 bce820d516cfe81df04c38fbcb7cf80c2eccc473b57a295948fa50ac1aff9800
 
 whois:        whois.nic.eco
 
@@ -17399,7 +17395,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.bigroom.eco
 
 created:      2016-08-18
-changed:      2022-10-12
+changed:      2023-09-20
 source:       IANA
 
 % IANA WHOIS server
@@ -22735,7 +22731,6 @@ nserver:      A0.NIC.GEORGE 2a01:8840:6e:0:0:0:0:49 65.22.112.49
 nserver:      A2.NIC.GEORGE 2a01:8840:71:0:0:0:0:49 65.22.115.49
 nserver:      B0.NIC.GEORGE 2a01:8840:6f:0:0:0:0:49 65.22.113.49
 nserver:      C0.NIC.GEORGE 2a01:8840:70:0:0:0:0:49 65.22.114.49
-ds-rdata:     24255 8 2 944d283dd22b4fec947c88d9c8369c75852a9b74a3a88a74756864de374496d4
 ds-rdata:     1759 8 2 0caa1f5ae9c0e736030b351ab71bb351053798ce39b3b662ceefdb956057d5fe
 
 whois:        whois.nic.george
@@ -22744,7 +22739,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.walmart.com
 
 created:      2016-07-21
-changed:      2023-09-12
+changed:      2023-09-14
 source:       IANA
 
 % IANA WHOIS server
@@ -24210,6 +24205,7 @@ nserver:      B.GOV-SERVERS.NET 209.112.123.30 2620:74:27:0:0:0:2:30
 nserver:      C.GOV-SERVERS.NET 2620:74:28:0:0:0:2:30 69.36.153.30
 nserver:      D.GOV-SERVERS.NET 2620:74:29:0:0:0:2:30 81.19.194.30
 ds-rdata:     7698 8 2 6bc949e638442ead0bdaf0935763c8d003760384ff15ebbd5ce86bb5559561f0
+ds-rdata:     64280 8 2 d66cdda12234c22c5e6fd1c894dbd682fe7967e111793485a281972bfb164377
 
 whois:        whois.dotgov.gov
 
@@ -24217,7 +24213,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dotgov.gov
 
 created:      1985-01-01
-changed:      2023-08-11
+changed:      2023-09-20
 source:       IANA
 
 % IANA WHOIS server
@@ -24639,16 +24635,15 @@ nserver:      A0.NIC.GROCERY 2a01:8840:6e:0:0:0:0:50 65.22.112.50
 nserver:      A2.NIC.GROCERY 2a01:8840:71:0:0:0:0:50 65.22.115.50
 nserver:      B0.NIC.GROCERY 2a01:8840:6f:0:0:0:0:50 65.22.113.50
 nserver:      C0.NIC.GROCERY 2a01:8840:70:0:0:0:0:50 65.22.114.50
-ds-rdata:     5415 8 2 c723e260e44420eb0bef197e29f17f26ff4edda1d7e2f3c09dfaabbb2282bc86
 ds-rdata:     58537 8 2 3306b36e70fe436fc00b50acd0d7c0dab84db02062907f3ff5cece68f09cb68c
 
-whois:        
+whois:        whois.nic.grocery
 
 status:       ACTIVE
 remarks:      Registration information: http://www.walmart.com
 
 created:      2017-06-08
-changed:      2023-09-12
+changed:      2023-09-14
 source:       IANA
 
 % IANA WHOIS server
@@ -26055,14 +26050,14 @@ fax-no:       +852 2319 2626
 e-mail:       info@hkirc.hk
 
 contact:      technical
-name:         Ben Lee
+name:         Jacky Lok
 organisation: Hong Kong Internet Registration Corporation Ltd.
 address:      Unit 501, Level 5, Core C, Cyberport 3
 address:      100 Cyberport Road
 address:      Hong Kong
 phone:        +852 2319 2303
 fax-no:       +852 2319 2626
-e-mail:       hk.tech@hkirc.hk
+e-mail:       jacky.lok@hkirc.hk
 
 nserver:      C.HKIRC.NET.HK 2001:dca:4000:0:0:0:cb77:2da 203.119.2.218
 nserver:      D.HKIRC.NET.HK 2001:dca:2000:0:0:0:cb77:57da 203.119.87.218
@@ -26080,7 +26075,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.hkirc.hk
 
 created:      1990-01-03
-changed:      2022-12-05
+changed:      2023-09-20
 source:       IANA
 
 % IANA WHOIS server
@@ -28986,7 +28981,8 @@ fax-no:       +98 21 22295700
 e-mail:       cto@irnic.ir
 
 nserver:      A.NIC.IR 193.189.123.2
-nserver:      B.NIC.IR 193.189.122.83
+nserver:      B.NIC.IR 193.189.122.83 2001:14e8:c:0:193:189:122:83
+nserver:      C.NIC.IR 141.95.65.136 2001:41d0:700:5d88:0:0:0:0
 nserver:      IR.CCTLD.AUTHDNS.RIPE.NET 193.0.9.85 2001:67c:e0:0:0:0:0:85
 nserver:      NS5.UNIVIE.AC.AT 193.171.255.77 2001:628:453:4305:0:0:0:53
 
@@ -28996,7 +28992,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.ir
 
 created:      1994-04-06
-changed:      2023-02-28
+changed:      2023-09-20
 source:       IANA
 
 % IANA WHOIS server
@@ -31251,6 +31247,7 @@ e-mail:       support@fury.ca
 nserver:      A.NS.NIC.KIWI 185.159.197.1 2620:10a:80aa:0:0:0:0:1
 nserver:      B.NS.NIC.KIWI 185.159.198.1 2620:10a:80ab:0:0:0:0:1
 ds-rdata:     30184 8 2 72600ee2c5f82b9d0637cc4724b654d459051ca9b761380c126d926cb70a5002
+ds-rdata:     28462 8 2 a1c28ef63fe4b2ca5de823951a0a0edf27f73601eca4371da74b600190846f7d
 
 whois:        whois.nic.kiwi
 
@@ -31258,7 +31255,7 @@ status:       ACTIVE
 remarks:      Registration information: http://hello.kiwi
 
 created:      2013-11-25
-changed:      2022-10-06
+changed:      2023-09-20
 source:       IANA
 
 % IANA WHOIS server
@@ -34499,10 +34496,9 @@ nserver:      A.NIC.LPL 194.169.218.92 2001:67c:13cc:0:0:0:1:92
 nserver:      B.NIC.LPL 185.24.64.92 2a04:2b00:13cc:0:0:0:1:92
 nserver:      C.NIC.LPL 212.18.248.92 2a04:2b00:13ee:0:0:0:0:92
 nserver:      D.NIC.LPL 212.18.249.92 2a04:2b00:13ff:0:0:0:0:92
-ds-rdata:     27378 7 1 ccc5b2d39befa0918768394724325608e076514f
-ds-rdata:     27378 7 2 6f3063778a89b0c993a6d80c0f86b1bf14d3f5669075fc98dc16b8fd1608846e
-ds-rdata:     50040 7 1 08a7f61b3c9cf7fa6658ea454a0e5d9c2c62e494
 ds-rdata:     50040 7 2 4aaf92273ea09ca7ed698d5785389a7703a5475def5962e813c000fa7893b328
+ds-rdata:     43324 13 2 1783403d052e9b382d00f3d78ab8dc40689ae032b7246d93a683761837f220df
+ds-rdata:     17754 13 2 89e157c100bc7bd01d57a930f8ce6025cf7c4c30e8b636c61d79697c01fffccc
 
 whois:        whois.nic.lpl
 
@@ -34510,7 +34506,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2016-06-30
-changed:      2023-02-21
+changed:      2023-09-19
 source:       IANA
 
 % IANA WHOIS server
@@ -34548,10 +34544,9 @@ nserver:      A.NIC.LPLFINANCIAL 194.169.218.93 2001:67c:13cc:0:0:0:1:93
 nserver:      B.NIC.LPLFINANCIAL 185.24.64.93 2a04:2b00:13cc:0:0:0:1:93
 nserver:      C.NIC.LPLFINANCIAL 212.18.248.93 2a04:2b00:13ee:0:0:0:0:93
 nserver:      D.NIC.LPLFINANCIAL 212.18.249.93 2a04:2b00:13ff:0:0:0:0:93
-ds-rdata:     3615 7 1 2d15ec1892f7e0ae2491b0cd144a114f65605778
-ds-rdata:     3615 7 2 0d3ea589cbd6c634cecf40050614ee0f1a4c364f7cc74e225d29138db054a4fe
-ds-rdata:     8455 7 1 96f3c31c34d12d10939065bb2b1e0ea86176da0d
 ds-rdata:     8455 7 2 91d851ae03523f99d6c6def2d0ee451c6778ea3d58f4c347852972cc7b6b50b9
+ds-rdata:     5735 13 2 2a05b6233fed896c1e37fbac05045ea676f33e838f2177acd4cba897e128a0bc
+ds-rdata:     59873 13 2 f4665676a01cda5d5cd4efd16ba5f3919ef741e788d27512015c84d8b0861df1
 
 whois:        whois.nic.lplfinancial
 
@@ -34559,7 +34554,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2016-06-30
-changed:      2023-02-21
+changed:      2023-09-19
 source:       IANA
 
 % IANA WHOIS server
@@ -36718,6 +36713,7 @@ nserver:      EUR2.NIPR.MIL 199.252.143.234 2608:4163:1:143:0:0:0:234
 nserver:      PAC1.NIPR.MIL 199.252.180.234 2608:c184:1:180:0:0:0:234
 nserver:      PAC2.NIPR.MIL 199.252.155.234 2608:c144:1:155:0:0:0:234
 ds-rdata:     62470 8 2 be1683ce6c223cacb29c51244ab9f7bc2b0ff6096feac8ced63368f9dc5060e7
+ds-rdata:     16801 8 2 49013e5d5ed406c25c5a3e7f67c756e34c925342a34bd64d7427536c366df99a
 
 whois:        
 
@@ -36725,7 +36721,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      1985-01-01
-changed:      2023-08-11
+changed:      2023-09-19
 source:       IANA
 
 % IANA WHOIS server
@@ -36984,7 +36980,7 @@ address:      Bamako
 address:      Mali
 phone:        +223 77 28 52 51
 fax-no:       +223 20 29 94 13
-e-mail:       nkamate@agetic.gouv.ml
+e-mail:       ml@agetic.gouv.ml
 
 contact:      technical
 name:         Adama TRAORE
@@ -36993,7 +36989,7 @@ address:      Hamdallaye ACI 2000, cour Bibliothèque Nationale
 address:      Bamako Mali BPE 5467
 address:      Mali
 phone:        +223 20 23 04 04
-e-mail:       ada@agetic.gouv.ml
+e-mail:       dotml@agetic.gouv.ml
 
 nserver:      A.NIC.ML 196.10.220.136
 nserver:      B.NIC.ML 165.90.218.166 2c0f:f900:2:3:0:0:0:2
@@ -37006,7 +37002,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.ml
 
 created:      1993-09-29
-changed:      2023-07-24
+changed:      2023-09-19
 source:       IANA
 
 % IANA WHOIS server
@@ -38414,14 +38410,14 @@ fax-no:       +852 2319 2626
 e-mail:       cherry.lam@hkirc.hk
 
 contact:      technical
-name:         Ben Lee
+name:         Jacky Lok
 organisation: Hong Kong Internet Registration Corporation Limited
 address:      Unit 501, Level 5, Core C, Cyberport 3
 address:      100 Cyberport Road
 address:      Hong Kong
 phone:        +852 2319 2303
 fax-no:       +852 2319 2626
-e-mail:       hk.tech@hkirc.hk
+e-mail:       jacky.lok@hkirc.hk
 
 nserver:      NS1.NIC.MTR 2001:dca:4000:0:0:0:cb77:2a4 203.119.2.164
 nserver:      NS2.NIC.MTR 2001:dca:2000:0:0:0:cb77:57a4 203.119.87.164
@@ -38435,7 +38431,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.mtr
 
 created:      2015-07-31
-changed:      2023-02-15
+changed:      2023-09-19
 source:       IANA
 
 % IANA WHOIS server
@@ -44337,7 +44333,7 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.pn
 
 created:      1997-07-10
-changed:      2023-06-29
+changed:      2023-09-20
 source:       IANA
 
 % IANA WHOIS server
@@ -46602,8 +46598,8 @@ nserver:      A.NIC.REIT 194.169.218.38 2001:67c:13cc:0:0:0:1:38
 nserver:      B.NIC.REIT 185.24.64.38 2a04:2b00:13cc:0:0:0:1:38
 nserver:      C.NIC.REIT 212.18.248.38 2a04:2b00:13ee:0:0:0:0:38
 nserver:      D.NIC.REIT 212.18.249.38 2a04:2b00:13ff:0:0:0:0:38
-ds-rdata:     44512 8 1 3451296e8f2ffe68eb14b400a686fe1da12e3941
 ds-rdata:     44512 8 2 661fbde636973834f5d417d3897ddf8590461da6f020cfaa4274718dd926c523
+ds-rdata:     51490 8 2 4dd84ee5eaf91cbbd8fddc5ab21382c030860e1fa9bf9d6412d8b4fe5dc9e353
 
 whois:        whois.nic.reit
 
@@ -46611,7 +46607,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.reit.com
 
 created:      2014-10-23
-changed:      2021-10-12
+changed:      2023-09-19
 source:       IANA
 
 % IANA WHOIS server
@@ -48592,7 +48588,6 @@ nserver:      A0.NIC.SAMSCLUB 2a01:8840:6e:0:0:0:0:66 65.22.112.66
 nserver:      A2.NIC.SAMSCLUB 2a01:8840:71:0:0:0:0:66 65.22.115.66
 nserver:      B0.NIC.SAMSCLUB 2a01:8840:6f:0:0:0:0:66 65.22.113.66
 nserver:      C0.NIC.SAMSCLUB 2a01:8840:70:0:0:0:0:66 65.22.114.66
-ds-rdata:     3888 8 2 12c5eb19d3471e5bd6bc69d1e38b1b37b26ec950e0367e158df6221293b17806
 ds-rdata:     60532 8 2 3d5123de8729f24800c0715726142c8317b27134af028dc67f541de50903643b
 
 whois:        whois.nic.samsclub
@@ -48601,7 +48596,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.samsclub.com
 
 created:      2016-07-21
-changed:      2023-09-12
+changed:      2023-09-14
 source:       IANA
 
 % IANA WHOIS server
@@ -54129,7 +54124,7 @@ e-mail:       support@fury.ca
 
 nserver:      NS1.NS.SX 185.159.197.10 2620:10a:80aa:0:0:0:0:10
 nserver:      NS2.NS.SX 185.159.198.10 2620:10a:80ab:0:0:0:0:10
-ds-rdata:     18379 8 2 4347640217ef8340c38cf28327de8bf0c8b3db7d30e5d62f04c29af24738f83f
+ds-rdata:     34036 8 2 8fbc9761b3375b5a00ad9a7c0e1d22f7574c87efbbcdd5249845a9778f876ce6
 
 whois:        whois.sx
 
@@ -54137,7 +54132,7 @@ status:       ACTIVE
 remarks:      Registration information: http://registry.sx
 
 created:      2010-12-20
-changed:      2022-09-21
+changed:      2023-09-20
 source:       IANA
 
 % IANA WHOIS server
@@ -60250,7 +60245,6 @@ nserver:      A0.NIC.WALMART 2a01:8840:6e:0:0:0:0:74 65.22.112.74
 nserver:      A2.NIC.WALMART 2a01:8840:71:0:0:0:0:74 65.22.115.74
 nserver:      B0.NIC.WALMART 2a01:8840:6f:0:0:0:0:74 65.22.113.74
 nserver:      C0.NIC.WALMART 2a01:8840:70:0:0:0:0:74 65.22.114.74
-ds-rdata:     42084 8 2 114198bd39750b2e840c302b523e065c55be0152955ddd7d5408a3d73618954d
 ds-rdata:     34531 8 2 e09b4ccfa8a68b1d6a13042fa28a343782d0d1b4bf3e79c6a1415d3b2825b922
 
 whois:        whois.nic.walmart
@@ -60259,7 +60253,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.walmart.com
 
 created:      2016-07-21
-changed:      2023-09-13
+changed:      2023-09-14
 source:       IANA
 
 % IANA WHOIS server
@@ -61416,8 +61410,8 @@ nserver:      A.NIC.WME 194.169.218.31 2001:67c:13cc:0:0:0:1:31
 nserver:      B.NIC.WME 185.24.64.31 2a04:2b00:13cc:0:0:0:1:31
 nserver:      C.NIC.WME 212.18.248.31 2a04:2b00:13ee:0:0:0:0:31
 nserver:      D.NIC.WME 212.18.249.31 2a04:2b00:13ff:0:0:0:0:31
-ds-rdata:     7259 8 1 f4ccd846a0b86daf9ce33371fb93362d4dc4addf
 ds-rdata:     7259 8 2 e7cb7561099040db08978f7696320ddaf323f52ddbf951fa5f4c44b2f34e38bd
+ds-rdata:     60194 8 2 a1d20932b733059c4bb7e989fdf75a19a787eb186ce2db5648b1560c1db54495
 
 whois:        whois.nic.wme
 
@@ -61426,7 +61420,7 @@ remarks:      Registration information:
 remarks:      http://www.wmeentertainment.com
 
 created:      2014-08-22
-changed:      2021-10-12
+changed:      2023-09-19
 source:       IANA
 
 % IANA WHOIS server
@@ -61808,8 +61802,11 @@ e-mail:       trademark@wtca.org
 nserver:      A.NIC.WTC 2001:dcd:1:0:0:0:0:9 37.209.192.9
 nserver:      B.NIC.WTC 2001:dcd:2:0:0:0:0:9 37.209.194.9
 nserver:      C.NIC.WTC 2001:dcd:3:0:0:0:0:9 37.209.196.9
-nserver:      D.NIC.WTC 2001:dcd:4:0:0:0:0:9 37.209.198.9
+nserver:      X.NIC.WTC 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.WTC 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.WTC 156.154.174.82 2610:a1:1076:0:0:0:1:82
 ds-rdata:     44554 8 2 b9a169f58e754770e8e23d48da8591a92f602f3d94862b33344c996c0590a6c4
+ds-rdata:     60754 8 2 f5ba575547a9cc6e47f9785e00d2f89d55f9541135a7fa91926e8f953add6609
 
 whois:        whois.nic.wtc
 
@@ -61817,7 +61814,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.wtc/
 
 created:      2014-04-17
-changed:      2022-07-21
+changed:      2023-09-19
 source:       IANA
 
 % IANA WHOIS server
@@ -65834,14 +65831,14 @@ fax-no:       +852 2319 2626
 e-mail:       info@hkirc.hk
 
 contact:      technical
-name:         Ben Lee
+name:         Jacky Lok
 organisation: Hong Kong Internet Registration Corporation Ltd.
 address:      Unit 501, Level 5, Core C, Cyberport 3
 address:      100 Cyberport Road
 address:      Hong Kong
 phone:        +852 2319 2303
 fax-no:       +852 2319 2626
-e-mail:       hk.tech@hkirc.hk
+e-mail:       jacky.lok@hkirc.hk
 
 nserver:      C.HKIRC.NET.HK 2001:dca:4000:0:0:0:cb77:2da 203.119.2.218
 nserver:      D.HKIRC.NET.HK 2001:dca:2000:0:0:0:cb77:57da 203.119.87.218
@@ -65859,7 +65856,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.hkirc.hk
 
 created:      2010-07-12
-changed:      2023-03-07
+changed:      2023-09-20
 source:       IANA
 
 % IANA WHOIS server
@@ -66392,7 +66389,7 @@ fax-no:       +98 21 22295700
 e-mail:       tech-team@irnic.ir
 
 nserver:      A.NIC.IR 193.189.123.2
-nserver:      B.NIC.IR 193.189.122.83
+nserver:      B.NIC.IR 193.189.122.83 2001:14e8:c:0:193:189:122:83
 
 whois:        whois.nic.ir
 

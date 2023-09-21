@@ -322,14 +322,14 @@ fax-no:       +852 2319 2626
 e-mail:       info@hkirc.hk
 
 contact:      technical
-name:         Ben Lee
+name:         Jacky Lok
 organisation: Hong Kong Internet Registration Corporation Ltd.
 address:      Unit 501, Level 5, Core C, Cyberport 3
 address:      100 Cyberport Road
 address:      Hong Kong
 phone:        +852 2319 2303
 fax-no:       +852 2319 2626
-e-mail:       hk.tech@hkirc.hk
+e-mail:       jacky.lok@hkirc.hk
 
 nserver:      C.HKIRC.NET.HK 2001:dca:4000:0:0:0:cb77:2da 203.119.2.218
 nserver:      D.HKIRC.NET.HK 2001:dca:2000:0:0:0:cb77:57da 203.119.87.218
@@ -347,7 +347,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.hkirc.hk
 
 created:      1990-01-03
-changed:      2022-12-05
+changed:      2023-09-20
 source:       IANA
 
 % IANA WHOIS server
@@ -767,14 +767,14 @@ fax-no:       +852 2319 2626
 e-mail:       cherry.lam@hkirc.hk
 
 contact:      technical
-name:         Ben Lee
+name:         Jacky Lok
 organisation: Hong Kong Internet Registration Corporation Limited
 address:      Unit 501, Level 5, Core C, Cyberport 3
 address:      100 Cyberport Road
 address:      Hong Kong
 phone:        +852 2319 2303
 fax-no:       +852 2319 2626
-e-mail:       hk.tech@hkirc.hk
+e-mail:       jacky.lok@hkirc.hk
 
 nserver:      NS1.NIC.MTR 2001:dca:4000:0:0:0:cb77:2a4 203.119.2.164
 nserver:      NS2.NIC.MTR 2001:dca:2000:0:0:0:cb77:57a4 203.119.87.164
@@ -788,7 +788,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.mtr
 
 created:      2015-07-31
-changed:      2023-02-15
+changed:      2023-09-19
 source:       IANA
 
 % IANA WHOIS server
@@ -3489,14 +3489,14 @@ fax-no:       +852 2319 2626
 e-mail:       info@hkirc.hk
 
 contact:      technical
-name:         Ben Lee
+name:         Jacky Lok
 organisation: Hong Kong Internet Registration Corporation Ltd.
 address:      Unit 501, Level 5, Core C, Cyberport 3
 address:      100 Cyberport Road
 address:      Hong Kong
 phone:        +852 2319 2303
 fax-no:       +852 2319 2626
-e-mail:       hk.tech@hkirc.hk
+e-mail:       jacky.lok@hkirc.hk
 
 nserver:      C.HKIRC.NET.HK 2001:dca:4000:0:0:0:cb77:2da 203.119.2.218
 nserver:      D.HKIRC.NET.HK 2001:dca:2000:0:0:0:cb77:57da 203.119.87.218
@@ -3514,6 +3514,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.hkirc.hk
 
 created:      2010-07-12
-changed:      2023-03-07
+changed:      2023-09-20
 source:       IANA
 

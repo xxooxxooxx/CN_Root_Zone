@@ -4433,6 +4433,7 @@ nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
 nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
 nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
 ds-rdata:     25698 8 2 2c2d532d450f86fbc9238816088ed98ae6c8a5f665706dd634ba4e63a8d8837f
+ds-rdata:     40166 8 2 9f412d488bc68de48010ed08d94cc6830cd604296f3bdf244ac9d7dfa74ae458
 
 whois:        
 
@@ -4440,7 +4441,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.microsoft.com
 
 created:      2015-04-30
-changed:      2020-10-01
+changed:      2023-09-27
 source:       IANA
 
 % IANA WHOIS server
@@ -6461,6 +6462,7 @@ nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
 nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
 nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
 ds-rdata:     54939 8 2 aa18f258897855e86489c4a522ea45da55918bcd1c6dd418322081331df89e85
+ds-rdata:     35654 8 2 5d6d052d2f2cbb18e7f16aa68b42e37b7ed0fc58bd491e8e97c8aeafb3279c81
 
 whois:        
 
@@ -6468,7 +6470,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.microsoft.com
 
 created:      2015-04-30
-changed:      2020-10-01
+changed:      2023-09-27
 source:       IANA
 
 % IANA WHOIS server
@@ -11505,12 +11507,10 @@ phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
 e-mail:       tldtech@identity.digital
 
-nserver:      NS1.DNS.NIC.CITADEL 156.154.144.45 2610:a1:1071:0:0:0:0:2d
-nserver:      NS2.DNS.NIC.CITADEL 156.154.145.45 2610:a1:1072:0:0:0:0:2d
-nserver:      NS3.DNS.NIC.CITADEL 156.154.159.45 2610:a1:1073:0:0:0:0:2d
-nserver:      NS4.DNS.NIC.CITADEL 156.154.156.45 2610:a1:1074:0:0:0:0:2d
-nserver:      NS5.DNS.NIC.CITADEL 156.154.157.45 2610:a1:1075:0:0:0:0:2d
-nserver:      NS6.DNS.NIC.CITADEL 156.154.158.45 2610:a1:1076:0:0:0:0:2d
+nserver:      A0.NIC.CITADEL 2a01:8840:6e:0:0:0:0:33 65.22.112.33
+nserver:      A2.NIC.CITADEL 2a01:8840:71:0:0:0:0:33 65.22.115.33
+nserver:      B0.NIC.CITADEL 2a01:8840:6f:0:0:0:0:33 65.22.113.33
+nserver:      C0.NIC.CITADEL 2a01:8840:70:0:0:0:0:33 65.22.114.33
 ds-rdata:     62107 8 2 cc98bfd74d46f2274b9a966f9d522161c6d2ea0d8621df3a6ac4f1d3b229dc7c
 ds-rdata:     43942 8 2 6a252ba4b61331a3d35b5d06ae744643af83053295c42c0c2e65fcebba07834f
 
@@ -11520,7 +11520,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.citadel.com
 
 created:      2016-06-30
-changed:      2023-08-30
+changed:      2023-09-25
 source:       IANA
 
 % IANA WHOIS server
@@ -12325,10 +12325,10 @@ fax-no:       +8610-58812666
 e-mail:       tech@cnnic.cn
 
 nserver:      A.DNS.CN 2001:dc7:0:0:0:0:0:1 203.119.25.1
-nserver:      B.DNS.CN 203.119.26.1
-nserver:      C.DNS.CN 203.119.27.1
+nserver:      B.DNS.CN 2001:dc7:1:0:0:0:0:1 203.119.26.1
+nserver:      C.DNS.CN 2001:dc7:2:0:0:0:0:1 203.119.27.1
 nserver:      D.DNS.CN 2001:dc7:1000:0:0:0:0:1 203.119.28.1
-nserver:      E.DNS.CN 203.119.29.1
+nserver:      E.DNS.CN 2001:dc7:3:0:0:0:0:1 203.119.29.1
 nserver:      NS.CERNET.NET 202.112.0.44
 ds-rdata:     57724 8 2 5d0423633eb24a499be78aa22d1c0c9ba36218ff49fd95a4cdf1a4ad97c67044
 
@@ -12338,7 +12338,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.cnnic.cn/
 
 created:      1990-11-28
-changed:      2023-06-17
+changed:      2023-09-21
 source:       IANA
 
 % IANA WHOIS server
@@ -17386,7 +17386,6 @@ e-mail:       support@fury.ca
 
 nserver:      A.NS.NIC.ECO 185.159.197.4 2620:10a:80aa:0:0:0:0:4
 nserver:      B.NS.NIC.ECO 185.159.198.4 2620:10a:80ab:0:0:0:0:4
-ds-rdata:     38446 8 2 a2500ae83c687fd270d0660a27527c3c96c6a136a86d9f2bdc714e9280bb5e32
 ds-rdata:     34597 8 2 bce820d516cfe81df04c38fbcb7cf80c2eccc473b57a295948fa50ac1aff9800
 
 whois:        whois.nic.eco
@@ -17395,7 +17394,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.bigroom.eco
 
 created:      2016-08-18
-changed:      2023-09-20
+changed:      2023-09-25
 source:       IANA
 
 % IANA WHOIS server
@@ -25716,14 +25715,13 @@ address:      Helsinki 00099
 address:      Finland
 
 contact:      administrative
-name:         Project Manager
-organisation: City of Helsinki
-address:      P.O. Box 1 (Executive Office, Pohjoisesplanadi 11-13)
-address:      Helsinki 00099
+name:         Päivi Jalava, Product Owner
+organisation: Digitalization Unit, City of Helsinki
+address:      Konepajankatu 8
+address:      Helsinki 00580
 address:      Finland
-phone:        +358 9 310 1641
-fax-no:       +358 9 655 783
-e-mail:       kalle.mikkolainen@hel.fi
+phone:        +358 9 3103 8427
+e-mail:       paivi.jalava@hel.fi
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
@@ -25748,7 +25746,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.hel.fi
 
 created:      2015-12-10
-changed:      2021-06-18
+changed:      2023-09-25
 source:       IANA
 
 % IANA WHOIS server
@@ -26061,6 +26059,7 @@ e-mail:       jacky.lok@hkirc.hk
 
 nserver:      C.HKIRC.NET.HK 2001:dca:4000:0:0:0:cb77:2da 203.119.2.218
 nserver:      D.HKIRC.NET.HK 2001:dca:2000:0:0:0:cb77:57da 203.119.87.218
+nserver:      M.HKIRC.NET.HK 125.208.41.10 125.208.42.10 125.208.44.10 2001:dc7:ffc1:0:0:0:0:10
 nserver:      T.HKIRC.NET.HK 2001:dd8:12:0:0:0:0:53 202.12.31.53
 nserver:      U.HKIRC.NET.HK 210.201.138.58 2404:0:10a0:0:0:0:0:58
 nserver:      V.HKIRC.NET.HK 2001:500:14:6046:ad:0:0:1 204.61.216.46
@@ -26075,7 +26074,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.hkirc.hk
 
 created:      1990-01-03
-changed:      2023-09-20
+changed:      2023-09-21
 source:       IANA
 
 % IANA WHOIS server
@@ -26944,6 +26943,7 @@ nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
 nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
 nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
 ds-rdata:     12876 8 2 5d35f9e8561ce9835fbdbcd44fd9f80c93d5412827694bd7b17bc1477a8e70ab
+ds-rdata:     30586 8 2 c055d04ac9301bff85af9424f6d368d206d7e4786813a22fd3cceaa6928f50cc
 
 whois:        
 
@@ -26951,7 +26951,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.microsoft.com
 
 created:      2015-04-30
-changed:      2020-10-01
+changed:      2023-09-27
 source:       IANA
 
 % IANA WHOIS server
@@ -28983,8 +28983,6 @@ e-mail:       cto@irnic.ir
 nserver:      A.NIC.IR 193.189.123.2
 nserver:      B.NIC.IR 193.189.122.83 2001:14e8:c:0:193:189:122:83
 nserver:      C.NIC.IR 141.95.65.136 2001:41d0:700:5d88:0:0:0:0
-nserver:      IR.CCTLD.AUTHDNS.RIPE.NET 193.0.9.85 2001:67c:e0:0:0:0:0:85
-nserver:      NS5.UNIVIE.AC.AT 193.171.255.77 2001:628:453:4305:0:0:0:53
 
 whois:        whois.nic.ir
 
@@ -28992,7 +28990,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.ir
 
 created:      1994-04-06
-changed:      2023-09-20
+changed:      2023-09-22
 source:       IANA
 
 % IANA WHOIS server
@@ -31246,7 +31244,6 @@ e-mail:       support@fury.ca
 
 nserver:      A.NS.NIC.KIWI 185.159.197.1 2620:10a:80aa:0:0:0:0:1
 nserver:      B.NS.NIC.KIWI 185.159.198.1 2620:10a:80ab:0:0:0:0:1
-ds-rdata:     30184 8 2 72600ee2c5f82b9d0637cc4724b654d459051ca9b761380c126d926cb70a5002
 ds-rdata:     28462 8 2 a1c28ef63fe4b2ca5de823951a0a0edf27f73601eca4371da74b600190846f7d
 
 whois:        whois.nic.kiwi
@@ -31255,7 +31252,7 @@ status:       ACTIVE
 remarks:      Registration information: http://hello.kiwi
 
 created:      2013-11-25
-changed:      2023-09-20
+changed:      2023-09-26
 source:       IANA
 
 % IANA WHOIS server
@@ -36662,6 +36659,7 @@ nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
 nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
 nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
 ds-rdata:     35775 8 2 75b42b6862ac3b32fc471d044de968df0d3e9a2b6d4ead5addba4ed42fef185a
+ds-rdata:     55012 8 2 6124fc6575fd96e99e526b792f5637653c25dc4e1e2c034c7a23fe2e2da94acf
 
 whois:        
 
@@ -36669,7 +36667,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.microsoft.com
 
 created:      2015-04-30
-changed:      2020-10-01
+changed:      2023-09-27
 source:       IANA
 
 % IANA WHOIS server
@@ -36712,7 +36710,6 @@ nserver:      EUR1.NIPR.MIL 199.252.154.234 2608:4122:2:154:0:0:0:234
 nserver:      EUR2.NIPR.MIL 199.252.143.234 2608:4163:1:143:0:0:0:234
 nserver:      PAC1.NIPR.MIL 199.252.180.234 2608:c184:1:180:0:0:0:234
 nserver:      PAC2.NIPR.MIL 199.252.155.234 2608:c144:1:155:0:0:0:234
-ds-rdata:     62470 8 2 be1683ce6c223cacb29c51244ab9f7bc2b0ff6096feac8ced63368f9dc5060e7
 ds-rdata:     16801 8 2 49013e5d5ed406c25c5a3e7f67c756e34c925342a34bd64d7427536c366df99a
 
 whois:        
@@ -36721,7 +36718,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      1985-01-01
-changed:      2023-09-19
+changed:      2023-09-27
 source:       IANA
 
 % IANA WHOIS server
@@ -37087,7 +37084,6 @@ e-mail:       support@fury.ca
 
 nserver:      A.NS.NIC.MLS 185.159.197.8 2620:10a:80aa:0:0:0:0:8
 nserver:      B.NS.NIC.MLS 185.159.198.8 2620:10a:80ab:0:0:0:0:8
-ds-rdata:     32866 8 2 ea3c1c5994bb36364acb0a9b8c09cd84477d6707c9317259bcbc8149992a485c
 ds-rdata:     2629 8 2 1f831bf4f17ca7b3636eb20249abe2bc58fe071b0f6e8869ec904c8dd8a48cb8
 
 whois:        whois.nic.mls
@@ -37096,7 +37092,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2015-08-20
-changed:      2023-09-13
+changed:      2023-09-22
 source:       IANA
 
 % IANA WHOIS server
@@ -37629,8 +37625,11 @@ e-mail:       registry.operator@monash.edu
 nserver:      A.NIC.MONASH 2001:dcd:1:0:0:0:0:9 37.209.192.9
 nserver:      B.NIC.MONASH 2001:dcd:2:0:0:0:0:9 37.209.194.9
 nserver:      C.NIC.MONASH 2001:dcd:3:0:0:0:0:9 37.209.196.9
-nserver:      D.NIC.MONASH 2001:dcd:4:0:0:0:0:9 37.209.198.9
+nserver:      X.NIC.MONASH 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.MONASH 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.MONASH 156.154.174.82 2610:a1:1076:0:0:0:1:82
 ds-rdata:     59965 8 2 d344b67791659d1f21f6181494a347040694c757c57a8d76cbccfd00caa1348f
+ds-rdata:     58609 8 2 c0713dbc0879e96bacce82a9e23928cf407dd5336121ca0931cc93d193050b42
 
 whois:        whois.nic.monash
 
@@ -37638,7 +37637,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.monash
 
 created:      2014-01-09
-changed:      2022-07-21
+changed:      2023-09-27
 source:       IANA
 
 % IANA WHOIS server
@@ -43976,7 +43975,6 @@ e-mail:       pl-tech@dns.pl
 nserver:      A-DNS.PL 192.102.225.53 2001:7f9:0:0:0:0:0:53
 nserver:      B-DNS.PL 192.195.72.53 2001:7f9:c:0:0:0:0:53
 nserver:      D-DNS.PL 185.159.197.48 2620:10a:80aa:0:0:0:0:48
-nserver:      E-DNS.PL 46.28.245.82
 nserver:      F-DNS.PL 194.0.25.29 2001:678:20:0:0:0:0:29
 nserver:      H-DNS.PL 185.159.198.48 2620:10a:80ab:0:0:0:0:48
 nserver:      J-DNS.PL 2001:500:14:7004:ad:0:0:1 204.61.217.4
@@ -43988,7 +43986,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dns.pl/english/
 
 created:      1990-07-30
-changed:      2023-08-17
+changed:      2023-09-27
 source:       IANA
 
 % IANA WHOIS server
@@ -44295,28 +44293,26 @@ address:      Auckland 1010
 address:      New Zealand
 
 contact:      administrative
-name:         William Haigh
-organisation: Pitcairn Island Administration
-address:      Floor 17
-address:      151 Queen Street
-address:      Auckland Central
-address:      Auckland 1010
-address:      New Zealand
-phone:        +64 9 3660186
-fax-no:       +64 9 3660187
-e-mail:       admin@pitcairn.gov.pn
+name:         TLD Registry Services Management
+organisation: Nominet
+address:      Minerva House
+address:      Edmund Halley Road
+address:      Oxford Science Park
+address:      Oxford OX4 4DQ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 1865 332211
+e-mail:       registrymanagement@nominet.uk
 
 contact:      technical
-name:         William Haigh
-organisation: Pitcairn Island Administration
-address:      Floor 17
-address:      151 Queen Street
-address:      Auckland Central
-address:      Auckland 1010
-address:      New Zealand
-phone:        +64 9 3660186
-fax-no:       +64 9 3660187
-e-mail:       registrations@pitcairn.gov.pn
+name:         TLD Registry Services Technical
+organisation: Nominet
+address:      Minerva House
+address:      Edmund Halley Road
+address:      Oxford Science Park
+address:      Oxford OX4 4DQ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 1865 332211
+e-mail:       registrytechnical@nominet.uk
 
 nserver:      DNS1.NOMINETDNS.UK 213.248.219.254 2a01:618:403:0:0:0:0:254
 nserver:      DNS2.NOMINETDNS.UK 103.49.83.254 2401:fd80:403:0:0:0:0:254
@@ -44333,7 +44329,7 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.pn
 
 created:      1997-07-10
-changed:      2023-09-20
+changed:      2023-09-25
 source:       IANA
 
 % IANA WHOIS server
@@ -55175,7 +55171,7 @@ address:      London SW1Y 4NW
 address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 20 7467 6450
 fax-no:       +44 20 7467 6451
-e-mail:       tld-admin-contact@registry.nic.tel
+e-mail:       asagar@telnic.org
 
 contact:      technical
 name:         TLD Technical Contact
@@ -55185,7 +55181,7 @@ address:      London SW1Y 4NW
 address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 20 7467 6450
 fax-no:       +44 20 7467 6451
-e-mail:       tld-tech-contact@registry.nic.tel
+e-mail:       asagar@telnic.org
 
 nserver:      NS1.DNS.NIC.TEL 156.154.169.10 2610:a1:1071:0:0:0:1:a
 nserver:      NS2.DNS.NIC.TEL 156.154.170.10 2610:a1:1072:0:0:0:1:a
@@ -55196,6 +55192,7 @@ nserver:      NS6.DNS.NIC.TEL 156.154.174.10 2610:a1:1076:0:0:0:1:a
 nserver:      NS7.DNS.NIC.TEL 194.146.106.38 2001:67c:1010:9:0:0:0:53
 nserver:      NS8.DNS.NIC.TEL 192.36.144.116 2a01:3f0:0:300:0:0:0:53
 ds-rdata:     46924 8 2 3f708af9fc2d9fa7e09ac99fa19bd6d1b4b0f3f5d95dd06ba2dc95b0aa2e53f8
+ds-rdata:     48802 8 2 4a00b3f46ad973780b87f241360da0b79481b257410bb68a923fe887087be139
 
 whois:        whois.nic.tel
 
@@ -55203,7 +55200,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.tel
 
 created:      2007-03-01
-changed:      2022-07-21
+changed:      2023-09-25
 source:       IANA
 
 % IANA WHOIS server
@@ -56986,7 +56983,6 @@ phone:        +90 (312) 586 53 11
 fax-no:       +90 (312) 294 71 45
 e-mail:       gokhan.usta@btk.gov.tr
 
-nserver:      NS31.NIC.TR 31.210.155.2
 nserver:      NS34.NIC.TR 31.145.139.99
 nserver:      NS35.NIC.TR 31.145.139.119
 nserver:      NS41.NIC.TR 185.7.0.2
@@ -57002,7 +56998,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.trabis.gov.tr
 
 created:      1990-09-17
-changed:      2023-06-06
+changed:      2023-09-26
 source:       IANA
 
 % IANA WHOIS server
@@ -61265,6 +61261,7 @@ nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
 nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
 nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
 ds-rdata:     44526 8 2 f6dda2f2e3e99e70c47f0393f0154d1641435abdf20e5e5c0a8416c0da34a922
+ds-rdata:     31600 8 2 8057adbdc309cac9cdb987f477b7217b15c88d0a7f84e3b9ba5af412d24b60c9
 
 whois:        
 
@@ -61272,7 +61269,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.microsoft.com
 
 created:      2015-04-30
-changed:      2020-10-01
+changed:      2023-09-27
 source:       IANA
 
 % IANA WHOIS server
@@ -61902,6 +61899,7 @@ nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
 nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
 nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
 ds-rdata:     48291 8 2 1189083bb85010770d8937e4bc2a2af6fc2c81f2eef8a53a7a2457709a53c362
+ds-rdata:     43570 8 2 2c478092b86d62235c8a27bf365edda5c86167e1e9244a50526b735038e5dc26
 
 whois:        
 
@@ -61909,7 +61907,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.microsoft.com
 
 created:      2015-04-30
-changed:      2020-10-01
+changed:      2023-09-27
 source:       IANA
 
 % IANA WHOIS server
@@ -64845,9 +64843,9 @@ e-mail:       tech@cnnic.cn
 
 nserver:      H.DNS.CN 125.208.32.1 2001:dc7:fffe:0:0:0:0:1
 nserver:      I.DNS.CN 125.208.33.1 2001:dc7:ffff:0:0:0:0:1
-nserver:      J.DNS.CN 125.208.34.1
-nserver:      K.DNS.CN 125.208.35.1
-nserver:      L.DNS.CN 125.208.36.1
+nserver:      J.DNS.CN 125.208.34.1 2001:dc7:fffd:0:0:0:0:1
+nserver:      K.DNS.CN 125.208.35.1 2001:dc7:fffc:0:0:0:0:1
+nserver:      L.DNS.CN 125.208.36.1 2001:dc7:fffb:0:0:0:0:1
 ds-rdata:     28162 8 2 9e1e18c1aeb006ad617593ec2d2971e33bb22048316d1bb9f67ddd5eb00708c3
 
 whois:        cwhois.cnnic.cn
@@ -64856,7 +64854,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.cnnic.cn
 
 created:      2010-07-09
-changed:      2023-06-17
+changed:      2023-09-25
 source:       IANA
 
 % IANA WHOIS server
@@ -64896,9 +64894,9 @@ e-mail:       tech@cnnic.cn
 
 nserver:      H.DNS.CN 125.208.32.1 2001:dc7:fffe:0:0:0:0:1
 nserver:      I.DNS.CN 125.208.33.1 2001:dc7:ffff:0:0:0:0:1
-nserver:      J.DNS.CN 125.208.34.1
-nserver:      K.DNS.CN 125.208.35.1
-nserver:      L.DNS.CN 125.208.36.1
+nserver:      J.DNS.CN 125.208.34.1 2001:dc7:fffd:0:0:0:0:1
+nserver:      K.DNS.CN 125.208.35.1 2001:dc7:fffc:0:0:0:0:1
+nserver:      L.DNS.CN 125.208.36.1 2001:dc7:fffb:0:0:0:0:1
 ds-rdata:     28162 8 2 30b55f108e07f9c2397f0d233324e02e667a137569ff91fc0311dcb73cea1571
 
 whois:        cwhois.cnnic.cn
@@ -65842,6 +65840,7 @@ e-mail:       jacky.lok@hkirc.hk
 
 nserver:      C.HKIRC.NET.HK 2001:dca:4000:0:0:0:cb77:2da 203.119.2.218
 nserver:      D.HKIRC.NET.HK 2001:dca:2000:0:0:0:cb77:57da 203.119.87.218
+nserver:      M.HKIRC.NET.HK 125.208.41.10 125.208.42.10 125.208.44.10 2001:dc7:ffc1:0:0:0:0:10
 nserver:      T.HKIRC.NET.HK 2001:dd8:12:0:0:0:0:53 202.12.31.53
 nserver:      U.HKIRC.NET.HK 210.201.138.58 2404:0:10a0:0:0:0:0:58
 nserver:      V.HKIRC.NET.HK 2001:500:14:6046:ad:0:0:1 204.61.216.46
@@ -65856,7 +65855,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.hkirc.hk
 
 created:      2010-07-12
-changed:      2023-09-20
+changed:      2023-09-21
 source:       IANA
 
 % IANA WHOIS server

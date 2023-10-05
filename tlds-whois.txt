@@ -6077,14 +6077,13 @@ nserver:      DNS-TLD.IRD.FR 13.39.116.127
 nserver:      NS-BF.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      PCH.NS.REGISTRE.BF 2001:500:14:6141:ad:0:0:1 204.61.216.141
 
-whois:        
+whois:        whois.registre.bf
 
 status:       ACTIVE
-remarks:      Registration information:
-remarks:      http://www.arcep.bf/noms-de-domaine
+remarks:      Registration information: https://www.registre.bf
 
 created:      1993-03-29
-changed:      2023-09-04
+changed:      2023-10-03
 source:       IANA
 
 % IANA WHOIS server
@@ -10184,14 +10183,13 @@ address:      Virginia Beach VA 23463
 address:      United States of America (the)
 
 contact:      administrative
-name:         John Doussard
+name:         Michael Stonecypher
 organisation: The Christian Broadcasting Network, Inc.
 address:      977 Centerville Turnpike CSB314
 address:      Virginia Beach VA 23463
 address:      United States of America (the)
-phone:        +1 757-226-3687
-fax-no:       +1 757-226-6230
-e-mail:       jack.doussard@cbn.org
+phone:        +1 757-226-3555
+e-mail:       webdomainadmin@cbn.org
 
 contact:      technical
 name:         IANA Contact
@@ -10218,7 +10216,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.cbn.com
 
 created:      2014-11-20
-changed:      2023-08-15
+changed:      2023-10-02
 source:       IANA
 
 % IANA WHOIS server
@@ -10363,7 +10361,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.cc/
 
 created:      1997-10-13
-changed:      2021-03-05
+changed:      2023-10-04
 source:       IANA
 
 % IANA WHOIS server
@@ -14362,7 +14360,7 @@ status:       ACTIVE
 remarks:      Registration information: https://cxda.org.cx
 
 created:      1997-04-24
-changed:      2023-03-21
+changed:      2023-10-04
 source:       IANA
 
 % IANA WHOIS server
@@ -28983,6 +28981,7 @@ e-mail:       cto@irnic.ir
 nserver:      A.NIC.IR 193.189.123.2
 nserver:      B.NIC.IR 193.189.122.83 2001:14e8:c:0:193:189:122:83
 nserver:      C.NIC.IR 141.95.65.136 2001:41d0:700:5d88:0:0:0:0
+nserver:      D.NIC.IR 194.225.70.83 2001:14e8:c:0:194:225:70:83
 
 whois:        whois.nic.ir
 
@@ -28990,7 +28989,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.ir
 
 created:      1994-04-06
-changed:      2023-09-22
+changed:      2023-10-02
 source:       IANA
 
 % IANA WHOIS server
@@ -30341,7 +30340,7 @@ nserver:      TLD2.NIC.JPRS 117.104.133.16 2001:218:3001:0:0:0:0:1
 nserver:      TLD3.NIC.JPRS 2a01:8840:1ba:0:0:0:0:1 65.22.40.1
 nserver:      TLD4.NIC.JPRS 103.198.210.1 2403:2880:0:0:0:0:0:1
 nserver:      TLD5.NIC.JPRS 2a01:8840:1ba:0:0:0:0:129 65.22.40.129
-ds-rdata:     37444 8 2 77aa8b5ceda1af87b2b11b4549263b915d1a8b571838047eba7cbb9dca51f4ac
+ds-rdata:     58219 8 2 978a76db730f3ea33f8e68179624067461e501e870e2f7168c4c15eb3e1cedb7
 
 whois:        
 
@@ -30349,7 +30348,7 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.jprs/
 
 created:      2014-12-18
-changed:      2023-01-18
+changed:      2023-09-30
 source:       IANA
 
 % IANA WHOIS server
@@ -40486,13 +40485,13 @@ nserver:      B0.NIC.NOKIA 2a01:8840:93:0:0:0:0:17 65.22.149.17
 nserver:      C0.NIC.NOKIA 2a01:8840:94:0:0:0:0:17 65.22.150.17
 ds-rdata:     38794 8 2 5d3c0f0b92084eb734e6e06364681b3bb051087a15ebe6f468b2974c5f197ab1
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.nokia
 
 status:       ACTIVE
 remarks:      Registration information: http://nic.nokia/
 
 created:      2015-04-23
-changed:      2020-11-09
+changed:      2023-10-02
 source:       IANA
 
 % IANA WHOIS server
@@ -63013,7 +63012,7 @@ source:       IANA
 domain:       公司
 domain-ace:   XN--55QX5D
 
-organisation: China Internet Network Information Center(CNNIC)
+organisation: China Internet Network Information Center (CNNIC)
 address:      Floor 1, Building 1, Software Park,
 address:      Chinese Academy of Sciences, 4 South 4th Street,
 address:      Zhongguancun
@@ -63022,7 +63021,7 @@ address:      China
 
 contact:      administrative
 name:         Yu Zeng
-organisation: China Internet Network Information Center(CNNIC)
+organisation: China Internet Network Information Center (CNNIC)
 address:      Floor 1, Building 1, Software Park,
 address:      Chinese Academy of Sciences, 4 South 4th Street,
 address:      Zhongguancun
@@ -63034,7 +63033,7 @@ e-mail:       ng@cnnic.cn
 
 contact:      technical
 name:         Anlei Hu
-organisation: China Internet Network Information Center(CNNIC)
+organisation: China Internet Network Information Center (CNNIC)
 address:      Floor 1, Building 1, Software Park,
 address:      Chinese Academy of Sciences, 4 South 4th Street,
 address:      Zhongguancun
@@ -63057,7 +63056,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.cnnic.cn
 
 created:      2014-01-09
-changed:      2023-03-21
+changed:      2023-10-03
 source:       IANA
 
 % IANA WHOIS server
@@ -65663,7 +65662,7 @@ source:       IANA
 domain:       网络
 domain-ace:   XN--IO0A7I
 
-organisation: China Internet Network Information Center(CNNIC)
+organisation: China Internet Network Information Center (CNNIC)
 address:      Floor 1, Building 1, Software Park,
 address:      Chinese Academy of Sciences, 4 South 4th Street,
 address:      Zhongguancun
@@ -65672,7 +65671,7 @@ address:      China
 
 contact:      administrative
 name:         Yu Zeng
-organisation: China Internet Network Information Center(CNNIC)
+organisation: China Internet Network Information Center (CNNIC)
 address:      Floor 1, Building 1, Software Park,
 address:      Chinese Academy of Sciences, 4 South 4th Street,
 address:      Zhongguancun
@@ -65684,7 +65683,7 @@ e-mail:       ng@cnnic.cn
 
 contact:      technical
 name:         Anlei Hu
-organisation: China Internet Network Information Center(CNNIC)
+organisation: China Internet Network Information Center (CNNIC)
 address:      Floor 1, Building 1, Software Park,
 address:      Chinese Academy of Sciences, 4 South 4th Street,
 address:      Zhongguancun
@@ -65707,7 +65706,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.cnnic.cn
 
 created:      2014-01-09
-changed:      2023-03-21
+changed:      2023-10-03
 source:       IANA
 
 % IANA WHOIS server

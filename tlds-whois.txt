@@ -1680,14 +1680,14 @@ fax-no:       + 355 4 2259106
 e-mail:       domain@akep.al
 
 contact:      technical
-name:         Adriatik Allamani
+name:         Arli Minga
 organisation: Electronic and Postal Communications Authority - AKEP
 address:      Rruga Myslym Shyri, Nr 42
 address:      Tirana 1001
 address:      Albania
 phone:        +355 4 2250926
 fax-no:       +355 4 2259106
-e-mail:       nic@akep.al
+e-mail:       arli.minga@akep.al
 
 nserver:      MUNNARI.OZ.AU 2001:3c8:9007:1:0:0:0:21 2001:3c8:9009:181:0:0:0:2 202.29.151.3
 nserver:      NS1.NIC.AL 194.1.149.230
@@ -1698,10 +1698,10 @@ whois:
 
 status:       ACTIVE
 remarks:      Registration information:
-remarks:      http://www.akep.al/sq/regjistrim-domain
+remarks:      https://akep.al/e-aplikime-domain/
 
 created:      1992-04-21
-changed:      2017-08-05
+changed:      2023-10-12
 source:       IANA
 
 % IANA WHOIS server
@@ -4426,12 +4426,14 @@ phone:        +1-703-925-6999
 fax-no:       +1-703-948-3978
 e-mail:       info@verisign-grs.com
 
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
 nserver:      DNS1.NOMINETDNS.UK 213.248.219.254 2a01:618:403:0:0:0:0:254
 nserver:      DNS2.NOMINETDNS.UK 103.49.83.254 2401:fd80:403:0:0:0:0:254
 nserver:      DNS3.NOMINETDNS.UK 213.248.223.254 2a01:618:407:0:0:0:0:254
 nserver:      DNS4.NOMINETDNS.UK 2401:fd80:407:0:0:0:0:254 43.230.51.254
+nserver:      DNSA.NOMINETDNS.UK 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.NOMINETDNS.UK 156.154.101.3 2001:502:2eda:0:0:0:0:3
+nserver:      DNSC.NOMINETDNS.UK 156.154.102.3 2610:a1:1009:0:0:0:0:3
+nserver:      DNSD.NOMINETDNS.UK 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     25698 8 2 2c2d532d450f86fbc9238816088ed98ae6c8a5f665706dd634ba4e63a8d8837f
 ds-rdata:     40166 8 2 9f412d488bc68de48010ed08d94cc6830cd604296f3bdf244ac9d7dfa74ae458
 
@@ -4441,7 +4443,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.microsoft.com
 
 created:      2015-04-30
-changed:      2023-10-05
+changed:      2023-10-12
 source:       IANA
 
 % IANA WHOIS server
@@ -6457,12 +6459,14 @@ phone:        +1-703-925-6999
 fax-no:       +1-703-948-3978
 e-mail:       info@verisign-grs.com
 
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
 nserver:      DNS1.NOMINETDNS.UK 213.248.219.254 2a01:618:403:0:0:0:0:254
 nserver:      DNS2.NOMINETDNS.UK 103.49.83.254 2401:fd80:403:0:0:0:0:254
 nserver:      DNS3.NOMINETDNS.UK 213.248.223.254 2a01:618:407:0:0:0:0:254
 nserver:      DNS4.NOMINETDNS.UK 2401:fd80:407:0:0:0:0:254 43.230.51.254
+nserver:      DNSA.NOMINETDNS.UK 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.NOMINETDNS.UK 156.154.101.3 2001:502:2eda:0:0:0:0:3
+nserver:      DNSC.NOMINETDNS.UK 156.154.102.3 2610:a1:1009:0:0:0:0:3
+nserver:      DNSD.NOMINETDNS.UK 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     54939 8 2 aa18f258897855e86489c4a522ea45da55918bcd1c6dd418322081331df89e85
 ds-rdata:     35654 8 2 5d6d052d2f2cbb18e7f16aa68b42e37b7ed0fc58bd491e8e97c8aeafb3279c81
 
@@ -6472,7 +6476,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.microsoft.com
 
 created:      2015-04-30
-changed:      2023-10-05
+changed:      2023-10-12
 source:       IANA
 
 % IANA WHOIS server
@@ -8687,25 +8691,25 @@ source:       IANA
 domain:       BY
 
 organisation: Belarusian Cloud Technologies LLC
-address:      K. Marks Str. 29
-address:      Minsk 220030
+address:      C. Zetkin str. 24, office 602
+address:      Minsk 220004
 address:      Belarus
 
 contact:      administrative
-name:         Chief Inspector
+name:         Head of Sector
 organisation: The Operational and Analytical Center under the Aegis of the President of the Republic of Belarus
 address:      49 Kirova Str.
 address:      Minsk 220030
 address:      Belarus
-phone:        +375 17 3092465
+phone:        +375 17 3092473
 fax-no:       +375 17 3636824
 e-mail:       admin-c@oac.gov.by
 
 contact:      technical
 name:         General Director
 organisation: Belarusian Cloud Technologies LLC
-address:      K. Marks Str. 29
-address:      Minsk 220030
+address:      C. Zetkin Str. 24, office 602
+address:      Minsk 220004
 address:      Belarus
 phone:        +375 17 287 11 34
 fax-no:       +375 17 287 11 01
@@ -8724,7 +8728,7 @@ status:       ACTIVE
 remarks:      Registration information: https://cctld.by
 
 created:      1994-05-10
-changed:      2023-01-04
+changed:      2023-10-18
 source:       IANA
 
 % IANA WHOIS server
@@ -11512,16 +11516,15 @@ nserver:      A0.NIC.CITADEL 2a01:8840:6e:0:0:0:0:33 65.22.112.33
 nserver:      A2.NIC.CITADEL 2a01:8840:71:0:0:0:0:33 65.22.115.33
 nserver:      B0.NIC.CITADEL 2a01:8840:6f:0:0:0:0:33 65.22.113.33
 nserver:      C0.NIC.CITADEL 2a01:8840:70:0:0:0:0:33 65.22.114.33
-ds-rdata:     62107 8 2 cc98bfd74d46f2274b9a966f9d522161c6d2ea0d8621df3a6ac4f1d3b229dc7c
 ds-rdata:     43942 8 2 6a252ba4b61331a3d35b5d06ae744643af83053295c42c0c2e65fcebba07834f
 
-whois:        
+whois:        whois.nic.citadel
 
 status:       ACTIVE
 remarks:      Registration information: http://www.citadel.com
 
 created:      2016-06-30
-changed:      2023-09-25
+changed:      2023-10-17
 source:       IANA
 
 % IANA WHOIS server
@@ -11681,44 +11684,13 @@ source:       IANA
 
 domain:       CITYEATS
 
-organisation: Lifestyle Domain Holdings, Inc.
-address:      9721 Sherill Blvd.
-address:      Knoxville TN 37932
-address:      United States of America (the)
+whois:        
 
-contact:      administrative
-name:         Jennifer Wolfe
-organisation: Wolfe Domain
-address:      1196 Fording Island Road
-address:      Bluffton SC 29910
-address:      United States of America (the)
-phone:        +1513-238-4348
-fax-no:       +1513-238-4348
-e-mail:       jwolfe@dotbrand360.agency
-
-contact:      technical
-name:         Bonnie Bryant
-organisation: VeriSign, Inc.
-address:      12061 Bluemont Way
-address:      Reston VA 20190
-address:      United States of America (the)
-phone:        703.925.6999
-fax-no:       703.948.3978
-e-mail:       info@verisign-grs.com
-
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
-ds-rdata:     42366 8 2 4098358620161d20e0da9a41456a1cb95e24474b7b0e5947bb070f060a7fe88e
-
-whois:        whois.nic.cityeats
-
-status:       ACTIVE
+status:       FORMER
 remarks:      Registration information: 
 
 created:      2015-09-24
-changed:      2023-06-02
+changed:      2023-10-18
 source:       IANA
 
 % IANA WHOIS server
@@ -15661,9 +15633,6 @@ nserver:      A.NIC.DESI 194.169.218.81 2001:67c:13cc:0:0:0:1:81
 nserver:      B.NIC.DESI 185.24.64.81 2a04:2b00:13cc:0:0:0:1:81
 nserver:      C.NIC.DESI 212.18.248.81 2a04:2b00:13ee:0:0:0:0:81
 nserver:      D.NIC.DESI 212.18.249.81 2a04:2b00:13ff:0:0:0:0:81
-ds-rdata:     39859 8 2 1382964834be4f7bf4830a27955ec8f6a1557ec20479ae946f6910a131e54ab9
-ds-rdata:     32296 8 2 948f1b60d22606e7488f84c0ad2e0546376aeedfd15b6ded198127add5d8928f
-ds-rdata:     11020 8 2 5017e17ac3f43d2dcca968723fddb1b641765a38f53afba0469e33c9ac75c582
 
 whois:        whois.nic.desi
 
@@ -15671,7 +15640,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dotdesi.com/
 
 created:      2014-03-06
-changed:      2021-10-12
+changed:      2023-10-18
 source:       IANA
 
 % IANA WHOIS server
@@ -17733,13 +17702,13 @@ nserver:      B0.NIC.EMERCK 2a01:8840:9b:0:0:0:0:1 65.22.157.1
 nserver:      C0.NIC.EMERCK 2a01:8840:9c:0:0:0:0:1 65.22.158.1
 ds-rdata:     58186 8 2 b19e38544f1c313575b683c8533acf792a0373c18f270ed0a1ebd2c3f77a291b
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.emerck
 
 status:       ACTIVE
 remarks:      Registration information: http://www.nic.emerck
 
 created:      2014-09-11
-changed:      2021-03-05
+changed:      2023-10-16
 source:       IANA
 
 % IANA WHOIS server
@@ -21372,18 +21341,17 @@ source:       IANA
 domain:       FROGANS
 
 organisation: OP3FT
-address:      6, square Mozart
+address:      27-29 rue Raffet
 address:      Paris 75016
 address:      France
 
 contact:      administrative
 name:         President of the Board of Directors
 organisation: OP3FT
-address:      6, square Mozart
+address:      27-29 rue Raffet
 address:      Paris 75016
 address:      France
-phone:        +33 153920040
-fax-no:       +33 153922846
+phone:        +33189166309
 e-mail:       amaury.grimbert@op3ft.org
 
 contact:      technical
@@ -21409,7 +21377,7 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.frogans/
 
 created:      2014-04-03
-changed:      2023-08-22
+changed:      2023-10-16
 source:       IANA
 
 % IANA WHOIS server
@@ -21418,44 +21386,13 @@ source:       IANA
 
 domain:       FRONTDOOR
 
-organisation: Lifestyle Domain Holdings, Inc.
-address:      9721 Sherill Blvd.
-address:      Knoxville TN 37932
-address:      United States of America (the)
+whois:        
 
-contact:      administrative
-name:         Jennifer Wolfe
-organisation: Wolfe Domain
-address:      1196 Fording Island Road
-address:      Bluffton SC 29910
-address:      United States of America (the)
-phone:        +1.513.238-4348
-fax-no:       +1.513.238-4348
-e-mail:       jwolfe@wolfedomain.com
-
-contact:      technical
-name:         Registry Customer Service
-organisation: Verisign, Inc.
-address:      12061 Bluemont Way
-address:      Reston VA 20190
-address:      United States of America (the)
-phone:        +1-703-925-6999
-fax-no:       +1-703-948-3978
-e-mail:       info@verisign-grs.com
-
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
-ds-rdata:     13068 8 2 8a99a7704133e3acbe5d9c4922f4a7bb4198af11d31ce37f218a5b14cf1f2397
-
-whois:        whois.nic.frontdoor
-
-status:       ACTIVE
+status:       FORMER
 remarks:      Registration information: 
 
 created:      2016-05-05
-changed:      2023-06-02
+changed:      2023-10-18
 source:       IANA
 
 % IANA WHOIS server
@@ -24206,9 +24143,13 @@ fax-no:       +1 540 301 0160
 e-mail:       registrar@dotgov.gov
 
 nserver:      A.GOV-SERVERS.NET 2001:500:4431:0:0:0:2:30 69.36.157.30
+nserver:      A.NS.GOV 199.33.230.1 2001:503:ff40:0:0:0:0:1
 nserver:      B.GOV-SERVERS.NET 209.112.123.30 2620:74:27:0:0:0:2:30
+nserver:      B.NS.GOV 199.33.231.1 2001:503:ff41:0:0:0:0:1
 nserver:      C.GOV-SERVERS.NET 2620:74:28:0:0:0:2:30 69.36.153.30
+nserver:      C.NS.GOV 199.33.232.1 2001:503:ff42:0:0:0:0:1
 nserver:      D.GOV-SERVERS.NET 2620:74:29:0:0:0:2:30 81.19.194.30
+nserver:      D.NS.GOV 199.33.233.1 2001:503:ff43:0:0:0:0:1
 ds-rdata:     7698 8 2 6bc949e638442ead0bdaf0935763c8d003760384ff15ebbd5ce86bb5559561f0
 ds-rdata:     64280 8 2 d66cdda12234c22c5e6fd1c894dbd682fe7967e111793485a281972bfb164377
 
@@ -24218,7 +24159,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dotgov.gov
 
 created:      1985-01-01
-changed:      2023-09-20
+changed:      2023-10-16
 source:       IANA
 
 % IANA WHOIS server
@@ -26944,12 +26885,14 @@ phone:        +1-703-925-6999
 fax-no:       +1-703-948-3978
 e-mail:       info@verisign-grs.com
 
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
 nserver:      DNS1.NOMINETDNS.UK 213.248.219.254 2a01:618:403:0:0:0:0:254
 nserver:      DNS2.NOMINETDNS.UK 103.49.83.254 2401:fd80:403:0:0:0:0:254
 nserver:      DNS3.NOMINETDNS.UK 213.248.223.254 2a01:618:407:0:0:0:0:254
 nserver:      DNS4.NOMINETDNS.UK 2401:fd80:407:0:0:0:0:254 43.230.51.254
+nserver:      DNSA.NOMINETDNS.UK 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.NOMINETDNS.UK 156.154.101.3 2001:502:2eda:0:0:0:0:3
+nserver:      DNSC.NOMINETDNS.UK 156.154.102.3 2610:a1:1009:0:0:0:0:3
+nserver:      DNSD.NOMINETDNS.UK 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     12876 8 2 5d35f9e8561ce9835fbdbcd44fd9f80c93d5412827694bd7b17bc1477a8e70ab
 ds-rdata:     30586 8 2 c055d04ac9301bff85af9424f6d368d206d7e4786813a22fd3cceaa6928f50cc
 
@@ -26959,7 +26902,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.microsoft.com
 
 created:      2015-04-30
-changed:      2023-10-05
+changed:      2023-10-12
 source:       IANA
 
 % IANA WHOIS server
@@ -28988,10 +28931,12 @@ phone:        +98 21 22828080
 fax-no:       +98 21 22295700
 e-mail:       cto@irnic.ir
 
-nserver:      A.NIC.IR 193.189.123.2
-nserver:      B.NIC.IR 193.189.122.83 2001:14e8:c:0:193:189:122:83
+nserver:      A.NIC.IR 193.189.123.2 2001:678:b0:0:193:189:123:2
+nserver:      B.NIC.IR 193.189.122.83 2001:678:b1:0:193:189:122:83
 nserver:      C.NIC.IR 141.95.65.136 2001:41d0:700:5d88:0:0:0:0
 nserver:      D.NIC.IR 194.225.70.83 2001:14e8:c:0:194:225:70:83
+ds-rdata:     47300 13 2 7ab287956a55abd60dc8697c2049738fd5eeab6f2070152b015d59929521dada
+ds-rdata:     47300 13 4 fe3a9bfd3aed31cbd1e2f6b45c88d81b5cca68cdc9d46080c1c4afbd491ae3a9f6dfbfc4320111144c375d648ae3cdf6
 
 whois:        whois.nic.ir
 
@@ -28999,7 +28944,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.ir
 
 created:      1994-04-06
-changed:      2023-10-02
+changed:      2023-10-17
 source:       IANA
 
 % IANA WHOIS server
@@ -36661,12 +36606,14 @@ phone:        +1-703-925-6999
 fax-no:       +1-703-948-3978
 e-mail:       info@verisign-grs.com
 
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
 nserver:      DNS1.NOMINETDNS.UK 213.248.219.254 2a01:618:403:0:0:0:0:254
 nserver:      DNS2.NOMINETDNS.UK 103.49.83.254 2401:fd80:403:0:0:0:0:254
 nserver:      DNS3.NOMINETDNS.UK 213.248.223.254 2a01:618:407:0:0:0:0:254
 nserver:      DNS4.NOMINETDNS.UK 2401:fd80:407:0:0:0:0:254 43.230.51.254
+nserver:      DNSA.NOMINETDNS.UK 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.NOMINETDNS.UK 156.154.101.3 2001:502:2eda:0:0:0:0:3
+nserver:      DNSC.NOMINETDNS.UK 156.154.102.3 2610:a1:1009:0:0:0:0:3
+nserver:      DNSD.NOMINETDNS.UK 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     35775 8 2 75b42b6862ac3b32fc471d044de968df0d3e9a2b6d4ead5addba4ed42fef185a
 ds-rdata:     55012 8 2 6124fc6575fd96e99e526b792f5637653c25dc4e1e2c034c7a23fe2e2da94acf
 
@@ -36676,7 +36623,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.microsoft.com
 
 created:      2015-04-30
-changed:      2023-10-05
+changed:      2023-10-12
 source:       IANA
 
 % IANA WHOIS server
@@ -54700,10 +54647,9 @@ e-mail:       trs-ops@tucows.com
 nserver:      A.NIC.TATTOO 2001:dcd:1:0:0:0:0:10 37.209.192.10
 nserver:      B.NIC.TATTOO 2001:dcd:2:0:0:0:0:10 37.209.194.10
 nserver:      C.NIC.TATTOO 2001:dcd:3:0:0:0:0:10 37.209.196.10
-nserver:      NS1.UNIREGISTRY.NET 2620:57:4000:1:0:0:0:1 64.96.1.1
-nserver:      NS2.UNIREGISTRY.INFO 64.96.2.1
-nserver:      NS3.UNIREGISTRY.NET 185.159.197.3 2620:10a:80aa:0:0:0:0:3
-nserver:      NS4.UNIREGISTRY.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
+nserver:      X.NIC.TATTOO 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.TATTOO 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.TATTOO 156.154.174.82 2610:a1:1076:0:0:0:1:82
 ds-rdata:     23225 13 2 bd1e542c994f3e0d03467d60d852ac6da47c825d16d64612006ac2afe1fe2da9
 ds-rdata:     20907 13 2 2eb5f4e97ebc340acc792395037d9bac16b3683099bc109abc2ea74e7d0d2555
 
@@ -54713,7 +54659,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.tattoo/
 
 created:      2013-11-08
-changed:      2023-10-11
+changed:      2023-10-17
 source:       IANA
 
 % IANA WHOIS server
@@ -61269,12 +61215,14 @@ phone:        +1-703-925-6999
 fax-no:       +1-703-948-3978
 e-mail:       info@verisign-grs.com
 
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
 nserver:      DNS1.NOMINETDNS.UK 213.248.219.254 2a01:618:403:0:0:0:0:254
 nserver:      DNS2.NOMINETDNS.UK 103.49.83.254 2401:fd80:403:0:0:0:0:254
 nserver:      DNS3.NOMINETDNS.UK 213.248.223.254 2a01:618:407:0:0:0:0:254
 nserver:      DNS4.NOMINETDNS.UK 2401:fd80:407:0:0:0:0:254 43.230.51.254
+nserver:      DNSA.NOMINETDNS.UK 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.NOMINETDNS.UK 156.154.101.3 2001:502:2eda:0:0:0:0:3
+nserver:      DNSC.NOMINETDNS.UK 156.154.102.3 2610:a1:1009:0:0:0:0:3
+nserver:      DNSD.NOMINETDNS.UK 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     44526 8 2 f6dda2f2e3e99e70c47f0393f0154d1641435abdf20e5e5c0a8416c0da34a922
 ds-rdata:     31600 8 2 8057adbdc309cac9cdb987f477b7217b15c88d0a7f84e3b9ba5af412d24b60c9
 
@@ -61284,7 +61232,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.microsoft.com
 
 created:      2015-04-30
-changed:      2023-10-05
+changed:      2023-10-12
 source:       IANA
 
 % IANA WHOIS server
@@ -61909,12 +61857,14 @@ phone:        +1-703-925-6999
 fax-no:       +1-703-948-3978
 e-mail:       info@verisign-grs.com
 
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
 nserver:      DNS1.NOMINETDNS.UK 213.248.219.254 2a01:618:403:0:0:0:0:254
 nserver:      DNS2.NOMINETDNS.UK 103.49.83.254 2401:fd80:403:0:0:0:0:254
 nserver:      DNS3.NOMINETDNS.UK 213.248.223.254 2a01:618:407:0:0:0:0:254
 nserver:      DNS4.NOMINETDNS.UK 2401:fd80:407:0:0:0:0:254 43.230.51.254
+nserver:      DNSA.NOMINETDNS.UK 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.NOMINETDNS.UK 156.154.101.3 2001:502:2eda:0:0:0:0:3
+nserver:      DNSC.NOMINETDNS.UK 156.154.102.3 2610:a1:1009:0:0:0:0:3
+nserver:      DNSD.NOMINETDNS.UK 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     48291 8 2 1189083bb85010770d8937e4bc2a2af6fc2c81f2eef8a53a7a2457709a53c362
 ds-rdata:     43570 8 2 2c478092b86d62235c8a27bf365edda5c86167e1e9244a50526b735038e5dc26
 
@@ -61924,7 +61874,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.microsoft.com
 
 created:      2015-04-30
-changed:      2023-10-05
+changed:      2023-10-12
 source:       IANA
 
 % IANA WHOIS server
@@ -63641,25 +63591,25 @@ domain:       бел
 domain-ace:   XN--90AIS
 
 organisation: Belarusian Cloud Technologies LLC
-address:      K. Marks Str. 29
-address:      Minsk 220030
+address:      C. Zetkin Str. 24, office 602
+address:      Minsk 220004
 address:      Belarus
 
 contact:      administrative
-name:         Chief Inspector
+name:         Head of Sector
 organisation: The Operational and Analytical Center under the Aegis of the President of the Republic of Belarus
 address:      49 Kirova Str.
 address:      Minsk 220030
 address:      Belarus
-phone:        +375 17 3092465
+phone:        +375 17 3092473
 fax-no:       +375 17 3636824
 e-mail:       admin-c@oac.gov.by
 
 contact:      technical
 name:         General Director
 organisation: Belarusian Cloud Technologies LLC
-address:      K. Marks Str. 29
-address:      Minsk 220030
+address:      C. Zetkin Str. 24, office 602
+address:      Minsk 220004
 address:      Belarus
 phone:        +375 17 287 11 34
 fax-no:       +375 17 287 11 01
@@ -63678,7 +63628,7 @@ status:       ACTIVE
 remarks:      Registration information: https://cctld.by
 
 created:      2014-09-29
-changed:      2023-03-07
+changed:      2023-10-18
 source:       IANA
 
 % IANA WHOIS server
@@ -66404,8 +66354,8 @@ phone:        +98 21 22828081 Ext. 124
 fax-no:       +98 21 22295700
 e-mail:       tech-team@irnic.ir
 
-nserver:      A.NIC.IR 193.189.123.2
-nserver:      B.NIC.IR 193.189.122.83 2001:14e8:c:0:193:189:122:83
+nserver:      A.NIC.IR 193.189.123.2 2001:678:b0:0:193:189:123:2
+nserver:      B.NIC.IR 193.189.122.83 2001:678:b1:0:193:189:122:83
 
 whois:        whois.nic.ir
 
@@ -68891,8 +68841,8 @@ nserver:      A.NIC.XN--VERMGENSBERATER-CTB 194.169.218.105 2001:67c:13cc:0:0:0:
 nserver:      B.NIC.XN--VERMGENSBERATER-CTB 185.24.64.105 2a04:2b00:13cc:0:0:0:1:105
 nserver:      C.NIC.XN--VERMGENSBERATER-CTB 212.18.248.105 2a04:2b00:13ee:0:0:0:0:105
 nserver:      D.NIC.XN--VERMGENSBERATER-CTB 212.18.249.105 2a04:2b00:13ff:0:0:0:0:105
-ds-rdata:     34601 8 2 7f669ea129f71b09eb87d520812d21758207ebdaae560cbb5019fbba4a20a016
 ds-rdata:     60320 8 2 bd736c840d3b1b3fdd1679d500c5f5bd82cf0323e9706932bc5b2d847d5644b5
+ds-rdata:     22529 8 2 86f326f12a977d5815d4f0566880bce0b7c6e5bf798a6c848323991e303ace3f
 
 whois:        whois.nic.xn--vermgensberater-ctb
 
@@ -68900,7 +68850,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dvag-registry.de
 
 created:      2014-09-18
-changed:      2022-11-14
+changed:      2023-10-16
 source:       IANA
 
 % IANA WHOIS server
@@ -68942,8 +68892,8 @@ nserver:      A.NIC.XN--VERMGENSBERATUNG-PWB 194.169.218.106 2001:67c:13cc:0:0:0
 nserver:      B.NIC.XN--VERMGENSBERATUNG-PWB 185.24.64.106 2a04:2b00:13cc:0:0:0:1:106
 nserver:      C.NIC.XN--VERMGENSBERATUNG-PWB 212.18.248.106 2a04:2b00:13ee:0:0:0:0:106
 nserver:      D.NIC.XN--VERMGENSBERATUNG-PWB 212.18.249.106 2a04:2b00:13ff:0:0:0:0:106
-ds-rdata:     17870 8 2 4eee971c6228837580afa24873862426612e75b8c6f2b79ba370e5a6a0403b08
 ds-rdata:     30509 8 2 b1d9b6e7e50bd1ac597183b160050a398919dde4a33fac3714bccaedd4bfd2ef
+ds-rdata:     64685 8 2 aafbcb4c8bb1cd236d7cd0ea943987f94de28cb6da343813af260076d97828a1
 
 whois:        whois.nic.xn--vermgensberatung-pwb
 
@@ -68951,7 +68901,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dvag-registry.de
 
 created:      2014-09-18
-changed:      2022-11-14
+changed:      2023-10-16
 source:       IANA
 
 % IANA WHOIS server
@@ -70652,8 +70602,8 @@ nserver:      A.NIC.ZUERICH 194.169.218.107 2001:67c:13cc:0:0:0:1:107
 nserver:      B.NIC.ZUERICH 185.24.64.107 2a04:2b00:13cc:0:0:0:1:107
 nserver:      C.NIC.ZUERICH 212.18.248.107 2a04:2b00:13ee:0:0:0:0:107
 nserver:      D.NIC.ZUERICH 212.18.249.107 2a04:2b00:13ff:0:0:0:0:107
-ds-rdata:     52375 8 2 e3ebd91bbf29be88d075c43ac313a9db174267e858061316ec4c942728a3829e
 ds-rdata:     7399 8 2 69407fe45988e2c569855c70330a24520db734481082c668317e8bbb764551d3
+ds-rdata:     48857 8 2 c64fde4469567966aa2300c152df46bd230916a54f5bf936083ef79eb894c157
 
 whois:        whois.nic.zuerich
 
@@ -70661,7 +70611,7 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.zuerich
 
 created:      2014-12-18
-changed:      2022-11-14
+changed:      2023-10-16
 source:       IANA
 
 % IANA WHOIS server

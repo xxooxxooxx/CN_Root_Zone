@@ -10281,45 +10281,13 @@ source:       IANA
 
 domain:       CBS
 
-organisation: CBS Domains Inc.
-address:      51 West 52nd Street
-address:      New York NY 10019
-address:      United States of America (the)
+whois:        
 
-contact:      administrative
-name:         Christopher Niemi
-organisation: MarkMonitor Inc.
-address:      3540 East Longwing Lane, Suite 300
-address:      Meridian ID 83646
-address:      United States of America (the)
-phone:        1-208-389-5740
-fax-no:       1-208-389-5771
-e-mail:       dotcbs@markmonitor.com
-
-contact:      technical
-name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias
-address:      300 Welsh Road
-address:      Building 3, Suite 105
-address:      Horsham PA 19044
-address:      United States of America (the)
-phone:        +1.215.706.5700
-fax-no:       +1.215.706.5701
-e-mail:       tld-tech-poc@afilias.info
-
-nserver:      A0.NIC.CBS 2a01:8840:42:0:0:0:0:9 65.22.68.9
-nserver:      A2.NIC.CBS 2a01:8840:45:0:0:0:0:9 65.22.71.9
-nserver:      B0.NIC.CBS 2a01:8840:43:0:0:0:0:9 65.22.69.9
-nserver:      C0.NIC.CBS 2a01:8840:44:0:0:0:0:9 65.22.70.9
-ds-rdata:     30409 8 2 ea9d4289fab50bab2a4f682a1f450a0d5b7802aac66b478703be109fbd489959
-
-whois:        whois.nic.cbs
-
-status:       ACTIVE
-remarks:      Registration information: http://www.cbs.com/
+status:       FORMER
+remarks:      Registration information: 
 
 created:      2016-07-21
-changed:      2023-08-03
+changed:      2023-10-25
 source:       IANA
 
 % IANA WHOIS server
@@ -10473,21 +10441,19 @@ source:       IANA
 
 domain:       CEO
 
-organisation: CEOTLD Pty Ltd
-address:      Level 6
-address:      1 Chifley Square
-address:      Sydney NSW 2000
-address:      Australia
+organisation: XYZ.COM LLC
+address:      2121 E Tropicana Ave, Suite 2
+address:      Las Vegas NV 89119
+address:      United States of America (the)
 
 contact:      administrative
-name:         Jodee Rich
-organisation: CEO TLD Pty Ltd
-address:      Level 6
-address:      1 Chifley Square
-address:      Sydney NSW 2000
-address:      Australia
-phone:        +61 2 9247 8230
-e-mail:       contact@peoplebrowsr.com
+name:         General Counsel
+organisation: XYZ.COM LLC
+address:      2121 E Tropicana Ave, Suite 2
+address:      Las Vegas NV 89119
+address:      United States of America (the)
+phone:        +17027632191
+e-mail:       hello@xyz.com
 
 contact:      technical
 name:         CTO
@@ -10517,7 +10483,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.peoplebrowsr.com
 
 created:      2013-12-19
-changed:      2021-09-29
+changed:      2023-10-24
 source:       IANA
 
 % IANA WHOIS server
@@ -15604,43 +15570,48 @@ source:       IANA
 
 domain:       DESI
 
-organisation: Desi Networks LLC
-address:      6813 Marbury Road
-address:      Bethesda MD 20817
+organisation: Emergency Back-End Registry Operator Program - ICANN
+address:      12025 Waterfront Dr., Suite 300
+address:      Los Angeles CA 90094
 address:      United States of America (the)
 
 contact:      administrative
-name:         Siddharth Ohri
-organisation: Desi Networks, LLC
-address:      6813 Marbury Road
-address:      Bethesda MD 20817
+name:         EBERO Event Director
+organisation: Internet Corporation for Assigned Names and Numbers (ICANN)
+address:      12025 Waterfront Dr., Suite 300
+address:      Los Angeles CA 90094
 address:      United States of America (the)
-phone:        1-202-236-4338
-e-mail:       sohri@dotdesi.com
+phone:        +1(310) 301-5800
+fax-no:       +1(310) 823-8649
+e-mail:       eventdirector@icann.org
 
 contact:      technical
-name:         CTO
-organisation: CentralNic
-address:      Saddlers House, 4th Floor
-address:      44 Gutter Lane
-address:      London EC2V 6BR
+name:         Nominet EBERO Event Manager
+organisation: Nominet
+address:      Minerva House, Edmund Halley Road, Oxford Science Park
+address:      Oxford Oxon OX4 4DQ
 address:      United Kingdom of Great Britain and Northern Ireland (the)
-phone:        +44 20 33 88 0600
-fax-no:       +44 20 33 88 0601
-e-mail:       tld.ops@centralnic.com
+phone:        +44 1865 332470
+e-mail:       ebero@nominet.uk
 
-nserver:      A.NIC.DESI 194.169.218.81 2001:67c:13cc:0:0:0:1:81
-nserver:      B.NIC.DESI 185.24.64.81 2a04:2b00:13cc:0:0:0:1:81
-nserver:      C.NIC.DESI 212.18.248.81 2a04:2b00:13ee:0:0:0:0:81
-nserver:      D.NIC.DESI 212.18.249.81 2a04:2b00:13ff:0:0:0:0:81
+nserver:      DNS1.EMDNS.UK 213.248.217.153 2a01:618:401:0:0:0:0:153
+nserver:      DNS2.EMDNS.UK 103.49.81.153 2401:fd80:401:0:0:0:0:153
+nserver:      DNS3.EMDNS.UK 213.248.221.153 2a01:618:405:0:0:0:0:153
+nserver:      DNS4.EMDNS.UK 2401:fd80:405:0:0:0:0:153 43.230.49.153
+nserver:      DNSA.EMDNS.UK 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.EMDNS.UK 156.154.101.3 2001:502:2eda:0:0:0:0:3
+nserver:      DNSC.EMDNS.UK 156.154.102.3 2610:a1:1009:0:0:0:0:3
+nserver:      DNSD.EMDNS.UK 156.154.103.3 2610:a1:1010:0:0:0:0:3
+ds-rdata:     5621 8 2 2ae99319e83d075eac0f4b572822e3685027038688b38ceb2c5445e09606f752
 
 whois:        whois.nic.desi
 
 status:       ACTIVE
-remarks:      Registration information: http://www.dotdesi.com/
+remarks:      Registration information:
+remarks:      https://www.icann.org/resources/pages/ebero-2013-04-02-en
 
 created:      2014-03-06
-changed:      2023-10-18
+changed:      2023-10-23
 source:       IANA
 
 % IANA WHOIS server
@@ -16214,6 +16185,10 @@ nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
 nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
 nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
 nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
+nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
+nserver:      NS01.TRS-DNS.NET 64.96.2.1
+nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
 ds-rdata:     25674 8 2 06c661d544490aaf9c0efa121f0fd66ae957cb1900309fdae4a670ac4af1d37d
 ds-rdata:     41150 8 2 d206fa304919c1b109784efe3704271919a8da8ab5dfe8637c22e1ae7c8c46ab
 
@@ -16223,7 +16198,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2016-07-21
-changed:      2023-10-10
+changed:      2023-10-23
 source:       IANA
 
 % IANA WHOIS server
@@ -20783,6 +20758,10 @@ nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
 nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
 nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
 nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
+nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
+nserver:      NS01.TRS-DNS.NET 64.96.2.1
+nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
 ds-rdata:     42180 8 2 4aa1f08b292b3835fd27b5692d0cd0c1cd0119bf1455a69506e50cdc6c47d761
 ds-rdata:     3415 8 2 ca071e56345c271f2097dea2fd030a761869d20acaf34540f56c26eb484a4eea
 
@@ -20792,7 +20771,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2016-11-04
-changed:      2023-10-10
+changed:      2023-10-23
 source:       IANA
 
 % IANA WHOIS server
@@ -23596,36 +23575,35 @@ address:      Conakry
 address:      Guinea
 
 contact:      administrative
-name:         Mamoudou Keita
-organisation: UNICEF Conakry
-address:      BP 222
+name:         Boubacar 55 Barry
+organisation: Association en charge pour le Nommage Internet en Coopération de la République de Guinée 'NIC.GN'
+address:      B.P 6505, Ratoma Centre, Commune de Ratoma
 address:      Conakry
 address:      Guinea
-phone:        +37798 66 25 15 / +37798 66 34 10
-fax-no:       +224 46 27 07
-e-mail:       mxkeita@gmail.com
+phone:        +224 628 592 833
+e-mail:       president@nic.org.gn
 
 contact:      technical
-name:         Randy Bush
-address:      5147 Crystal Springs Drive NE
-address:      Bainbridge Island WA 98110
-address:      United States of America (the)
-phone:        +1 206 356 8341
-e-mail:       randy@psg.com
+name:         Abdoul Khader Gakou
+organisation: Agence Nationale de Digitalisation de l’Etat (ANDE)
+address:      BP 5000, Kipé 'Immeuble Pacific,' Commune of Ratoma
+address:      Conakry
+address:      Guinea
+phone:        +224 622 298 656
+e-mail:       abdoulkhader.gakou@ande.gov.gn
 
-nserver:      FORK.STH.DNSNODE.NET 2a01:3f0:0:306:0:0:0:53 77.72.229.254
 nserver:      NS-GN.AFRINIC.NET 196.216.168.49 2001:43f8:120:0:0:0:0:49
-nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
+nserver:      NS1-GN.PCH.NET 2001:500:14:6147:ad:0:0:1 204.61.216.147
 ds-rdata:     38486 8 2 4d9b33859b77bab1986ceaacc6e4a0534cdee69ac5e406c6d082c9314e0fce66
 ds-rdata:     9311 8 2 e471b517052703360ca1c48be047e7c4316f507a07213ab25eceb6a63bc64c09
 
 whois:        
 
 status:       ACTIVE
-remarks:      Registration information: http://psg.com/dns/gn
+remarks:      Registration information: https://ande.gov.gn/dns-gn/
 
 created:      1994-08-09
-changed:      2023-10-05
+changed:      2023-10-20
 source:       IANA
 
 % IANA WHOIS server
@@ -33335,6 +33313,10 @@ nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
 nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
 nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
 nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
+nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
+nserver:      NS01.TRS-DNS.NET 64.96.2.1
+nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
 ds-rdata:     43470 8 2 bc977bf20baf75a4593e81d3e773f044543de7c3db7c8b0a7059e6f370a5c86c
 ds-rdata:     19435 8 2 4fae9da930da43ca7d112abeeb973fc22de2a72b39f7570dbd1d7cf825aae708
 
@@ -33344,7 +33326,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2015-10-01
-changed:      2023-10-10
+changed:      2023-10-23
 source:       IANA
 
 % IANA WHOIS server
@@ -33818,6 +33800,10 @@ nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
 nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
 nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
 nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
+nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
+nserver:      NS01.TRS-DNS.NET 64.96.2.1
+nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
 ds-rdata:     9429 8 2 341ce294ded797dd426a6b6afeaa0c85ba65bbc8ec3d5a7895d77dee88435df4
 ds-rdata:     59309 8 2 276c77d08efe6388824f1726e7c6d754189f9ea1747718d4960c5ee66ae2837a
 
@@ -33827,7 +33813,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2015-12-10
-changed:      2023-10-10
+changed:      2023-10-23
 source:       IANA
 
 % IANA WHOIS server
@@ -51013,45 +50999,13 @@ source:       IANA
 
 domain:       SHOWTIME
 
-organisation: CBS Domains Inc.
-address:      51 West 52nd Street
-address:      New York NY 10019
-address:      United States of America (the)
+whois:        
 
-contact:      administrative
-name:         Christopher Niemi
-organisation: MarkMonitor Inc.
-address:      3540 East Longwing Lane, Suite 300
-address:      Meridian ID 83646
-address:      United States of America (the)
-phone:        1-208-389-5740
-fax-no:       1-208-389-5771
-e-mail:       dotshowtime@markmonitor.com
-
-contact:      technical
-name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias
-address:      300 Welsh Road
-address:      Building 3, Suite 105
-address:      Horsham PA 19044
-address:      United States of America (the)
-phone:        +1.215.706.5700
-fax-no:       +1.215.706.5701
-e-mail:       tld-tech-poc@afilias.info
-
-nserver:      A0.NIC.SHOWTIME 2a01:8840:42:0:0:0:0:1 65.22.68.1
-nserver:      A2.NIC.SHOWTIME 2a01:8840:45:0:0:0:0:1 65.22.71.1
-nserver:      B0.NIC.SHOWTIME 2a01:8840:43:0:0:0:0:1 65.22.69.1
-nserver:      C0.NIC.SHOWTIME 2a01:8840:44:0:0:0:0:1 65.22.70.1
-ds-rdata:     18211 8 2 127adbfe87ea3d320525990c4783db7eafb3fc10de688eb7b593836b6ce02cca
-
-whois:        whois.nic.showtime
-
-status:       ACTIVE
-remarks:      Registration information: http://www.showtime.com
+status:       FORMER
+remarks:      Registration information: 
 
 created:      2016-07-21
-changed:      2023-08-03
+changed:      2023-10-25
 source:       IANA
 
 % IANA WHOIS server
@@ -58561,6 +58515,10 @@ nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
 nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
 nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
 nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
+nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
+nserver:      NS01.TRS-DNS.NET 64.96.2.1
+nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
 ds-rdata:     51813 8 2 93baec1bc806c42034f1ba91345d8aa439242ea114157951bf6b7e9f79fc9e0c
 ds-rdata:     16105 8 2 f270cc6904f1292fbe949fc33c20cf64887d06cc82d2243413eccaeb98e7221c
 
@@ -58570,7 +58528,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2015-09-24
-changed:      2023-10-10
+changed:      2023-10-23
 source:       IANA
 
 % IANA WHOIS server

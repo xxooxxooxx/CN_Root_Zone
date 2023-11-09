@@ -1837,8 +1837,8 @@ nserver:      A.NIC.ALLFINANZ 194.169.218.75 2001:67c:13cc:0:0:0:1:75
 nserver:      B.NIC.ALLFINANZ 185.24.64.75 2a04:2b00:13cc:0:0:0:1:75
 nserver:      C.NIC.ALLFINANZ 212.18.248.75 2a04:2b00:13ee:0:0:0:0:75
 nserver:      D.NIC.ALLFINANZ 212.18.249.75 2a04:2b00:13ff:0:0:0:0:75
-ds-rdata:     39881 8 2 8619bc44828ee2cdfb00e0c8e67ac0f7522aaaab12149ea53b6b52c421120a0c
 ds-rdata:     11155 8 2 2337b2a34993e96d38fc18da0873463c467385bfe16e09e51245673f027f913a
+ds-rdata:     34586 8 2 cb14a0af7298e258cea6b3a50686520d007a20ac3bc3e676e67d050ee42a0d61
 
 whois:        whois.nic.allfinanz
 
@@ -1847,7 +1847,7 @@ remarks:      Registration information:
 remarks:      http://www.allfinanz-registry.de
 
 created:      2014-09-25
-changed:      2022-11-14
+changed:      2023-11-06
 source:       IANA
 
 % IANA WHOIS server
@@ -4426,13 +4426,13 @@ address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 1865 332211
 e-mail:       registrytechnical@nominet.uk
 
-nserver:      DNS1.NOMINETDNS.UK 213.248.219.254 2a01:618:403:0:0:0:0:254
+nserver:      DNS1.NIC.AZURE 213.248.219.129 2a01:618:403:0:0:0:0:129
 nserver:      DNS2.NOMINETDNS.UK 103.49.83.254 2401:fd80:403:0:0:0:0:254
-nserver:      DNS3.NOMINETDNS.UK 213.248.223.254 2a01:618:407:0:0:0:0:254
+nserver:      DNS3.NIC.AZURE 213.248.223.129 2a01:618:407:0:0:0:0:129
 nserver:      DNS4.NOMINETDNS.UK 2401:fd80:407:0:0:0:0:254 43.230.51.254
-nserver:      DNSA.NOMINETDNS.UK 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSA.NIC.AZURE 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NOMINETDNS.UK 156.154.101.3 2001:502:2eda:0:0:0:0:3
-nserver:      DNSC.NOMINETDNS.UK 156.154.102.3 2610:a1:1009:0:0:0:0:3
+nserver:      DNSC.NIC.AZURE 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NOMINETDNS.UK 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     25698 8 2 2c2d532d450f86fbc9238816088ed98ae6c8a5f665706dd634ba4e63a8d8837f
 ds-rdata:     40166 8 2 9f412d488bc68de48010ed08d94cc6830cd604296f3bdf244ac9d7dfa74ae458
@@ -4443,7 +4443,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.microsoft.com
 
 created:      2015-04-30
-changed:      2023-10-26
+changed:      2023-11-08
 source:       IANA
 
 % IANA WHOIS server
@@ -4791,15 +4791,19 @@ source:       IANA
 domain:       BAR
 
 organisation: Punto 2012 Sociedad Anonima Promotora de Inversion de Capital Variable
-address:      Juan Escutia 29 Col. Condesa
-address:      Mexico D.F. 06140
+address:      Sierra Mojada 405, Nivel 3 Oficina B,
+address:      Col. Lomas De Chapultepec Iii Sección,
+address:      Miguel Hidalgo
+address:      Ciudad De México 11000
 address:      Mexico
 
 contact:      administrative
 name:         CEO
 organisation: Punto 2012 Sociedad Anonima Promotora de Inversion de Capital Variable
-address:      Juan Escutia 29 Col. Condesa
-address:      Mexico D.F. 06140
+address:      Sierra Mojada 405, Nivel 3 Oficina B,
+address:      Col. Lomas De Chapultepec Iii Sección,
+address:      Miguel Hidalgo
+address:      Ciudad De México 11000
 address:      Mexico
 phone:        +52.5585895544
 fax-no:       +52.5552505187
@@ -4822,6 +4826,7 @@ nserver:      C.NIC.BAR 212.18.248.56 2a04:2b00:13ee:0:0:0:0:56
 nserver:      D.NIC.BAR 212.18.249.56 2a04:2b00:13ff:0:0:0:0:56
 ds-rdata:     55406 8 1 eecf54c6dab2cf3fa76effce97b78f432050da9e
 ds-rdata:     55406 8 2 8e8e102e6751da62e354bd322c9bdd42c29bf6a413b29da5bdc579e2ed3c8da1
+ds-rdata:     44209 8 2 53ed75bdc08a244e1c088d80ea97a39b5aad3e9121f58de1d22ae72c58d84a1f
 
 whois:        whois.nic.bar
 
@@ -4829,7 +4834,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.bar
 
 created:      2014-02-13
-changed:      2021-09-23
+changed:      2023-11-07
 source:       IANA
 
 % IANA WHOIS server
@@ -6458,13 +6463,13 @@ address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 1865 332211
 e-mail:       registrytechnical@nominet.uk
 
-nserver:      DNS1.NOMINETDNS.UK 213.248.219.254 2a01:618:403:0:0:0:0:254
+nserver:      DNS1.NIC.BING 213.248.219.130 2a01:618:403:0:0:0:0:130
 nserver:      DNS2.NOMINETDNS.UK 103.49.83.254 2401:fd80:403:0:0:0:0:254
-nserver:      DNS3.NOMINETDNS.UK 213.248.223.254 2a01:618:407:0:0:0:0:254
+nserver:      DNS3.NIC.BING 213.248.223.130 2a01:618:407:0:0:0:0:130
 nserver:      DNS4.NOMINETDNS.UK 2401:fd80:407:0:0:0:0:254 43.230.51.254
-nserver:      DNSA.NOMINETDNS.UK 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSA.NIC.BING 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NOMINETDNS.UK 156.154.101.3 2001:502:2eda:0:0:0:0:3
-nserver:      DNSC.NOMINETDNS.UK 156.154.102.3 2610:a1:1009:0:0:0:0:3
+nserver:      DNSC.NIC.BING 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NOMINETDNS.UK 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     54939 8 2 aa18f258897855e86489c4a522ea45da55918bcd1c6dd418322081331df89e85
 ds-rdata:     35654 8 2 5d6d052d2f2cbb18e7f16aa68b42e37b7ed0fc58bd491e8e97c8aeafb3279c81
@@ -6475,7 +6480,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.microsoft.com
 
 created:      2015-04-30
-changed:      2023-10-26
+changed:      2023-11-08
 source:       IANA
 
 % IANA WHOIS server
@@ -7085,8 +7090,8 @@ nserver:      A.NIC.BMW 194.169.218.76 2001:67c:13cc:0:0:0:1:76
 nserver:      B.NIC.BMW 185.24.64.76 2a04:2b00:13cc:0:0:0:1:76
 nserver:      C.NIC.BMW 212.18.248.76 2a04:2b00:13ee:0:0:0:0:76
 nserver:      D.NIC.BMW 212.18.249.76 2a04:2b00:13ff:0:0:0:0:76
-ds-rdata:     41084 8 2 6c86d7e525248df05c8dd7720648d4cb629daae2dcd163bfc74d28312fd5311a
 ds-rdata:     43579 8 2 b543b5adba44e6e32d11c93bb4e729d80fa1197f59b2ae505a1e292605234793
+ds-rdata:     27910 8 2 39614cab4109a1b7b9917e39631416e97086839970f15957fd37ca05fffe1470
 
 whois:        whois.nic.bmw
 
@@ -7094,7 +7099,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.bmw.com
 
 created:      2014-06-05
-changed:      2022-11-12
+changed:      2023-11-06
 source:       IANA
 
 % IANA WHOIS server
@@ -9874,10 +9879,8 @@ nserver:      A.NIC.CASE 194.169.218.140 2001:67c:13cc:0:0:0:1:140
 nserver:      B.NIC.CASE 185.24.64.140 2a04:2b00:13cc:0:0:0:1:140
 nserver:      C.NIC.CASE 212.18.248.140 2a04:2b00:13ee:0:0:0:0:140
 nserver:      D.NIC.CASE 212.18.249.140 2a04:2b00:13ff:0:0:0:0:140
-ds-rdata:     5844 7 1 d1af65d9493fe00bc5bc2ded27b91f870645d559
-ds-rdata:     5844 7 2 4f478b408da99cb2d196cd2d61a8872b5d2f5a578fbd25e73f4ec19bc4f58579
-ds-rdata:     53709 7 1 eb8abdcde220029a7dd36547ca1a028c7d23c76a
 ds-rdata:     53709 7 2 71056e4ea918dc68b82a74e22d56519ae1a26c7ca756b754893cbbc10a0affee
+ds-rdata:     15291 7 2 6f45517253280a7a3005ca9c370504839da319b045d21366166689ed12a734f5
 
 whois:        whois.nic.case
 
@@ -9885,7 +9888,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.digity.case/case
 
 created:      2016-10-27
-changed:      2023-06-01
+changed:      2023-11-06
 source:       IANA
 
 % IANA WHOIS server
@@ -16182,10 +16185,6 @@ phone:        +1-703-925-6999
 fax-no:       +1-703-948-3978
 e-mail:       info@verisign-grs.com
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
 nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
 nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
 nserver:      NS01.TRS-DNS.NET 64.96.2.1
@@ -16199,7 +16198,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2016-07-21
-changed:      2023-10-23
+changed:      2023-11-02
 source:       IANA
 
 % IANA WHOIS server
@@ -17052,8 +17051,8 @@ nserver:      A.NIC.DVAG 194.169.218.84 2001:67c:13cc:0:0:0:1:84
 nserver:      B.NIC.DVAG 185.24.64.84 2a04:2b00:13cc:0:0:0:1:84
 nserver:      C.NIC.DVAG 212.18.248.84 2a04:2b00:13ee:0:0:0:0:84
 nserver:      D.NIC.DVAG 212.18.249.84 2a04:2b00:13ff:0:0:0:0:84
-ds-rdata:     26666 8 2 c94c9e4f38cc0283d1f3854a27f49c001e6d43689f35c0c9438e7d8731301662
 ds-rdata:     3200 8 2 4544410064854638c7273c4481902b0b3218f905e6dae266a181dec2ab700bd3
+ds-rdata:     43019 8 2 fe8ffef1497c77c40a52f1f90fd4c74d3ab546e8c7089b94c6d7ca08f1f68763
 
 whois:        whois.nic.dvag
 
@@ -17061,7 +17060,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dvag-registry.de
 
 created:      2014-09-18
-changed:      2022-11-14
+changed:      2023-11-06
 source:       IANA
 
 % IANA WHOIS server
@@ -20756,10 +20755,6 @@ phone:        +1-703-925-6999
 fax-no:       +1-703-948-3978
 e-mail:       info@verisign-grs.com
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
 nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
 nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
 nserver:      NS01.TRS-DNS.NET 64.96.2.1
@@ -20773,7 +20768,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2016-11-04
-changed:      2023-10-23
+changed:      2023-11-02
 source:       IANA
 
 % IANA WHOIS server
@@ -21254,8 +21249,8 @@ nserver:      A.NIC.FRESENIUS 194.169.218.86 2001:67c:13cc:0:0:0:1:86
 nserver:      B.NIC.FRESENIUS 185.24.64.86 2a04:2b00:13cc:0:0:0:1:86
 nserver:      C.NIC.FRESENIUS 212.18.248.86 2a04:2b00:13ee:0:0:0:0:86
 nserver:      D.NIC.FRESENIUS 212.18.249.86 2a04:2b00:13ff:0:0:0:0:86
-ds-rdata:     43201 8 2 b8b450ba7043973a3f43e9e8a70fac6a6b979838254e439553f17f403d24425e
 ds-rdata:     14099 8 2 3a1c09d9328367d2077aa1418dacab1e9799c6e419409c35416ed57ad0d61dd2
+ds-rdata:     48287 8 2 a4740830986280d4ba13af47a2d92ae0a9561caa98eded550725bb2143f9ae88
 
 whois:        whois.nic.fresenius
 
@@ -21264,7 +21259,7 @@ remarks:      Registration information:
 remarks:      http://www.freseniusregistry.com
 
 created:      2015-12-17
-changed:      2022-11-14
+changed:      2023-11-06
 source:       IANA
 
 % IANA WHOIS server
@@ -26863,13 +26858,13 @@ address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 1865 332211
 e-mail:       registrytechnical@nominet.uk
 
-nserver:      DNS1.NOMINETDNS.UK 213.248.219.254 2a01:618:403:0:0:0:0:254
+nserver:      DNS1.NIC.HOTMAIL 213.248.219.131 2a01:618:403:0:0:0:0:131
 nserver:      DNS2.NOMINETDNS.UK 103.49.83.254 2401:fd80:403:0:0:0:0:254
-nserver:      DNS3.NOMINETDNS.UK 213.248.223.254 2a01:618:407:0:0:0:0:254
+nserver:      DNS3.NIC.HOTMAIL 213.248.223.131 2a01:618:407:0:0:0:0:131
 nserver:      DNS4.NOMINETDNS.UK 2401:fd80:407:0:0:0:0:254 43.230.51.254
-nserver:      DNSA.NOMINETDNS.UK 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSA.NIC.HOTMAIL 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NOMINETDNS.UK 156.154.101.3 2001:502:2eda:0:0:0:0:3
-nserver:      DNSC.NOMINETDNS.UK 156.154.102.3 2610:a1:1009:0:0:0:0:3
+nserver:      DNSC.NIC.HOTMAIL 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NOMINETDNS.UK 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     12876 8 2 5d35f9e8561ce9835fbdbcd44fd9f80c93d5412827694bd7b17bc1477a8e70ab
 ds-rdata:     30586 8 2 c055d04ac9301bff85af9424f6d368d206d7e4786813a22fd3cceaa6928f50cc
@@ -26880,7 +26875,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.microsoft.com
 
 created:      2015-04-30
-changed:      2023-10-26
+changed:      2023-11-08
 source:       IANA
 
 % IANA WHOIS server
@@ -30176,7 +30171,7 @@ nserver:      E.DNS.JP 192.50.43.53 2001:200:c000:0:0:0:0:35
 nserver:      F.DNS.JP 150.100.6.8 2001:2f8:0:100:0:0:0:153
 nserver:      G.DNS.JP 203.119.40.1
 nserver:      H.DNS.JP 161.232.72.25 2a01:8840:1bc:0:0:0:0:25
-ds-rdata:     39916 8 2 b36b524989bf0625efd9b0877e74e77f052248fde965b6e3c327d9c06af1d080
+ds-rdata:     22111 8 2 e5a43534b9beafbf35d6c6b3eaa1e9ae7fe2b4d8961252126fd67b5172322286
 
 whois:        whois.jprs.jp
 
@@ -30184,7 +30179,7 @@ status:       ACTIVE
 remarks:      Registration information: https://jprs.jp/
 
 created:      1986-08-05
-changed:      2022-11-09
+changed:      2023-11-06
 source:       IANA
 
 % IANA WHOIS server
@@ -30998,47 +30993,13 @@ source:       IANA
 
 domain:       KINDER
 
-organisation: Ferrero Trading Lux S.A.
-address:      16, Route de Trèves
-address:      Senningerberg L-2633
-address:      Luxembourg
-
-contact:      administrative
-name:         Stefano Marzocchi
-organisation: Soremartec S.A.
-address:      16, Route de Trèves
-address:      Senningerberg L-2633
-address:      Luxembourg
-phone:        +352 349 711 95 06
-fax-no:       +352 349411
-e-mail:       stefano.marzocchi@ferrero.com
-
-contact:      technical
-name:         IANA Contact
-organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
-address:      United States of America (the)
-phone:        +1 480 505 8800
-fax-no:       +1 480 624 2546
-e-mail:       iana@registry.godaddy
-
-nserver:      A.NIC.KINDER 2001:dcd:1:0:0:0:0:9 37.209.192.9
-nserver:      B.NIC.KINDER 2001:dcd:2:0:0:0:0:9 37.209.194.9
-nserver:      C.NIC.KINDER 2001:dcd:3:0:0:0:0:9 37.209.196.9
-nserver:      NS1.DNS.NIC.KINDER 156.154.144.96 2610:a1:1071:0:0:0:0:60
-nserver:      NS2.DNS.NIC.KINDER 156.154.145.96 2610:a1:1072:0:0:0:0:60
-nserver:      NS3.DNS.NIC.KINDER 156.154.159.96 2610:a1:1073:0:0:0:0:60
-ds-rdata:     41830 8 2 d96f47fb6719215e954c07fa19ea3fa27b698f3cbfdfa8e55a05fd7d9a1cdb19
-ds-rdata:     14149 8 2 e687cb08b8c3f8d5cc5240e873efaefb3efee7e8062604c506c91ae6a0144935
-
 whois:        
 
-status:       ACTIVE
-remarks:      Registration information: http://www.kinder.com
+status:       FORMER
+remarks:      Registration information: 
 
 created:      2015-09-10
-changed:      2023-08-15
+changed:      2023-11-02
 source:       IANA
 
 % IANA WHOIS server
@@ -33167,7 +33128,6 @@ nserver:      A.NIC.LIDL 194.169.218.91 2001:67c:13cc:0:0:0:1:91
 nserver:      B.NIC.LIDL 185.24.64.91 2a04:2b00:13cc:0:0:0:1:91
 nserver:      C.NIC.LIDL 212.18.248.91 2a04:2b00:13ee:0:0:0:0:91
 nserver:      D.NIC.LIDL 212.18.249.91 2a04:2b00:13ff:0:0:0:0:91
-ds-rdata:     54241 7 2 12602baa0fe5b77f6070a3e78c6bb5734bc8c415a7a74724d7060d8e23cb7a30
 ds-rdata:     44022 13 2 031250e5d00e613d5044b944a8f5d9e88fa4f803eae5f887c1670e0a8bcffc97
 ds-rdata:     25851 13 2 1aa0941e7d1538497268ee853423361989c3b0d9a8f2d3da4e3f3ba0521e24e9
 
@@ -33177,7 +33137,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.nic.lidl
 
 created:      2014-12-04
-changed:      2023-10-06
+changed:      2023-11-06
 source:       IANA
 
 % IANA WHOIS server
@@ -33309,10 +33269,6 @@ phone:        703.925.6999
 fax-no:       703.948.3978
 e-mail:       info@verisign-grs.com
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
 nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
 nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
 nserver:      NS01.TRS-DNS.NET 64.96.2.1
@@ -33326,7 +33282,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2015-10-01
-changed:      2023-10-23
+changed:      2023-11-02
 source:       IANA
 
 % IANA WHOIS server
@@ -33796,10 +33752,6 @@ phone:        +1-703-925-6999
 fax-no:       +1-703-948-3978
 e-mail:       info@verisign-grs.com
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
 nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
 nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
 nserver:      NS01.TRS-DNS.NET 64.96.2.1
@@ -33813,7 +33765,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2015-12-10
-changed:      2023-10-23
+changed:      2023-11-02
 source:       IANA
 
 % IANA WHOIS server
@@ -33831,29 +33783,26 @@ address:      Sri Lanka
 contact:      administrative
 name:         Gihan Dias
 organisation: LK Domain Registry
-address:      545/4 de Soysa Rd.
-address:      Molpe
-address:      Moratuwa 10400
+address:      Bernard's Business Park,
+address:      106, Dutugemunu Street
+address:      Dehiwala 10350
 address:      Sri Lanka
 phone:        +94 11 4 216 065
-fax-no:       +94 11 2 650 805
-e-mail:       gihan@cse.mrt.ac.lk
+e-mail:       gihan@domains.lk
 
 contact:      technical
 name:         Hostmaster
 organisation: LK Domain Registry
-address:      545/4 de Soysa Rd.
-address:      Molpe
-address:      Moratuwa 10400
+address:      Bernard's Business Park,
+address:      106, Dutugemunu Street
+address:      Dehiwala 10350
 address:      Sri Lanka
 phone:        +94 11 4 216 061
-fax-no:       +94 112 650 805
 e-mail:       hostmaster@domains.lk
 
 nserver:      C.NIC.LK 203.143.29.3 2405:5400:3:1:203:143:29:3
 nserver:      D.NIC.LK 123.231.6.18
-nserver:      L.NIC.LK 192.248.8.17
-nserver:      M.NIC.LK 202.129.235.229
+nserver:      M.NIC.LK 202.129.235.229 2407:c00:21:8:202:129:235:229
 nserver:      NS1.AC.LK 192.248.1.162 2401:dd00:1:0:0:0:0:162
 nserver:      P.NIC.LK 2001:500:14:6027:ad:0:0:1 204.61.216.27
 nserver:      PENDRAGON.CS.PURDUE.EDU 128.10.2.5
@@ -33864,10 +33813,10 @@ ds-rdata:     181 5 2 87516d56b697cb3f7a7c3eb594ee0e16ae509d16a503089f4fbd4f347b
 whois:        
 
 status:       ACTIVE
-remarks:      Registration information: http://www.nic.lk/
+remarks:      Registration information: http://www.domains.lk/
 
 created:      1990-06-15
-changed:      2022-11-04
+changed:      2023-11-08
 source:       IANA
 
 % IANA WHOIS server
@@ -34223,12 +34172,12 @@ address:      London SE1 0LL
 address:      United Kingdom of Great Britain and Northern Ireland (the)
 
 contact:      administrative
-name:         IT Systems Lead
+name:         Jo Darwin
 organisation: London & Partners
 address:      169 Union Street
 address:      London SE1 0LL
 address:      United Kingdom of Great Britain and Northern Ireland (the)
-phone:        +44 (0)20 7234 5853
+phone:        +44 (0)7985079805
 e-mail:       contact@domains.london
 
 contact:      technical
@@ -34246,8 +34195,8 @@ nserver:      A.NIC.LONDON 194.169.218.141 2001:67c:13cc:0:0:0:1:141
 nserver:      B.NIC.LONDON 185.24.64.141 2a04:2b00:13cc:0:0:0:1:141
 nserver:      C.NIC.LONDON 212.18.248.141 2a04:2b00:13ee:0:0:0:0:141
 nserver:      D.NIC.LONDON 212.18.249.141 2a04:2b00:13ff:0:0:0:0:141
-ds-rdata:     11861 8 2 5083facfd25edc276c25d2d3da986f370c82bf31a01821abf462c35800548f77
 ds-rdata:     9956 8 2 dded8bee7362bbbf9f4186b413c901ff293f5897412fd92e5ef507765d0a6443
+ds-rdata:     17464 8 2 bc991b8aaf8a17d5328d74cf6439bf4ec08b21a2968308af2316f01205cdab09
 
 whois:        whois.nic.london
 
@@ -34256,7 +34205,7 @@ remarks:      Registration information:
 remarks:      http://dotlondondomains.london/
 
 created:      2014-02-13
-changed:      2021-10-13
+changed:      2023-11-06
 source:       IANA
 
 % IANA WHOIS server
@@ -35911,7 +35860,7 @@ organisation: IP Serviciul Tehnologia Informatiei si Securitate Cibernetica
 address:      Piata Marii Adunari Nationale, 1
 address:      mun. Chisinau MD-2012
 address:      Moldova (the Republic of)
-phone:        +37322820905
+phone:        +37322820900
 e-mail:       domains@stisc.gov.md
 
 contact:      technical
@@ -35920,7 +35869,7 @@ organisation: IP Serviciul Tehnologia Informatiei si Securitate Cibernetica
 address:      Piata Marii Adunari Nationale, 1
 address:      mun. Chisinau MD-2012
 address:      Moldova (the Republic of)
-phone:        +37322820905
+phone:        +37322820900
 e-mail:       specctld@stisc.gov.md
 
 nserver:      NSA.TLD.MD 185.108.181.191
@@ -35936,7 +35885,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.md
 
 created:      1994-03-24
-changed:      2023-06-20
+changed:      2023-11-07
 source:       IANA
 
 % IANA WHOIS server
@@ -36591,13 +36540,13 @@ address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 1865 332211
 e-mail:       registrytechnical@nominet.uk
 
-nserver:      DNS1.NOMINETDNS.UK 213.248.219.254 2a01:618:403:0:0:0:0:254
+nserver:      DNS1.NIC.MICROSOFT 213.248.219.132 2a01:618:403:0:0:0:0:132
 nserver:      DNS2.NOMINETDNS.UK 103.49.83.254 2401:fd80:403:0:0:0:0:254
-nserver:      DNS3.NOMINETDNS.UK 213.248.223.254 2a01:618:407:0:0:0:0:254
+nserver:      DNS3.NIC.MICROSOFT 213.248.223.132 2a01:618:407:0:0:0:0:132
 nserver:      DNS4.NOMINETDNS.UK 2401:fd80:407:0:0:0:0:254 43.230.51.254
-nserver:      DNSA.NOMINETDNS.UK 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSA.NIC.MICROSOFT 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NOMINETDNS.UK 156.154.101.3 2001:502:2eda:0:0:0:0:3
-nserver:      DNSC.NOMINETDNS.UK 156.154.102.3 2610:a1:1009:0:0:0:0:3
+nserver:      DNSC.NIC.MICROSOFT 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NOMINETDNS.UK 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     35775 8 2 75b42b6862ac3b32fc471d044de968df0d3e9a2b6d4ead5addba4ed42fef185a
 ds-rdata:     55012 8 2 6124fc6575fd96e99e526b792f5637653c25dc4e1e2c034c7a23fe2e2da94acf
@@ -36608,7 +36557,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.microsoft.com
 
 created:      2015-04-30
-changed:      2023-10-26
+changed:      2023-11-08
 source:       IANA
 
 % IANA WHOIS server
@@ -36698,8 +36647,8 @@ nserver:      A.NIC.MINI 194.169.218.95 2001:67c:13cc:0:0:0:1:95
 nserver:      B.NIC.MINI 185.24.64.95 2a04:2b00:13cc:0:0:0:1:95
 nserver:      C.NIC.MINI 212.18.248.95 2a04:2b00:13ee:0:0:0:0:95
 nserver:      D.NIC.MINI 212.18.249.95 2a04:2b00:13ff:0:0:0:0:95
-ds-rdata:     54260 8 2 0da865b8e8a60553b90380aec9da84a2de372a2a098ec5f2f6e3502414947f88
 ds-rdata:     82 8 2 6f84e8b483f6fefc9832a282ea80d4f30497393b5353cc6854431fa7fcb240f6
+ds-rdata:     65330 8 2 b356be189b0666d4ea4e2082da4b80c701fce5f0431b4136527542cd5277b87d
 
 whois:        whois.nic.mini
 
@@ -36707,7 +36656,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.mini.com
 
 created:      2014-06-05
-changed:      2022-11-14
+changed:      2023-11-06
 source:       IANA
 
 % IANA WHOIS server
@@ -39286,7 +39235,7 @@ nserver:      J.GTLD-SERVERS.NET 192.48.79.30 2001:502:7094:0:0:0:0:30
 nserver:      K.GTLD-SERVERS.NET 192.52.178.30 2001:503:d2d:0:0:0:0:30
 nserver:      L.GTLD-SERVERS.NET 192.41.162.30 2001:500:d937:0:0:0:0:30
 nserver:      M.GTLD-SERVERS.NET 192.55.83.30 2001:501:b1f9:0:0:0:0:30
-ds-rdata:     35886 8 2 7862b27f5f516ebe19680444d4ce5e762981931842c465f00236401d8bd973ee
+ds-rdata:     37331 13 2 2f0bec2d6f79dfbd1d08fd21a3af92d0e39a4b9ef1e3f4111fff282490da453b
 
 whois:        whois.verisign-grs.com
 
@@ -39294,7 +39243,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.verisigninc.com
 
 created:      1985-01-01
-changed:      2023-09-12
+changed:      2023-11-08
 source:       IANA
 
 % IANA WHOIS server
@@ -41740,9 +41689,8 @@ nserver:      A.NIC.OOO 194.169.218.33 2001:67c:13cc:0:0:0:1:33
 nserver:      B.NIC.OOO 185.24.64.33 2a04:2b00:13cc:0:0:0:1:33
 nserver:      C.NIC.OOO 212.18.248.33 2a04:2b00:13ee:0:0:0:0:33
 nserver:      D.NIC.OOO 212.18.249.33 2a04:2b00:13ff:0:0:0:0:33
-ds-rdata:     32919 8 2 2a406589bc010bbd09bb78e067dde644946d1af4389113341358cf135b6f4910
 ds-rdata:     41890 8 2 f9807556257f226660b308490776b72febd70dfde2ecd9e850fa1127b37c7799
-ds-rdata:     41890 8 1 27dde633b73dd1f2703c0a89695862b056a0d29f
+ds-rdata:     3626 8 2 9c2f6da341779431d9cdbdec533050deedc05e2fbfa3da6080f4326e6ca97041
 
 whois:        whois.nic.ooo
 
@@ -41750,7 +41698,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.infibeam.com
 
 created:      2014-07-31
-changed:      2021-10-12
+changed:      2023-11-06
 source:       IANA
 
 % IANA WHOIS server
@@ -44359,8 +44307,8 @@ nserver:      A.NIC.POHL 194.169.218.96 2001:67c:13cc:0:0:0:1:96
 nserver:      B.NIC.POHL 185.24.64.96 2a04:2b00:13cc:0:0:0:1:96
 nserver:      C.NIC.POHL 212.18.248.96 2a04:2b00:13ee:0:0:0:0:96
 nserver:      D.NIC.POHL 212.18.249.96 2a04:2b00:13ff:0:0:0:0:96
-ds-rdata:     52324 8 2 f733939f77fe6a3f4fc63546cf69c4a86cf432bd6f41147b287818bfc87661c5
 ds-rdata:     41627 8 2 d31963884932152ac788383aba38b83f187291afb59092a43185734ec561f506
+ds-rdata:     27074 8 2 a469aef13c3e1b336689d808679e1ed9024d43e635c3861f7269888bbc1623c9
 
 whois:        whois.nic.pohl
 
@@ -44368,7 +44316,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dvag-registry.de
 
 created:      2014-09-18
-changed:      2022-11-14
+changed:      2023-11-06
 source:       IANA
 
 % IANA WHOIS server
@@ -46897,15 +46845,19 @@ source:       IANA
 domain:       REST
 
 organisation: Punto 2012 Sociedad Anonima Promotora de Inversion de Capital Variable
-address:      Juan Escutia 29 Col. Condesa
-address:      Mexico D.F. 06140
+address:      Sierra Mojada 405, Nivel 3 Oficina B,
+address:      Col. Lomas De Chapultepec III Sección,
+address:      Miguel Hidalgo
+address:      Ciudad De México 11000
 address:      Mexico
 
 contact:      administrative
 name:         CEO
 organisation: Punto 2012 Sociedad Anonima Promotora de Inversion de Capital Variable
-address:      Juan Escutia 29 Col. Condesa
-address:      Mexico D.F. 06140
+address:      Sierra Mojada 405, Nivel 3 Oficina B,
+address:      Col. Lomas De Chapultepec III Sección,
+address:      Miguel Hidalgo
+address:      Ciudad De México 11000
 address:      Mexico
 phone:        +52.5585895544
 fax-no:       +52.5552505187
@@ -46928,6 +46880,7 @@ nserver:      C.NIC.REST 212.18.248.35 2a04:2b00:13ee:0:0:0:0:35
 nserver:      D.NIC.REST 212.18.249.35 2a04:2b00:13ff:0:0:0:0:35
 ds-rdata:     25199 8 1 c43af7dec8b165d6c8b832bcb984c2407ef5ed8d
 ds-rdata:     25199 8 2 8f477474f47c387d246b6849202ca0c54c4d5a50d322c79718a98100314d08b7
+ds-rdata:     1306 8 2 291a11f18605131354f74ccd032e1ebc65cf837656234b50bb52669088112aff
 
 whois:        whois.nic.rest
 
@@ -46935,7 +46888,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.register.rest/
 
 created:      2014-03-06
-changed:      2021-10-12
+changed:      2023-11-07
 source:       IANA
 
 % IANA WHOIS server
@@ -47473,47 +47426,13 @@ source:       IANA
 
 domain:       ROCHER
 
-organisation: Ferrero Trading Lux S.A.
-address:      16, Route de Trèves
-address:      Senningerberg L-2633
-address:      Luxembourg
-
-contact:      administrative
-name:         Stefano Marzocchi
-organisation: Soremartec S.A.
-address:      16, Route de Trèves
-address:      Senningerberg L-2633
-address:      Luxembourg
-phone:        +352 349 711 95 06
-fax-no:       +352 349411
-e-mail:       stefano.marzocchi@ferrero.com
-
-contact:      technical
-name:         IANA Contact
-organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
-address:      United States of America (the)
-phone:        +1 480 505 8800
-fax-no:       +1 480 624 2546
-e-mail:       iana@registry.godaddy
-
-nserver:      A.NIC.ROCHER 2001:dcd:1:0:0:0:0:9 37.209.192.9
-nserver:      B.NIC.ROCHER 2001:dcd:2:0:0:0:0:9 37.209.194.9
-nserver:      C.NIC.ROCHER 2001:dcd:3:0:0:0:0:9 37.209.196.9
-nserver:      NS1.DNS.NIC.ROCHER 156.154.144.145 2610:a1:1071:0:0:0:0:91
-nserver:      NS2.DNS.NIC.ROCHER 156.154.145.145 2610:a1:1072:0:0:0:0:91
-nserver:      NS3.DNS.NIC.ROCHER 156.154.159.145 2610:a1:1073:0:0:0:0:91
-ds-rdata:     13024 8 2 0d2b1343a7cd4a96e7631a8a362ed2758ccc2fe719953e466015dde7b098ae06
-ds-rdata:     41032 8 2 a5473a95ba6fb68769afee049ee37ab57fe8411c8d78e9d71e61481c54fc9c45
-
 whois:        
 
-status:       ACTIVE
-remarks:      Registration information: http://www.ferrero.com
+status:       FORMER
+remarks:      Registration information: 
 
 created:      2015-09-10
-changed:      2023-08-15
+changed:      2023-11-02
 source:       IANA
 
 % IANA WHOIS server
@@ -48008,15 +47927,16 @@ source:       IANA
 domain:       RW
 
 organisation: Rwanda Internet Community and Technology  Alliance (RICTA) Ltd
-address:      Boulevard de L’Umuganda
-address:      Telecom House 6th floor
+address:      Hallmark center - Ground floor
+address:      Remera
 address:      Kigali
 address:      Rwanda
 
 contact:      administrative
 name:         IT Manager
 organisation: Rwanda Internet Community and Technology  Alliance (RICTA) Ltd
-address:      6th floor, Telecom House Building, KG #7, Kacyiru Sector, Gasabo District
+address:      Hallmark center - Ground Floor
+address:      Remera
 address:      Kigali City
 address:      Rwanda
 phone:        +250788424148
@@ -48025,19 +47945,20 @@ e-mail:       rw-adm@ricta.org.rw
 contact:      technical
 name:         IT Manager
 organisation: Rwanda Internet Community and Technology  Alliance (RICTA) Ltd
-address:      6th floor, Telecom House Building, KG #7, Kacyiru Sector, Gasabo District
+address:      Hallmark center - Ground floor
+address:      Remera
 address:      Kigali City
 address:      Rwanda
 phone:        +250788424148
 e-mail:       noc@ricta.org.rw
 
+nserver:      ANS.DNSSTUDY.AFRICA 192.96.24.69
 nserver:      FORK.STH.DNSNODE.NET 2a01:3f0:0:306:0:0:0:53 77.72.229.254
 nserver:      NS-RW.AFRINIC.NET 196.216.168.28 2001:43f8:120:0:0:0:0:28
 nserver:      NS1.RICTA.ORG.RW 196.49.7.188
 nserver:      NS2.RICTA.ORG.RW 196.49.7.186
 nserver:      NS3.RICTA.ORG.RW 41.138.85.98
 nserver:      PCH.RICTA.ORG.RW 2001:500:14:6091:ad:0:0:1 204.61.216.91
-ds-rdata:     39755 8 1 f5fe9c8f6290eed632676687f03d986f17f27799
 ds-rdata:     39755 8 2 005f7a73f0609a69ca7736158490764e1a8dc0652ab1d0e327941af0fe673111
 
 whois:        whois.ricta.org.rw
@@ -48046,7 +47967,7 @@ status:       ACTIVE
 remarks:      Registration information: https://registry.ricta.org.rw
 
 created:      1996-10-21
-changed:      2023-01-10
+changed:      2023-11-08
 source:       IANA
 
 % IANA WHOIS server
@@ -49529,7 +49450,6 @@ nserver:      A.NIC.SCHWARZ 194.169.218.99 2001:67c:13cc:0:0:0:1:99
 nserver:      B.NIC.SCHWARZ 185.24.64.99 2a04:2b00:13cc:0:0:0:1:99
 nserver:      C.NIC.SCHWARZ 212.18.248.99 2a04:2b00:13ee:0:0:0:0:99
 nserver:      D.NIC.SCHWARZ 212.18.249.99 2a04:2b00:13ff:0:0:0:0:99
-ds-rdata:     51361 7 2 39d5a41f51dc9478526a8eceb14c11095d7eee368191936ef8519b15d2f0aab7
 ds-rdata:     21945 13 2 65795ac97bb20d4d18cda59e8cb0bca258156f4a2ad3e3d2495259efd1708357
 ds-rdata:     19729 13 2 776ae387424072c0216e5ec2a5d726f289d74e1bd1527400e490982c28789f5b
 
@@ -49539,7 +49459,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.nic.schwarz
 
 created:      2014-12-04
-changed:      2023-10-06
+changed:      2023-11-06
 source:       IANA
 
 % IANA WHOIS server
@@ -56903,6 +56823,8 @@ nserver:      NS42.NIC.TR 185.7.0.3
 nserver:      NS61.NIC.TR 206.51.254.1 2620:171:804:ad2:0:0:0:1
 nserver:      NS71.NIC.TR 185.67.32.53
 nserver:      NS72.NIC.TR 2603:1020:201:10:0:0:0:111 40.68.114.66
+nserver:      NS73.NIC.TR 31.145.253.159
+nserver:      NS74.NIC.TR 31.145.253.160
 ds-rdata:     48972 13 2 1e67cf0aa2e236a06d1f93491990960efebab089a2badaefbb64e391ae6e95eb
 
 whois:        whois.trabis.gov.tr
@@ -56911,7 +56833,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.trabis.gov.tr
 
 created:      1990-09-17
-changed:      2023-09-26
+changed:      2023-11-07
 source:       IANA
 
 % IANA WHOIS server
@@ -58512,10 +58434,6 @@ phone:        703.925.6999
 fax-no:       703.948.3978
 e-mail:       info@verisign-grs.com
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
 nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
 nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
 nserver:      NS01.TRS-DNS.NET 64.96.2.1
@@ -58529,7 +58447,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2015-09-24
-changed:      2023-10-23
+changed:      2023-11-02
 source:       IANA
 
 % IANA WHOIS server
@@ -61173,13 +61091,13 @@ address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 1865 332211
 e-mail:       registrytechnical@nominet.uk
 
-nserver:      DNS1.NOMINETDNS.UK 213.248.219.254 2a01:618:403:0:0:0:0:254
+nserver:      DNS1.NIC.WINDOWS 213.248.219.133 2a01:618:403:0:0:0:0:133
 nserver:      DNS2.NOMINETDNS.UK 103.49.83.254 2401:fd80:403:0:0:0:0:254
-nserver:      DNS3.NOMINETDNS.UK 213.248.223.254 2a01:618:407:0:0:0:0:254
+nserver:      DNS3.NIC.WINDOWS 213.248.223.133 2a01:618:407:0:0:0:0:133
 nserver:      DNS4.NOMINETDNS.UK 2401:fd80:407:0:0:0:0:254 43.230.51.254
-nserver:      DNSA.NOMINETDNS.UK 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSA.NIC.WINDOWS 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NOMINETDNS.UK 156.154.101.3 2001:502:2eda:0:0:0:0:3
-nserver:      DNSC.NOMINETDNS.UK 156.154.102.3 2610:a1:1009:0:0:0:0:3
+nserver:      DNSC.NIC.WINDOWS 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NOMINETDNS.UK 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     44526 8 2 f6dda2f2e3e99e70c47f0393f0154d1641435abdf20e5e5c0a8416c0da34a922
 ds-rdata:     31600 8 2 8057adbdc309cac9cdb987f477b7217b15c88d0a7f84e3b9ba5af412d24b60c9
@@ -61190,7 +61108,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.microsoft.com
 
 created:      2015-04-30
-changed:      2023-10-26
+changed:      2023-11-08
 source:       IANA
 
 % IANA WHOIS server
@@ -61814,13 +61732,13 @@ address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 1865 332211
 e-mail:       registrytechnical@nominet.uk
 
-nserver:      DNS1.NOMINETDNS.UK 213.248.219.254 2a01:618:403:0:0:0:0:254
+nserver:      DNS1.NIC.XBOX 213.248.219.134 2a01:618:403:0:0:0:0:134
 nserver:      DNS2.NOMINETDNS.UK 103.49.83.254 2401:fd80:403:0:0:0:0:254
-nserver:      DNS3.NOMINETDNS.UK 213.248.223.254 2a01:618:407:0:0:0:0:254
+nserver:      DNS3.NIC.XBOX 213.248.223.134 2a01:618:407:0:0:0:0:134
 nserver:      DNS4.NOMINETDNS.UK 2401:fd80:407:0:0:0:0:254 43.230.51.254
-nserver:      DNSA.NOMINETDNS.UK 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSA.NIC.XBOX 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NOMINETDNS.UK 156.154.101.3 2001:502:2eda:0:0:0:0:3
-nserver:      DNSC.NOMINETDNS.UK 156.154.102.3 2610:a1:1009:0:0:0:0:3
+nserver:      DNSC.NIC.XBOX 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NOMINETDNS.UK 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     48291 8 2 1189083bb85010770d8937e4bc2a2af6fc2c81f2eef8a53a7a2457709a53c362
 ds-rdata:     43570 8 2 2c478092b86d62235c8a27bf365edda5c86167e1e9244a50526b735038e5dc26
@@ -61831,7 +61749,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.microsoft.com
 
 created:      2015-04-30
-changed:      2023-10-26
+changed:      2023-11-08
 source:       IANA
 
 % IANA WHOIS server

@@ -798,6 +798,7 @@ nserver:      DNSC.AD 194.158.74.10 2a02:8060:32fa:0:0:0:0:b
 nserver:      DNSM.AD 194.158.74.9 2a02:8060:32fa:0:0:0:0:a
 nserver:      NS3.NIC.FR 192.134.0.49 2001:660:3006:1:0:0:1:1
 ds-rdata:     10624 8 2 732ac3921e40eac6c01b0c467beda420f42bf38b7c462e86d01d1d2c4eb9da37
+ds-rdata:     50617 8 2 12432422b23ea8f82751d15041df27f6e2c8c408c3d7a18dcac511652e5e263d
 
 whois:        
 
@@ -805,7 +806,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.ad
 
 created:      1996-01-09
-changed:      2023-05-02
+changed:      2023-11-14
 source:       IANA
 
 % IANA WHOIS server
@@ -978,10 +979,12 @@ phone:        +1-703-925-6999
 fax-no:       +1-703-948-3978
 e-mail:       info@verisign-grs.com
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+nserver:      V0N0.NIC.AEG 2a01:8840:6a:0:0:0:0:2 65.22.108.2
+nserver:      V0N1.NIC.AEG 2a01:8840:6b:0:0:0:0:2 65.22.109.2
+nserver:      V0N2.NIC.AEG 2a01:8840:6c:0:0:0:0:2 65.22.110.2
+nserver:      V0N3.NIC.AEG 161.232.32.2 2a01:8840:108:0:0:0:0:2
+nserver:      V2N0.NIC.AEG 2a01:8840:6d:0:0:0:0:2 65.22.111.2
+nserver:      V2N1.NIC.AEG 161.232.33.2 2a01:8840:109:0:0:0:0:2
 ds-rdata:     39735 8 2 b28a67a4935609bcf1257af4215b9ffce0f7e917bc076bd69030a5d76008ae51
 ds-rdata:     34387 8 2 03500be162e8b2bc43345d119763e29d9284de715bdf66e55dd19b400a1e64ae
 
@@ -991,7 +994,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2015-06-11
-changed:      2023-11-01
+changed:      2023-11-14
 source:       IANA
 
 % IANA WHOIS server
@@ -1408,6 +1411,7 @@ nserver:      A.LACTLD.ORG 200.0.68.10 2801:14:a000:0:0:0:0:10
 nserver:      ANYCASTDNS1-CZ.NIC.AI 185.28.194.194
 nserver:      ANYCASTDNS2-CZ.NIC.AI 185.38.108.108 2a00:fea0:dead:0:0:0:0:beef
 nserver:      PCH.WHOIS.AI 2001:500:14:6123:ad:0:0:1 204.61.216.123
+ds-rdata:     44137 8 2 7886bd35ed745dca983d951a643495b929b3a7676a88c682ef88eb6fedbdb253
 
 whois:        whois.nic.ai
 
@@ -1415,7 +1419,7 @@ status:       ACTIVE
 remarks:      Registration information: http://whois.ai
 
 created:      1995-02-16
-changed:      2022-07-20
+changed:      2023-11-14
 source:       IANA
 
 % IANA WHOIS server
@@ -6851,9 +6855,8 @@ nserver:      A.NIC.BLOG 194.169.218.94 2001:67c:13cc:0:0:0:1:94
 nserver:      B.NIC.BLOG 185.24.64.94 2a04:2b00:13cc:0:0:0:1:94
 nserver:      C.NIC.BLOG 212.18.248.94 2a04:2b00:13ee:0:0:0:0:94
 nserver:      D.NIC.BLOG 212.18.249.94 2a04:2b00:13ff:0:0:0:0:94
-ds-rdata:     43975 8 2 94023be3a769704f45ecb9fea13bbbab6adcdb4d8bb39e621e3cbf223fb5ca53
-ds-rdata:     16976 8 1 f4535c694f892ffeb740c35cc9665b52e360df7d
 ds-rdata:     16976 8 2 9862de44e1e7e44215165000c4b87bd3f46d439c686166da0ca79e06896958b7
+ds-rdata:     17455 8 2 c0d6cd12fcb746bb819df417dfa43ed0d4227bd62195f749537af85a939d2a21
 
 whois:        whois.nic.blog
 
@@ -6861,7 +6864,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.blog
 
 created:      2016-05-12
-changed:      2021-10-12
+changed:      2023-11-09
 source:       IANA
 
 % IANA WHOIS server
@@ -6895,10 +6898,12 @@ phone:        1-703-925-6999
 fax-no:       1-703-948-3978
 e-mail:       info@verisign-grs.com
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+nserver:      V0N0.NIC.BLOOMBERG 2a01:8840:6a:0:0:0:0:3 65.22.108.3
+nserver:      V0N1.NIC.BLOOMBERG 2a01:8840:6b:0:0:0:0:3 65.22.109.3
+nserver:      V0N2.NIC.BLOOMBERG 2a01:8840:6c:0:0:0:0:3 65.22.110.3
+nserver:      V0N3.NIC.BLOOMBERG 161.232.32.3 2a01:8840:108:0:0:0:0:3
+nserver:      V2N0.NIC.BLOOMBERG 2a01:8840:6d:0:0:0:0:3 65.22.111.3
+nserver:      V2N1.NIC.BLOOMBERG 161.232.33.3 2a01:8840:109:0:0:0:0:3
 ds-rdata:     46338 8 2 98a66be30959371e15eaf5d4a65ada3393050610a2e5b7ae321b694c876258c9
 ds-rdata:     49654 8 2 da5a6b59df8da1f4b814d38fb01359bccbee0e6595e19fc569c1830ce452447c
 
@@ -6908,7 +6913,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2014-10-16
-changed:      2023-11-01
+changed:      2023-11-14
 source:       IANA
 
 % IANA WHOIS server
@@ -7370,10 +7375,12 @@ phone:        +1-703-925-6999
 fax-no:       +1-703-948-3978
 e-mail:       info@verisign-grs.com
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+nserver:      V0N0.NIC.BOFA 2a01:8840:6a:0:0:0:0:4 65.22.108.4
+nserver:      V0N1.NIC.BOFA 2a01:8840:6b:0:0:0:0:4 65.22.109.4
+nserver:      V0N2.NIC.BOFA 2a01:8840:6c:0:0:0:0:4 65.22.110.4
+nserver:      V0N3.NIC.BOFA 161.232.32.4 2a01:8840:108:0:0:0:0:4
+nserver:      V2N0.NIC.BOFA 2a01:8840:6d:0:0:0:0:4 65.22.111.4
+nserver:      V2N1.NIC.BOFA 161.232.33.4 2a01:8840:109:0:0:0:0:4
 ds-rdata:     35541 8 2 5bf7c416fa5dba14158b807ff4eb2f0438db45d35d0f0af4f6feff148399b455
 ds-rdata:     64354 8 2 bf0d0e96761317b889dd50495191a1fe5d5342703c381c21ede518e843beb658
 
@@ -7383,7 +7390,7 @@ status:       ACTIVE
 remarks:      Registration information: http://bofa.com
 
 created:      2016-07-28
-changed:      2023-11-01
+changed:      2023-11-14
 source:       IANA
 
 % IANA WHOIS server
@@ -7421,7 +7428,7 @@ nserver:      C.DNS.BR 200.192.233.10 2001:12f8:a:0:0:0:0:10
 nserver:      D.DNS.BR 200.219.154.10 2001:12f8:4:0:0:0:0:10
 nserver:      E.DNS.BR 200.229.248.10 2001:12f8:2:0:0:0:0:10
 nserver:      F.DNS.BR 200.219.159.10 2001:12f8:c:0:0:0:0:10
-ds-rdata:     2471 13 2 351532c0b3a206b6b0f3b70db8dc5f588ca48a9a0aadf743b483aaeb063af2ed
+ds-rdata:     50876 13 2 73cd911038f12b7217e0afc973723e52235395f8017d1008c066ee25fc316ba5
 
 whois:        whois.gtlds.nic.br
 
@@ -7429,7 +7436,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2015-05-29
-changed:      2020-06-08
+changed:      2023-11-14
 source:       IANA
 
 % IANA WHOIS server
@@ -7953,7 +7960,7 @@ nserver:      C.DNS.BR 200.192.233.10 2001:12f8:a:0:0:0:0:10
 nserver:      D.DNS.BR 200.219.154.10 2001:12f8:4:0:0:0:0:10
 nserver:      E.DNS.BR 200.229.248.10 2001:12f8:2:0:0:0:0:10
 nserver:      F.DNS.BR 200.219.159.10 2001:12f8:c:0:0:0:0:10
-ds-rdata:     2471 13 2 5e4f35998b8f909557fa119c4cbfdca2d660a26f069ef006b403758a07d1a2e4
+ds-rdata:     38298 13 2 9f2d4993f47b0f2751de0007d70a2754ee532fe373761154d9ea7a8cb9d8ea18
 
 whois:        whois.registro.br
 
@@ -7961,7 +7968,7 @@ status:       ACTIVE
 remarks:      Registration information: http://registro.br/
 
 created:      1989-04-18
-changed:      2019-08-01
+changed:      2023-11-14
 source:       IANA
 
 % IANA WHOIS server
@@ -10163,15 +10170,18 @@ address:      Ground Floor
 address:      Tower 1 201 Sussex Street
 address:      Sydney NSW 1155
 address:      Australia
-phone:        +61477387865
+phone:        +61468499843
 fax-no:       +61291181601
-e-mail:       domains@cba.com.au
+e-mail:       ngtld-cba@cscglobal.com
 
 nserver:      A.NIC.CBA 2001:dcd:1:0:0:0:0:9 37.209.192.9
 nserver:      B.NIC.CBA 2001:dcd:2:0:0:0:0:9 37.209.194.9
 nserver:      C.NIC.CBA 2001:dcd:3:0:0:0:0:9 37.209.196.9
-nserver:      D.NIC.CBA 2001:dcd:4:0:0:0:0:9 37.209.198.9
+nserver:      X.NIC.CBA 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.CBA 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.CBA 156.154.174.82 2610:a1:1076:0:0:0:1:82
 ds-rdata:     44287 8 2 8ca6adaea243428a99943519846fd6f6bd355ec4990533d0569ee0e6075eb863
+ds-rdata:     31729 8 2 84871955bc863e5911b72369b1d1eb75ff087a8093edb4ba4bfb48f95813c034
 
 whois:        whois.nic.cba
 
@@ -10179,7 +10189,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.commbank.com.au
 
 created:      2015-03-26
-changed:      2022-07-21
+changed:      2023-11-14
 source:       IANA
 
 % IANA WHOIS server
@@ -12713,15 +12723,18 @@ address:      Ground Floor
 address:      Tower 1 201 Sussex Street
 address:      Sydney NSW 1155
 address:      Australia
-phone:        +61477387865
+phone:        +61468499843
 fax-no:       +61291181601
-e-mail:       domains@cba.com.au
+e-mail:       ngtld-cba@cscglobal.com
 
 nserver:      A.NIC.COMMBANK 2001:dcd:1:0:0:0:0:9 37.209.192.9
 nserver:      B.NIC.COMMBANK 2001:dcd:2:0:0:0:0:9 37.209.194.9
 nserver:      C.NIC.COMMBANK 2001:dcd:3:0:0:0:0:9 37.209.196.9
-nserver:      D.NIC.COMMBANK 2001:dcd:4:0:0:0:0:9 37.209.198.9
+nserver:      X.NIC.COMMBANK 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.COMMBANK 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.COMMBANK 156.154.174.82 2610:a1:1076:0:0:0:1:82
 ds-rdata:     25681 8 2 ccb3f1bcfd33d277ece719b8aad64a84b6722c4a46235605f3df06d435f59b6d
+ds-rdata:     61396 8 2 74227b152e28cafc3c00b648323982976ee6fc17d521642924d0d145c6135998
 
 whois:        whois.nic.commbank
 
@@ -12729,7 +12742,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.commbank.com.au
 
 created:      2015-03-26
-changed:      2022-07-21
+changed:      2023-11-14
 source:       IANA
 
 % IANA WHOIS server
@@ -19743,7 +19756,7 @@ nserver:      C.DNS.BR 200.192.233.10 2001:12f8:a:0:0:0:0:10
 nserver:      D.DNS.BR 200.219.154.10 2001:12f8:4:0:0:0:0:10
 nserver:      E.DNS.BR 200.229.248.10 2001:12f8:2:0:0:0:0:10
 nserver:      F.DNS.BR 200.219.159.10 2001:12f8:c:0:0:0:0:10
-ds-rdata:     2471 13 2 d2ecd166572437125f8d9b0157e59bb3d4201f5700c2749eb4b8dc1d30b2964b
+ds-rdata:     50876 13 2 fa2b3e06baf62edcf8b49c179dc4de953299cb56e11bf191aa81a94b3d0b535d
 
 whois:        whois.gtlds.nic.br
 
@@ -19751,7 +19764,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2015-05-29
-changed:      2020-06-15
+changed:      2023-11-14
 source:       IANA
 
 % IANA WHOIS server
@@ -24100,11 +24113,11 @@ address:      United States of America (the)
 contact:      administrative
 name:         Program Manager
 organisation: Cybersecurity and Infrastructure Security Agency
-address:      4200 Wilson Blvd.
-address:      Arlington VA 22201
+address:      1110 N. Glebe Rd.
+address:      Arlington VA 20598-0645
 address:      United States of America (the)
 phone:        +1 888 282 0870
-e-mail:       dotgov@cisa.dhs.gov
+e-mail:       help@get.gov
 
 contact:      technical
 name:         Registry Customer Service
@@ -24116,13 +24129,9 @@ phone:        +1 877 734 4688
 fax-no:       +1 540 301 0160
 e-mail:       registrar@dotgov.gov
 
-nserver:      A.GOV-SERVERS.NET 2001:500:4431:0:0:0:2:30 69.36.157.30
 nserver:      A.NS.GOV 199.33.230.1 2001:503:ff40:0:0:0:0:1
-nserver:      B.GOV-SERVERS.NET 209.112.123.30 2620:74:27:0:0:0:2:30
 nserver:      B.NS.GOV 199.33.231.1 2001:503:ff41:0:0:0:0:1
-nserver:      C.GOV-SERVERS.NET 2620:74:28:0:0:0:2:30 69.36.153.30
 nserver:      C.NS.GOV 199.33.232.1 2001:503:ff42:0:0:0:0:1
-nserver:      D.GOV-SERVERS.NET 2620:74:29:0:0:0:2:30 81.19.194.30
 nserver:      D.NS.GOV 199.33.233.1 2001:503:ff43:0:0:0:0:1
 ds-rdata:     7698 8 2 6bc949e638442ead0bdaf0935763c8d003760384ff15ebbd5ce86bb5559561f0
 ds-rdata:     64280 8 2 d66cdda12234c22c5e6fd1c894dbd682fe7967e111793485a281972bfb164377
@@ -24130,10 +24139,10 @@ ds-rdata:     64280 8 2 d66cdda12234c22c5e6fd1c894dbd682fe7967e111793485a281972b
 whois:        whois.dotgov.gov
 
 status:       ACTIVE
-remarks:      Registration information: http://www.dotgov.gov
+remarks:      Registration information: https://get.gov
 
 created:      1985-01-01
-changed:      2023-10-16
+changed:      2023-11-13
 source:       IANA
 
 % IANA WHOIS server
@@ -34576,7 +34585,7 @@ nserver:      C.TLD.LT 194.0.1.4 2001:678:4:0:0:0:0:4
 nserver:      D.TLD.LT 194.0.3.1 2001:678:6:0:0:0:0:1
 nserver:      E.TLD.LT 194.0.18.1
 nserver:      F.TLD.LT 194.0.19.1 2001:678:8c:0:0:0:0:1
-ds-rdata:     56197 8 2 daeb03eba817b22e5e0fa3bb3e1fce483df8eb309e9d350838a9659e609e15aa
+ds-rdata:     60305 8 2 2f5e8cf57360378a0325783cbc4ae219b43d7fab1bced9e7c51c6104c1690078
 
 whois:        whois.domreg.lt
 
@@ -34584,7 +34593,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.domreg.lt
 
 created:      1992-06-03
-changed:      2022-06-22
+changed:      2023-11-11
 source:       IANA
 
 % IANA WHOIS server
@@ -38944,7 +38953,7 @@ nserver:      C.DNS.BR 200.192.233.10 2001:12f8:a:0:0:0:0:10
 nserver:      D.DNS.BR 200.219.154.10 2001:12f8:4:0:0:0:0:10
 nserver:      E.DNS.BR 200.229.248.10 2001:12f8:2:0:0:0:0:10
 nserver:      F.DNS.BR 200.219.159.10 2001:12f8:c:0:0:0:0:10
-ds-rdata:     2471 13 2 c42365fcde0c1898ab38a492ea636e38437fc87c5ef161bdc3c27893bfac9b6e
+ds-rdata:     50876 13 2 406b80a131f692452922a7e2448f78ebb85d60e28f766fb9f869c2636d441766
 
 whois:        whois.gtlds.nic.br
 
@@ -38952,7 +38961,7 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.natura
 
 created:      2016-01-29
-changed:      2020-06-15
+changed:      2023-11-14
 source:       IANA
 
 % IANA WHOIS server
@@ -39141,7 +39150,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.intnet.ne
 
 created:      1996-04-24
-changed:      2012-07-26
+changed:      2023-11-09
 source:       IANA
 
 % IANA WHOIS server
@@ -39276,15 +39285,18 @@ address:      Ground Floor
 address:      Tower 1 201 Sussex Street
 address:      Sydney NSW 1155
 address:      Australia
-phone:        +61477387865
+phone:        +61468499843
 fax-no:       +61291181601
-e-mail:       domains@cba.com.au
+e-mail:       ngtld-cba@cscglobal.com
 
 nserver:      A.NIC.NETBANK 2001:dcd:1:0:0:0:0:9 37.209.192.9
 nserver:      B.NIC.NETBANK 2001:dcd:2:0:0:0:0:9 37.209.194.9
 nserver:      C.NIC.NETBANK 2001:dcd:3:0:0:0:0:9 37.209.196.9
-nserver:      D.NIC.NETBANK 2001:dcd:4:0:0:0:0:9 37.209.198.9
+nserver:      X.NIC.NETBANK 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.NETBANK 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.NETBANK 156.154.174.82 2610:a1:1076:0:0:0:1:82
 ds-rdata:     61447 8 2 2e300d5e09bdd071679488d325666af89182213d8af2bd2d026c57f3fab5895e
+ds-rdata:     29050 8 2 401dd968541610c0a000139e1462693701042a2931afa1a246d8bfa05ab13c94
 
 whois:        whois.nic.netbank
 
@@ -39292,7 +39304,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.commbank.com.au
 
 created:      2015-03-26
-changed:      2022-07-21
+changed:      2023-11-14
 source:       IANA
 
 % IANA WHOIS server
@@ -43424,10 +43436,12 @@ phone:        +1-703-925-6999
 fax-no:       +1-703-948-3978
 e-mail:       info@verisign-grs.com
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+nserver:      V0N0.NIC.PICTET 2a01:8840:6a:0:0:0:0:6 65.22.108.6
+nserver:      V0N1.NIC.PICTET 2a01:8840:6b:0:0:0:0:6 65.22.109.6
+nserver:      V0N2.NIC.PICTET 2a01:8840:6c:0:0:0:0:6 65.22.110.6
+nserver:      V0N3.NIC.PICTET 161.232.32.6 2a01:8840:108:0:0:0:0:6
+nserver:      V2N0.NIC.PICTET 2a01:8840:6d:0:0:0:0:6 65.22.111.6
+nserver:      V2N1.NIC.PICTET 161.232.33.6 2a01:8840:109:0:0:0:0:6
 ds-rdata:     216 8 2 de41fd4b1c1cedab4d83f1bacc75db5012e269bd46a56b4c03d43380fba665e6
 ds-rdata:     6694 8 2 61db4e4ae88a08e546af5490ac950221659b53669a6d54bbe6ff662568c5e6d7
 
@@ -43437,7 +43451,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2015-01-08
-changed:      2023-11-01
+changed:      2023-11-14
 source:       IANA
 
 % IANA WHOIS server
@@ -47309,7 +47323,7 @@ nserver:      C.DNS.BR 200.192.233.10 2001:12f8:a:0:0:0:0:10
 nserver:      D.DNS.BR 200.219.154.10 2001:12f8:4:0:0:0:0:10
 nserver:      E.DNS.BR 200.229.248.10 2001:12f8:2:0:0:0:0:10
 nserver:      F.DNS.BR 200.219.159.10 2001:12f8:c:0:0:0:0:10
-ds-rdata:     2471 13 2 452f6bd5cb271080aad2425fb762a32d0880d6c706f16ed4d0c8797342a91a80
+ds-rdata:     50876 13 2 b4e05083f7129fab32ea7a6c847999ae437c7f2a8fc11d621f73e4fb386347d4
 
 whois:        whois.gtlds.nic.br
 
@@ -47317,7 +47331,7 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.rio/
 
 created:      2014-05-15
-changed:      2021-09-30
+changed:      2023-11-14
 source:       IANA
 
 % IANA WHOIS server
@@ -55508,10 +55522,12 @@ phone:        +1-703-925-6999
 fax-no:       +1-703-948-3978
 e-mail:       info@verisign-grs.com
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+nserver:      V0N0.NIC.TIAA 2a01:8840:6a:0:0:0:0:7 65.22.108.7
+nserver:      V0N1.NIC.TIAA 2a01:8840:6b:0:0:0:0:7 65.22.109.7
+nserver:      V0N2.NIC.TIAA 2a01:8840:6c:0:0:0:0:7 65.22.110.7
+nserver:      V0N3.NIC.TIAA 161.232.32.7 2a01:8840:108:0:0:0:0:7
+nserver:      V2N0.NIC.TIAA 2a01:8840:6d:0:0:0:0:7 65.22.111.7
+nserver:      V2N1.NIC.TIAA 161.232.33.7 2a01:8840:109:0:0:0:0:7
 ds-rdata:     9186 8 2 5214d8971ec4dc7cd349205bcb13f84d4446aafa4d87d07c8c5443a180741fea
 ds-rdata:     14185 8 2 14d2ba968e8bda466149febec577c50eca9cb7759996fa762a5f8081c424b825
 
@@ -55521,7 +55537,7 @@ status:       ACTIVE
 remarks:      Registration information: http://tiaa.org
 
 created:      2016-03-24
-changed:      2023-11-01
+changed:      2023-11-14
 source:       IANA
 
 % IANA WHOIS server
@@ -58097,7 +58113,7 @@ nserver:      C.DNS.BR 200.192.233.10 2001:12f8:a:0:0:0:0:10
 nserver:      D.DNS.BR 200.219.154.10 2001:12f8:4:0:0:0:0:10
 nserver:      E.DNS.BR 200.229.248.10 2001:12f8:2:0:0:0:0:10
 nserver:      F.DNS.BR 200.219.159.10 2001:12f8:c:0:0:0:0:10
-ds-rdata:     2471 13 2 3997a266fb5806ed43e8fa8df8d9e492673fb4c8d35747346be522fa5123317f
+ds-rdata:     50876 13 2 3bb27beb43a9097b691a4704dfe1b28089265799e77afd4a97ffba11796d87dc
 
 whois:        whois.gtlds.nic.br
 
@@ -58105,7 +58121,7 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.uol/
 
 created:      2014-08-07
-changed:      2020-06-15
+changed:      2023-11-14
 source:       IANA
 
 % IANA WHOIS server

@@ -2176,7 +2176,6 @@ nserver:      C.NIC.AMERICANEXPRESS 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.AMERICANEXPRESS 156.154.144.9 2610:a1:1071:0:0:0:0:9
 nserver:      NS2.DNS.NIC.AMERICANEXPRESS 156.154.145.9 2610:a1:1072:0:0:0:0:9
 nserver:      NS3.DNS.NIC.AMERICANEXPRESS 156.154.159.9 2610:a1:1073:0:0:0:0:9
-ds-rdata:     31510 8 2 87098c48f0e74920da2d916e8aea9fc1e92919ee033ee569569942a5dcb02c02
 ds-rdata:     34516 8 2 1586cd9180548b70d0d4978f816744c95202f6d63e8685866025116314e629a7
 
 whois:        
@@ -2186,7 +2185,7 @@ remarks:      Registration information:
 remarks:      https://www.americanexpress.com
 
 created:      2016-07-22
-changed:      2023-08-14
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -2272,7 +2271,6 @@ nserver:      C.NIC.AMEX 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.AMEX 156.154.144.10 2610:a1:1071:0:0:0:0:a
 nserver:      NS2.DNS.NIC.AMEX 156.154.145.10 2610:a1:1072:0:0:0:0:a
 nserver:      NS3.DNS.NIC.AMEX 156.154.159.10 2610:a1:1073:0:0:0:0:a
-ds-rdata:     22897 8 2 e17027e1218ba28cd5cc6847f0b7606066ee92eea6b9901d4e8e41b3e9930b6e
 ds-rdata:     33586 8 2 7deb639c1b7c68838cb13ac4063cef638bd32b47a399f6fe712e893a9a8cec19
 
 whois:        
@@ -2282,7 +2280,7 @@ remarks:      Registration information:
 remarks:      https://www.americanexpress.com
 
 created:      2016-07-21
-changed:      2023-08-14
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -2368,7 +2366,6 @@ nserver:      C.NIC.AMICA 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.AMICA 156.154.144.11 2610:a1:1071:0:0:0:0:b
 nserver:      NS2.DNS.NIC.AMICA 156.154.145.11 2610:a1:1072:0:0:0:0:b
 nserver:      NS3.DNS.NIC.AMICA 156.154.159.11 2610:a1:1073:0:0:0:0:b
-ds-rdata:     14902 8 2 a464df4fd3a7b27eb3177a1813bc95d25d3f50e5ae5192619a272dce8587cea8
 ds-rdata:     37714 8 2 d2d98dd38d76b5819cd3079b1772ea5370f5cd0843cd53af0569985c6d92599f
 
 whois:        
@@ -2377,7 +2374,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.amica.com
 
 created:      2015-08-06
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -2460,7 +2457,6 @@ nserver:      C.NIC.ANALYTICS 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.ANALYTICS 156.154.144.12 2610:a1:1071:0:0:0:0:c
 nserver:      NS2.DNS.NIC.ANALYTICS 156.154.145.12 2610:a1:1072:0:0:0:0:c
 nserver:      NS3.DNS.NIC.ANALYTICS 156.154.159.12 2610:a1:1073:0:0:0:0:c
-ds-rdata:     52096 8 2 55dfdf9c576ca2ad13deec42a7d0eb36df9ff56500c5cb33fa0c0879c6f1d8d6
 ds-rdata:     31084 8 2 c08755f7be6273af24944d2fc49c0d1590ddd440aaa7440a08ffc67e2288c5a1
 
 whois:        
@@ -2469,7 +2465,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.sas.com
 
 created:      2015-11-20
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -3072,7 +3068,6 @@ nserver:      C.NIC.ARAMCO 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS4.DNS.NIC.ARAMCO 156.154.156.14 2610:a1:1074:0:0:0:0:e
 nserver:      NS5.DNS.NIC.ARAMCO 156.154.157.14 2610:a1:1075:0:0:0:0:e
 nserver:      NS6.DNS.NIC.ARAMCO 156.154.158.14 2610:a1:1076:0:0:0:0:e
-ds-rdata:     22207 8 2 2af8a3fc1aab39c9117f19956a83f0353fb0c206b33f253331080c91343781b3
 ds-rdata:     6265 8 2 aeb0cbb0275b05900f98a2f97cb6a47accf5d2f559439ddc79afc695341a9dee
 
 whois:        
@@ -3081,7 +3076,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.aramco.com
 
 created:      2015-08-20
-changed:      2023-09-08
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -3610,7 +3605,6 @@ nserver:      C.NIC.ATHLETA 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.ATHLETA 156.154.144.16 2610:a1:1071:0:0:0:0:10
 nserver:      NS2.DNS.NIC.ATHLETA 156.154.145.16 2610:a1:1072:0:0:0:0:10
 nserver:      NS3.DNS.NIC.ATHLETA 156.154.159.16 2610:a1:1073:0:0:0:0:10
-ds-rdata:     24775 8 2 27e604906e1205089032c4cf28bc8e12c35d6dd3c1d5fe612ef5fae0aa5ac6ba
 ds-rdata:     14776 8 2 cc5ce98fe2c8ebb8da9b7cef6efae743b1b92a8b60d276c42510fd7c55177632
 
 whois:        
@@ -3619,7 +3613,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.gap.com
 
 created:      2016-07-14
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -4335,7 +4329,6 @@ nserver:      C.NIC.AXA 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.AXA 156.154.144.20 2610:a1:1071:0:0:0:0:14
 nserver:      NS2.DNS.NIC.AXA 156.154.145.20 2610:a1:1072:0:0:0:0:14
 nserver:      NS3.DNS.NIC.AXA 156.154.159.20 2610:a1:1073:0:0:0:0:14
-ds-rdata:     62554 8 2 e0444f158023dd294cb64ebce2b642bd7d26eddf0d5a1592b12c9d6411c1c448
 ds-rdata:     5080 8 2 4d57320629ffdd40e328d66e6b2c7ebca3945ce8d09a78e6e336dddb6ead6711
 
 whois:        
@@ -4344,7 +4337,7 @@ status:       ACTIVE
 remarks:      Registration information: https://domains.axa/
 
 created:      2014-03-13
-changed:      2023-08-16
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -4623,7 +4616,6 @@ nserver:      C.NIC.BANAMEX 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.BANAMEX 156.154.144.21 2610:a1:1071:0:0:0:0:15
 nserver:      NS2.DNS.NIC.BANAMEX 156.154.145.21 2610:a1:1072:0:0:0:0:15
 nserver:      NS3.DNS.NIC.BANAMEX 156.154.159.21 2610:a1:1073:0:0:0:0:15
-ds-rdata:     48619 8 2 0ec0cea382d19ea64e24c4c8b5dcd64217a362f580401ddf31b3ef3d78e35a9b
 ds-rdata:     38095 8 2 eb04c740fb681ab87a2376cfb9e5ce3a865f930da98246836670d0bb29478229
 
 whois:        
@@ -4632,7 +4624,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.citigroup.com
 
 created:      2016-07-21
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -4671,7 +4663,6 @@ nserver:      C.NIC.BANANAREPUBLIC 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.BANANAREPUBLIC 156.154.144.22 2610:a1:1071:0:0:0:0:16
 nserver:      NS2.DNS.NIC.BANANAREPUBLIC 156.154.145.22 2610:a1:1072:0:0:0:0:16
 nserver:      NS3.DNS.NIC.BANANAREPUBLIC 156.154.159.22 2610:a1:1073:0:0:0:0:16
-ds-rdata:     36871 8 2 4a4b1a43d4525be366f7cc568365d7d619dace7f6895e3c31390a079a7a03589
 ds-rdata:     42796 8 2 28bb727ee05f747a4eb0fc5e0d807542fa005a2a571c039fd34be55f3378bb5b
 
 whois:        
@@ -4680,7 +4671,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.gap.com
 
 created:      2016-07-14
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -4770,7 +4761,6 @@ nserver:      F.NIC.BANK 156.154.105.27 2610:a1:1012:0:0:0:0:27
 nserver:      W.NIC.BANK 2001:dcd:1:0:0:0:0:10 37.209.192.10
 nserver:      X.NIC.BANK 2001:dcd:2:0:0:0:0:10 37.209.194.10
 nserver:      Y.NIC.BANK 2001:dcd:3:0:0:0:0:10 37.209.196.10
-ds-rdata:     15994 8 2 659d10863a42e4957ad8f9ad97a56f8de227aa74fc9e3aa4c0e8afac0458071a
 ds-rdata:     21997 8 2 07edd24219ee1fa88d97695ea28c3722a29b566813cbfdcc4dbf498892b8ff0c
 
 whois:        whois.nic.bank
@@ -4779,7 +4769,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.ftld.com/
 
 created:      2014-11-26
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -5107,7 +5097,6 @@ nserver:      C.NIC.BASEBALL 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.BASEBALL 156.154.144.200 2610:a1:1071:0:0:0:0:c8
 nserver:      NS2.DNS.NIC.BASEBALL 156.154.145.200 2610:a1:1072:0:0:0:0:c8
 nserver:      NS3.DNS.NIC.BASEBALL 156.154.159.200 2610:a1:1073:0:0:0:0:c8
-ds-rdata:     28711 8 2 349e8b6a2e0890837ff4b69f7efb0f44e3c32dc976fa74962dd8f812d7712f66
 ds-rdata:     11122 8 2 440e52af38c50a3e6eddd224aa4c2ddb50a3b6313ebd36baaace8ff520d03a07
 
 whois:        whois.nic.baseball
@@ -5116,7 +5105,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.mlb.com
 
 created:      2016-09-29
-changed:      2023-11-29
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -5156,7 +5145,6 @@ nserver:      C.NIC.BASKETBALL 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      X.NIC.BASKETBALL 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.BASKETBALL 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.BASKETBALL 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     46201 8 2 ca5c951d022f3965ab936d403cfbb48f2d753d7b32dde3ac146b419693dfbf30
 ds-rdata:     48130 8 2 02653b2567731ff23c16036c9f0d51a3596fb8c93b6bd0801b74e7267af995af
 
 whois:        whois.nic.basketball
@@ -5165,7 +5153,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.fiba.com/
 
 created:      2016-10-13
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -5796,7 +5784,6 @@ nserver:      C.NIC.BEER 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      X.NIC.BEER 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.BEER 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.BEER 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     61849 8 2 11485cf30d665a82c06691c37983fd4eca2068add702ace7374ec00e800f788f
 ds-rdata:     39367 8 2 32940ab06d3524457f9ddead6c3c0c76729eec27c5cc02244cea24e9fd9e47f4
 
 whois:        whois.nic.beer
@@ -5805,7 +5792,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.beer/
 
 created:      2014-03-13
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -6178,13 +6165,13 @@ nserver:      C.NIC.BH 212.18.248.115 2a04:2b00:13ee:0:0:0:0:115
 nserver:      D.NIC.BH 212.18.249.115 2a04:2b00:13ff:0:0:0:0:115
 ds-rdata:     42035 8 2 de6b7cef6b195f0aac140c56c68868105d8f05967342c96a8192efe7b433bd1e
 
-whois:        
+whois:        whois.nic.bh
 
 status:       ACTIVE
 remarks:      Registration information: 
 
 created:      1994-02-01
-changed:      2022-03-02
+changed:      2023-12-12
 source:       IANA
 
 % IANA WHOIS server
@@ -6322,7 +6309,6 @@ nserver:      C.NIC.BIBLE 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.BIBLE 156.154.169.100 2610:a1:1071:0:0:0:1:64
 nserver:      NS2.DNS.NIC.BIBLE 156.154.170.100 2610:a1:1072:0:0:0:1:64
 nserver:      NS3.DNS.NIC.BIBLE 156.154.171.100 2610:a1:1073:0:0:0:1:64
-ds-rdata:     634 8 2 c09ed93543e2a43516c5379a9ebd54364d4226015112cdfb24199a7f91936ddc
 ds-rdata:     8386 8 2 0e7835e59ca10b1e14b9f6ab4eed2b9f27b5ba318c66b4de22166c4a6686b9c3
 
 whois:        whois.nic.bible
@@ -6331,7 +6317,7 @@ status:       ACTIVE
 remarks:      Registration information: http://get.bible
 
 created:      2015-05-14
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -6370,7 +6356,6 @@ nserver:      C.NIC.BID 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.BID 156.154.144.25 2610:a1:1071:0:0:0:0:19
 nserver:      NS2.DNS.NIC.BID 156.154.145.25 2610:a1:1072:0:0:0:0:19
 nserver:      NS3.DNS.NIC.BID 156.154.159.25 2610:a1:1073:0:0:0:0:19
-ds-rdata:     20119 8 2 eb851ab057822a4c0092b8a500066227424c6bce0e50b45d40b21476b18056b8
 ds-rdata:     64954 8 2 72f2c783cc339208a8dfe0411272ce3a327c4610b3fd6dd67b6e4c5b27b868bb
 
 whois:        whois.nic.bid
@@ -6379,7 +6364,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.bid
 
 created:      2014-02-13
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -6614,7 +6599,6 @@ nserver:      C.GTLD.BIZ 156.154.127.65
 nserver:      W.GTLD.BIZ 2001:dcd:1:0:0:0:0:13 37.209.192.13
 nserver:      X.GTLD.BIZ 2001:dcd:2:0:0:0:0:13 37.209.194.13
 nserver:      Y.GTLD.BIZ 2001:dcd:3:0:0:0:0:13 37.209.196.13
-ds-rdata:     13075 8 2 5114c10474c1467017a378da75e6845511f78fea480a4469a3bafc54b2738e11
 ds-rdata:     11044 8 2 e41af415e6cd0727c2924d6e60b896fb9c6d81831ac90c9dca4c22497701ab1a
 
 whois:        whois.nic.biz
@@ -6623,7 +6607,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.biz
 
 created:      2001-06-26
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -7613,7 +7597,6 @@ nserver:      C.NIC.BOOKING 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.BOOKING 156.154.144.27 2610:a1:1071:0:0:0:0:1b
 nserver:      NS2.DNS.NIC.BOOKING 156.154.145.27 2610:a1:1072:0:0:0:0:1b
 nserver:      NS3.DNS.NIC.BOOKING 156.154.159.27 2610:a1:1073:0:0:0:0:1b
-ds-rdata:     5470 8 2 0e779c706c569b36a19a7d788c043979b9ab862ef84e913b51920a9c4106c9ab
 ds-rdata:     29245 8 2 35e34127bc68cc91698d0b5ec4562002aa8293da7c6ce0bc1c75cff3e6529ec4
 
 whois:        
@@ -7622,7 +7605,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.booking.com
 
 created:      2016-07-07
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -7754,7 +7737,6 @@ nserver:      C.NIC.BOSTON 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      X.NIC.BOSTON 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.BOSTON 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.BOSTON 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     1189 8 2 32da17d1e9cd92eebd7214b36b30fa8c8956abba7435f46b3a55d1455d8e01a2
 ds-rdata:     42907 8 2 253f8a2aa4bf2067b9b72ba983849f63a1b8482a1cf613879196482d1ffa2038
 
 whois:        whois.nic.boston
@@ -7763,7 +7745,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.boston/
 
 created:      2016-11-21
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -8581,16 +8563,15 @@ nserver:      C.NIC.BUZZ 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.BUZZ 156.154.144.29 2610:a1:1071:0:0:0:0:1d
 nserver:      NS2.DNS.NIC.BUZZ 156.154.145.29 2610:a1:1072:0:0:0:0:1d
 nserver:      NS3.DNS.NIC.BUZZ 156.154.159.29 2610:a1:1073:0:0:0:0:1d
-ds-rdata:     21817 8 2 eea009d624a40b9afaa8f0fa040a3d0fc900ab565e27aa90cebb67b481c9816c
 ds-rdata:     60340 8 2 fba59e35952704ae0656bc122aec20528c8d49600e314e8bdf0ae00ce8c336b7
 
-whois:        
+whois:        whois.nic.buzz
 
 status:       ACTIVE
 remarks:      Registration information: http://www.buzznames.biz
 
 created:      2013-12-12
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -9111,7 +9092,6 @@ nserver:      C.NIC.CALVINKLEIN 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.CALVINKLEIN 156.154.144.31 2610:a1:1071:0:0:0:0:1f
 nserver:      NS2.DNS.NIC.CALVINKLEIN 156.154.145.31 2610:a1:1072:0:0:0:0:1f
 nserver:      NS3.DNS.NIC.CALVINKLEIN 156.154.159.31 2610:a1:1073:0:0:0:0:1f
-ds-rdata:     4525 8 2 af8c19b09ce15428675bd900e02276bfd651f263c822c7393ee3ab06791eeaf9
 ds-rdata:     46744 8 2 bb8a91f6ed57b17da3d9f3f91b7ece068799ba0f09c5310bcbc80150bf1555a3
 
 whois:        
@@ -9120,7 +9100,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.pvh.com/
 
 created:      2016-07-28
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -9538,7 +9518,6 @@ nserver:      C.NIC.CARAVAN 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.CARAVAN 156.154.144.32 2610:a1:1071:0:0:0:0:20
 nserver:      NS2.DNS.NIC.CARAVAN 156.154.145.32 2610:a1:1072:0:0:0:0:20
 nserver:      NS3.DNS.NIC.CARAVAN 156.154.159.32 2610:a1:1073:0:0:0:0:20
-ds-rdata:     28732 8 2 e06fed6fa549445050d4745f1bb53d854ab42abc74f0e7fde4e93a887e362e64
 ds-rdata:     3526 8 2 370991b8e6e9f532e4b6ddf051fae510353e27e0b99a3f9b7b359c48620c507e
 
 whois:        
@@ -9547,7 +9526,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.caravan.com
 
 created:      2014-05-22
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -9832,7 +9811,6 @@ nserver:      C.NIC.CASA 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      X.NIC.CASA 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.CASA 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.CASA 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     12820 8 2 dfd8771512e3e5d525fcbef9bc186fda12797d20977a41cb663dcd18d8e38cea
 ds-rdata:     39931 8 2 9870940f409b2a9d22ab87e5239f8a18b1c44a9b6528ecd318dd78d23eac761b
 
 whois:        whois.nic.casa
@@ -9841,7 +9819,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.casa/
 
 created:      2014-08-18
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -10219,7 +10197,6 @@ nserver:      C.NIC.CBN 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.CBN 156.154.144.35 2610:a1:1071:0:0:0:0:23
 nserver:      NS2.DNS.NIC.CBN 156.154.145.35 2610:a1:1072:0:0:0:0:23
 nserver:      NS3.DNS.NIC.CBN 156.154.159.35 2610:a1:1073:0:0:0:0:23
-ds-rdata:     53419 8 2 030de643aaaf4c8f1d7d61a6d3e89eb48ed654916c60c670b72a083f43c48312
 ds-rdata:     38299 8 2 1907c6c2996fc1df2198492f294525824c6321ae8a891284b0bc74efc2083538
 
 whois:        
@@ -10228,7 +10205,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.cbn.com
 
 created:      2014-11-20
-changed:      2023-10-02
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -10268,7 +10245,6 @@ nserver:      C.NIC.CBRE 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.CBRE 156.154.144.36 2610:a1:1071:0:0:0:0:24
 nserver:      NS2.DNS.NIC.CBRE 156.154.145.36 2610:a1:1072:0:0:0:0:24
 nserver:      NS3.DNS.NIC.CBRE 156.154.159.36 2610:a1:1073:0:0:0:0:24
-ds-rdata:     46225 8 2 f737a4fd2c347f5f1d4e4df8f4977ba169f28829557fbc8c477051c041268fcc
 ds-rdata:     29824 8 2 1e62d3ea2ec98f8360413e0291ee4a9f51870c43a37cc027317fba746fde3fe2
 
 whois:        
@@ -10277,7 +10253,7 @@ status:       ACTIVE
 remarks:      Registration information: http://cbre.com
 
 created:      2016-06-16
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -10950,7 +10926,6 @@ nserver:      C.NIC.CHASE 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS4.DNS.NIC.CHASE 156.154.156.39 2610:a1:1074:0:0:0:0:27
 nserver:      NS5.DNS.NIC.CHASE 156.154.157.39 2610:a1:1075:0:0:0:0:27
 nserver:      NS6.DNS.NIC.CHASE 156.154.158.39 2610:a1:1076:0:0:0:0:27
-ds-rdata:     35866 8 2 618f99e685339cf7c8afac24ec3c9a7eaa56b41f622d34f23af944b83be839af
 ds-rdata:     38962 8 2 7e231dfe930caa42c760d3298c2f9b4b4f22aadc5a0fe6c7784e4e2177a0e317
 
 whois:        
@@ -10959,7 +10934,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.jpmorganchase.com
 
 created:      2016-01-14
-changed:      2023-09-08
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -11098,7 +11073,6 @@ nserver:      C.NIC.CHINTAI 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.CHINTAI 156.154.144.40 2610:a1:1071:0:0:0:0:28
 nserver:      NS2.DNS.NIC.CHINTAI 156.154.145.40 2610:a1:1072:0:0:0:0:28
 nserver:      NS3.DNS.NIC.CHINTAI 156.154.159.40 2610:a1:1073:0:0:0:0:28
-ds-rdata:     58834 8 2 71dc6c01f954da83b6cdc9e95beabcf8a72fcf478b56f7b4e1214e965bcbfe7c
 ds-rdata:     63010 8 2 1ca7febcc15fb6098755eb40502c9ecddc2e9e0053f6c686a06a11c94fcc220f
 
 whois:        whois.nic.chintai
@@ -11107,7 +11081,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.chintai
 
 created:      2016-03-03
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -11437,7 +11411,6 @@ nserver:      C.NIC.CISCO 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.CISCO 156.154.144.44 2610:a1:1071:0:0:0:0:2c
 nserver:      NS2.DNS.NIC.CISCO 156.154.145.44 2610:a1:1072:0:0:0:0:2c
 nserver:      NS3.DNS.NIC.CISCO 156.154.159.44 2610:a1:1073:0:0:0:0:2c
-ds-rdata:     63049 8 2 42d0c12c3b954c6297a8810386e8d5d80f38a383f7c911630a5c1f3c81af890b
 ds-rdata:     51292 8 2 2985226f8c44213f8c73e65288eb6f0138383e2ba2cc627a8fd8d7f836b62c48
 
 whois:        
@@ -11446,7 +11419,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.cisco.com
 
 created:      2015-04-16
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -11531,7 +11504,6 @@ nserver:      C.NIC.CITI 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.CITI 156.154.144.213 2610:a1:1071:0:0:0:0:d5
 nserver:      NS2.DNS.NIC.CITI 156.154.145.213 2610:a1:1072:0:0:0:0:d5
 nserver:      NS3.DNS.NIC.CITI 156.154.159.213 2610:a1:1073:0:0:0:0:d5
-ds-rdata:     49387 8 2 9e8f9d0b17e64be572031238573f83d2a6fc1ee6c925ddb5062b1698a91d7a2a
 ds-rdata:     44680 8 2 d1435f2313ea1d9b9a4ad59fc626db5dc1bca1dff3ea52060c1aaba786128fcb
 
 whois:        
@@ -11540,7 +11512,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.citigroup.com
 
 created:      2016-07-21
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -12122,7 +12094,6 @@ nserver:      C.NIC.CLUB 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.CLUB 156.154.144.215 2610:a1:1071:0:0:0:0:d7
 nserver:      NS2.DNS.NIC.CLUB 156.154.145.215 2610:a1:1072:0:0:0:0:d7
 nserver:      NS3.DNS.NIC.CLUB 156.154.159.215 2610:a1:1073:0:0:0:0:d7
-ds-rdata:     20392 8 2 1f1ebacd947952ce4df8a80045ec37d088a49b72618feb92b91229de4d31b7b4
 ds-rdata:     54682 8 2 4fc0dbb4f04be413ba1c0b1e92f4c5f0ccebf7856370e20671af6417499db258
 
 whois:        whois.nic.club
@@ -12131,7 +12102,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.club/
 
 created:      2014-01-09
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -12614,7 +12585,7 @@ nserver:      J.GTLD-SERVERS.NET 192.48.79.30 2001:502:7094:0:0:0:0:30
 nserver:      K.GTLD-SERVERS.NET 192.52.178.30 2001:503:d2d:0:0:0:0:30
 nserver:      L.GTLD-SERVERS.NET 192.41.162.30 2001:500:d937:0:0:0:0:30
 nserver:      M.GTLD-SERVERS.NET 192.55.83.30 2001:501:b1f9:0:0:0:0:30
-ds-rdata:     30909 8 2 e2d3c916f6deeac73294e8268fb5885044a833fc5459588f4a9184cfc41a5766
+ds-rdata:     19718 13 2 8acbb0cd28f41250a80a491389424d341522d946b0da0c0291f2d3d771d7805a
 
 whois:        whois.verisign-grs.com
 
@@ -12622,7 +12593,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.verisigninc.com
 
 created:      1985-01-01
-changed:      2023-09-12
+changed:      2023-12-07
 source:       IANA
 
 % IANA WHOIS server
@@ -12864,7 +12835,6 @@ nserver:      C.NIC.COMPARE 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      X.NIC.COMPARE 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.COMPARE 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.COMPARE 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     12634 8 2 40c8dbba65ac7385a2dd35e299ee6010d850197dd7a438dccac7d13c2d32d953
 ds-rdata:     27319 8 2 3b57ac3d5396b250896e78b988f741beacf93733daf02048f86763aea3272445
 
 whois:        whois.nic.compare
@@ -12873,7 +12843,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.compare/
 
 created:      2015-12-23
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -13253,7 +13223,6 @@ nserver:      C.NIC.COOKING 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      X.NIC.COOKING 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.COOKING 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.COOKING 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     28069 8 2 ce234a5239cc651d9613917e4d5d4795ea8a0c7a63db0c3ae69bb5fa6caba352
 ds-rdata:     19084 8 2 1ebfd6587779a23692abf0af38f79ab41282e544ab54f04a6c07168523234587
 
 whois:        whois.nic.cooking
@@ -13262,7 +13231,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.cooking/
 
 created:      2014-02-28
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -13488,7 +13457,6 @@ nserver:      C.NIC.COUPON 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.COUPON 156.154.144.217 2610:a1:1071:0:0:0:0:d9
 nserver:      NS2.DNS.NIC.COUPON 156.154.145.217 2610:a1:1072:0:0:0:0:d9
 nserver:      NS3.DNS.NIC.COUPON 156.154.159.217 2610:a1:1073:0:0:0:0:d9
-ds-rdata:     24754 8 2 28ac37a1524040f644439b351bb5929f2ee66b8b6d6ea40d499a0db7455ef0c3
 ds-rdata:     10297 8 2 215a8514706a344478d609f1f92e86c0934ba02ae9b7d965aac116e68df1afea
 
 whois:        
@@ -13497,7 +13465,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.amazonregistry.com
 
 created:      2016-01-29
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -13586,7 +13554,6 @@ nserver:      C.NIC.COURSES 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      X.NIC.COURSES 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.COURSES 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.COURSES 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     34960 8 2 dc3b228b7e6f2eea82fad1adeb93171d4d3ca3892a3e0e94035cd89d258df087
 ds-rdata:     15277 8 2 0f2ac6152763313a36b063646929b4b8b35b5e4c0eaf12d54ec3982a78157d2d
 
 whois:        whois.nic.courses
@@ -13595,7 +13562,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.get.courses/
 
 created:      2015-02-19
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -13635,7 +13602,6 @@ nserver:      C.NIC.CPA 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      X.NIC.CPA 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.CPA 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.CPA 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     25351 8 2 a5062c23ef5598a091792978fd4f5ba6729a9a30bfcf880fc1cc7d0708a3313d
 ds-rdata:     6397 8 2 ddf80b47684502eb3921d4fe2b9307cd49f14bd1a896bf694cae0ed767666cbc
 
 whois:        whois.nic.cpa
@@ -13644,7 +13610,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.cpa.com
 
 created:      2019-09-11
-changed:      2023-07-30
+changed:      2023-12-08
 source:       IANA
 
 % IANA WHOIS server
@@ -13877,7 +13843,6 @@ nserver:      C.NIC.CRICKET 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.CRICKET 156.154.144.220 2610:a1:1071:0:0:0:0:dc
 nserver:      NS2.DNS.NIC.CRICKET 156.154.145.220 2610:a1:1072:0:0:0:0:dc
 nserver:      NS3.DNS.NIC.CRICKET 156.154.159.220 2610:a1:1073:0:0:0:0:dc
-ds-rdata:     41779 8 2 300973057d1eeaeaa9a7a558359564f48e7654b88cd3c81d23e48f700701afce
 ds-rdata:     31300 8 2 f17f7981f1f544769763f21f8c1222d7cbe9393b89a84ea84d4abf9a72950751
 
 whois:        whois.nic.cricket
@@ -13886,7 +13851,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.cricket
 
 created:      2014-11-13
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -14729,7 +14694,6 @@ nserver:      C.NIC.DATE 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.DATE 156.154.144.46 2610:a1:1071:0:0:0:0:2e
 nserver:      NS2.DNS.NIC.DATE 156.154.145.46 2610:a1:1072:0:0:0:0:2e
 nserver:      NS3.DNS.NIC.DATE 156.154.159.46 2610:a1:1073:0:0:0:0:2e
-ds-rdata:     30325 8 2 b0a4309d9ad85d8050259a80a8261b1003251cb1d2f3c74aa30e09335aaf2501
 ds-rdata:     17974 8 2 89f996cd425d64fbd8deba987615d4c3d8de899f626643b4bfc6fa7bf8f996e5
 
 whois:        whois.nic.date
@@ -14738,7 +14702,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.date
 
 created:      2015-02-05
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -14967,7 +14931,6 @@ nserver:      C.NIC.DDS 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      X.NIC.DDS 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.DDS 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.DDS 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     51931 8 2 13ef8fe3e8e2afae0a24b7453d086e2eb0df7828b03a8af18fcae43bec07fd38
 ds-rdata:     4084 8 2 653ac51723253e888c2887191e1f89c34c4ecef2f18e4eeb247f1faae3afc6b2
 
 whois:        whois.nic.dds
@@ -14976,7 +14939,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.dds/
 
 created:      2016-01-08
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -15312,7 +15275,6 @@ nserver:      C.NIC.DELL 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.DELL 156.154.144.47 2610:a1:1071:0:0:0:0:2f
 nserver:      NS2.DNS.NIC.DELL 156.154.145.47 2610:a1:1072:0:0:0:0:2f
 nserver:      NS3.DNS.NIC.DELL 156.154.159.47 2610:a1:1073:0:0:0:0:2f
-ds-rdata:     22471 8 2 3b9deef2f217ee45d415525de6979d780f2afa1a1c95b8f2f437bd636cfd2095
 ds-rdata:     3580 8 2 44c5f896b1f96a4b5f85385dda8648e5f050d94cf53b244d243caa0877a5a3c0
 
 whois:        
@@ -15321,7 +15283,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dell.com
 
 created:      2015-04-30
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -15649,7 +15611,6 @@ nserver:      C.NIC.DESIGN 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      X.NIC.DESIGN 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.DESIGN 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.DESIGN 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     50422 8 2 400c06349da05ff7c9b9d8c11857e8e9c3ce947ea05cc4c7c6de878bf2a496ee
 ds-rdata:     27199 8 2 eaec6e1b661b0264846ff8f70858cc63711f0627781386b9024360656679ecf5
 
 whois:        whois.nic.design
@@ -15658,7 +15619,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.design/
 
 created:      2014-12-18
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -16083,7 +16044,6 @@ nserver:      C.NIC.DISCOVER 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.DISCOVER 156.154.144.48 2610:a1:1071:0:0:0:0:30
 nserver:      NS2.DNS.NIC.DISCOVER 156.154.145.48 2610:a1:1072:0:0:0:0:30
 nserver:      NS3.DNS.NIC.DISCOVER 156.154.159.48 2610:a1:1073:0:0:0:0:30
-ds-rdata:     39040 8 2 324144794f4fc2951d3ef2f1a6d2b335cdd0bd059caa3ac2eba809250c47a694
 ds-rdata:     4225 8 2 d90804dc84c5e0542f8da2011babd12624318d1992483525ec125125cd576553
 
 whois:        
@@ -16092,7 +16052,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.discover.com/
 
 created:      2016-07-14
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -16265,10 +16225,10 @@ phone:        +45 3364 6060
 fax-no:       +45 3364 6066
 e-mail:       tld2019tech@punktum.dk
 
-nserver:      A.NIC.DK 2001:1580:0:180d:0:0:0:122 212.88.78.122
 nserver:      B.NIC.DK 193.163.102.222 2a01:630:0:80:0:0:0:53
 nserver:      C.NIC.DK 194.0.46.53 2001:678:74:0:0:0:0:53
 nserver:      D.NIC.DK 185.159.198.45 2620:10a:80ab:0:0:0:0:45
+nserver:      H.NIC.DK 2a00:1b18:1:2:0:0:0:53 46.30.126.214
 nserver:      L.NIC.DK 130.226.213.138 2001:878:0:e000:82:e2:d5:8a
 nserver:      S.NIC.DK 193.176.144.15 2a00:d78:0:102:193:176:144:15
 ds-rdata:     21369 13 2 e6d0011e98acd5c1d332c0cfb29effa5242824f30b8ee43829ace1d789051cc1
@@ -16279,7 +16239,7 @@ status:       ACTIVE
 remarks:      Registration information: https://punktum.dk/
 
 created:      1987-07-14
-changed:      2023-09-06
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -16704,7 +16664,6 @@ nserver:      C.NIC.DOWNLOAD 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.DOWNLOAD 156.154.144.50 2610:a1:1071:0:0:0:0:32
 nserver:      NS2.DNS.NIC.DOWNLOAD 156.154.145.50 2610:a1:1072:0:0:0:0:32
 nserver:      NS3.DNS.NIC.DOWNLOAD 156.154.159.50 2610:a1:1073:0:0:0:0:32
-ds-rdata:     62131 8 2 0d4cda13aeaeb337aab9c14691e912c1c363068e308792ca8109590a4e2fb502
 ds-rdata:     39961 8 2 7c47e4d56aff8c707935139f703c219e376eabda0461f1b224949610b0203ce8
 
 whois:        whois.nic.download
@@ -16713,7 +16672,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.download
 
 created:      2015-02-05
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -16941,7 +16900,6 @@ nserver:      C.NIC.DUPONT 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS4.DNS.NIC.DUPONT 156.154.156.52 2610:a1:1074:0:0:0:0:34
 nserver:      NS5.DNS.NIC.DUPONT 156.154.157.52 2610:a1:1075:0:0:0:0:34
 nserver:      NS6.DNS.NIC.DUPONT 156.154.158.52 2610:a1:1076:0:0:0:0:34
-ds-rdata:     13507 8 2 2a1bbc71245a57110165649e9c31bb6cf87dbfcfc3cc3f45ec4c7845f5dedbba
 ds-rdata:     44914 8 2 f94ef24de9794acaf4920bfe73388a466179c339bd33ddea11b1decd2a45611b
 
 whois:        
@@ -16950,7 +16908,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.dupont.com
 
 created:      2016-05-05
-changed:      2023-09-08
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -17182,7 +17140,6 @@ nserver:      C.NIC.EARTH 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.EARTH 156.154.144.230 2610:a1:1071:0:0:0:0:e6
 nserver:      NS2.DNS.NIC.EARTH 156.154.145.230 2610:a1:1072:0:0:0:0:e6
 nserver:      NS3.DNS.NIC.EARTH 156.154.159.230 2610:a1:1073:0:0:0:0:e6
-ds-rdata:     38176 8 2 6bb59812c4fdd633997053989f89ee0e3b466b694c11b739c8f79995176b3920
 ds-rdata:     26449 8 2 f5ced94f4f7cd8bd7278cabd2d2e7be2db0ff7c89037b9066212d42883a525cf
 
 whois:        whois.nic.earth
@@ -17191,7 +17148,7 @@ status:       ACTIVE
 remarks:      Registration information: https://domain.earth/
 
 created:      2015-04-16
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -18920,7 +18877,6 @@ nserver:      C.NIC.FAITH 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.FAITH 156.154.144.54 2610:a1:1071:0:0:0:0:36
 nserver:      NS2.DNS.NIC.FAITH 156.154.145.54 2610:a1:1072:0:0:0:0:36
 nserver:      NS3.DNS.NIC.FAITH 156.154.159.54 2610:a1:1073:0:0:0:0:36
-ds-rdata:     24400 8 2 272e92a109875aebba7ca98ac8b593c6a27059f58ea75d4b741a3452a63c97f4
 ds-rdata:     54856 8 2 4018987b2e2691d14bd31c3bd7f9e286326452d485efa1fe6330c64f35a32005
 
 whois:        whois.nic.faith
@@ -18929,7 +18885,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.faith
 
 created:      2015-02-05
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -19068,6 +19024,7 @@ nserver:      B.NIC.FANS 185.24.64.39 2a04:2b00:13cc:0:0:0:1:39
 nserver:      C.NIC.FANS 212.18.248.39 2a04:2b00:13ee:0:0:0:0:39
 nserver:      D.NIC.FANS 212.18.249.39 2a04:2b00:13ff:0:0:0:0:39
 ds-rdata:     25466 8 2 7842246f760a21e694f1d8b64754f0d5bb27ef6a33f25e2f3f2dee26b33b118b
+ds-rdata:     46294 8 2 c84814f11abfa3a32c3403cd3072afe0cc289e7c2fd92b25ef789778e491d680
 
 whois:        whois.nic.fans
 
@@ -19075,7 +19032,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.fans/
 
 created:      2015-02-05
-changed:      2021-10-12
+changed:      2023-12-07
 source:       IANA
 
 % IANA WHOIS server
@@ -19163,7 +19120,6 @@ nserver:      C.NIC.FARMERS 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.FARMERS 156.154.144.55 2610:a1:1071:0:0:0:0:37
 nserver:      NS2.DNS.NIC.FARMERS 156.154.145.55 2610:a1:1072:0:0:0:0:37
 nserver:      NS3.DNS.NIC.FARMERS 156.154.159.55 2610:a1:1073:0:0:0:0:37
-ds-rdata:     11494 8 2 cd092da4b2e46bab4b5fea2310c7c8007e8b5732f5bb3cb6e0a01a4cef212c70
 ds-rdata:     22045 8 2 6bf128234cca6c4fb7ba28f87c84c2488333439e8877bab9e94ba8f65ba28123
 
 whois:        
@@ -19172,7 +19128,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.farmers.com
 
 created:      2016-04-21
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -19212,7 +19168,6 @@ nserver:      C.NIC.FASHION 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      X.NIC.FASHION 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.FASHION 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.FASHION 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     50059 8 2 99bbddd068ec695d622dc3a186fd015d9d47d2b26056cdab45ab8e45fc99dd87
 ds-rdata:     36220 8 2 317f7be09221a412b8dbe4d8ab6c620083d9a3baac4064ee4a7c2a1f5eca6c7e
 
 whois:        whois.nic.fashion
@@ -19221,7 +19176,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.fashion/
 
 created:      2014-10-23
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -19452,7 +19407,6 @@ nserver:      C.NIC.FERRERO 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.FERRERO 156.154.144.57 2610:a1:1071:0:0:0:0:39
 nserver:      NS2.DNS.NIC.FERRERO 156.154.145.57 2610:a1:1072:0:0:0:0:39
 nserver:      NS3.DNS.NIC.FERRERO 156.154.159.57 2610:a1:1073:0:0:0:0:39
-ds-rdata:     45604 8 2 89bd8dec1256f0cae5edc8f2618fb6ad4149ea9028afd909632727eaca092b3c
 ds-rdata:     37165 8 2 eafc5fbd259481214624a636038ba784e8cd56869a1adbfd1024b3358c59b114
 
 whois:        
@@ -19461,7 +19415,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.ferrero.com
 
 created:      2015-09-10
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -20033,7 +19987,6 @@ nserver:      C.NIC.FISHING 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      X.NIC.FISHING 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.FISHING 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.FISHING 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     24019 8 2 51a5cc521f83d8bea6afe905d7f24a758c72d9341b550fc4e7ac0f272aceeca5
 ds-rdata:     63775 8 2 8137bf33700cfb755c53efa2eb3b80ac9630b05befb7e8af34dd079e131d2c01
 
 whois:        whois.nic.fishing
@@ -20042,7 +19995,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.fishing/
 
 created:      2014-02-28
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -20082,7 +20035,6 @@ nserver:      C.NIC.FIT 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      X.NIC.FIT 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.FIT 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.FIT 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     52846 8 2 67ac0d6b4abdb3e427baa988fce6dbb8f5420027ab25d219fec06e2ff8babf09
 ds-rdata:     61939 8 2 964cf669d1ec486a61cd6be09167b36d5fda20b21ff3950f4e1a2373beea3e66
 
 whois:        whois.nic.fit
@@ -20091,7 +20043,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.fit/
 
 created:      2014-12-18
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -20275,7 +20227,6 @@ nserver:      C.NIC.FLICKR 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.FLICKR 156.154.144.60 2610:a1:1071:0:0:0:0:3c
 nserver:      NS2.DNS.NIC.FLICKR 156.154.145.60 2610:a1:1072:0:0:0:0:3c
 nserver:      NS3.DNS.NIC.FLICKR 156.154.159.60 2610:a1:1073:0:0:0:0:3c
-ds-rdata:     54904 8 2 a0c9b5d4a5705ba6563443e9a93be7202551583fd55054e2ffa1b210b17f3903
 ds-rdata:     5335 8 2 16642c254c1ce6557c42465ff0e2053f92952a38280642401dae04a51db01030
 
 whois:        
@@ -20284,7 +20235,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.flickr
 
 created:      2016-01-29
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -20373,7 +20324,6 @@ nserver:      C.NIC.FLIR 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.FLIR 156.154.144.61 2610:a1:1071:0:0:0:0:3d
 nserver:      NS2.DNS.NIC.FLIR 156.154.145.61 2610:a1:1072:0:0:0:0:3d
 nserver:      NS3.DNS.NIC.FLIR 156.154.159.61 2610:a1:1073:0:0:0:0:3d
-ds-rdata:     24484 8 2 3dd6835d42b1d12266d8fcb2fc29b0aecd5783ceda9792a213f32fb67889c64d
 ds-rdata:     7306 8 2 5d9f70de986fdd8f93a84ad0e5d458a99c8b04545a49f60a348b6a05c4540f4c
 
 whois:        
@@ -20382,7 +20332,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.flir.com
 
 created:      2016-03-03
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -20803,7 +20753,6 @@ nserver:      C.NIC.FORD 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.FORD 156.154.144.62 2610:a1:1071:0:0:0:0:3e
 nserver:      NS2.DNS.NIC.FORD 156.154.145.62 2610:a1:1072:0:0:0:0:3e
 nserver:      NS3.DNS.NIC.FORD 156.154.159.62 2610:a1:1073:0:0:0:0:3e
-ds-rdata:     31459 8 2 13dfd0c4ac2b97b1294ada48fb4a36e5732739afc11818b4c46fcd17e3fc13df
 ds-rdata:     64471 8 2 200e32097c2e1d54428766bb9e5489316aefec25672d34b24778f71a50e947fb
 
 whois:        
@@ -20812,7 +20761,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.ford.com
 
 created:      2015-12-10
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -21046,7 +20995,6 @@ nserver:      C.NIC.FOX 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.FOX 156.154.144.63 2610:a1:1071:0:0:0:0:3f
 nserver:      NS2.DNS.NIC.FOX 156.154.145.63 2610:a1:1072:0:0:0:0:3f
 nserver:      NS3.DNS.NIC.FOX 156.154.159.63 2610:a1:1073:0:0:0:0:3f
-ds-rdata:     17635 8 2 ce046fbc1b2de0479ba9624f6344e0d6a22da6bb2c776a4782ba144f36d05d33
 ds-rdata:     31102 8 2 675c7b085143739b2c32f301858c5ee3751b58e3a9776ee2a6dddc2c9c7a9e13
 
 whois:        whois.nic.fox
@@ -21055,7 +21003,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.fox.com
 
 created:      2015-11-20
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -21352,7 +21300,6 @@ nserver:      C.NIC.FRONTIER 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.FRONTIER 156.154.144.64 2610:a1:1071:0:0:0:0:40
 nserver:      NS2.DNS.NIC.FRONTIER 156.154.145.64 2610:a1:1072:0:0:0:0:40
 nserver:      NS3.DNS.NIC.FRONTIER 156.154.159.64 2610:a1:1073:0:0:0:0:40
-ds-rdata:     50689 8 2 b81514d86b0ae37d16a0676680b70b9c714036de9993afb8d38fdbc6879a0062
 ds-rdata:     32674 8 2 43abf7b723073b5adb567bc9095eafc64367d702c7818dfd97b7c293eab0b4b1
 
 whois:        
@@ -21361,7 +21308,7 @@ status:       ACTIVE
 remarks:      Registration information: http://frontier.com
 
 created:      2016-01-29
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -21400,7 +21347,6 @@ nserver:      C.NIC.FTR 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.FTR 156.154.144.65 2610:a1:1071:0:0:0:0:41
 nserver:      NS2.DNS.NIC.FTR 156.154.145.65 2610:a1:1072:0:0:0:0:41
 nserver:      NS3.DNS.NIC.FTR 156.154.159.65 2610:a1:1073:0:0:0:0:41
-ds-rdata:     44104 8 2 42ecbfdd47bc85333fb13850757d18493116ecabdc33eb40ca70d7cb952d9d52
 ds-rdata:     26692 8 2 bea8f6f61998570b7dc8d85b43487908e8cf2fa560e7255953e7fcbe29a80209
 
 whois:        
@@ -21409,7 +21355,7 @@ status:       ACTIVE
 remarks:      Registration information: http://frontier.com
 
 created:      2016-01-29
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -22074,7 +22020,6 @@ nserver:      C.NIC.GAP 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.GAP 156.154.144.66 2610:a1:1071:0:0:0:0:42
 nserver:      NS2.DNS.NIC.GAP 156.154.145.66 2610:a1:1072:0:0:0:0:42
 nserver:      NS3.DNS.NIC.GAP 156.154.159.66 2610:a1:1073:0:0:0:0:42
-ds-rdata:     4462 8 2 59be1d87d0d5d5fd371368fa00c3e73b9e3215ed06cbec2459b8a25c49248b07
 ds-rdata:     34711 8 2 e6b688299e2dfc3b96259647e8a564475401d4504729bf8b523a08b4359b4c9f
 
 whois:        
@@ -22083,7 +22028,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.gap.com
 
 created:      2016-07-14
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -22123,7 +22068,6 @@ nserver:      C.NIC.GARDEN 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      X.NIC.GARDEN 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.GARDEN 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.GARDEN 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     51400 8 2 a3f1a44a1d481d01241486e74820fc3634cb119c4772812ddf44e6d1cc5d2ebc
 ds-rdata:     27637 8 2 2d10a23a8dfeb7b80721476d3dcc5a5d31a61be1d7d3b5bf6f15f4a2747b347b
 
 whois:        whois.nic.garden
@@ -22132,7 +22076,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.garden/
 
 created:      2014-10-23
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -22172,7 +22116,6 @@ nserver:      C.NIC.GAY 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      X.NIC.GAY 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.GAY 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.GAY 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     32074 8 2 c725b3cbd9d404307d49d0969b57b8885fd69663aca51662b05716c9abd1361e
 ds-rdata:     4816 8 2 960f543d3ead5c2e0fd6d1e792265f7c795170d793acd073f84c52a2f72eea85
 
 whois:        whois.nic.gay
@@ -22181,7 +22124,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.gay
 
 created:      2019-07-19
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -22778,13 +22721,13 @@ nserver:      NS.DNS.BR 200.160.0.5 2001:12ff:0:a20:0:0:0:5
 nserver:      NS1.NIC.GH 197.253.95.251
 nserver:      NS2.NIC.GH 197.253.127.251
 
-whois:        
+whois:        whois.nic.gh
 
 status:       ACTIVE
 remarks:      Registration information: http://www.nic.gh
 
 created:      1995-01-19
-changed:      2018-10-02
+changed:      2023-12-11
 source:       IANA
 
 % IANA WHOIS server
@@ -23530,8 +23473,10 @@ address:      Guinea
 phone:        +224 622 298 656
 e-mail:       abdoulkhader.gakou@ande.gov.gn
 
+nserver:      FORK.STH.DNSNODE.NET 2a01:3f0:0:306:0:0:0:53 77.72.229.254
 nserver:      NS-GN.AFRINIC.NET 196.216.168.49 2001:43f8:120:0:0:0:0:49
-nserver:      NS1-GN.PCH.NET 2001:500:14:6147:ad:0:0:1 204.61.216.147
+nserver:      NS-PCH.GN 2001:500:14:6147:ad:0:0:1 204.61.216.147
+nserver:      NS1.GN 41.77.190.237
 ds-rdata:     9311 8 2 e471b517052703360ca1c48be047e7c4316f507a07213ab25eceb6a63bc64c09
 
 whois:        whois.ande.gov.gn
@@ -23540,7 +23485,7 @@ status:       ACTIVE
 remarks:      Registration information: https://ande.gov.gn/dns-gn/
 
 created:      1994-08-09
-changed:      2023-11-01
+changed:      2023-12-11
 source:       IANA
 
 % IANA WHOIS server
@@ -23581,7 +23526,6 @@ nserver:      C.NIC.GODADDY 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      X.NIC.GODADDY 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.GODADDY 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.GODADDY 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     29332 8 2 2c52023cffccd5fb2d7c4567840e0a06e2360b2a5090bc0ddd9e7b30cb4803b5
 ds-rdata:     31312 8 2 b9bffdcd6a38a5a0e6c73ca45ae8f0b66799ae35a1b2cea3c237f7f1910c9967
 
 whois:        whois.nic.godaddy
@@ -23590,7 +23534,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.godaddy
 
 created:      2016-06-24
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -23955,8 +23899,8 @@ address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44.1865332211
 e-mail:       registrytechnical@nominet.uk
 
-nserver:      DNS1.NIC.GOP 213.248.217.39 2a01:618:401:0:0:0:0:39
-nserver:      DNS2.NIC.GOP 103.49.81.39 2401:fd80:401:0:0:0:0:39
+nserver:      DNS1.NIC.GOP 213.248.219.39 2a01:618:403:0:0:0:0:39
+nserver:      DNS2.NIC.GOP 103.49.83.39 2401:fd80:403:0:0:0:0:39
 nserver:      DNS3.NIC.GOP 213.248.221.39 2a01:618:405:0:0:0:0:39
 nserver:      DNS4.NIC.GOP 2401:fd80:405:0:0:0:0:39 43.230.49.39
 nserver:      DNSA.NIC.GOP 156.154.100.3 2001:502:ad09:0:0:0:0:3
@@ -23971,7 +23915,7 @@ status:       ACTIVE
 remarks:      Registration information: http://join.gop
 
 created:      2014-03-06
-changed:      2021-12-09
+changed:      2023-12-08
 source:       IANA
 
 % IANA WHOIS server
@@ -24060,7 +24004,6 @@ nserver:      A.NS.GOV 199.33.230.1 2001:503:ff40:0:0:0:0:1
 nserver:      B.NS.GOV 199.33.231.1 2001:503:ff41:0:0:0:0:1
 nserver:      C.NS.GOV 199.33.232.1 2001:503:ff42:0:0:0:0:1
 nserver:      D.NS.GOV 199.33.233.1 2001:503:ff43:0:0:0:0:1
-ds-rdata:     7698 8 2 6bc949e638442ead0bdaf0935763c8d003760384ff15ebbd5ce86bb5559561f0
 ds-rdata:     64280 8 2 d66cdda12234c22c5e6fd1c894dbd682fe7967e111793485a281972bfb164377
 
 whois:        whois.dotgov.gov
@@ -24069,7 +24012,7 @@ status:       ACTIVE
 remarks:      Registration information: https://get.gov
 
 created:      1985-01-01
-changed:      2023-11-16
+changed:      2023-12-07
 source:       IANA
 
 % IANA WHOIS server
@@ -24251,7 +24194,6 @@ nserver:      C.NIC.GRAINGER 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.GRAINGER 156.154.144.68 2610:a1:1071:0:0:0:0:44
 nserver:      NS2.DNS.NIC.GRAINGER 156.154.145.68 2610:a1:1072:0:0:0:0:44
 nserver:      NS3.DNS.NIC.GRAINGER 156.154.159.68 2610:a1:1073:0:0:0:0:44
-ds-rdata:     63544 8 2 9d220e1effe75aebee784d7066bd378773a55462c2da902458de3f80a8bd069e
 ds-rdata:     19057 8 2 21adfc98b30b8a046a117c926c36ce7d890ed1c98a7168049332af0afe19c08b
 
 whois:        
@@ -24260,7 +24202,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.grainger.com
 
 created:      2015-10-29
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -25303,7 +25245,6 @@ nserver:      C.NIC.HBO 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.HBO 156.154.144.70 2610:a1:1071:0:0:0:0:46
 nserver:      NS2.DNS.NIC.HBO 156.154.145.70 2610:a1:1072:0:0:0:0:46
 nserver:      NS3.DNS.NIC.HBO 156.154.159.70 2610:a1:1073:0:0:0:0:46
-ds-rdata:     22906 8 2 5989d419f8a7d34910c197b7d3701b97ba5505b53f505e885ec1e33c006fe8c2
 ds-rdata:     32689 8 2 1ef470b15bc605463552d25b4bef46ae67a79df01c3fc3eefd9ef2eb296fd034
 
 whois:        
@@ -25312,7 +25253,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.hbo.com
 
 created:      2016-07-08
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -25449,7 +25390,6 @@ nserver:      C.NIC.HEALTH 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.HEALTH 156.154.144.247 2610:a1:1071:0:0:0:0:f7
 nserver:      NS2.DNS.NIC.HEALTH 156.154.145.247 2610:a1:1072:0:0:0:0:f7
 nserver:      NS3.DNS.NIC.HEALTH 156.154.159.247 2610:a1:1073:0:0:0:0:f7
-ds-rdata:     6277 8 2 4a5ecb53ae18b611b3345c9549e55e35944fee84f50bc150d8667cf1449dfd06
 ds-rdata:     47641 8 2 b1f415477ad6386eceb54957a181ec70d0b3ccdbc09c5df6dcdd063f69bf0631
 
 whois:        
@@ -25458,7 +25398,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dothealth.co
 
 created:      2015-09-17
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -25919,7 +25859,7 @@ nserver:      V.HKIRC.NET.HK 2001:500:14:6046:ad:0:0:1 204.61.216.46
 nserver:      X.HKIRC.NET.HK 202.45.188.39 2405:3001:1:3a:0:0:0:27
 nserver:      Y.HKIRC.NET.HK 137.189.6.21 2405:3000:3:6:0:0:0:15
 nserver:      Z.HKIRC.NET.HK 194.146.106.70 2001:67c:1010:17:0:0:0:53
-ds-rdata:     859 8 2 47dc78a2f99d4702fca38efafbf8ade187b5cfda762494d59c9d8c55c533c8fe
+ds-rdata:     46912 8 2 b8d909d194e3d904345d0a2af39fb5a8510d3bdc31d6c7e9173d3ddaa8132296
 
 whois:        whois.hkirc.hk
 
@@ -25927,7 +25867,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.hkirc.hk
 
 created:      1990-01-03
-changed:      2023-09-21
+changed:      2023-12-07
 source:       IANA
 
 % IANA WHOIS server
@@ -26010,7 +25950,7 @@ phone:        +61 2 6189 5260
 fax-no:       +61 2 6189 5261
 e-mail:       hostmaster@registry.hm
 
-nserver:      NS1.REGISTRY.HM 208.70.79.25
+nserver:      NS1.REGISTRY.HM 142.171.40.232
 nserver:      NS2.REGISTRY.HM 208.70.79.24
 nserver:      NS3.REGISTRY.HM 128.199.180.188
 
@@ -26020,7 +25960,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.registry.hm
 
 created:      1997-07-24
-changed:      2021-12-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -26303,7 +26243,6 @@ nserver:      C.NIC.HOMEGOODS 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.HOMEGOODS 156.154.144.73 2610:a1:1071:0:0:0:0:49
 nserver:      NS2.DNS.NIC.HOMEGOODS 156.154.145.73 2610:a1:1072:0:0:0:0:49
 nserver:      NS3.DNS.NIC.HOMEGOODS 156.154.159.73 2610:a1:1073:0:0:0:0:49
-ds-rdata:     8509 8 2 ff29069ba0204e904c1ba9407d98664383c7c9d65f4d33008a13042b497c93dd
 ds-rdata:     15460 8 2 f6bbd1fafc2a7ac4b287fb2ec8be0907d52b7a812aa437f4672efe4088454cfb
 
 whois:        
@@ -26312,7 +26251,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.tjx.com
 
 created:      2016-04-07
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -26399,7 +26338,6 @@ nserver:      C.NIC.HOMESENSE 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.HOMESENSE 156.154.144.74 2610:a1:1071:0:0:0:0:4a
 nserver:      NS2.DNS.NIC.HOMESENSE 156.154.145.74 2610:a1:1072:0:0:0:0:4a
 nserver:      NS3.DNS.NIC.HOMESENSE 156.154.159.74 2610:a1:1073:0:0:0:0:4a
-ds-rdata:     15379 8 2 78ddb12e13aa6279d368770b09fcacb19f09c88e369372e5b77a294cee3b21e0
 ds-rdata:     4507 8 2 c5400c84ffde26fd2a4ed6374057d876cc46c0b933484f74a352bb1ef953b9a7
 
 whois:        
@@ -26408,7 +26346,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.tjx.com
 
 created:      2016-04-07
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -26495,7 +26433,6 @@ nserver:      C.NIC.HORSE 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      X.NIC.HORSE 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.HORSE 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.HORSE 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     49330 8 2 6566edc407480e5f0f3d1f31e436bb5321d557e5805704868fca3a59e6042d38
 ds-rdata:     25741 8 2 04c915e78c75dcb656aef6ce2423935d826c60319a9eae29ac71f9e745c38975
 
 whois:        whois.nic.horse
@@ -26504,7 +26441,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.horse/
 
 created:      2014-02-28
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -26744,7 +26681,6 @@ nserver:      C.NIC.HOTELS 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.HOTELS 156.154.169.3 2610:a1:1071:0:0:0:1:3
 nserver:      NS2.DNS.NIC.HOTELS 156.154.170.3 2610:a1:1072:0:0:0:1:3
 nserver:      NS3.DNS.NIC.HOTELS 156.154.171.3 2610:a1:1073:0:0:0:1:3
-ds-rdata:     27175 8 2 400f3db76ff23fbe5fbd8faca3695871c6fc5ffa6cf116dea6fccc9e4711ea65
 ds-rdata:     51700 8 2 844a568caab77e76130c1551ac820b3a41a3c39f6419ba2411f9e3d3a581765e
 
 whois:        whois.nic.hotels
@@ -26753,7 +26689,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.booking.com
 
 created:      2016-09-16
-changed:      2023-11-29
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -26985,7 +26921,6 @@ nserver:      C.NIC.HSBC 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.HSBC 156.154.144.76 2610:a1:1071:0:0:0:0:4c
 nserver:      NS2.DNS.NIC.HSBC 156.154.145.76 2610:a1:1072:0:0:0:0:4c
 nserver:      NS3.DNS.NIC.HSBC 156.154.159.76 2610:a1:1073:0:0:0:0:4c
-ds-rdata:     44836 8 2 89f4241090c6c95e72420b8525e2f2472c6198937cac4d5ed6d1c6d2f4f6de27
 ds-rdata:     16129 8 2 1e993a683fd63ba6fa436d235eddbb949901975649b11c628dfef8105264ae9d
 
 whois:        
@@ -26994,7 +26929,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.hsbc
 
 created:      2015-01-15
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -27169,7 +27104,6 @@ nserver:      C.NIC.HYATT 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.HYATT 156.154.144.78 2610:a1:1071:0:0:0:0:4e
 nserver:      NS2.DNS.NIC.HYATT 156.154.145.78 2610:a1:1072:0:0:0:0:4e
 nserver:      NS3.DNS.NIC.HYATT 156.154.159.78 2610:a1:1073:0:0:0:0:4e
-ds-rdata:     34852 8 2 b21957ebb857e894b0fc407ac189cbab466804f560ad5815e9d1af829a566424
 ds-rdata:     30616 8 2 dbb2cd74e3fd102da5e467f6b4eda7e3d1d110ec2329053f087ea8532c84b897
 
 whois:        
@@ -27178,7 +27112,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.hyatt.com
 
 created:      2016-07-22
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -28293,7 +28227,6 @@ nserver:      C.NIC.INK 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      X.NIC.INK 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.INK 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.INK 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     44809 8 2 f3328d3a8a78e742e5d1e84c641f399e944d62a290651d21dffee632ab6ad01e
 ds-rdata:     48370 8 2 9ae237cac9d9160455e023b1097161f066c986f9821247dd279b1c84f5163716
 
 whois:        whois.nic.ink
@@ -28302,7 +28235,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.ink/
 
 created:      2014-02-27
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -28392,7 +28325,6 @@ nserver:      F.NIC.INSURANCE 156.154.105.22 2610:a1:1012:0:0:0:0:22
 nserver:      W.NIC.INSURANCE 2001:dcd:1:0:0:0:0:10 37.209.192.10
 nserver:      X.NIC.INSURANCE 2001:dcd:2:0:0:0:0:10 37.209.194.10
 nserver:      Y.NIC.INSURANCE 2001:dcd:3:0:0:0:0:10 37.209.196.10
-ds-rdata:     13792 8 2 ea492e4cf1888e2861f9fffaa38a66509c854db6aa41c4db1dfa611ae358b23f
 ds-rdata:     17830 8 2 b2969b333e64714f8ea3b5d1d691fe476194ff8c5b67ac78345ece07b77fa20c
 
 whois:        whois.nic.insurance
@@ -28401,7 +28333,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.ftld.com/
 
 created:      2015-11-06
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -28591,7 +28523,6 @@ nserver:      C.NIC.INTUIT 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS4.DNS.NIC.INTUIT 156.154.156.82 2610:a1:1074:0:0:0:0:52
 nserver:      NS5.DNS.NIC.INTUIT 156.154.157.82 2610:a1:1075:0:0:0:0:52
 nserver:      NS6.DNS.NIC.INTUIT 156.154.158.82 2610:a1:1076:0:0:0:0:52
-ds-rdata:     8869 8 2 1a86450877bf7cdcab1715f9b5206a668fd7e21c9d10119f3ce7e6d004287a5d
 ds-rdata:     9856 8 2 d826e3abf318055e6e502772d495af5fe336d811e8b841f780114d28479d6f3b
 
 whois:        
@@ -28600,7 +28531,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.intuit.com/
 
 created:      2016-06-09
-changed:      2023-09-08
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -28738,7 +28669,6 @@ nserver:      C.NIC.IPIRANGA 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS4.DNS.NIC.IPIRANGA 156.154.156.83 2610:a1:1074:0:0:0:0:53
 nserver:      NS5.DNS.NIC.IPIRANGA 156.154.157.83 2610:a1:1075:0:0:0:0:53
 nserver:      NS6.DNS.NIC.IPIRANGA 156.154.158.83 2610:a1:1076:0:0:0:0:53
-ds-rdata:     64375 8 2 acf8a18748a01a0dfeea2a9078c2ca53721c508831b9c151db77ae4342065538
 ds-rdata:     15469 8 2 07072c5f3d4a042e6e13050ca502dbbb6cfdfc20ec03c2407562bcc5e23faa32
 
 whois:        
@@ -28747,7 +28677,7 @@ status:       ACTIVE
 remarks:      Registration information: http://ipiranga.com.br
 
 created:      2015-04-02
-changed:      2023-09-08
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -29167,7 +29097,6 @@ nserver:      C.NIC.ITAU 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS4.DNS.NIC.ITAU 156.154.156.84 2610:a1:1074:0:0:0:0:54
 nserver:      NS5.DNS.NIC.ITAU 156.154.157.84 2610:a1:1075:0:0:0:0:54
 nserver:      NS6.DNS.NIC.ITAU 156.154.158.84 2610:a1:1076:0:0:0:0:54
-ds-rdata:     32626 8 2 4abe223f5ad4bdbd1c42de183c76722afeda52267f4166f23483204ad0ce4afb
 ds-rdata:     20974 8 2 255e44d9c42d417ae07b1b92f8bbd5c856f1347b87948b58dc245dcd58fd59b4
 
 whois:        
@@ -29176,7 +29105,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.itau.com
 
 created:      2015-05-29
-changed:      2023-09-08
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -29745,7 +29674,6 @@ nserver:      C.NIC.JMP 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.JMP 156.154.144.88 2610:a1:1071:0:0:0:0:58
 nserver:      NS2.DNS.NIC.JMP 156.154.145.88 2610:a1:1072:0:0:0:0:58
 nserver:      NS3.DNS.NIC.JMP 156.154.159.88 2610:a1:1073:0:0:0:0:58
-ds-rdata:     30112 8 2 47fcd5889323f70e3346b144d204ba05f601d6b6c56c8c52ac7606f7d14af60c
 ds-rdata:     8866 8 2 30edbd31093e1a261862822c85d745e0e803d7ba503aa4fbb79d4bb828fc5422
 
 whois:        
@@ -29754,7 +29682,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.jmp.com
 
 created:      2015-11-20
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -29794,7 +29722,6 @@ nserver:      C.NIC.JNJ 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.JNJ 156.154.144.89 2610:a1:1071:0:0:0:0:59
 nserver:      NS2.DNS.NIC.JNJ 156.154.145.89 2610:a1:1072:0:0:0:0:59
 nserver:      NS3.DNS.NIC.JNJ 156.154.159.89 2610:a1:1073:0:0:0:0:59
-ds-rdata:     16897 8 2 8e9740b903122d7dfed99cf66764bbb9b24eabe8b5a3c37bd0d876f47d69956f
 ds-rdata:     8032 8 2 5cf2a2dfa2b3a5b5c8b3f42bd42290fe5632dc8720b48286573c4aca21fd8c82
 
 whois:        
@@ -29803,7 +29730,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.jnj.com/
 
 created:      2016-01-14
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -30144,7 +30071,6 @@ nserver:      C.NIC.JPMORGAN 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS4.DNS.NIC.JPMORGAN 156.154.156.92 2610:a1:1074:0:0:0:0:5c
 nserver:      NS5.DNS.NIC.JPMORGAN 156.154.157.92 2610:a1:1075:0:0:0:0:5c
 nserver:      NS6.DNS.NIC.JPMORGAN 156.154.158.92 2610:a1:1076:0:0:0:0:5c
-ds-rdata:     3652 8 2 ee3004dfa6162785f6c80c697e79d43f8fe436189a5cd880c971d4cc2870b139
 ds-rdata:     1816 8 2 e41c95d6a3c09199493bc8a48d9d348b0bbb1d4cc33e9333092a510806a35e88
 
 whois:        
@@ -30153,7 +30079,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.jpmorganchase.com
 
 created:      2016-01-14
-changed:      2023-09-08
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -30674,7 +30600,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.cctld.kg/
 
 created:      1995-07-12
-changed:      2022-11-14
+changed:      2023-12-08
 source:       IANA
 
 % IANA WHOIS server
@@ -31380,7 +31306,6 @@ nserver:      C.NIC.KPMG 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.KPMG 156.154.144.98 2610:a1:1071:0:0:0:0:62
 nserver:      NS2.DNS.NIC.KPMG 156.154.145.98 2610:a1:1072:0:0:0:0:62
 nserver:      NS3.DNS.NIC.KPMG 156.154.159.98 2610:a1:1073:0:0:0:0:62
-ds-rdata:     35407 8 2 9faa34c98dc55567cdb910e3d068d6e6adc6646ae8e1085678d41498c0df9d42
 ds-rdata:     48439 8 2 eba8341ef02c15f59e27e356e637d8dc8c50a0989f015809ad057410663a02d8
 
 whois:        
@@ -31389,7 +31314,7 @@ status:       ACTIVE
 remarks:      Registration information: https://home.kpmg.com
 
 created:      2016-01-14
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -31526,7 +31451,6 @@ nserver:      C.NIC.KRD 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      X.NIC.KRD 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.KRD 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.KRD 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     16384 8 2 c87c87e976d19afd0cb934b7aac7f85bb0e327d4d63931604f7ff495d0bb1e61
 ds-rdata:     62344 8 2 5a1637513252be2e160bafa8e86c853914d8418598064dc8a9e23a6ca266bedd
 
 whois:        whois.nic.krd
@@ -31535,7 +31459,7 @@ status:       ACTIVE
 remarks:      Registration information: https://dot.krd
 
 created:      2014-07-10
-changed:      2023-07-31
+changed:      2023-12-11
 source:       IANA
 
 % IANA WHOIS server
@@ -32196,7 +32120,6 @@ nserver:      C.NIC.LANXESS 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.LANXESS 156.154.144.101 2610:a1:1071:0:0:0:0:65
 nserver:      NS2.DNS.NIC.LANXESS 156.154.145.101 2610:a1:1072:0:0:0:0:65
 nserver:      NS3.DNS.NIC.LANXESS 156.154.159.101 2610:a1:1073:0:0:0:0:65
-ds-rdata:     27220 8 2 e7715a76b9ec7c6f1f6553100bc86f7c705078b27a8aeef20a3cee83a939069f
 ds-rdata:     42049 8 2 8f36c334345a3308d0e6c36974effeb13b3b5c0297a0a76443311a5bf98e01c8
 
 whois:        
@@ -32205,7 +32128,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.lanxess.com
 
 created:      2016-01-08
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -32434,7 +32357,6 @@ nserver:      C.NIC.LAW 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      X.NIC.LAW 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.LAW 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.LAW 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     16534 8 2 ae36939d5f3629784f63c7cc2e5f7643efd9ef7533a5049420bd067f4eeab51c
 ds-rdata:     42496 8 2 f6daab5f4fc2a7d48c9e97623c3f0d478586fa882732ba0f86c31b291ad2f3f6
 
 whois:        whois.nic.law
@@ -32443,7 +32365,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.law/
 
 created:      2015-06-18
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -33146,7 +33068,6 @@ nserver:      C.NIC.LIFEINSURANCE 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.LIFEINSURANCE 156.154.144.102 2610:a1:1071:0:0:0:0:66
 nserver:      NS2.DNS.NIC.LIFEINSURANCE 156.154.145.102 2610:a1:1072:0:0:0:0:66
 nserver:      NS3.DNS.NIC.LIFEINSURANCE 156.154.159.102 2610:a1:1073:0:0:0:0:66
-ds-rdata:     38941 8 2 e0fb583d29dfe85b4d42ca9b0fc5eb8dacba63a801af5b8515921702d2c3fa29
 ds-rdata:     62002 8 2 478b46d62eb30d95009e07212b7110c1dc20483afeef1754831dc17a72112810
 
 whois:        
@@ -33155,7 +33076,7 @@ status:       ACTIVE
 remarks:      Registration information: http://acli.com
 
 created:      2015-07-09
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -33341,7 +33262,6 @@ nserver:      C.NIC.LILLY 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.LILLY 156.154.144.104 2610:a1:1071:0:0:0:0:68
 nserver:      NS2.DNS.NIC.LILLY 156.154.145.104 2610:a1:1072:0:0:0:0:68
 nserver:      NS3.DNS.NIC.LILLY 156.154.159.104 2610:a1:1073:0:0:0:0:68
-ds-rdata:     60970 8 2 967d4df30e91fd6e0497c228c18db4fe6c3ef1479ce5428338fe0e746bc412e0
 ds-rdata:     8122 8 2 5dc5f4586f67fc78f4ecec1e95a5e1a89423dee30a27e5bb43c31ad6a874a556
 
 whois:        
@@ -33350,7 +33270,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.lilly.com
 
 created:      2016-05-19
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -33489,7 +33409,6 @@ nserver:      C.NIC.LINCOLN 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.LINCOLN 156.154.144.105 2610:a1:1071:0:0:0:0:69
 nserver:      NS2.DNS.NIC.LINCOLN 156.154.145.105 2610:a1:1072:0:0:0:0:69
 nserver:      NS3.DNS.NIC.LINCOLN 156.154.159.105 2610:a1:1073:0:0:0:0:69
-ds-rdata:     3661 8 2 d29f19155fe9e20ae5a9fa1e1dea7dc1bada5d04f1ff458e8c14fcdf088acab1
 ds-rdata:     10597 8 2 54eeb8f5a01779190a418a0baa75372c8b84fc313188b03db43e2fae379f133f
 
 whois:        
@@ -33498,7 +33417,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.lincoln.com
 
 created:      2015-12-10
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -33866,7 +33785,6 @@ nserver:      C.NIC.LOAN 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.LOAN 156.154.144.106 2610:a1:1071:0:0:0:0:6a
 nserver:      NS2.DNS.NIC.LOAN 156.154.145.106 2610:a1:1072:0:0:0:0:6a
 nserver:      NS3.DNS.NIC.LOAN 156.154.159.106 2610:a1:1073:0:0:0:0:6a
-ds-rdata:     32044 8 2 4263def7bad2257b9020e8887811109cb097fe253bdb6cdcfa2c1f95ee136979
 ds-rdata:     61084 8 2 88742b97e99cee43c1c901233a2a21779dc101ec43cf28c287cdd6509b3d7401
 
 whois:        whois.nic.loan
@@ -33875,7 +33793,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.loan
 
 created:      2015-02-05
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -34726,7 +34644,6 @@ nserver:      C.NIC.LUXE 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      X.NIC.LUXE 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.LUXE 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.LUXE 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     36439 8 2 5795a4998940987917475ae83f6f49b1fea576cac1203c449e9c8a3ede316785
 ds-rdata:     39844 8 2 195b8fcf70c5028b4c75368ee18a455caeb9330c8bb85141c4f071fb94833a40
 
 whois:        whois.nic.luxe
@@ -34735,7 +34652,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.luxe/
 
 created:      2014-03-13
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -35550,7 +35467,6 @@ nserver:      C.NIC.MARSHALLS 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.MARSHALLS 156.154.144.108 2610:a1:1071:0:0:0:0:6c
 nserver:      NS2.DNS.NIC.MARSHALLS 156.154.145.108 2610:a1:1072:0:0:0:0:6c
 nserver:      NS3.DNS.NIC.MARSHALLS 156.154.159.108 2610:a1:1073:0:0:0:0:6c
-ds-rdata:     33055 8 2 5202ea0f1adf8fa9a0fdb1ebd7b3da0ad6274731623eb7e6ed2012f47678e413
 ds-rdata:     53986 8 2 c616816a6077bd3e6e38bc929c17e557dede9db0e541cdf3a196d699eaae729a
 
 whois:        
@@ -35559,7 +35475,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.tjx.com
 
 created:      2016-04-07
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -35599,7 +35515,6 @@ nserver:      C.NIC.MATTEL 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.MATTEL 156.154.144.109 2610:a1:1071:0:0:0:0:6d
 nserver:      NS2.DNS.NIC.MATTEL 156.154.145.109 2610:a1:1072:0:0:0:0:6d
 nserver:      NS3.DNS.NIC.MATTEL 156.154.159.109 2610:a1:1073:0:0:0:0:6d
-ds-rdata:     59044 8 2 66f510d9469e77ae174bea4f42e1215afd837c2a27c9f0095bbbc3a3e2ba4ca4
 ds-rdata:     64621 8 2 340d9cbb6a30cc146d7cda72f89d3ae7b4f634eca0fcf53d84586d13be35fc14
 
 whois:        
@@ -35608,7 +35523,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.mattel.com
 
 created:      2016-01-22
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -36032,7 +35947,6 @@ nserver:      C.NIC.MELBOURNE 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      X.NIC.MELBOURNE 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.MELBOURNE 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.MELBOURNE 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     3487 8 2 a1b0b1ca0f068e57760b7a4183de3620eb0be059006f36d07fed827424f89589
 ds-rdata:     17374 8 2 6d9aaf608c610bea2a8ce99b8870e02e7ec8cd2a8c1a76d363cd813a682f5513
 
 whois:        whois.nic.melbourne
@@ -36041,7 +35955,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.live.melbourne/
 
 created:      2014-07-03
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -36177,7 +36091,6 @@ nserver:      C.NIC.MEN 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      X.NIC.MEN 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.MEN 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.MEN 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     21250 8 2 6c3f496f5f6ada95799145c17fb84c995554114a8e2a77d27c58d7f383c9407f
 ds-rdata:     43840 8 2 f2ab9162a3125ee62726c0782da179d9a6ea14d948ccf416c2c6cb2e7122a70f
 
 whois:        whois.nic.men
@@ -36186,7 +36099,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.men
 
 created:      2015-05-08
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -36412,7 +36325,6 @@ nserver:      C.NIC.MIAMI 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      X.NIC.MIAMI 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.MIAMI 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.MIAMI 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     19654 8 2 8f63985ad288d934e94263f9cea1f58734eda5b75b35bcb9ca39b3038bfc03aa
 ds-rdata:     12679 8 2 4b9f71133648b60be8d6d6742a698e1e6cc62b84ec278f643824690735549056
 
 whois:        whois.nic.miami
@@ -36421,7 +36333,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.miami
 
 created:      2014-02-28
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -36610,7 +36522,6 @@ nserver:      C.NIC.MINT 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS4.DNS.NIC.MINT 156.154.156.112 2610:a1:1074:0:0:0:0:70
 nserver:      NS5.DNS.NIC.MINT 156.154.157.112 2610:a1:1075:0:0:0:0:70
 nserver:      NS6.DNS.NIC.MINT 156.154.158.112 2610:a1:1076:0:0:0:0:70
-ds-rdata:     24670 8 2 872536426335ac76542dd46851ae59fdbc13e1f33e8a5c49193ff5a70bda6fdc
 ds-rdata:     20665 8 2 61e6470c8593c69e908195db6d54f96e47bbfd80e61fa706e4263afc6ac810a6
 
 whois:        
@@ -36619,7 +36530,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.intuit.com/
 
 created:      2016-06-09
-changed:      2023-09-08
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -36844,7 +36755,6 @@ nserver:      C.NIC.MLB 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.MLB 156.154.144.113 2610:a1:1071:0:0:0:0:71
 nserver:      NS2.DNS.NIC.MLB 156.154.145.113 2610:a1:1072:0:0:0:0:71
 nserver:      NS3.DNS.NIC.MLB 156.154.159.113 2610:a1:1073:0:0:0:0:71
-ds-rdata:     4324 8 2 88b16b31916a70182f0809393aa481af43c61350734e0d1e8107ea8cf2348b83
 ds-rdata:     8650 8 2 218d67dc41c6696c577288447524e3588673894ac178ab6ec2d0f3c1fda09a9e
 
 whois:        
@@ -36853,7 +36763,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.mlb.com
 
 created:      2016-05-05
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -37283,7 +37193,6 @@ nserver:      C.NIC.MOE 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.MOE 156.154.144.114 2610:a1:1071:0:0:0:0:72
 nserver:      NS2.DNS.NIC.MOE 156.154.145.114 2610:a1:1072:0:0:0:0:72
 nserver:      NS3.DNS.NIC.MOE 156.154.159.114 2610:a1:1073:0:0:0:0:72
-ds-rdata:     8980 8 2 0107dd039f8bd0049a6803271a15d71793a5234eef881013701e481774a8ba19
 ds-rdata:     32761 8 2 ea6de3f9a962ab77bb96daf62bec88d0f580fc31799ec36ff7da697de8535af6
 
 whois:        whois.nic.moe
@@ -37292,7 +37201,7 @@ status:       ACTIVE
 remarks:      Registration information: https://get.moe/
 
 created:      2014-03-13
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -37714,7 +37623,6 @@ nserver:      C.NIC.MOTO 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS4.DNS.NIC.MOTO 156.154.172.81 2610:a1:1074:0:0:0:1:51
 nserver:      NS5.DNS.NIC.MOTO 156.154.173.81 2610:a1:1075:0:0:0:1:51
 nserver:      NS6.DNS.NIC.MOTO 156.154.174.81 2610:a1:1076:0:0:0:1:51
-ds-rdata:     10705 8 2 a039b06852099a6b4e7eafe4f4187f6d3b5747953413ce454ead9a4576301c5f
 ds-rdata:     5671 8 2 6c1c11faaa1afb7c6198f3cd2bad469e9c0e5d1d714189a4992699093440d97c
 
 whois:        
@@ -37723,7 +37631,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.motorola.com
 
 created:      2016-09-30
-changed:      2023-09-08
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -38949,7 +38857,6 @@ nserver:      C.NIC.NBA 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.NBA 156.154.144.119 2610:a1:1071:0:0:0:0:77
 nserver:      NS2.DNS.NIC.NBA 156.154.145.119 2610:a1:1072:0:0:0:0:77
 nserver:      NS3.DNS.NIC.NBA 156.154.159.119 2610:a1:1073:0:0:0:0:77
-ds-rdata:     59911 8 2 734021820d7b1fdeb0567389bcb05a0f47df5f2a0f156d6e9177a9edcb6a8716
 ds-rdata:     4090 8 2 3d0d5884f22c76c902bee260c65c47057bbbf5544d83ce01681a756b3c220955
 
 whois:        
@@ -38958,7 +38865,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nba.com
 
 created:      2016-07-14
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -39242,7 +39149,6 @@ nserver:      C.NIC.NETFLIX 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS4.DNS.NIC.NETFLIX 156.154.156.121 2610:a1:1074:0:0:0:0:79
 nserver:      NS5.DNS.NIC.NETFLIX 156.154.157.121 2610:a1:1075:0:0:0:0:79
 nserver:      NS6.DNS.NIC.NETFLIX 156.154.158.121 2610:a1:1076:0:0:0:0:79
-ds-rdata:     27637 8 2 7aba17bd5b87aa5d31cb611e0dfd4c67d926b6cfc68b8aeca58c468b104cc2e6
 ds-rdata:     35611 8 2 37bd4f2e02f06306f0c4eb146ebd289cf83b91824b1320a6332aab7b14f33462
 
 whois:        
@@ -39251,7 +39157,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.netflix.com
 
 created:      2016-05-05
-changed:      2023-09-08
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -39340,7 +39246,6 @@ nserver:      C.NIC.NEUSTAR 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS4.DNS.NIC.NEUSTAR 199.7.67.250 2001:502:100e:0:0:0:0:250
 nserver:      NS5.DNS.NIC.NEUSTAR 192.100.59.250 2610:a1:1013:0:0:0:0:250
 nserver:      NS6.DNS.NIC.NEUSTAR 198.133.199.250 2610:a1:1021:0:0:0:0:250
-ds-rdata:     32962 8 2 9bc1d8d086284962e03fa43ae37ac80f2d784218cea1ef02b322220f5e15cafe
 ds-rdata:     65215 8 2 ae5583bdfcf0307df227ff8c2916527da34d91c92d69835a87302b41d8284c7d
 
 whois:        
@@ -39349,7 +39254,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.neustar.biz
 
 created:      2014-02-06
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -39665,7 +39570,6 @@ nserver:      C.NIC.NFL 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS4.DNS.NIC.NFL 156.154.156.122 2610:a1:1074:0:0:0:0:7a
 nserver:      NS5.DNS.NIC.NFL 156.154.157.122 2610:a1:1075:0:0:0:0:7a
 nserver:      NS6.DNS.NIC.NFL 156.154.158.122 2610:a1:1076:0:0:0:0:7a
-ds-rdata:     52009 8 2 4f703d96f3eb2e4621c5176905407ceac4aef4cfa8409791afc2b20bdf4efb2a
 ds-rdata:     7234 8 2 ec15a3b4d86192561c46bc1ebb72aa65bf5bf9c9d07a32ee736157ebadd447bb
 
 whois:        
@@ -39674,7 +39578,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nfl.com/
 
 created:      2016-06-03
-changed:      2023-09-08
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -39958,7 +39862,6 @@ nserver:      C.NIC.NIKE 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.NIKE 156.154.144.123 2610:a1:1071:0:0:0:0:7b
 nserver:      NS2.DNS.NIC.NIKE 156.154.145.123 2610:a1:1072:0:0:0:0:7b
 nserver:      NS3.DNS.NIC.NIKE 156.154.159.123 2610:a1:1073:0:0:0:0:7b
-ds-rdata:     4354 8 2 ff4031cf9735b318fdbe43b2ee7465b3911499f59bb3b0c420af4ed92a494276
 ds-rdata:     37330 8 2 da781b878eaaedd5cb777c550671e970be256f4681f2f8b7aca6b823cea32898
 
 whois:        
@@ -39967,7 +39870,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nike.com
 
 created:      2015-10-29
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -40814,7 +40717,6 @@ nserver:      C.NIC.NYC 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.NYC 156.154.144.125 2610:a1:1071:0:0:0:0:7d
 nserver:      NS2.DNS.NIC.NYC 156.154.145.125 2610:a1:1072:0:0:0:0:7d
 nserver:      NS3.DNS.NIC.NYC 156.154.159.125 2610:a1:1073:0:0:0:0:7d
-ds-rdata:     12811 8 2 a5f2ec128186e5ba7f44ae789ed94f96e32811a68407d40e7073e2a58e8a1341
 ds-rdata:     12721 8 2 37f945f2d915698dcda12f80c7306150223270f78ec1d96fffeb163a2b1eac22
 
 whois:        whois.nic.nyc
@@ -40823,7 +40725,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.mydotnyc.com
 
 created:      2014-03-13
-changed:      2023-11-29
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -41012,7 +40914,6 @@ nserver:      C.NIC.OFFICE 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.OFFICE 156.154.144.126 2610:a1:1071:0:0:0:0:7e
 nserver:      NS2.DNS.NIC.OFFICE 156.154.145.126 2610:a1:1072:0:0:0:0:7e
 nserver:      NS3.DNS.NIC.OFFICE 156.154.159.126 2610:a1:1073:0:0:0:0:7e
-ds-rdata:     6562 8 2 dbfb7bbbf0bed181cf7797bee3565a527b9d4746148ad3b2b835ecd1531ba925
 ds-rdata:     9475 8 2 8193e9e63984c0eebac5e602c134ca712c7843002bcddef3c08a199ac9d4308d
 
 whois:        
@@ -41021,7 +40922,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.office.com
 
 created:      2015-06-04
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -41111,7 +41012,6 @@ nserver:      C.NIC.OLAYAN 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      X.NIC.OLAYAN 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.OLAYAN 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.OLAYAN 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     60061 8 2 930e37d43f6f58965863b8906adadfdf0091edee90b6c8c0dd3a88ed5112d2c8
 ds-rdata:     24340 8 2 84f7ade4991f5338fc9612349a62c456810e645b4af49b77ab8dd029ed8e5cea
 
 whois:        whois.nic.olayan
@@ -41120,7 +41020,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.olayan.com/
 
 created:      2016-04-21
-changed:      2023-08-17
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -41160,7 +41060,6 @@ nserver:      C.NIC.OLAYANGROUP 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      X.NIC.OLAYANGROUP 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.OLAYANGROUP 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.OLAYANGROUP 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     12544 8 2 b8a9fb54eaa15ad63b37ca39a06e8ec0052d61d51a8d26d5a825f81c2e1850d7
 ds-rdata:     6919 8 2 44a731318aa7d54ea4f18178ac0eee1de541334c36f9917bb6249f41895d774c
 
 whois:        whois.nic.olayangroup
@@ -41169,7 +41068,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.olayan.com/
 
 created:      2016-04-21
-changed:      2023-08-17
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -41209,7 +41108,6 @@ nserver:      C.NIC.OLDNAVY 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.OLDNAVY 156.154.144.127 2610:a1:1071:0:0:0:0:7f
 nserver:      NS2.DNS.NIC.OLDNAVY 156.154.145.127 2610:a1:1072:0:0:0:0:7f
 nserver:      NS3.DNS.NIC.OLDNAVY 156.154.159.127 2610:a1:1073:0:0:0:0:7f
-ds-rdata:     61489 8 2 69b39a1fe5ad03f2a8494d74f48b0d7330e074c529f86cc1988456a8e2c83e2b
 ds-rdata:     43291 8 2 c1b93f6a8ac42f2f15dbb3c74af29e6f32e5a59d330f84e761a895eca3371914
 
 whois:        
@@ -41218,7 +41116,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.gap.com
 
 created:      2016-07-14
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -41647,7 +41545,6 @@ nserver:      C.NIC.OPEN 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.OPEN 156.154.144.128 2610:a1:1071:0:0:0:0:80
 nserver:      NS2.DNS.NIC.OPEN 156.154.145.128 2610:a1:1072:0:0:0:0:80
 nserver:      NS3.DNS.NIC.OPEN 156.154.159.128 2610:a1:1073:0:0:0:0:80
-ds-rdata:     37351 8 2 a7c742af4b9a5c8f40c652ab5438e4107599c7f5b052fbf6588fd1cd79c9ca78
 ds-rdata:     31069 8 2 62311a119e0f3920060a74f5347b9a7a3ddf121b060690ad92487970238d555b
 
 whois:        whois.nic.open
@@ -41657,7 +41554,7 @@ remarks:      Registration information:
 remarks:      https://www.americanexpress.com
 
 created:      2016-07-21
-changed:      2023-11-30
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -41939,7 +41836,6 @@ nserver:      C.NIC.OSAKA 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.OSAKA 156.154.144.130 2610:a1:1071:0:0:0:0:82
 nserver:      NS2.DNS.NIC.OSAKA 156.154.145.130 2610:a1:1072:0:0:0:0:82
 nserver:      NS3.DNS.NIC.OSAKA 156.154.159.130 2610:a1:1073:0:0:0:0:82
-ds-rdata:     50221 8 2 90146b6e89fb883144f08a93233f7265086d9e43728ee1c2739f5c3b6d00f9fc
 ds-rdata:     49957 8 2 7e2477a5bcb64b013ba654f6efb43c6478dc172d05463cd8c43c2dd7187e9b2d
 
 whois:        whois.nic.osaka
@@ -41948,7 +41844,7 @@ status:       ACTIVE
 remarks:      Registration information: http://domain.osaka/
 
 created:      2014-12-04
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -42475,7 +42371,6 @@ nserver:      C.NIC.PARTY 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.PARTY 156.154.169.24 2610:a1:1071:0:0:0:1:18
 nserver:      NS2.DNS.NIC.PARTY 156.154.170.24 2610:a1:1072:0:0:0:1:18
 nserver:      NS3.DNS.NIC.PARTY 156.154.171.24 2610:a1:1073:0:0:0:1:18
-ds-rdata:     64246 8 2 11a853aee57ebcc64d5260df6a693f26aa144d4777ebe306f83a886a48f6cdec
 ds-rdata:     55099 8 2 32ad9fd70ad1f66e62f19686f8dceeed1b5ebfea2caf73b68d7903cf3321ee77
 
 whois:        whois.nic.party
@@ -42484,7 +42379,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.party
 
 created:      2014-10-23
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -42758,7 +42653,6 @@ nserver:      C.NIC.PFIZER 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.PFIZER 156.154.144.134 2610:a1:1071:0:0:0:0:86
 nserver:      NS2.DNS.NIC.PFIZER 156.154.145.134 2610:a1:1072:0:0:0:0:86
 nserver:      NS3.DNS.NIC.PFIZER 156.154.159.134 2610:a1:1073:0:0:0:0:86
-ds-rdata:     46210 8 2 9166664240f37692a3886b0566e05220d43a364b2fef2581a905ef5833414bcb
 ds-rdata:     56779 8 2 1de9b797ab28f75b9c00723c2308abcaea91bcee49eb2a4470efc123613802c6
 
 whois:        
@@ -42767,7 +42661,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.pfizer.com
 
 created:      2016-06-16
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -43528,16 +43422,15 @@ nserver:      C.NIC.PING 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.PING 156.154.169.29 2610:a1:1071:0:0:0:1:1d
 nserver:      NS2.DNS.NIC.PING 156.154.170.29 2610:a1:1072:0:0:0:1:1d
 nserver:      NS3.DNS.NIC.PING 156.154.171.29 2610:a1:1073:0:0:0:1:1d
-ds-rdata:     17914 8 2 128d6bf21796bcdb0997673c07ca67cbdec3a09339034f311b1fecab03391a6d
 ds-rdata:     46066 8 2 cb8f8034ee1d5b500bee462544a6a5211cc96b42833e17ea568345937a07e7d8
 
-whois:        
+whois:        whois.nic.ping
 
 status:       ACTIVE
 remarks:      Registration information: http://www.ping.com
 
 created:      2015-09-24
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -44351,7 +44244,6 @@ nserver:      C.NIC.PORN 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      X.NIC.PORN 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.PORN 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.PORN 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     3196 8 2 6b2d8feea5a23845e6934f5639d4055639d7b8d1fac4b5c19c7e5cd45745344d
 ds-rdata:     53866 8 2 6fc2a5cc5949b5300aa6bdfdd041d34ba5ab08604f22f7b3e34654fb22f89b68
 
 whois:        whois.nic.porn
@@ -44360,7 +44252,7 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.porn
 
 created:      2014-11-26
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -44495,7 +44387,6 @@ nserver:      C.NIC.PRAMERICA 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.PRAMERICA 156.154.144.138 2610:a1:1071:0:0:0:0:8a
 nserver:      NS2.DNS.NIC.PRAMERICA 156.154.145.138 2610:a1:1072:0:0:0:0:8a
 nserver:      NS3.DNS.NIC.PRAMERICA 156.154.159.138 2610:a1:1073:0:0:0:0:8a
-ds-rdata:     42634 8 2 34c29e72afde2f27194a21e6d5c9e91ac44b5c04328d7fade36c026c18c118ea
 ds-rdata:     22411 8 2 55e42f1140c47ca9a71e1306d0487e31dca919961409e9121765627e563fdb3c
 
 whois:        
@@ -44504,7 +44395,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.prudential.com
 
 created:      2016-07-14
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -44544,7 +44435,6 @@ nserver:      C.NIC.PRAXI 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.PRAXI 156.154.144.139 2610:a1:1071:0:0:0:0:8b
 nserver:      NS2.DNS.NIC.PRAXI 156.154.145.139 2610:a1:1072:0:0:0:0:8b
 nserver:      NS3.DNS.NIC.PRAXI 156.154.159.139 2610:a1:1073:0:0:0:0:8b
-ds-rdata:     56446 8 2 b6eb17a0657c338c939960a1b134af133254bb756d7211cb3d9aa4dcd2495656
 ds-rdata:     19099 8 2 3e39236609363ba83713bbabff24b95fc7774a6532d68b3f8d7766be5c7054f3
 
 whois:        
@@ -44553,7 +44443,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.praxi.com
 
 created:      2014-03-27
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -45122,7 +45012,6 @@ nserver:      C.NIC.PRU 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.PRU 156.154.144.141 2610:a1:1071:0:0:0:0:8d
 nserver:      NS2.DNS.NIC.PRU 156.154.145.141 2610:a1:1072:0:0:0:0:8d
 nserver:      NS3.DNS.NIC.PRU 156.154.159.141 2610:a1:1073:0:0:0:0:8d
-ds-rdata:     60964 8 2 97a2de7c9e4880f5f4528c07d2446e93ecf03289b85a8b79ac9355914b18e957
 ds-rdata:     54559 8 2 e38aaf4292647d64678f4e3819b5658570e058abbf7f60bae7a57c5369adcf73
 
 whois:        
@@ -45131,7 +45020,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.prudential.com
 
 created:      2016-07-14
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -45170,7 +45059,6 @@ nserver:      C.NIC.PRUDENTIAL 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.PRUDENTIAL 156.154.144.142 2610:a1:1071:0:0:0:0:8e
 nserver:      NS2.DNS.NIC.PRUDENTIAL 156.154.145.142 2610:a1:1072:0:0:0:0:8e
 nserver:      NS3.DNS.NIC.PRUDENTIAL 156.154.159.142 2610:a1:1073:0:0:0:0:8e
-ds-rdata:     60835 8 2 c69dabd2cf3d79d968533bfc2cdb13a20ed9792260f42de04bdaa6925ae9a4a1
 ds-rdata:     3886 8 2 09ed8ddd91ad3b14c9a4ea598b9a0a94e8d3f7fd1efc789f92002ad74372fdf8
 
 whois:        
@@ -45179,7 +45067,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.prudential.com
 
 created:      2016-07-14
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -45705,7 +45593,6 @@ nserver:      C.NIC.RACING 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.RACING 156.154.169.33 2610:a1:1071:0:0:0:1:21
 nserver:      NS2.DNS.NIC.RACING 156.154.170.33 2610:a1:1072:0:0:0:1:21
 nserver:      NS3.DNS.NIC.RACING 156.154.171.33 2610:a1:1073:0:0:0:1:21
-ds-rdata:     57100 8 2 048874afa57ae916c96b9b8f92ca789e5750512cdfd1f153c1f71ed26053e7b4
 ds-rdata:     20812 8 2 d4e4ddb66cb7cd6a1a4faca0007e3735421edca637c767beef02d01a15d928d5
 
 whois:        whois.nic.racing
@@ -45714,7 +45601,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.racing
 
 created:      2015-03-26
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -46879,7 +46766,6 @@ nserver:      C.NIC.REVIEW 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.REVIEW 156.154.169.35 2610:a1:1071:0:0:0:1:23
 nserver:      NS2.DNS.NIC.REVIEW 156.154.170.35 2610:a1:1072:0:0:0:1:23
 nserver:      NS3.DNS.NIC.REVIEW 156.154.171.35 2610:a1:1073:0:0:0:1:23
-ds-rdata:     27040 8 2 3a9d7b6cf7a12550c281a6ffc5b376b7c93972d8b7607d2c726bbd351d4803d5
 ds-rdata:     55054 8 2 93642d0425c1357dbb5f42be8cfef153324b22d81ee82cef8034541d360ebb52
 
 whois:        whois.nic.review
@@ -46888,7 +46774,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.review
 
 created:      2015-02-05
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -47424,7 +47310,6 @@ nserver:      C.NIC.RODEO 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      X.NIC.RODEO 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.RODEO 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.RODEO 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     28669 8 2 beefb4208acee98d66cf5bf93dd9841ac55efa98b003cfe13ff4201e3f8ec300
 ds-rdata:     16639 8 2 75b8726a0f8b07d958ff6e8ef2eb31ad19650920865eba6382171422b3bfcdc0
 
 whois:        whois.nic.rodeo
@@ -47433,7 +47318,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.rodeo/
 
 created:      2014-02-28
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -47715,7 +47600,6 @@ nserver:      C.NIC.RUGBY 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      X.NIC.RUGBY 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.RUGBY 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.RUGBY 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     62356 8 2 df8506247c16ff7ee32eb239208b60960639af729379a13c135c52d606e8520d
 ds-rdata:     30334 8 2 ab547a2f87369f8141bc75216586a4ba1e1d9ed416660aa5d46a8c243061e53d
 
 whois:        whois.nic.rugby
@@ -47724,7 +47608,7 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.rugby/
 
 created:      2017-03-23
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -48157,7 +48041,6 @@ nserver:      C.NIC.SAFETY 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.SAFETY 156.154.144.148 2610:a1:1071:0:0:0:0:94
 nserver:      NS2.DNS.NIC.SAFETY 156.154.145.148 2610:a1:1072:0:0:0:0:94
 nserver:      NS3.DNS.NIC.SAFETY 156.154.159.148 2610:a1:1073:0:0:0:0:94
-ds-rdata:     17254 8 2 f76c51279bbd1c4525d952e5d1df46daac5cf3adbc56d772fc1e85983e05e273
 ds-rdata:     43762 8 2 bf2d17c54e9dde52eb37f0d242a1c4c1051e15c18a2c2661c7a6ca58ee6c0407
 
 whois:        whois.nic.safety
@@ -48166,7 +48049,7 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.safety
 
 created:      2015-04-23
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -48677,7 +48560,6 @@ nserver:      C.NIC.SAS 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.SAS 156.154.169.39 2610:a1:1071:0:0:0:1:27
 nserver:      NS2.DNS.NIC.SAS 156.154.170.39 2610:a1:1072:0:0:0:1:27
 nserver:      NS3.DNS.NIC.SAS 156.154.171.39 2610:a1:1073:0:0:0:1:27
-ds-rdata:     20119 8 2 245081f2a99002cfba295d87b98465b3b4a2df0023364e577292c15103fcc0a4
 ds-rdata:     55987 8 2 75e65d4917a0980aa1cccc56b99c58c86a5a2d62efee4d1de37f672ac7ae8e7b
 
 whois:        
@@ -48686,7 +48568,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.sas.com
 
 created:      2015-11-20
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -48991,45 +48873,13 @@ source:       IANA
 
 domain:       SCA
 
-organisation: SVENSKA CELLULOSA AKTIEBOLAGET SCA (publ)
-address:      Klarabergsviadukten 63
-address:      Stockholm SE-111 64
-address:      Sweden
+whois:        
 
-contact:      administrative
-name:         Operations Director
-organisation: Valideus Limited
-address:      2nd Floor
-address:      28-30 Little Russell Street
-address:      London WC1A 2HN
-address:      United Kingdom of Great Britain and Northern Ireland (the)
-phone:        +442074218299
-fax-no:       +448700118187
-e-mail:       lorna.gradden.sca@valideus.com
-
-contact:      technical
-name:         Customer Service
-organisation: Verisign, Inc.
-address:      12061 Bluemont Way
-address:      Reston VA 20190
-address:      United States of America (the)
-phone:        +1-703-925-6999
-fax-no:       +1-703-948-3978
-e-mail:       info@verisign-grs.com
-
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
-ds-rdata:     11691 8 2 2433227153341429fd6dc9cc654844e9614c0bf4d408c39bbe0149e1716438de
-
-whois:        whois.nic.sca
-
-status:       ACTIVE
-remarks:      Registration information: http://nic.sca
+status:       FORMER
+remarks:      Registration information: 
 
 created:      2014-07-17
-changed:      2020-10-01
+changed:      2023-12-11
 source:       IANA
 
 % IANA WHOIS server
@@ -49397,7 +49247,6 @@ nserver:      C.NIC.SCIENCE 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.SCIENCE 156.154.169.41 2610:a1:1071:0:0:0:1:29
 nserver:      NS2.DNS.NIC.SCIENCE 156.154.170.41 2610:a1:1072:0:0:0:1:29
 nserver:      NS3.DNS.NIC.SCIENCE 156.154.171.41 2610:a1:1073:0:0:0:1:29
-ds-rdata:     49186 8 2 6712663d49aa8efcb6c832b978feb020f0ebbb05b16058c64ef387f4c24de401
 ds-rdata:     10030 8 2 0e676daba7fa8c847f77c358db1f7fe17b6a1423b4c48e3952190446b9affb07
 
 whois:        whois.nic.science
@@ -49406,7 +49255,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.science
 
 created:      2014-10-23
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -49836,7 +49685,6 @@ nserver:      C.NIC.SELECT 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      X.NIC.SELECT 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.SELECT 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.SELECT 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     63907 8 2 67ffd642d56c519c3a3f78f2396dcc30d237a0cd5f5a32ddff33834128698472
 ds-rdata:     44725 8 2 5ee0dcf207475272e3d80571d3454d3eee5753f3d71a102b58d38d14937eacc2
 
 whois:        whois.nic.select
@@ -49845,7 +49693,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.select/
 
 created:      2015-12-23
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -50076,7 +49924,6 @@ nserver:      C.NIC.SEX 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      X.NIC.SEX 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.SEX 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.SEX 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     53905 8 2 1bc21cfa8ce05af75007ae4e83667dc97eb6939b9253cbaa0d124c18d49f09d6
 ds-rdata:     27487 8 2 e7625e71a6bc32bf10d612ba2d17e02e62641a5293100a82f389ca415cc71bfc
 
 whois:        whois.nic.sex
@@ -50085,7 +49932,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.sex
 
 created:      2015-04-09
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -51354,7 +51201,6 @@ nserver:      C.NIC.SKYPE 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.SKYPE 156.154.144.151 2610:a1:1071:0:0:0:0:97
 nserver:      NS2.DNS.NIC.SKYPE 156.154.145.151 2610:a1:1072:0:0:0:0:97
 nserver:      NS3.DNS.NIC.SKYPE 156.154.159.151 2610:a1:1073:0:0:0:0:97
-ds-rdata:     4519 8 2 fd50adcd586d68b58ad4081bfa7566e3e438f0cbe991ceed726ad4485b62d97b
 ds-rdata:     56554 8 2 ffa94dc331d59fbe4b7b2e51871b8ceeec8ce9baa00efb2a9553f09f84804e6a
 
 whois:        
@@ -51363,7 +51209,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.skype.com
 
 created:      2015-03-19
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -52110,7 +51956,6 @@ nserver:      C.NIC.SONG 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.SONG 156.154.144.153 2610:a1:1071:0:0:0:0:99
 nserver:      NS2.DNS.NIC.SONG 156.154.145.153 2610:a1:1072:0:0:0:0:99
 nserver:      NS3.DNS.NIC.SONG 156.154.159.153 2610:a1:1073:0:0:0:0:99
-ds-rdata:     64366 8 2 68d1d29041b564b8582f81d7409d912122ac68e2e23bf9167f3135621790fb71
 ds-rdata:     40012 8 2 9490b716f1dc3bf325e846595c3511f0dc8b3f5149a7664e53671256fda4c6fb
 
 whois:        
@@ -52119,7 +51964,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.amazonregistry.com
 
 created:      2016-01-29
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -52681,7 +52526,6 @@ nserver:      C.NIC.STAPLES 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.STAPLES 156.154.169.79 2610:a1:1071:0:0:0:1:4f
 nserver:      NS2.DNS.NIC.STAPLES 156.154.170.79 2610:a1:1072:0:0:0:1:4f
 nserver:      NS3.DNS.NIC.STAPLES 156.154.171.79 2610:a1:1073:0:0:0:1:4f
-ds-rdata:     35455 8 2 632af1f936fb38d84fced84eaace443d47d287f3346e8cd4c456d8db70efcf72
 ds-rdata:     23296 8 2 ec6e9a376b2a1274d837a25381dfb539f1404eada456c15b7258074517bdddd8
 
 whois:        
@@ -52690,7 +52534,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.staples.com/
 
 created:      2016-06-09
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -52824,7 +52668,6 @@ nserver:      C.NIC.STATEFARM 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.STATEFARM 156.154.144.154 2610:a1:1071:0:0:0:0:9a
 nserver:      NS2.DNS.NIC.STATEFARM 156.154.145.154 2610:a1:1072:0:0:0:0:9a
 nserver:      NS3.DNS.NIC.STATEFARM 156.154.159.154 2610:a1:1073:0:0:0:0:9a
-ds-rdata:     64867 8 2 1ed8a8c0e5102a11cc8659d9d0543ea7ef5f44b63d553a4aa78d46d398ff5356
 ds-rdata:     56986 8 2 f07e46d54c6ab0b5d79da353ce0bf2f58446572728c2823ad964f6ec50b99af5
 
 whois:        
@@ -52833,7 +52676,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.statefarm.com
 
 created:      2015-11-06
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -53118,7 +52961,6 @@ nserver:      C.NIC.STREAM 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.STREAM 156.154.169.50 2610:a1:1071:0:0:0:1:32
 nserver:      NS2.DNS.NIC.STREAM 156.154.170.50 2610:a1:1072:0:0:0:1:32
 nserver:      NS3.DNS.NIC.STREAM 156.154.171.50 2610:a1:1073:0:0:0:1:32
-ds-rdata:     5689 8 2 6b26a93e218e96c47e1e3984823bde21105bfeb4ea6d0cd82e144e24d5d2a0e0
 ds-rdata:     31735 8 2 b6a0ac51c5711a40b336884ea349544e664814376c82cf270336799225a7fd99
 
 whois:        whois.nic.stream
@@ -53127,7 +52969,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.stream
 
 created:      2016-02-26
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -53216,7 +53058,6 @@ nserver:      C.NIC.STUDY 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      X.NIC.STUDY 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.STUDY 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.STUDY 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     52297 8 2 d306e55ce201ddd1ea5fd896b2fa4389a25f3b9d71e2f91076b65552d421acff
 ds-rdata:     61795 8 2 4b9e5e4b221d060c3da6b8cf0cbe64e526c00ed82ce0d634e52a22ab4d1602cb
 
 whois:        whois.nic.study
@@ -53225,7 +53066,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.open.edu.au/
 
 created:      2015-02-19
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -53364,7 +53205,6 @@ nserver:      C.NIC.SUCKS 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      X.NIC.SUCKS 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.SUCKS 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.SUCKS 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     33844 8 2 3bc39b543789de80c38841624e4195136cc4cf04f47ab5a09d052998e9f374ec
 ds-rdata:     59257 8 2 0eb720a2c0284375766effebd01edd5255397bafcce4a8aaa46f0bf13fca9a5b
 
 whois:        whois.nic.sucks
@@ -53373,7 +53213,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.voxpopregistry.com
 
 created:      2015-02-19
-changed:      2023-08-17
+changed:      2023-12-07
 source:       IANA
 
 % IANA WHOIS server
@@ -53560,7 +53400,6 @@ nserver:      C.NIC.SURF 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      X.NIC.SURF 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.SURF 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.SURF 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     42349 8 2 f4d78e449d9bf4c11668df78a7a3f5747797ef8dc5304270ef0574716c0c803c
 ds-rdata:     54106 8 2 62e4b7017888f8ebe2231145a20d9378419290f0aba9c5d561afcbd1ec92d176
 
 whois:        whois.nic.surf
@@ -53569,7 +53408,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.surf/
 
 created:      2014-03-13
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -53941,7 +53780,6 @@ nserver:      C.NIC.SYDNEY 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      X.NIC.SYDNEY 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.SYDNEY 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.SYDNEY 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     38014 8 2 a5cd19204ca09e64b3a91aa6bf40955e4b7553cf8f288b15d4ce93b4a0b428be
 ds-rdata:     56155 8 2 6f8bec880cb37266b04e5b34a8a61238404ddca2ac3efcfd47bf641e650d3d78
 
 whois:        whois.nic.sydney
@@ -53951,7 +53789,7 @@ remarks:      Registration information:
 remarks:      http://www.ariservices.com/dotsydney
 
 created:      2014-10-30
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -54132,7 +53970,6 @@ nserver:      C.NIC.TAIPEI 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.TAIPEI 156.154.144.156 2610:a1:1071:0:0:0:0:9c
 nserver:      NS2.DNS.NIC.TAIPEI 156.154.145.156 2610:a1:1072:0:0:0:0:9c
 nserver:      NS3.DNS.NIC.TAIPEI 156.154.159.156 2610:a1:1073:0:0:0:0:9c
-ds-rdata:     45859 8 2 1d7533b060b299291e2c060fe110169784881081bbc7738aa4b7a774f4dc4746
 ds-rdata:     28855 8 2 6af00fb1eb9ce9f7b6da427e29c32bfae5b605aef733affd9de17f150a099bb2
 
 whois:        whois.nic.taipei
@@ -54141,7 +53978,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nictaipei.net
 
 created:      2014-09-25
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -54278,7 +54115,6 @@ nserver:      C.NIC.TARGET 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.TARGET 156.154.144.158 2610:a1:1071:0:0:0:0:9e
 nserver:      NS2.DNS.NIC.TARGET 156.154.145.158 2610:a1:1072:0:0:0:0:9e
 nserver:      NS3.DNS.NIC.TARGET 156.154.159.158 2610:a1:1073:0:0:0:0:9e
-ds-rdata:     64351 8 2 0168137c6e180963663c74f30e4b581847c1d17e674b59aa1cb2c76d671d5ed3
 ds-rdata:     63634 8 2 c16dcd3729fce936b4ff2021e1d2409499fc85c4934137249ef7b5288807aea4
 
 whois:        
@@ -54287,7 +54123,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.target.com
 
 created:      2016-07-21
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -54420,7 +54256,6 @@ nserver:      C.NIC.TATTOO 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      X.NIC.TATTOO 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.TATTOO 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.TATTOO 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     23225 13 2 bd1e542c994f3e0d03467d60d852ac6da47c825d16d64612006ac2afe1fe2da9
 ds-rdata:     20907 13 2 2eb5f4e97ebc340acc792395037d9bac16b3683099bc109abc2ea74e7d0d2555
 
 whois:        whois.nic.tattoo
@@ -54429,7 +54264,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.tattoo/
 
 created:      2013-11-08
-changed:      2023-11-21
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -54718,7 +54553,6 @@ nserver:      C.NIC.TDK 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.TDK 156.154.144.159 2610:a1:1071:0:0:0:0:9f
 nserver:      NS2.DNS.NIC.TDK 156.154.145.159 2610:a1:1072:0:0:0:0:9f
 nserver:      NS3.DNS.NIC.TDK 156.154.159.159 2610:a1:1073:0:0:0:0:9f
-ds-rdata:     55690 8 2 bbad3ff362d157b3e4c07da5eab21dc9023320e511f6b5cef84a19d773eec2a9
 ds-rdata:     39604 8 2 6ad7c7e7eb4c9f8dcb98ad56864a319e516c94cd953b3101377a8ba8c023d1b3
 
 whois:        whois.nic.tdk
@@ -54727,7 +54561,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.tdk
 
 created:      2016-03-10
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -55065,7 +54899,6 @@ nserver:      C.NIC.TEVA 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.TEVA 156.154.144.160 2610:a1:1071:0:0:0:0:a0
 nserver:      NS2.DNS.NIC.TEVA 156.154.145.160 2610:a1:1072:0:0:0:0:a0
 nserver:      NS3.DNS.NIC.TEVA 156.154.159.160 2610:a1:1073:0:0:0:0:a0
-ds-rdata:     46417 8 2 7e670079255665759e954def033d30aaa2dabb07cf77eca7f27975fd03e0cfc8
 ds-rdata:     21292 8 2 2f66a0187371c329d36b36768e56acfb62f8b60c8d17a7bb6e3cf7ed800f8789
 
 whois:        whois.nic.teva
@@ -55074,7 +54907,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.teva
 
 created:      2016-02-19
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -55742,7 +55575,6 @@ nserver:      C.NIC.TJMAXX 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.TJMAXX 156.154.144.161 2610:a1:1071:0:0:0:0:a1
 nserver:      NS2.DNS.NIC.TJMAXX 156.154.145.161 2610:a1:1072:0:0:0:0:a1
 nserver:      NS3.DNS.NIC.TJMAXX 156.154.159.161 2610:a1:1073:0:0:0:0:a1
-ds-rdata:     47464 8 2 fd4d33c7b820582ca00aa1191df28406ff4ac867302f06cb5101f29f7f54c33d
 ds-rdata:     52204 8 2 c70ab029dccbde228b1cf0784cdc44470b89bf5f603c560645b614cd33d3ca45
 
 whois:        
@@ -55751,7 +55583,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.tjx.com
 
 created:      2016-04-07
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -55791,7 +55623,6 @@ nserver:      C.NIC.TJX 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.TJX 156.154.144.162 2610:a1:1071:0:0:0:0:a2
 nserver:      NS2.DNS.NIC.TJX 156.154.145.162 2610:a1:1072:0:0:0:0:a2
 nserver:      NS3.DNS.NIC.TJX 156.154.159.162 2610:a1:1073:0:0:0:0:a2
-ds-rdata:     6334 8 2 009e613888cfde218f0b08e676efbac926cbd6ee7a12cfc7b984ba18013a0c4a
 ds-rdata:     62626 8 2 c5299ca2e7e2344fa3fbe4e7ab6479704d235f4a8b0a628ea98e91d2f7670745
 
 whois:        
@@ -55800,7 +55631,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.tjx.com
 
 created:      2016-04-07
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -55884,7 +55715,6 @@ nserver:      C.NIC.TKMAXX 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.TKMAXX 156.154.144.163 2610:a1:1071:0:0:0:0:a3
 nserver:      NS2.DNS.NIC.TKMAXX 156.154.145.163 2610:a1:1072:0:0:0:0:a3
 nserver:      NS3.DNS.NIC.TKMAXX 156.154.159.163 2610:a1:1073:0:0:0:0:a3
-ds-rdata:     46960 8 2 ecb1a09652906f084a1d362e599a9fcdb024f3e9382ac8dc6c3e47f6dd25fbd6
 ds-rdata:     8737 8 2 96cae3dd0d803ddcd31cede1b63d600d645ca9eaf67e39660e00d521cb16fe8a
 
 whois:        
@@ -55893,7 +55723,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.tjx.com
 
 created:      2016-04-07
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -56767,7 +56597,6 @@ nserver:      C.NIC.TRADE 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.TRADE 156.154.144.165 2610:a1:1071:0:0:0:0:a5
 nserver:      NS2.DNS.NIC.TRADE 156.154.145.165 2610:a1:1072:0:0:0:0:a5
 nserver:      NS3.DNS.NIC.TRADE 156.154.159.165 2610:a1:1073:0:0:0:0:a5
-ds-rdata:     34372 8 2 2647b121fa8a1109cf92d8a945f29ffc3bb42067d3b3c3dba392211de020d87a
 ds-rdata:     64969 8 2 a6a28c3e7e7027758c2a68a2d255ff07956cf8bc41ce1f8bf8eeaefd9280552b
 
 whois:        whois.nic.trade
@@ -56776,7 +56605,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.trade
 
 created:      2014-03-06
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -57189,7 +57018,6 @@ nserver:      C.NIC.TUBE 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.TUBE 156.154.169.80 2610:a1:1071:0:0:0:1:50
 nserver:      NS2.DNS.NIC.TUBE 156.154.170.80 2610:a1:1072:0:0:0:1:50
 nserver:      NS3.DNS.NIC.TUBE 156.154.171.80 2610:a1:1073:0:0:0:1:50
-ds-rdata:     45112 8 2 a5918afdeeed73d4603adf2ec0ec6a2735b7ded61849c500deb6b68a5bd03610
 ds-rdata:     52096 8 2 03e03aced82968f08ebe79b3d8641a366aeb3a9600b6b29671dce8af94492287
 
 whois:        whois.nic.tube
@@ -57198,7 +57026,7 @@ status:       ACTIVE
 remarks:      Registration information: http://tubetld.com
 
 created:      2015-12-23
-changed:      2023-11-30
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -57386,7 +57214,6 @@ nserver:      A.NIC.TV 2001:dcd:1:0:0:0:0:6 37.209.192.6
 nserver:      B.NIC.TV 2001:dcd:2:0:0:0:0:6 37.209.194.6
 nserver:      C.NIC.TV 2001:dcd:3:0:0:0:0:6 37.209.196.6
 nserver:      D.NIC.TV 2001:dcd:4:0:0:0:0:6 37.209.198.6
-ds-rdata:     2107 8 2 2f2dc481c07e7db2e54a546a7a35cc16cbcf242ec76b71385a42cd7bc37e7fc8
 ds-rdata:     57277 8 2 cdf61faf1ebc9d83d5bc3d9de22e794ae8acdb0475ea8cf27e92cc00f0c3f5f9
 
 whois:        whois.nic.tv
@@ -57395,7 +57222,7 @@ status:       ACTIVE
 remarks:      Registration information: https://turnon.tv/
 
 created:      1996-03-18
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -58087,7 +57914,6 @@ nserver:      K.CCTLD.US 156.154.128.70 2001:503:e239:0:0:0:3:1
 nserver:      W.CCTLD.US 2001:dcd:1:0:0:0:0:15 37.209.192.15
 nserver:      X.CCTLD.US 2001:dcd:2:0:0:0:0:15 37.209.194.15
 nserver:      Y.CCTLD.US 2001:dcd:3:0:0:0:0:15 37.209.196.15
-ds-rdata:     46144 8 2 0c67e6017124bf19d50be565cc486ff3cfe2a278fe2e5983ff97b2a453386419
 ds-rdata:     59017 8 2 7daf469d42b5d8e5537fd4dd4b6057710e9a61f72c32eb7fb6526f52277ec2b0
 
 whois:        whois.nic.us
@@ -58096,7 +57922,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.us
 
 created:      1985-02-15
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -59145,7 +58971,6 @@ nserver:      C.NIC.VIP 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      X.NIC.VIP 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.VIP 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.VIP 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     40669 8 2 eb70a1f31a3c3b26e464dd98a97970001fc220021dea2b4a5dda68de2c1dbf00
 ds-rdata:     34207 8 2 db3e27d9a9bf7ba3ad1e2a45d5d2b10486670711be8d81f1487b01912f06a47a
 
 whois:        whois.nic.vip
@@ -59154,7 +58979,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.vip/
 
 created:      2015-07-30
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -59391,7 +59216,6 @@ nserver:      C.NIC.VIVO 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.VIVO 156.154.169.57 2610:a1:1071:0:0:0:1:39
 nserver:      NS2.DNS.NIC.VIVO 156.154.170.57 2610:a1:1072:0:0:0:1:39
 nserver:      NS3.DNS.NIC.VIVO 156.154.171.57 2610:a1:1073:0:0:0:1:39
-ds-rdata:     25072 8 2 d450ebd4dcf5f47b529804dd9dfca7d2af45d3c6b0e4f72e0393f0512196d5f1
 ds-rdata:     37450 8 2 94b4e1a1583215adb71aac0e4aec100854caa49827165ac3ad6c3627fcaa7dda
 
 whois:        
@@ -59400,7 +59224,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.vivo.com.br
 
 created:      2016-05-26
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -59543,7 +59367,6 @@ nserver:      C.NIC.VODKA 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      X.NIC.VODKA 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.VODKA 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.VODKA 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     9085 8 2 4a2f917b298b97a57bf484931c74134a82b3ef0ce16da123093c509eb9ea153e
 ds-rdata:     62887 8 2 7286a1b64c79d57e7d499442edc470aa0685280d2dc642af97615e215154a50b
 
 whois:        whois.nic.vodka
@@ -59552,7 +59375,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.vodka/
 
 created:      2014-02-28
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -59698,7 +59521,6 @@ nserver:      C.NIC.VOTING 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      X.NIC.VOTING 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.VOTING 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.VOTING 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     9277 8 2 721cd786aa7f964ef0b943a67beaa4333756f65771475f91678c536616e2037f
 ds-rdata:     20254 8 2 8c2fea117f4531a3dbd045f935e0e412a8bc7546104bc003d5fc4357aa9aeba4
 
 whois:        whois.nic.voting
@@ -59707,7 +59529,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.voting
 
 created:      2014-01-16
-changed:      2023-08-18
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -59840,7 +59662,6 @@ nserver:      NS1.TLDNS.VU 2001:dcd:1:0:0:0:0:6 37.209.192.6
 nserver:      NS2.TLDNS.VU 2001:dcd:2:0:0:0:0:6 37.209.194.6
 nserver:      NS3.TLDNS.VU 2001:dcd:3:0:0:0:0:6 37.209.196.6
 nserver:      NS4.TLDNS.VU 2001:dcd:4:0:0:0:0:6 37.209.198.6
-ds-rdata:     50412 10 2 49257111e03ad5f8c450f8330f101b87b84f82251fa54ce67c832b7eefa45232
 ds-rdata:     32778 10 2 e9a2e16e09e41f325deb3b58a721d9980d0942e19e7c41b44fd4b2bfd8611e08
 
 whois:        whois.dnrs.vu
@@ -59849,7 +59670,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.hello.vu
 
 created:      1995-04-10
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -60327,7 +60148,6 @@ nserver:      C.NIC.WEBCAM 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.WEBCAM 156.154.169.60 2610:a1:1071:0:0:0:1:3c
 nserver:      NS2.DNS.NIC.WEBCAM 156.154.170.60 2610:a1:1072:0:0:0:1:3c
 nserver:      NS3.DNS.NIC.WEBCAM 156.154.171.60 2610:a1:1073:0:0:0:1:3c
-ds-rdata:     22450 8 2 e2447935904a4e1da9f3695f56055a2132ffc565a4ea2ddcf22c5aae0605a2fd
 ds-rdata:     55165 8 2 90f6b109efa3c0bdee83fbce4f70284b66fb7e61745b4d78a11dc1923db958bb
 
 whois:        whois.nic.webcam
@@ -60336,7 +60156,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.webcam
 
 created:      2014-03-06
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -60528,7 +60348,6 @@ nserver:      C.NIC.WEDDING 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      X.NIC.WEDDING 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.WEDDING 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.WEDDING 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     7942 8 2 6bcbb57873bad3ef4bfc74da093b04a5232bbc92c68579dd6776f326467510fd
 ds-rdata:     52771 8 2 4d92964ee9fd15bb3adb2d0d06c44b6e0ff864f19ad1ced67ab020a9921f5460
 
 whois:        whois.nic.wedding
@@ -60537,7 +60356,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.wedding/
 
 created:      2014-07-10
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -60811,7 +60630,6 @@ nserver:      C.NIC.WIKI 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      X.NIC.WIKI 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.WIKI 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.WIKI 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     10870 8 2 3c2ca6a68be31fd1222eb66aaa693c6c4991e6f8737ca62b1427b3c9e3e67539
 ds-rdata:     27157 8 2 c72478a4986a5330fb21a2e427823553131d70c399ddbcfedee395103ca8543d
 
 whois:        whois.nic.wiki
@@ -60820,7 +60638,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.wiki
 
 created:      2014-02-06
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -60861,7 +60679,6 @@ nserver:      C.NIC.WILLIAMHILL 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.WILLIAMHILL 156.154.144.181 2610:a1:1071:0:0:0:0:b5
 nserver:      NS2.DNS.NIC.WILLIAMHILL 156.154.145.181 2610:a1:1072:0:0:0:0:b5
 nserver:      NS3.DNS.NIC.WILLIAMHILL 156.154.159.181 2610:a1:1073:0:0:0:0:b5
-ds-rdata:     64624 8 2 97386ec38fab6b1d4f0c1bcdbc8f670d92a474996eddcc24786a028a249e2c23
 ds-rdata:     34804 8 2 a9905aea06276db0257b1964b05d99ac5cd6f787f1d02ee138166730b8447e0e
 
 whois:        
@@ -60870,7 +60687,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.williamhill.com/
 
 created:      2014-07-03
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -60909,7 +60726,6 @@ nserver:      C.NIC.WIN 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.WIN 156.154.144.182 2610:a1:1071:0:0:0:0:b6
 nserver:      NS2.DNS.NIC.WIN 156.154.145.182 2610:a1:1072:0:0:0:0:b6
 nserver:      NS3.DNS.NIC.WIN 156.154.159.182 2610:a1:1073:0:0:0:0:b6
-ds-rdata:     49585 8 2 4466f9d8d5814557b154063e5b82925059115249b97f19c8b091c6cf06407d57
 ds-rdata:     29737 8 2 980f7cd5e938e5acaa28b0b9a3a1504ac3839b3919ca6fdf9c3523675d0fe875
 
 whois:        whois.nic.win
@@ -60918,7 +60734,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.win
 
 created:      2015-02-05
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -61057,7 +60873,6 @@ nserver:      C.NIC.WINNERS 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.WINNERS 156.154.144.183 2610:a1:1071:0:0:0:0:b7
 nserver:      NS2.DNS.NIC.WINNERS 156.154.145.183 2610:a1:1072:0:0:0:0:b7
 nserver:      NS3.DNS.NIC.WINNERS 156.154.159.183 2610:a1:1073:0:0:0:0:b7
-ds-rdata:     44842 8 2 e0735a12e87e2c61da2a863567d0d12d3754b2bc42237c53f08280f833f9b42a
 ds-rdata:     45580 8 2 7a66263cf952160c86b31c0b85ad2d1d79e290c8c506f45abdd807a6ea4d3bf9
 
 whois:        
@@ -61066,7 +60881,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.tjx.com
 
 created:      2016-04-07
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -61253,7 +61068,6 @@ nserver:      C.NIC.WORK 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      X.NIC.WORK 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.WORK 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.WORK 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     41389 8 2 d1ae5019cb2d29dab235359fe6250cddd84c83214deae65e7a1ab385d2050bf2
 ds-rdata:     16252 8 2 499017aa972a79021573af6624ddb5dea13562abb2c356fa30456e4604f3d4d7
 
 whois:        whois.nic.work
@@ -61262,7 +61076,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.work/
 
 created:      2014-08-18
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -61648,7 +61462,6 @@ nserver:      C.NIC.XEROX 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      X.NIC.XEROX 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.XEROX 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.XEROX 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     26830 8 2 7b5c562e138431a73348593e3a2d18c66deba2294f849c3b5ba62c7fb92443d3
 ds-rdata:     61096 8 2 95f8fb00a7df39cc9fbad6444f8d2786e6a15deec56424e1bcda21e94a7c386f
 
 whois:        whois.nic.xerox
@@ -61657,7 +61470,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2015-04-02
-changed:      2023-08-30
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -61900,7 +61713,6 @@ nserver:      C.NIC.XN--1CK2E1B 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.XN--1CK2E1B 156.154.169.64 2610:a1:1071:0:0:0:1:40
 nserver:      NS2.DNS.NIC.XN--1CK2E1B 156.154.170.64 2610:a1:1072:0:0:0:1:40
 nserver:      NS3.DNS.NIC.XN--1CK2E1B 156.154.171.64 2610:a1:1073:0:0:0:1:40
-ds-rdata:     45052 8 2 95af6d712437ff0146056fb29421e23251ba928dd50401d6b48dad894b00b234
 ds-rdata:     3829 8 2 9402244c218bf8fe172483e4d2ad8355589be11f812b471fe722dd4e572eac26
 
 whois:        
@@ -61909,7 +61721,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.amazonregistry.com
 
 created:      2016-01-29
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -63601,7 +63413,6 @@ nserver:      C.NIC.XN--BCK1B9A5DRE4C 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.XN--BCK1B9A5DRE4C 156.154.144.194 2610:a1:1071:0:0:0:0:c2
 nserver:      NS2.DNS.NIC.XN--BCK1B9A5DRE4C 156.154.145.194 2610:a1:1072:0:0:0:0:c2
 nserver:      NS3.DNS.NIC.XN--BCK1B9A5DRE4C 156.154.159.194 2610:a1:1073:0:0:0:0:c2
-ds-rdata:     18031 8 2 f5936212e7d648f9906d69570e647f0a09c2c66bee3b322cf39e5307175996d3
 ds-rdata:     2884 8 2 dd075c68dac66ece21097863183d23795595362fc5314150d38380adec50fd40
 
 whois:        
@@ -63610,7 +63421,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.amazonregistry.com
 
 created:      2016-01-29
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -63747,7 +63558,6 @@ nserver:      C.NIC.XN--CCK2B3B 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.XN--CCK2B3B 156.154.144.193 2610:a1:1071:0:0:0:0:c1
 nserver:      NS2.DNS.NIC.XN--CCK2B3B 156.154.145.193 2610:a1:1072:0:0:0:0:c1
 nserver:      NS3.DNS.NIC.XN--CCK2B3B 156.154.159.193 2610:a1:1073:0:0:0:0:c1
-ds-rdata:     54514 8 2 00a885297fe7934b3a92a271dccb88c79e37c8f1b18d15214e50e43e2386c63a
 ds-rdata:     3841 8 2 123a65d7e5ceaac47d65136b12037a6965b9a52f8ed600c1cfbec8039b5877d5
 
 whois:        
@@ -63756,7 +63566,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.amazonregistry.com
 
 created:      2016-01-29
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -64242,7 +64052,6 @@ nserver:      C.NIC.XN--ECKVDTC9D 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.XN--ECKVDTC9D 156.154.169.66 2610:a1:1071:0:0:0:1:42
 nserver:      NS2.DNS.NIC.XN--ECKVDTC9D 156.154.170.66 2610:a1:1072:0:0:0:1:42
 nserver:      NS3.DNS.NIC.XN--ECKVDTC9D 156.154.171.66 2610:a1:1073:0:0:0:1:42
-ds-rdata:     40972 8 2 87ca2a9dfff26f0b71f1cfabf9dfa315eca77ccaf0168c5a39228ab8a5394d7f
 ds-rdata:     15400 8 2 02709ffcf8a245cdc4bb1d688f982898f244a65d798c574a5ec82749c918830b
 
 whois:        
@@ -64251,7 +64060,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.amazonregistry.com
 
 created:      2015-11-25
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -64346,7 +64155,6 @@ nserver:      C.NIC.XN--FCT429K 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.XN--FCT429K 156.154.169.67 2610:a1:1071:0:0:0:1:43
 nserver:      NS2.DNS.NIC.XN--FCT429K 156.154.170.67 2610:a1:1072:0:0:0:1:43
 nserver:      NS3.DNS.NIC.XN--FCT429K 156.154.171.67 2610:a1:1073:0:0:0:1:43
-ds-rdata:     43072 8 2 0c2dfc5910ab7282c7c3201810c8a465c2ad7a6c6c4e26b5d8a2282f0387685d
 ds-rdata:     8479 8 2 c4fa8d520fbb397127d969d901cf7d4cba2341020e00066179f240c9b631005b
 
 whois:        
@@ -64355,7 +64163,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.amazonregistry.com
 
 created:      2016-03-18
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -64897,7 +64705,6 @@ nserver:      C.NIC.XN--G2XX48C 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.XN--G2XX48C 156.154.169.68 2610:a1:1071:0:0:0:1:44
 nserver:      NS2.DNS.NIC.XN--G2XX48C 156.154.170.68 2610:a1:1072:0:0:0:1:44
 nserver:      NS3.DNS.NIC.XN--G2XX48C 156.154.171.68 2610:a1:1073:0:0:0:1:44
-ds-rdata:     50719 8 2 66adce3f11bc5ed44969987cf67a110272341cda053a5e1a03e92a24ac880902
 ds-rdata:     11539 8 2 fd57401d8cbd9ec59540ddf8fffa884bc523d94b9a30d5efd81ece063376ff0b
 
 whois:        
@@ -64906,7 +64713,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nicgouwu.com/
 
 created:      2016-01-08
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -64947,7 +64754,6 @@ nserver:      C.NIC.XN--GCKR3F0F 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.XN--GCKR3F0F 156.154.169.69 2610:a1:1071:0:0:0:1:45
 nserver:      NS2.DNS.NIC.XN--GCKR3F0F 156.154.170.69 2610:a1:1072:0:0:0:1:45
 nserver:      NS3.DNS.NIC.XN--GCKR3F0F 156.154.171.69 2610:a1:1073:0:0:0:1:45
-ds-rdata:     63631 8 2 c31c7f2466446141095814965f54b1c216ec7d588a47557faf927707ba09278c
 ds-rdata:     20257 8 2 b43c572db9a2fcf853558b4439fae106547749d710b0f67528343f0274404543
 
 whois:        
@@ -64956,7 +64762,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.amazonregistry.com
 
 created:      2016-01-29
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -65046,7 +64852,6 @@ nserver:      C.NIC.XN--GK3AT1E 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.XN--GK3AT1E 156.154.169.70 2610:a1:1071:0:0:0:1:46
 nserver:      NS2.DNS.NIC.XN--GK3AT1E 156.154.170.70 2610:a1:1072:0:0:0:1:46
 nserver:      NS3.DNS.NIC.XN--GK3AT1E 156.154.171.70 2610:a1:1073:0:0:0:1:46
-ds-rdata:     3814 8 2 a8fae65de82950b05b5478b60d464fb9bf75810fd371e9d3a1869f0cae7735b2
 ds-rdata:     46249 8 2 c189f2ac583e682fd789aebeef182ae85f9c55e7c1c5ba849a72c6ae3e7280fc
 
 whois:        
@@ -65055,7 +64860,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.amazonregistry.com/
 
 created:      2016-09-16
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -65650,7 +65455,6 @@ nserver:      C.NIC.XN--JVR189M 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.XN--JVR189M 156.154.169.72 2610:a1:1071:0:0:0:1:48
 nserver:      NS2.DNS.NIC.XN--JVR189M 156.154.170.72 2610:a1:1072:0:0:0:1:48
 nserver:      NS3.DNS.NIC.XN--JVR189M 156.154.171.72 2610:a1:1073:0:0:0:1:48
-ds-rdata:     29656 8 2 77feb7db568a4783b12ecb6decad2a0c7ef4c02e6ca448305380b2b4fff29867
 ds-rdata:     7474 8 2 1a4bd45fc99d1b96bbf07728da08adcd9f7c3bc71851e140c5b1d0b6d7710349
 
 whois:        
@@ -65659,7 +65463,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.amazonregistry.com
 
 created:      2016-01-29
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -66043,7 +65847,6 @@ nserver:      C.NIC.XN--MGBA3A3EJT 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS4.DNS.NIC.XN--MGBA3A3EJT 156.154.156.15 2610:a1:1074:0:0:0:0:f
 nserver:      NS5.DNS.NIC.XN--MGBA3A3EJT 156.154.157.15 2610:a1:1075:0:0:0:0:f
 nserver:      NS6.DNS.NIC.XN--MGBA3A3EJT 156.154.158.15 2610:a1:1076:0:0:0:0:f
-ds-rdata:     60499 8 2 31728b6312e2eec4d09535252d0b46f6fdb80969882cd9e76d0320f3a2e37798
 ds-rdata:     11089 8 2 c3a28d5f3c622803433961c5b5769c4df33e5c83abe9d1c2dd78ff4657fc8468
 
 whois:        
@@ -66052,7 +65855,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.aramco.com
 
 created:      2015-08-20
-changed:      2023-09-08
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -66137,7 +65940,6 @@ nserver:      C.NIC.XN--MGBA7C0BBN0A 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      X.NIC.XN--MGBA7C0BBN0A 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.XN--MGBA7C0BBN0A 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.XN--MGBA7C0BBN0A 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     2662 8 2 a083e4e9e6f8037d89de242fffe38e301bf73b7e3f132835b239b6d68258ea9f
 ds-rdata:     49291 8 2 3bda917f1a0fec4728394c77584d299dc23814cbcc508a46255a2ea944883caa
 
 whois:        whois.nic.xn--mgba7c0bbn0a
@@ -66146,7 +65948,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.olayan.com/
 
 created:      2016-04-21
-changed:      2023-08-17
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -68158,7 +67960,6 @@ nserver:      C.NIC.XN--ROVU88B 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.XN--ROVU88B 156.154.169.76 2610:a1:1071:0:0:0:1:4c
 nserver:      NS2.DNS.NIC.XN--ROVU88B 156.154.170.76 2610:a1:1072:0:0:0:1:4c
 nserver:      NS3.DNS.NIC.XN--ROVU88B 156.154.171.76 2610:a1:1073:0:0:0:1:4c
-ds-rdata:     5119 8 2 48bd313e429d3c9e64d4df6c2008efad55fe6d5ff0d1ee43cb991b2f4aee8207
 ds-rdata:     247 8 2 74e7cc2a18827e9854e1f541072fb2346bbc81286343edf089d7c3d9a24eb9d0
 
 whois:        
@@ -68167,7 +67968,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.amazonregistry.com
 
 created:      2016-01-29
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -69287,7 +69088,6 @@ nserver:      C.NIC.XXX 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      X.NIC.XXX 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.XXX 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.XXX 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     4654 8 2 0a2255017ab65ca9d9a3d1a1d74da6f19e9c4dad8b7b452e547d2420f9e74c39
 ds-rdata:     21709 8 2 39fe8ae19e8383391804637c5e219ea82b4ac7ec34368696e3c02b4756a59da8
 
 whois:        whois.nic.xxx
@@ -69296,7 +69096,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.xxx
 
 created:      2011-04-15
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -69667,7 +69467,6 @@ nserver:      C.NIC.YOGA 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      X.NIC.YOGA 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.YOGA 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.YOGA 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     19357 8 2 fb9b29f651414b178b56b756e96a6a8660d67616ecacc53b6124bebe13b0d3ae
 ds-rdata:     49771 8 2 1cd19ff5b29eb880307e17a1168afcdd493da3b36a34242ffc91eb1e8e3882ec
 
 whois:        whois.nic.yoga
@@ -69676,7 +69475,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.yoga/
 
 created:      2014-08-15
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server
@@ -70111,7 +69910,6 @@ nserver:      C.NIC.ZERO 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.ZERO 156.154.144.188 2610:a1:1071:0:0:0:0:bc
 nserver:      NS2.DNS.NIC.ZERO 156.154.145.188 2610:a1:1072:0:0:0:0:bc
 nserver:      NS3.DNS.NIC.ZERO 156.154.159.188 2610:a1:1073:0:0:0:0:bc
-ds-rdata:     47974 8 2 331d019e413914c99d9ae0e89862063a248694e12c4d40764eaa91b109c3e4e8
 ds-rdata:     22717 8 2 c5360714b56c1edbf51e44cd8d93e2c1afa38d22eec53750087915274e4bbadc
 
 whois:        
@@ -70120,7 +69918,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.amazonregistry.com
 
 created:      2015-11-12
-changed:      2023-08-15
+changed:      2023-12-13
 source:       IANA
 
 % IANA WHOIS server

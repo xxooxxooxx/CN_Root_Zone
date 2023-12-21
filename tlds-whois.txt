@@ -35,7 +35,6 @@ nserver:      C.NIC.AAA 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.AAA 156.154.144.2 2610:a1:1071:0:0:0:0:2
 nserver:      NS2.DNS.NIC.AAA 156.154.145.2 2610:a1:1072:0:0:0:0:2
 nserver:      NS3.DNS.NIC.AAA 156.154.159.2 2610:a1:1073:0:0:0:0:2
-ds-rdata:     23185 8 2 b18d0ec8791d98e167ca4d9745a0c27a6377e099d8f6a16a09567492ab16b7de
 ds-rdata:     31852 8 2 89f7670afc091b199b47900e4ce4135b9463b7f74d3d19a1c732e78c345d4de6
 
 whois:        
@@ -44,7 +43,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.aaa.com
 
 created:      2015-08-13
-changed:      2023-08-14
+changed:      2023-12-14
 source:       IANA
 
 % IANA WHOIS server
@@ -322,7 +321,6 @@ nserver:      C.NIC.ABLE 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.ABLE 156.154.144.3 2610:a1:1071:0:0:0:0:3
 nserver:      NS2.DNS.NIC.ABLE 156.154.145.3 2610:a1:1072:0:0:0:0:3
 nserver:      NS3.DNS.NIC.ABLE 156.154.159.3 2610:a1:1073:0:0:0:0:3
-ds-rdata:     45202 8 2 c7832f26b62fdf91da819ac5fa524eae2eebe0651caf074b59dc0176d49fd836
 ds-rdata:     48877 8 2 6effec2f6db34b2d1086a3b4cedd6e4109135877e533d6d1bf0f7ca760eb018f
 
 whois:        
@@ -331,7 +329,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.able.co.jp
 
 created:      2016-03-03
-changed:      2023-08-14
+changed:      2023-12-14
 source:       IANA
 
 % IANA WHOIS server
@@ -371,7 +369,6 @@ nserver:      C.NIC.ABOGADO 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      X.NIC.ABOGADO 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.ABOGADO 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.ABOGADO 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     31012 8 2 fcfc05f3629da70f709fb54e7d17214483216d641f8a6cca90ad02be852e5a8c
 ds-rdata:     37480 8 2 5589c84ddbf5b50db5c8a9d5cea939409c24ce6369f7013f683a0bca912ac8f3
 
 whois:        whois.nic.abogado
@@ -380,7 +377,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.abogado/
 
 created:      2014-07-10
-changed:      2023-08-14
+changed:      2023-12-14
 source:       IANA
 
 % IANA WHOIS server
@@ -607,7 +604,6 @@ nserver:      C.NIC.ACCOUNTANT 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.ACCOUNTANT 156.154.144.195 2610:a1:1071:0:0:0:0:c3
 nserver:      NS2.DNS.NIC.ACCOUNTANT 156.154.145.195 2610:a1:1072:0:0:0:0:c3
 nserver:      NS3.DNS.NIC.ACCOUNTANT 156.154.159.195 2610:a1:1073:0:0:0:0:c3
-ds-rdata:     44389 8 2 6beec4c8bcc3a1e6b88c46e8348e3e7cf900524bbc2c92e42a202229ba7cd7f8
 ds-rdata:     59392 8 2 d07b6b81becef22a22bf731c3eb8932cb97414e494675ef8c7771d4b768ab6f5
 
 whois:        whois.nic.accountant
@@ -616,7 +612,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.accountant
 
 created:      2015-02-05
-changed:      2023-08-14
+changed:      2023-12-14
 source:       IANA
 
 % IANA WHOIS server
@@ -895,7 +891,6 @@ nserver:      C.NIC.ADULT 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      X.NIC.ADULT 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.ADULT 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.ADULT 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     64321 8 2 ca734aa86339cb101665a65c4f33f4e86b37cf2512fd4c1655c00026d6f70915
 ds-rdata:     39064 8 2 8d2ccad69f8eba3c73214b4877386921586ca56f105b44fc91ceef1b4ab59b80
 
 whois:        whois.nic.adult
@@ -904,7 +899,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.adult
 
 created:      2014-11-26
-changed:      2023-08-14
+changed:      2023-12-14
 source:       IANA
 
 % IANA WHOIS server
@@ -1083,7 +1078,6 @@ nserver:      C.NIC.AETNA 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.AETNA 156.154.144.5 2610:a1:1071:0:0:0:0:5
 nserver:      NS2.DNS.NIC.AETNA 156.154.145.5 2610:a1:1072:0:0:0:0:5
 nserver:      NS3.DNS.NIC.AETNA 156.154.159.5 2610:a1:1073:0:0:0:0:5
-ds-rdata:     49819 8 2 2f8cd71c2ca149b4da0f60092c775fecdff60b52d0a61064f458e0a99f378012
 ds-rdata:     40324 8 2 6a4c3c1cd8d865ce88fc01c009d393d12ab8b585a68a196c4b2651239f531b85
 
 whois:        
@@ -1092,7 +1086,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.aetna.com
 
 created:      2016-04-21
-changed:      2023-08-14
+changed:      2023-12-14
 source:       IANA
 
 % IANA WHOIS server
@@ -1459,7 +1453,6 @@ nserver:      C.NIC.AIG 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.AIG 156.154.144.6 2610:a1:1071:0:0:0:0:6
 nserver:      NS2.DNS.NIC.AIG 156.154.145.6 2610:a1:1072:0:0:0:0:6
 nserver:      NS3.DNS.NIC.AIG 156.154.159.6 2610:a1:1073:0:0:0:0:6
-ds-rdata:     18592 8 2 5561856a59f0b23749c885d4dd398a52b087ed06216daee0aeb88b965c4f6994
 ds-rdata:     15685 8 2 572786514068659a43816cef2d3774db47dec4783a3133f6bd7d63d0a37dcca1
 
 whois:        
@@ -1468,7 +1461,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.aig.com
 
 created:      2015-04-09
-changed:      2023-08-14
+changed:      2023-12-14
 source:       IANA
 
 % IANA WHOIS server
@@ -1938,7 +1931,6 @@ nserver:      C.NIC.ALLY 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      X.NIC.ALLY 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.ALLY 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.ALLY 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     40354 8 2 46bfea1ca30072b089d2e566821640c144511b308df1f0271402d569c7332783
 ds-rdata:     22405 8 2 774c1930a734067dc62e7ae54bcdeadaa2281a57155b8f0af3683bfcbf7fe46c
 
 whois:        whois.nic.ally
@@ -1947,7 +1939,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.ally.com
 
 created:      2015-10-22
-changed:      2023-08-14
+changed:      2023-12-14
 source:       IANA
 
 % IANA WHOIS server
@@ -8774,14 +8766,14 @@ source:       IANA
 domain:       BZH
 
 organisation: Association www.bzh
-address:      6 rue René Madec
+address:      5 rue Saint Francois
 address:      Quimper 29000
 address:      France
 
 contact:      administrative
 name:         Chairman
 organisation: Association www.bzh
-address:      6 rue René Madec
+address:      5 rue Saint Francois
 address:      Quimper 29000
 address:      France
 phone:        +33 298599326
@@ -8810,7 +8802,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.pik.bzh
 
 created:      2014-05-29
-changed:      2022-12-31
+changed:      2023-12-19
 source:       IANA
 
 % IANA WHOIS server
@@ -25951,7 +25943,7 @@ fax-no:       +61 2 6189 5261
 e-mail:       hostmaster@registry.hm
 
 nserver:      NS1.REGISTRY.HM 142.171.40.232
-nserver:      NS2.REGISTRY.HM 208.70.79.24
+nserver:      NS2.REGISTRY.HM 142.171.40.234
 nserver:      NS3.REGISTRY.HM 128.199.180.188
 
 whois:        whois.registry.hm
@@ -25960,7 +25952,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.registry.hm
 
 created:      1997-07-24
-changed:      2023-12-13
+changed:      2023-12-14
 source:       IANA
 
 % IANA WHOIS server
@@ -28714,9 +28706,9 @@ phone:        +964 7904318957
 fax-no:       +964 17195839
 e-mail:       it.iq@cmc.iq
 
+nserver:      NS.CMC.IQ 194.117.57.105
 nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
 nserver:      NS01.TRS-DNS.NET 64.96.2.1
-nserver:      NS1.CMC.IQ 194.117.57.100
 nserver:      NSP-ANYCAST.CMC.IQ 194.117.58.42 2001:500:14:8001:ad:0:0:42
 
 whois:        whois.cmc.iq
@@ -28725,7 +28717,7 @@ status:       ACTIVE
 remarks:      Registration information: https://registrar.cmc.iq
 
 created:      1997-05-09
-changed:      2023-12-02
+changed:      2023-12-18
 source:       IANA
 
 % IANA WHOIS server
@@ -33070,13 +33062,13 @@ nserver:      NS2.DNS.NIC.LIFEINSURANCE 156.154.145.102 2610:a1:1072:0:0:0:0:66
 nserver:      NS3.DNS.NIC.LIFEINSURANCE 156.154.159.102 2610:a1:1073:0:0:0:0:66
 ds-rdata:     62002 8 2 478b46d62eb30d95009e07212b7110c1dc20483afeef1754831dc17a72112810
 
-whois:        
+whois:        whois.nic.lifeinsurance
 
 status:       ACTIVE
 remarks:      Registration information: http://acli.com
 
 created:      2015-07-09
-changed:      2023-12-13
+changed:      2023-12-15
 source:       IANA
 
 % IANA WHOIS server
@@ -42746,9 +42738,8 @@ address:      Hong Kong
 phone:        +639088698750
 e-mail:       sysadmin@dot.ph
 
-nserver:      NS2.CUHK.EDU.HK 137.189.6.21 2405:3000:3:6:0:0:0:15
+nserver:      1.NS.PH 206.51.255.1 2620:171:805:ad2:7068:0:0:1
 nserver:      NS4.APNIC.NET 2001:dd8:12:0:0:0:0:53 202.12.31.53
-nserver:      PH.COMMUNITYDNS.NET 194.0.1.23 2001:678:4:0:0:0:0:17
 ds-rdata:     29122 13 2 0ed5c93074522f903dbb7fbad2866cbe7cb67f15f0e5b54013340b57c1bcd509
 
 whois:        
@@ -42757,7 +42748,7 @@ status:       ACTIVE
 remarks:      Registration information: http://dot.ph
 
 created:      1990-09-14
-changed:      2023-08-08
+changed:      2023-12-20
 source:       IANA
 
 % IANA WHOIS server
@@ -43665,7 +43656,6 @@ nserver:      D-DNS.PL 185.159.197.48 2620:10a:80aa:0:0:0:0:48
 nserver:      F-DNS.PL 194.0.25.29 2001:678:20:0:0:0:0:29
 nserver:      H-DNS.PL 185.159.198.48 2620:10a:80ab:0:0:0:0:48
 nserver:      J-DNS.PL 2001:500:14:7004:ad:0:0:1 204.61.217.4
-ds-rdata:     59899 8 2 914b8a9bdae8efa6b0323ff7f7eb90da985fe63eae0e1cb614cf6d5b116f9c80
 ds-rdata:     48559 8 2 6c7d94c6f25556eeb180ef5e3e9237f2247597f28dca8d7fa63b3a1a45b79a4f
 
 whois:        whois.dns.pl
@@ -43674,7 +43664,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dns.pl/english/
 
 created:      1990-07-30
-changed:      2023-12-01
+changed:      2023-12-14
 source:       IANA
 
 % IANA WHOIS server
@@ -55899,7 +55889,7 @@ nserver:      NS-TN.AFRINIC.NET 196.216.168.25 2001:43f8:120:0:0:0:0:25
 nserver:      NS1.ATI.TN 2c0f:fab0:ffff:4:41:228:62:63 41.228.62.63
 nserver:      NS2.ATI.TN 2c0f:fab0:ffff:5:41:228:63:62 41.228.63.62
 nserver:      NS2.NIC.FR 192.93.0.4 2001:660:3005:1:0:0:1:2
-nserver:      PCH.ATI.TN 2001:500:14:6004:ad:0:0:1 204.61.216.94
+nserver:      PCH.ATI.TN 2001:500:14:6094:ad:0:0:1 204.61.216.94
 nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
 ds-rdata:     8629 8 2 05c891303fdee4fdae258e2a7d48370ce21f98058c0ee0a50c438c2878a8e2d6
 
@@ -55909,7 +55899,7 @@ status:       ACTIVE
 remarks:      Registration information: http://whois.ati.tn
 
 created:      1991-05-17
-changed:      2017-08-05
+changed:      2023-12-19
 source:       IANA
 
 % IANA WHOIS server
@@ -66742,6 +66732,7 @@ address:      Iraq
 phone:        +964 7904318957
 e-mail:       iq@cmc.iq
 
+nserver:      NS.CMC.IQ 194.117.57.105
 nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
 nserver:      NS01.TRS-DNS.NET 64.96.2.1
 nserver:      NSP-ANYCAST.CMC.IQ 194.117.58.42 2001:500:14:8001:ad:0:0:42
@@ -66752,7 +66743,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.cmc.iq/en/iq.html
 
 created:      2014-09-29
-changed:      2023-12-02
+changed:      2023-12-18
 source:       IANA
 
 % IANA WHOIS server
@@ -67566,7 +67557,7 @@ nserver:      NS-TN.AFRINIC.NET 196.216.168.25 2001:43f8:120:0:0:0:0:25
 nserver:      NS1.ATI.TN 2c0f:fab0:ffff:4:41:228:62:63 41.228.62.63
 nserver:      NS2.ATI.TN 2c0f:fab0:ffff:5:41:228:63:62 41.228.63.62
 nserver:      NS2.NIC.FR 192.93.0.4 2001:660:3005:1:0:0:1:2
-nserver:      PCH.ATI.TN 2001:500:14:6004:ad:0:0:1 204.61.216.94
+nserver:      PCH.ATI.TN 2001:500:14:6094:ad:0:0:1 204.61.216.94
 nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
 ds-rdata:     23341 8 2 d7a6ed1fd619775c26ceb15a96586b3c1d7ac38574e44f1abc100ff2f50198a2
 

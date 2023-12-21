@@ -923,9 +923,8 @@ address:      Hong Kong
 phone:        +639088698750
 e-mail:       sysadmin@dot.ph
 
-nserver:      NS2.CUHK.EDU.HK 137.189.6.21 2405:3000:3:6:0:0:0:15
+nserver:      1.NS.PH 206.51.255.1 2620:171:805:ad2:7068:0:0:1
 nserver:      NS4.APNIC.NET 2001:dd8:12:0:0:0:0:53 202.12.31.53
-nserver:      PH.COMMUNITYDNS.NET 194.0.1.23 2001:678:4:0:0:0:0:17
 ds-rdata:     29122 13 2 0ed5c93074522f903dbb7fbad2866cbe7cb67f15f0e5b54013340b57c1bcd509
 
 whois:        
@@ -934,7 +933,7 @@ status:       ACTIVE
 remarks:      Registration information: http://dot.ph
 
 created:      1990-09-14
-changed:      2023-08-08
+changed:      2023-12-20
 source:       IANA
 
 % IANA WHOIS server

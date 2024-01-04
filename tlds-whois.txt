@@ -13423,7 +13423,7 @@ address:      Seattle WA 98109
 address:      United States of America (the)
 
 contact:      administrative
-name:         Carolyn Mitchell
+name:         Program Manager, Registry
 organisation: Amazon Registry Services, Inc.
 address:      410 Terry Avenue North
 address:      Seattle WA 98109
@@ -13456,7 +13456,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.amazonregistry.com
 
 created:      2016-01-29
-changed:      2023-12-13
+changed:      2024-01-03
 source:       IANA
 
 % IANA WHOIS server
@@ -25843,7 +25843,7 @@ e-mail:       jacky.lok@hkirc.hk
 
 nserver:      C.HKIRC.NET.HK 2001:dca:4000:0:0:0:cb77:2da 203.119.2.218
 nserver:      D.HKIRC.NET.HK 2001:dca:2000:0:0:0:cb77:57da 203.119.87.218
-nserver:      M.HKIRC.NET.HK 125.208.41.10 125.208.42.10 125.208.44.10 2001:dc7:ffc1:0:0:0:0:10
+nserver:      M.HKIRC.NET.HK 125.208.49.10 2001:dc7:feff:0:0:0:0:10
 nserver:      T.HKIRC.NET.HK 2001:dd8:12:0:0:0:0:53 202.12.31.53
 nserver:      U.HKIRC.NET.HK 210.201.138.58 2404:0:10a0:0:0:0:0:58
 nserver:      V.HKIRC.NET.HK 2001:500:14:6046:ad:0:0:1 204.61.216.46
@@ -25858,7 +25858,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.hkirc.hk
 
 created:      1990-01-03
-changed:      2023-12-07
+changed:      2024-01-03
 source:       IANA
 
 % IANA WHOIS server
@@ -37616,13 +37616,13 @@ nserver:      NS5.DNS.NIC.MOTO 156.154.173.81 2610:a1:1075:0:0:0:1:51
 nserver:      NS6.DNS.NIC.MOTO 156.154.174.81 2610:a1:1076:0:0:0:1:51
 ds-rdata:     5671 8 2 6c1c11faaa1afb7c6198f3cd2bad469e9c0e5d1d714189a4992699093440d97c
 
-whois:        
+whois:        whois.nic.moto
 
 status:       ACTIVE
 remarks:      Registration information: http://www.motorola.com
 
 created:      2016-09-30
-changed:      2023-12-13
+changed:      2023-12-28
 source:       IANA
 
 % IANA WHOIS server
@@ -51920,7 +51920,7 @@ address:      Seattle WA 98109
 address:      United States of America (the)
 
 contact:      administrative
-name:         Carolyn Mitchell
+name:         Program Manager, Registry
 organisation: Amazon Registry Services, Inc.
 address:      410 Terry Avenue North
 address:      Seattle WA 98109
@@ -51953,7 +51953,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.amazonregistry.com
 
 created:      2016-01-29
-changed:      2023-12-13
+changed:      2024-01-03
 source:       IANA
 
 % IANA WHOIS server
@@ -61677,7 +61677,7 @@ address:      Seattle WA 98109
 address:      United States of America (the)
 
 contact:      administrative
-name:         Carolyn Mitchell
+name:         Program Manager, Registry
 organisation: Amazon Registry Services, Inc.
 address:      410 Terry Avenue North
 address:      Seattle WA 98109
@@ -61710,7 +61710,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.amazonregistry.com
 
 created:      2016-01-29
-changed:      2023-12-13
+changed:      2024-01-03
 source:       IANA
 
 % IANA WHOIS server
@@ -62910,7 +62910,7 @@ source:       IANA
 # If you see inaccuracies in the results, please report at
 # https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
 #
-# Copyright 1997-2023, American Registry for Internet Numbers, Ltd.
+# Copyright 1997-2024, American Registry for Internet Numbers, Ltd.
 #
 
 
@@ -62931,7 +62931,7 @@ No match found for xn--80asehdb.
 # If you see inaccuracies in the results, please report at
 # https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
 #
-# Copyright 1997-2023, American Registry for Internet Numbers, Ltd.
+# Copyright 1997-2024, American Registry for Internet Numbers, Ltd.
 #
 
 
@@ -62942,7 +62942,7 @@ No match found for xn--80asehdb.
 # If you see inaccuracies in the results, please report at
 # https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
 #
-# Copyright 1997-2023, American Registry for Internet Numbers, Ltd.
+# Copyright 1997-2024, American Registry for Internet Numbers, Ltd.
 #
 
 
@@ -62963,7 +62963,7 @@ No match found for xn--80aswg.
 # If you see inaccuracies in the results, please report at
 # https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
 #
-# Copyright 1997-2023, American Registry for Internet Numbers, Ltd.
+# Copyright 1997-2024, American Registry for Internet Numbers, Ltd.
 #
 
 % IANA WHOIS server
@@ -63376,7 +63376,7 @@ address:      Seattle WA 98109
 address:      United States of America (the)
 
 contact:      administrative
-name:         Carolyn Mitchell
+name:         Program Manager, Registry
 organisation: Amazon Registry Services, Inc.
 address:      410 Terry Avenue North
 address:      Seattle WA 98109
@@ -63409,7 +63409,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.amazonregistry.com
 
 created:      2016-01-29
-changed:      2023-12-13
+changed:      2024-01-03
 source:       IANA
 
 % IANA WHOIS server
@@ -63521,7 +63521,7 @@ address:      Seattle WA 98109
 address:      United States of America (the)
 
 contact:      administrative
-name:         Carolyn Mitchell
+name:         Program Manager, Registry
 organisation: Amazon Registry Services, Inc.
 address:      410 Terry Avenue North
 address:      Seattle WA 98109
@@ -63554,7 +63554,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.amazonregistry.com
 
 created:      2016-01-29
-changed:      2023-12-13
+changed:      2024-01-03
 source:       IANA
 
 % IANA WHOIS server
@@ -64015,7 +64015,7 @@ address:      Seattle WA 98109
 address:      United States of America (the)
 
 contact:      administrative
-name:         Carolyn Mitchell
+name:         Program Manager, Registry
 organisation: Amazon Registry Services, Inc.
 address:      410 Terry Avenue North
 address:      Seattle WA 98109
@@ -64048,7 +64048,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.amazonregistry.com
 
 created:      2015-11-25
-changed:      2023-12-13
+changed:      2024-01-03
 source:       IANA
 
 % IANA WHOIS server
@@ -64118,7 +64118,7 @@ address:      Seattle WA 98109
 address:      United States of America (the)
 
 contact:      administrative
-name:         Carolyn Mitchell
+name:         Program Manager, Registry
 organisation: Amazon Registry Services, Inc.
 address:      410 Terry Avenue North
 address:      Seattle WA 98109
@@ -64151,7 +64151,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.amazonregistry.com
 
 created:      2016-03-18
-changed:      2023-12-13
+changed:      2024-01-03
 source:       IANA
 
 % IANA WHOIS server
@@ -64717,7 +64717,7 @@ address:      Seattle WA 98109
 address:      United States of America (the)
 
 contact:      administrative
-name:         Carolyn Mitchell
+name:         Program Manager, Registry
 organisation: Amazon Registry Services, Inc.
 address:      410 Terry Avenue North
 address:      Seattle WA 98109
@@ -64750,7 +64750,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.amazonregistry.com
 
 created:      2016-01-29
-changed:      2023-12-13
+changed:      2024-01-03
 source:       IANA
 
 % IANA WHOIS server
@@ -64815,7 +64815,7 @@ address:      Seattle WA 98109
 address:      United States of America (the)
 
 contact:      administrative
-name:         Carolyn Mitchell
+name:         Program Manager, Registry
 organisation: Amazon Registry Services, Inc.
 address:      410 Terry Avenue North
 address:      Seattle WA 98109
@@ -64848,7 +64848,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.amazonregistry.com/
 
 created:      2016-09-16
-changed:      2023-12-13
+changed:      2024-01-02
 source:       IANA
 
 % IANA WHOIS server
@@ -65334,7 +65334,7 @@ e-mail:       jacky.lok@hkirc.hk
 
 nserver:      C.HKIRC.NET.HK 2001:dca:4000:0:0:0:cb77:2da 203.119.2.218
 nserver:      D.HKIRC.NET.HK 2001:dca:2000:0:0:0:cb77:57da 203.119.87.218
-nserver:      M.HKIRC.NET.HK 125.208.41.10 125.208.42.10 125.208.44.10 2001:dc7:ffc1:0:0:0:0:10
+nserver:      M.HKIRC.NET.HK 125.208.49.10 2001:dc7:feff:0:0:0:0:10
 nserver:      T.HKIRC.NET.HK 2001:dd8:12:0:0:0:0:53 202.12.31.53
 nserver:      U.HKIRC.NET.HK 210.201.138.58 2404:0:10a0:0:0:0:0:58
 nserver:      V.HKIRC.NET.HK 2001:500:14:6046:ad:0:0:1 204.61.216.46
@@ -65418,7 +65418,7 @@ address:      Seattle WA 98109
 address:      United States of America (the)
 
 contact:      administrative
-name:         Carolyn Mitchell
+name:         Program Manager, Registry
 organisation: Amazon Registry Services, Inc.
 address:      410 Terry Avenue North
 address:      Seattle WA 98109
@@ -65451,7 +65451,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.amazonregistry.com
 
 created:      2016-01-29
-changed:      2023-12-13
+changed:      2024-01-03
 source:       IANA
 
 % IANA WHOIS server
@@ -66950,7 +66950,7 @@ source:       IANA
 # If you see inaccuracies in the results, please report at
 # https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
 #
-# Copyright 1997-2023, American Registry for Internet Numbers, Ltd.
+# Copyright 1997-2024, American Registry for Internet Numbers, Ltd.
 #
 
 
@@ -66971,7 +66971,7 @@ No match found for xn--ngbc5azd.
 # If you see inaccuracies in the results, please report at
 # https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
 #
-# Copyright 1997-2023, American Registry for Internet Numbers, Ltd.
+# Copyright 1997-2024, American Registry for Internet Numbers, Ltd.
 #
 
 % IANA WHOIS server
@@ -67923,7 +67923,7 @@ address:      Seattle WA 98109
 address:      United States of America (the)
 
 contact:      administrative
-name:         Carolyn Mitchell
+name:         Program Manager, Registry
 organisation: Amazon Registry Services
 address:      410 Terry Avenue North
 address:      Seattle WA 98109
@@ -67956,7 +67956,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.amazonregistry.com
 
 created:      2016-01-29
-changed:      2023-12-13
+changed:      2024-01-02
 source:       IANA
 
 % IANA WHOIS server
@@ -68262,7 +68262,7 @@ source:       IANA
 # If you see inaccuracies in the results, please report at
 # https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
 #
-# Copyright 1997-2023, American Registry for Internet Numbers, Ltd.
+# Copyright 1997-2024, American Registry for Internet Numbers, Ltd.
 #
 
 
@@ -68283,7 +68283,7 @@ No match found for xn--unup4y.
 # If you see inaccuracies in the results, please report at
 # https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
 #
-# Copyright 1997-2023, American Registry for Internet Numbers, Ltd.
+# Copyright 1997-2024, American Registry for Internet Numbers, Ltd.
 #
 
 % IANA WHOIS server
@@ -69872,7 +69872,7 @@ address:      Seattle WA 98109
 address:      United States of America (the)
 
 contact:      administrative
-name:         Carolyn Mitchell
+name:         Program Manager, Registry
 organisation: Amazon Registry Services, Inc.
 address:      410 Terry Avenue North
 address:      Seattle WA 98109
@@ -69905,7 +69905,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.amazonregistry.com
 
 created:      2015-11-12
-changed:      2023-12-13
+changed:      2024-01-02
 source:       IANA
 
 % IANA WHOIS server

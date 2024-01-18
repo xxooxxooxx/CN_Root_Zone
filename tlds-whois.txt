@@ -8063,8 +8063,8 @@ e-mail:       registrytechnical@nominet.uk
 
 nserver:      DNS1.NIC.BROADWAY 213.248.219.38 2a01:618:403:0:0:0:0:38
 nserver:      DNS2.NIC.BROADWAY 103.49.83.38 2401:fd80:403:0:0:0:0:38
-nserver:      DNS3.NIC.BROADWAY 213.248.221.38 2a01:618:405:0:0:0:0:38
-nserver:      DNS4.NIC.BROADWAY 2401:fd80:405:0:0:0:0:38 43.230.49.38
+nserver:      DNS3.NIC.BROADWAY 213.248.223.38 2a01:618:407:0:0:0:0:38
+nserver:      DNS4.NIC.BROADWAY 2401:fd80:407:0:0:0:0:38 43.230.51.38
 nserver:      DNSA.NIC.BROADWAY 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NIC.BROADWAY 156.154.101.3 2001:502:2eda:0:0:0:0:3
 nserver:      DNSC.NIC.BROADWAY 156.154.102.3 2610:a1:1009:0:0:0:0:3
@@ -8077,7 +8077,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.broadway
 
 created:      2015-10-08
-changed:      2023-12-05
+changed:      2024-01-16
 source:       IANA
 
 % IANA WHOIS server
@@ -23162,18 +23162,18 @@ source:       IANA
 domain:       GLOBO
 
 organisation: Globo Comunicação e Participações S.A
-address:      Av. Afranio de Melo, 135, 3. andar
+address:      Rua Lopes Quintas, 303, Jardim Botânico
 address:      Rio de Janeiro RJ 22430-060
 address:      Brazil
 
 contact:      administrative
 name:         Gerente Jurídico
 organisation: Globo Comunicação e Participações S.A.
-address:      Av. Afranio de Melo, 135, 3. andar
-address:      Rio de Janeiro RJ 22430-060
+address:      Rua Lopes Quintas, 303, Jardim Botânico
+address:      Rio de Janeiro RJ 22460-901
 address:      Brazil
 phone:        +55 21 2540 4720
-e-mail:       fapesp@corp.globo.com
+e-mail:       dijur-marcas@g.globo
 
 contact:      technical
 name:         NIC.br Registry Services - Tech Contact
@@ -23198,7 +23198,7 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.globo/
 
 created:      2014-02-20
-changed:      2023-11-21
+changed:      2024-01-11
 source:       IANA
 
 % IANA WHOIS server
@@ -23208,34 +23208,31 @@ source:       IANA
 domain:       GM
 
 organisation: GM-NIC
-address:      NIC Gambia (GM-NIC) c/o Studio 361
-address:      P.O. Box 4080
+address:      NIC Gambia (GM-NIC) c/o Jokkolabs Banjul 10 Sait Matty Road, The Gambia
 address:      Bakau
 address:      Gambia (the)
 
 contact:      administrative
 name:         Jorn Grotnes
 organisation: GM-NIC
-address:      P.O. Box 2647
-address:      Serrekunda
+address:      c/o Jokkolabs Banjul 10 Sait Matty Road, The Gambia
+address:      Bakau
 address:      Gambia (the)
-phone:        +220 392728
-fax-no:       +220 391020
+phone:        +47 93007731
 e-mail:       admin@nic.gm
 
 contact:      technical
 name:         Jorn Grotnes
 organisation: GM-NIC
-address:      P.O. Box 2647
-address:      Serrekunda
+address:      c/o Jokkolabs Banjul 10 Sait Matty Road, The Gambia
+address:      Bakau
 address:      Gambia (the)
-phone:        +220 392728
-fax-no:       +220 3911020
-e-mail:       technical@nic.gm
+phone:        +47 93007731
+e-mail:       admin@nic.gm
 
 nserver:      NS-GM.AFRINIC.NET 196.216.168.29 2001:43f8:120:0:0:0:0:29
 nserver:      NS1.NIC.GM 194.63.250.217
-nserver:      NS2.NIC.GM 196.49.1.87
+nserver:      NS2.NIC.GM 20.102.113.6
 
 whois:        
 
@@ -23243,7 +23240,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.gm
 
 created:      1997-03-28
-changed:      2015-08-20
+changed:      2024-01-12
 source:       IANA
 
 % IANA WHOIS server
@@ -24562,8 +24559,8 @@ phone:        +502 2368 8565
 e-mail:       devops@cctld.gt
 
 nserver:      A.LACTLD.ORG 200.0.68.10 2801:14:a000:0:0:0:0:10
+nserver:      GT-E.NS.NIC.CZ 185.43.134.14 2001:148f:fffd:0:0:0:0:14
 nserver:      GT.ANYCASTDNS.CZ 185.28.194.194 185.38.108.108 2a00:fea0:dead:0:0:0:0:beef
-nserver:      NS-CZ.GT 193.29.206.2 2001:678:1:0:0:0:0:2
 nserver:      NS.DNS.BR 200.160.0.5 2001:12ff:0:a20:0:0:0:5
 nserver:      PCH.GT 2001:500:14:6095:ad:0:0:1 204.61.216.95
 nserver:      SSDNS-TLD.NIC.CL 200.7.5.14 2001:1398:276:0:200:7:5:14
@@ -24574,7 +24571,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.gt
 
 created:      1992-08-14
-changed:      2022-08-01
+changed:      2024-01-16
 source:       IANA
 
 % IANA WHOIS server
@@ -28843,13 +28840,13 @@ address:      Iceland
 phone:        +354 578 2030
 e-mail:       iana-contact@isnic.is
 
-nserver:      BES.ISNIC.IS 2001:500:14:6116:ad:0:0:1 204.61.216.116
+nserver:      A.NIC.IS 185.93.156.10 2001:67c:6c:56:0:0:0:10
+nserver:      B.NIC.IS 185.93.156.154 2001:67c:6c:f056:0:0:0:154
+nserver:      C.NIC.IS 2001:500:14:6116:ad:0:0:1 204.61.216.116
+nserver:      D.NIC.IS 194.146.106.58 2001:67c:1010:14:0:0:0:53
 nserver:      DURINN.RHNET.IS 130.208.16.20 2a00:c88:10:16:0:0:0:20
-nserver:      HT-TLDSECONDARY01.ISNIC.IS 185.93.156.10 2001:67c:6c:56:0:0:0:10
-nserver:      SAB.ISNIC.IS 194.146.106.58 2001:67c:1010:14:0:0:0:53
-nserver:      SET.ISNIC.IS 194.0.25.41 2001:678:20:0:0:0:0:41
+nserver:      E.NIC.IS 194.0.25.41 2001:678:20:0:0:0:0:41
 nserver:      SUNIC.SUNET.SE 192.36.125.2 2001:6b0:7:0:0:0:0:2
-nserver:      TG-TLDSECONDARY01.ISNIC.IS 185.93.156.154 2001:67c:6c:f056:0:0:0:154
 ds-rdata:     50437 8 2 9f52f1f92f1559e26dfdd71dad54db41acdd80f0150d974b08caf910d45e8b6e
 
 whois:        whois.isnic.is
@@ -28858,7 +28855,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.isnic.is/
 
 created:      1987-11-18
-changed:      2023-02-28
+changed:      2024-01-16
 source:       IANA
 
 % IANA WHOIS server
@@ -40169,10 +40166,10 @@ address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 020 33 88 0600
 e-mail:       support@centralnic.com
 
-nserver:      A0.NIC.NOKIA 2a01:8840:92:0:0:0:0:17 65.22.148.17
-nserver:      A2.NIC.NOKIA 2a01:8840:95:0:0:0:0:17 65.22.151.17
-nserver:      B0.NIC.NOKIA 2a01:8840:93:0:0:0:0:17 65.22.149.17
-nserver:      C0.NIC.NOKIA 2a01:8840:94:0:0:0:0:17 65.22.150.17
+nserver:      A.NIC.NOKIA 194.169.218.159 2001:67c:13cc:0:0:0:1:159
+nserver:      B.NIC.NOKIA 185.24.64.159 2a04:2b00:13cc:0:0:0:1:159
+nserver:      C.NIC.NOKIA 212.18.248.159 2a04:2b00:13ee:0:0:0:0:159
+nserver:      D.NIC.NOKIA 212.18.249.159 2a04:2b00:13ff:0:0:0:0:159
 ds-rdata:     38794 8 2 5d3c0f0b92084eb734e6e06364681b3bb051087a15ebe6f468b2974c5f197ab1
 ds-rdata:     43790 8 2 7d7d3ebae05f84c911ee972ec6d72f1cc88368297b5fdc6a52db62eb27b76c99
 
@@ -40182,7 +40179,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.nokia/
 
 created:      2015-04-23
-changed:      2024-01-09
+changed:      2024-01-17
 source:       IANA
 
 % IANA WHOIS server
@@ -47536,7 +47533,7 @@ nserver:      B.DNS.RIPN.NET 194.85.252.62 2001:678:16:0:194:85:252:62
 nserver:      D.DNS.RIPN.NET 194.190.124.17 2001:678:18:0:194:190:124:17
 nserver:      E.DNS.RIPN.NET 193.232.142.17 2001:678:15:0:193:232:142:17
 nserver:      F.DNS.RIPN.NET 193.232.156.17 2001:678:14:0:193:232:156:17
-ds-rdata:     18274 8 2 ab35d17d3f39eb42cee14c6273247938d33eeeaa9f5caa70b3858dbf4bd3e87b
+ds-rdata:     43786 8 2 3c59747544090bc74419d5f69e32d8c9b18ea48cbdaa33c09435619120ced431
 
 whois:        whois.tcinet.ru
 
@@ -47544,7 +47541,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.cctld.ru/en
 
 created:      1994-04-07
-changed:      2023-03-03
+changed:      2024-01-17
 source:       IANA
 
 % IANA WHOIS server
@@ -48264,6 +48261,10 @@ nserver:      NS1.SAMSUNG.CENTRALNIC-DNS.COM 194.169.218.112 2001:67c:13cc:0:0:0
 nserver:      NS2.SAMSUNG.CENTRALNIC-DNS.COM 185.24.64.112 2a04:2b00:13cc:0:0:0:1:112
 nserver:      NS3.SAMSUNG.CENTRALNIC-DNS.COM 212.18.248.112 2a04:2b00:13ee:0:0:0:0:112
 nserver:      NS4.SAMSUNG.CENTRALNIC-DNS.COM 212.18.249.112 2a04:2b00:13ff:0:0:0:0:112
+nserver:      TLD01.AKAM.NET 23.201.98.96 2600:1480:5806:0:0:0:0:a0
+nserver:      TLD02.AKAM.NET 23.201.99.96 2600:1480:5807:0:0:0:0:a0
+nserver:      TLD03.AKAM.NET 23.201.100.96 2600:1480:5808:0:0:0:0:a0
+nserver:      TLD04.AKAM.NET 23.201.101.96 2600:1480:5809:0:0:0:0:a0
 ds-rdata:     19194 7 2 144b461cb8ad9212307c53173ef72139a418eab09997fc366484335d0aae91fe
 
 whois:        whois.nic.samsung
@@ -48272,7 +48273,7 @@ status:       ACTIVE
 remarks:      Registration information: http://samsungregistry.com
 
 created:      2014-10-30
-changed:      2020-08-06
+changed:      2024-01-16
 source:       IANA
 
 % IANA WHOIS server
@@ -54194,7 +54195,7 @@ nserver:      B.DNS.RIPN.NET 194.85.252.62 2001:678:16:0:194:85:252:62
 nserver:      D.DNS.RIPN.NET 194.190.124.17 2001:678:18:0:194:190:124:17
 nserver:      E.DNS.RIPN.NET 193.232.142.17 2001:678:15:0:193:232:142:17
 nserver:      F.DNS.RIPN.NET 193.232.156.17 2001:678:14:0:193:232:156:17
-ds-rdata:     27077 8 2 cced6d290e870530527adfda81f3277c9f64b8dc2724dc9d90640946d176a01f
+ds-rdata:     51080 8 2 174d84d055dd351387ae559673deb48b0aa5f767e0c946c9c7afcf8d30230a7f
 
 whois:        whois.nic.tatar
 
@@ -54202,7 +54203,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dottatar.ru
 
 created:      2014-07-03
-changed:      2023-03-15
+changed:      2024-01-17
 source:       IANA
 
 % IANA WHOIS server
@@ -54730,15 +54731,14 @@ phone:        +44 20 7467 6450
 fax-no:       +44 20 7467 6451
 e-mail:       asagar@telnic.org
 
+nserver:      ANYCAST10.IRONDNS.NET 195.253.64.12 2a01:5b0:4:0:0:0:0:c
+nserver:      ANYCAST9.IRONDNS.NET 195.253.64.11 2a01:5b0:4:0:0:0:0:b
 nserver:      NS1.DNS.NIC.TEL 156.154.169.10 2610:a1:1071:0:0:0:1:a
 nserver:      NS2.DNS.NIC.TEL 156.154.170.10 2610:a1:1072:0:0:0:1:a
 nserver:      NS3.DNS.NIC.TEL 156.154.171.10 2610:a1:1073:0:0:0:1:a
 nserver:      NS4.DNS.NIC.TEL 156.154.172.10 2610:a1:1074:0:0:0:1:a
-nserver:      NS5.DNS.NIC.TEL 156.154.173.10 2610:a1:1075:0:0:0:1:a
-nserver:      NS6.DNS.NIC.TEL 156.154.174.10 2610:a1:1076:0:0:0:1:a
-nserver:      NS7.DNS.NIC.TEL 194.146.106.38 2001:67c:1010:9:0:0:0:53
-nserver:      NS8.DNS.NIC.TEL 192.36.144.116 2a01:3f0:0:300:0:0:0:53
 ds-rdata:     48802 8 2 4a00b3f46ad973780b87f241360da0b79481b257410bb68a923fe887087be139
+ds-rdata:     31166 8 2 1d7b6aada1a03510077f789a75184ca61a6fe3176a263d1be52bce89355caa8d
 
 whois:        whois.nic.tel
 
@@ -54746,7 +54746,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.tel
 
 created:      2007-03-01
-changed:      2023-11-30
+changed:      2024-01-11
 source:       IANA
 
 % IANA WHOIS server
@@ -58044,11 +58044,11 @@ phone:        +39 (06) 69890506
 fax-no:       +39 (06) 69882934
 e-mail:       supporto.siv@net.va
 
+nserver:      A.NIC.VA 212.77.0.110
+nserver:      B.NIC.VA 212.77.0.2
 nserver:      DNS.NIC.IT 192.12.192.5 2a00:d40:1:1:0:0:0:5
-nserver:      JOHN.VATICAN.VA 212.77.0.110 2a01:b8:0:1:212:77:0:110
-nserver:      MICHAEL.VATICAN.VA 212.77.0.2 2a01:b8:0:1:212:77:0:2
-nserver:      OSIRIS.NAMEX.IT 193.201.40.6 2001:7f8:10:f00a:0:0:0:6
-nserver:      SETH.NAMEX.IT 193.201.40.7 2001:7f8:10:f00a:0:0:0:7
+nserver:      OSIRIS.NAMEX.IT 193.201.40.6 2a0f:80:1:0:0:0:0:6
+nserver:      SETH.NAMEX.IT 193.201.40.7 2a0f:80:1:0:0:0:0:7
 nserver:      VA.CCTLD.AUTHDNS.RIPE.NET 193.0.9.123 2001:67c:e0:0:0:0:0:123
 
 whois:        
@@ -58057,7 +58057,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      1995-09-11
-changed:      2016-10-14
+changed:      2024-01-16
 source:       IANA
 
 % IANA WHOIS server
@@ -63641,6 +63641,10 @@ nserver:      NS1.XN--CG4BKI.CENTRALNIC-DNS.COM 194.169.218.113 2001:67c:13cc:0:
 nserver:      NS2.XN--CG4BKI.CENTRALNIC-DNS.COM 185.24.64.113 2a04:2b00:13cc:0:0:0:1:113
 nserver:      NS3.XN--CG4BKI.CENTRALNIC-DNS.COM 212.18.248.113 2a04:2b00:13ee:0:0:0:0:113
 nserver:      NS4.XN--CG4BKI.CENTRALNIC-DNS.COM 212.18.249.113 2a04:2b00:13ff:0:0:0:0:113
+nserver:      TLD01.AKAM.NET 23.201.98.96 2600:1480:5806:0:0:0:0:a0
+nserver:      TLD02.AKAM.NET 23.201.99.96 2600:1480:5807:0:0:0:0:a0
+nserver:      TLD03.AKAM.NET 23.201.100.96 2600:1480:5808:0:0:0:0:a0
+nserver:      TLD04.AKAM.NET 23.201.101.96 2600:1480:5809:0:0:0:0:a0
 ds-rdata:     59631 7 2 7a16187809f4725a91f192336f6a9576f246df35edf500a1356b8c8dff2d59f1
 
 whois:        whois.kr
@@ -63649,7 +63653,7 @@ status:       ACTIVE
 remarks:      Registration information: http://samsungregistry.com
 
 created:      2013-12-12
-changed:      2020-08-06
+changed:      2024-01-16
 source:       IANA
 
 % IANA WHOIS server
@@ -67502,7 +67506,7 @@ nserver:      B.DNS.RIPN.NET 194.85.252.62 2001:678:16:0:194:85:252:62
 nserver:      D.DNS.RIPN.NET 194.190.124.17 2001:678:18:0:194:190:124:17
 nserver:      E.DNS.RIPN.NET 193.232.142.17 2001:678:15:0:193:232:142:17
 nserver:      F.DNS.RIPN.NET 193.232.156.17 2001:678:14:0:193:232:156:17
-ds-rdata:     7900 8 2 383545b7cc236ff2ff20fb9a035a650ef9f2ec31c8e8bb765292ad5f62a27ff1
+ds-rdata:     59497 8 2 3de6c0350e9d16583aeaca8fbfb5148c25cfaf3a81d5083c1aa90d8399720ae3
 
 whois:        whois.tcinet.ru
 
@@ -67510,7 +67514,7 @@ status:       ACTIVE
 remarks:      Registration information: http://cctld.ru/en
 
 created:      2010-05-12
-changed:      2023-03-07
+changed:      2024-01-17
 source:       IANA
 
 % IANA WHOIS server

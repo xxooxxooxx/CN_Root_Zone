@@ -11,12 +11,11 @@ address:      United States of America (the)
 
 contact:      administrative
 name:         Chris Niemi
-organisation: MarkMonitor Inc.
-address:      391 N. Ancestor Place, Suite 150
-address:      Boise ID 83704
+organisation: Markmonitor Inc.
+address:      1120 S. Rackham Way, Suite 300
+address:      Meridian ID 83642
 address:      United States of America (the)
-phone:        (208) 389-5740
-fax-no:       (208) 389-5771
+phone:        +1(208) 389-5740
 e-mail:       gtldservices@markmonitor.com
 
 contact:      technical
@@ -43,7 +42,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.aaa.com
 
 created:      2015-08-13
-changed:      2023-12-14
+changed:      2024-01-31
 source:       IANA
 
 % IANA WHOIS server
@@ -3889,8 +3888,7 @@ nserver:      A.NIC.AUDIO 194.169.218.150 2001:67c:13cc:0:0:0:1:150
 nserver:      B.NIC.AUDIO 185.24.64.150 2a04:2b00:13cc:0:0:0:1:150
 nserver:      C.NIC.AUDIO 212.18.248.150 2a04:2b00:13ee:0:0:0:0:150
 nserver:      D.NIC.AUDIO 212.18.249.150 2a04:2b00:13ff:0:0:0:0:150
-ds-rdata:     10807 5 2 859c5604b1a595b5e139d2904314e6e5eee152ace825a74eca32a3e1290f178c
-ds-rdata:     18854 5 2 562d2e5b20d9c10415f3949c6c73452e79def813cdb9cd4cdddd0576549f2e3c
+ds-rdata:     12469 13 2 6673f52c4723441eb134383895d5e984798679cb532730038373724eb0639a69
 
 whois:        whois.nic.audio
 
@@ -3898,7 +3896,7 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.audio
 
 created:      2014-05-08
-changed:      2023-11-27
+changed:      2024-01-31
 source:       IANA
 
 % IANA WHOIS server
@@ -4034,8 +4032,7 @@ nserver:      A.NIC.AUTO 194.169.218.131 2001:67c:13cc:0:0:0:1:131
 nserver:      B.NIC.AUTO 185.24.64.131 2a04:2b00:13cc:0:0:0:1:131
 nserver:      C.NIC.AUTO 212.18.248.131 2a04:2b00:13ee:0:0:0:0:131
 nserver:      D.NIC.AUTO 212.18.249.131 2a04:2b00:13ff:0:0:0:0:131
-ds-rdata:     41492 5 2 01b3b92918b955d84a70f1bc254513d6fd90a33e8ababc0aafcf8830ac259c2c
-ds-rdata:     31003 5 2 27ae8805c09506a8cd6f0fc2646f9a1a3243451e22a2505fde18528f7b781965
+ds-rdata:     2612 13 2 5879176e57425ebe6945b1c4bbc9ae0404faf7eb8c216d23e8eb4b232c861d6e
 
 whois:        whois.nic.auto
 
@@ -4043,7 +4040,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.nic.auto
 
 created:      2015-03-12
-changed:      2023-11-27
+changed:      2024-01-31
 source:       IANA
 
 % IANA WHOIS server
@@ -5912,9 +5909,9 @@ address:      Richfield MN 55423
 address:      United States of America (the)
 
 contact:      administrative
-name:         Manager
-organisation: MarkMonitor, Inc.
-address:      2150 S Bonito Way, Suite 150
+name:         Chris Niemi
+organisation: Markmonitor Inc.
+address:      1120 S. Rackham Way, Suite 300
 address:      Meridian ID 83642
 address:      United States of America (the)
 phone:        +1 208 685 1857
@@ -5943,7 +5940,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.bestbuy
 
 created:      2015-12-10
-changed:      2023-08-03
+changed:      2024-01-25
 source:       IANA
 
 % IANA WHOIS server
@@ -7533,12 +7530,11 @@ address:      Netherlands (the)
 
 contact:      administrative
 name:         Christopher Niemi
-organisation: MarkMonitor Inc.
-address:      3540 East Longwing Lane, Suite 300
-address:      Meridian ID 83646
+organisation: Markmonitor Inc.
+address:      1120 S. Rackham Way, Suite 300
+address:      Meridian ID 83642
 address:      United States of America (the)
 phone:        +1 208-389-5740
-fax-no:       +1 208-389-5771
 e-mail:       dotbooking@markmonitor.com
 
 contact:      technical
@@ -7565,7 +7561,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.booking.com
 
 created:      2016-07-07
-changed:      2023-12-13
+changed:      2024-01-31
 source:       IANA
 
 % IANA WHOIS server
@@ -9429,8 +9425,7 @@ nserver:      A.NIC.CAR 194.169.218.130 2001:67c:13cc:0:0:0:1:130
 nserver:      B.NIC.CAR 185.24.64.130 2a04:2b00:13cc:0:0:0:1:130
 nserver:      C.NIC.CAR 212.18.248.130 2a04:2b00:13ee:0:0:0:0:130
 nserver:      D.NIC.CAR 212.18.249.130 2a04:2b00:13ff:0:0:0:0:130
-ds-rdata:     6293 5 2 519d12765966b6f6e6be8236b0a6510b86025fdc7bcbaa1630b8632a9471a4d3
-ds-rdata:     16259 5 2 bc816389b1d6b0831de8e821b27fec0370411ebfeb847ed855ff23ccf7488b70
+ds-rdata:     35548 13 2 1d24872ac7b4db0623a7cb937fe46d53734f43301c4964136bb2bbbb8f5faeb7
 
 whois:        whois.nic.car
 
@@ -9438,7 +9433,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.car
 
 created:      2015-08-26
-changed:      2023-11-27
+changed:      2024-01-31
 source:       IANA
 
 % IANA WHOIS server
@@ -9722,8 +9717,7 @@ nserver:      A.NIC.CARS 194.169.218.129 2001:67c:13cc:0:0:0:1:129
 nserver:      B.NIC.CARS 185.24.64.129 2a04:2b00:13cc:0:0:0:1:129
 nserver:      C.NIC.CARS 212.18.248.129 2a04:2b00:13ee:0:0:0:0:129
 nserver:      D.NIC.CARS 212.18.249.129 2a04:2b00:13ff:0:0:0:0:129
-ds-rdata:     26272 5 2 8253077194f36991396ac49542ed2be77d88e972d5abdb0d832f2d5cd2c7f71a
-ds-rdata:     15952 5 2 889fee9cd026e16cf5a773eb507089a89d8184252c51ee5d9199fef1c7dfc5e5
+ds-rdata:     44409 13 2 eb9a6c7f48dcf471a448ae5b507bf2dfe211f89da55792f1a23e2218e37699e4
 
 whois:        whois.nic.cars
 
@@ -9731,7 +9725,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.cars
 
 created:      2015-03-12
-changed:      2023-11-27
+changed:      2024-01-31
 source:       IANA
 
 % IANA WHOIS server
@@ -10602,8 +10596,8 @@ nserver:      A.NIC.CFD 194.169.218.122 2001:67c:13cc:0:0:0:1:122
 nserver:      B.NIC.CFD 185.24.64.122 2a04:2b00:13cc:0:0:0:1:122
 nserver:      C.NIC.CFD 212.18.248.122 2a04:2b00:13ee:0:0:0:0:122
 nserver:      D.NIC.CFD 212.18.249.122 2a04:2b00:13ff:0:0:0:0:122
-ds-rdata:     27333 8 2 63f199e72594324007d15c0b77b25f4c643e07f0064eaadf08341287856571aa
 ds-rdata:     10525 8 2 42fd41d6533ac785ef64cf9bd36b16463c5a161da2af25ec08c114b40e82f2d8
+ds-rdata:     27596 8 2 56e8c3051413f1831469b223bd4d9761f95d42c821bf84f1ba1c311be7521316
 
 whois:        whois.nic.cfd
 
@@ -10611,7 +10605,7 @@ status:       ACTIVE
 remarks:      Registration information: http://bostonivy.co
 
 created:      2015-03-06
-changed:      2021-09-23
+changed:      2024-01-31
 source:       IANA
 
 % IANA WHOIS server
@@ -10862,11 +10856,10 @@ address:      United States of America (the)
 contact:      administrative
 name:         Chris Niemi
 organisation: MarkMonitor Inc.
-address:      391 N. Ancestor Place, Suite 150
-address:      Boise ID 83704
+address:      1120 S. Rackham Way, Suite 300
+address:      Meridian ID 83642
 address:      United States of America (the)
 phone:        +1-208-389-5740
-fax-no:       +1-208-389-5771
 e-mail:       dotchase@markmonitor.com
 
 contact:      technical
@@ -10893,7 +10886,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.jpmorganchase.com
 
 created:      2016-01-14
-changed:      2023-12-13
+changed:      2024-01-31
 source:       IANA
 
 % IANA WHOIS server
@@ -11078,8 +11071,7 @@ nserver:      A.NIC.CHRISTMAS 194.169.218.153 2001:67c:13cc:0:0:0:1:153
 nserver:      B.NIC.CHRISTMAS 185.24.64.153 2a04:2b00:13cc:0:0:0:1:153
 nserver:      C.NIC.CHRISTMAS 212.18.248.153 2a04:2b00:13ee:0:0:0:0:153
 nserver:      D.NIC.CHRISTMAS 212.18.249.153 2a04:2b00:13ff:0:0:0:0:153
-ds-rdata:     23941 5 2 31b3839a387cf1c59f5a9fd953e54c7d5852606c0b20e86281148b6d4aaac042
-ds-rdata:     13517 5 2 e8212a8f2d441b9ee926d61de1daff640cc95fc82a684ac5008361287faf26c7
+ds-rdata:     2330 13 2 06a2f220cec0ff0e52c7fb8f8b29ef509972660eb630eec8b18ef66b9c0433b6
 
 whois:        whois.nic.christmas
 
@@ -11087,7 +11079,7 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.christmas
 
 created:      2014-02-13
-changed:      2023-11-27
+changed:      2024-01-31
 source:       IANA
 
 % IANA WHOIS server
@@ -11345,13 +11337,12 @@ address:      San Jose CA 95134
 address:      United States of America (the)
 
 contact:      administrative
-name:         Manager, Domain Services
-organisation: MarkMonitor Inc.
-address:      3540 East Longwing Lane, Suite 300
-address:      Meridian ID 83646
+name:         Chris Niemi
+organisation: Markmonitor Inc.
+address:      1120 S. Rackham Way, Suite 300
+address:      Meridian ID 83642
 address:      United States of America (the)
 phone:        +1 208 389 5740
-fax-no:       +1 208 389 5771
 e-mail:       dotcisco@markmonitor.com
 
 contact:      technical
@@ -11378,7 +11369,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.cisco.com
 
 created:      2015-04-16
-changed:      2023-12-13
+changed:      2024-01-31
 source:       IANA
 
 % IANA WHOIS server
@@ -15759,8 +15750,7 @@ nserver:      A.NIC.DIET 194.169.218.145 2001:67c:13cc:0:0:0:1:145
 nserver:      B.NIC.DIET 185.24.64.145 2a04:2b00:13cc:0:0:0:1:145
 nserver:      C.NIC.DIET 212.18.248.145 2a04:2b00:13ee:0:0:0:0:145
 nserver:      D.NIC.DIET 212.18.249.145 2a04:2b00:13ff:0:0:0:0:145
-ds-rdata:     35167 5 2 64ece39f08b2542cfd13d6c484e25f29b2bb29fba98e082dd5294f9011f73020
-ds-rdata:     23008 5 2 eccd035c5161e72f32d2bf6b9364c8bba91382f913734f9aaec3c4511fcff031
+ds-rdata:     21867 13 2 2c0a937c6b26d322943537b3322f0b09c5ad21029b9f0567eb8e46b467006930
 
 whois:        whois.nic.diet
 
@@ -15768,7 +15758,7 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.diet
 
 created:      2014-08-15
-changed:      2023-11-27
+changed:      2024-01-31
 source:       IANA
 
 % IANA WHOIS server
@@ -20377,8 +20367,7 @@ nserver:      A.NIC.FLOWERS 194.169.218.154 2001:67c:13cc:0:0:0:1:154
 nserver:      B.NIC.FLOWERS 185.24.64.154 2a04:2b00:13cc:0:0:0:1:154
 nserver:      C.NIC.FLOWERS 212.18.248.154 2a04:2b00:13ee:0:0:0:0:154
 nserver:      D.NIC.FLOWERS 212.18.249.154 2a04:2b00:13ff:0:0:0:0:154
-ds-rdata:     11746 5 2 d3d6c0d4a9e2e40e92da8203b7ee72a80ce3b9220fb51b212c6cb25a1b886d5e
-ds-rdata:     63022 5 2 bd763df49e0f4891cb1921b4baa6a27f6eb847750a3371a7006f56240db9dcd1
+ds-rdata:     10590 13 2 d831e687aafb8d324b01f56658815aa816e56f2e5c2ea0e033421c3da884a4da
 
 whois:        whois.nic.flowers
 
@@ -20386,7 +20375,7 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.flowers
 
 created:      2014-12-18
-changed:      2023-11-29
+changed:      2024-01-31
 source:       IANA
 
 % IANA WHOIS server
@@ -21879,8 +21868,7 @@ nserver:      A.NIC.GAME 194.169.218.147 2001:67c:13cc:0:0:0:1:147
 nserver:      B.NIC.GAME 185.24.64.147 2a04:2b00:13cc:0:0:0:1:147
 nserver:      C.NIC.GAME 212.18.248.147 2a04:2b00:13ee:0:0:0:0:147
 nserver:      D.NIC.GAME 212.18.249.147 2a04:2b00:13ff:0:0:0:0:147
-ds-rdata:     32929 5 2 c7602f661849ef5422cb5e5d7ccc91e7ea8344c7fd20f0e43a198cc699ec895c
-ds-rdata:     42706 5 2 41c8e18ecf3f01be8cd4076ff8cd12b860a2778c43594f3dbb2216a4604fa158
+ds-rdata:     5155 13 2 684c2f8e41f67ed183c79321501f2a85674dc1e87c9ad293a6fff6dfe6efc296
 
 whois:        whois.nic.game
 
@@ -21888,7 +21876,7 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.game
 
 created:      2015-07-02
-changed:      2023-11-29
+changed:      2024-01-31
 source:       IANA
 
 % IANA WHOIS server
@@ -24822,8 +24810,7 @@ nserver:      A.NIC.GUITARS 194.169.218.149 2001:67c:13cc:0:0:0:1:149
 nserver:      B.NIC.GUITARS 185.24.64.149 2a04:2b00:13cc:0:0:0:1:149
 nserver:      C.NIC.GUITARS 212.18.248.149 2a04:2b00:13ee:0:0:0:0:149
 nserver:      D.NIC.GUITARS 212.18.249.149 2a04:2b00:13ff:0:0:0:0:149
-ds-rdata:     17278 5 2 e0afcc946458dcf20874905a1ed2626cfcea262016ae87bc53f8badfb0d497bb
-ds-rdata:     23659 5 2 99f33e599c880beaec772a4808054b48d7f478daf77cdb2463be9445751f39d2
+ds-rdata:     4948 13 2 3f73ef405d928384f01091e557279473bb46fd506d83e22d22a51a385aad6997
 
 whois:        whois.nic.guitars
 
@@ -24831,7 +24818,7 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.guitars
 
 created:      2014-01-09
-changed:      2023-11-29
+changed:      2024-01-31
 source:       IANA
 
 % IANA WHOIS server
@@ -26535,8 +26522,7 @@ nserver:      A.NIC.HOSTING 194.169.218.152 2001:67c:13cc:0:0:0:1:152
 nserver:      B.NIC.HOSTING 185.24.64.152 2a04:2b00:13cc:0:0:0:1:152
 nserver:      C.NIC.HOSTING 212.18.248.152 2a04:2b00:13ee:0:0:0:0:152
 nserver:      D.NIC.HOSTING 212.18.249.152 2a04:2b00:13ff:0:0:0:0:152
-ds-rdata:     46927 5 2 74803c2bbeebc8d188832c4054b3fd230f31f593e3f5432f7fbcd860e3cb7ed5
-ds-rdata:     8224 5 2 513b59be5d421c451f67e712b8e16f07bac0cbde3c6f666d03a12d409fbcc193
+ds-rdata:     52534 13 2 38a38b0f45035c80e0b34bdc83bcae96113866ed2e5321486dbcb4b981303b01
 
 whois:        whois.nic.hosting
 
@@ -26544,7 +26530,7 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.hosting
 
 created:      2014-08-15
-changed:      2023-11-29
+changed:      2024-01-31
 source:       IANA
 
 % IANA WHOIS server
@@ -26612,12 +26598,11 @@ address:      Netherlands (the)
 
 contact:      administrative
 name:         Christopher Niemi
-organisation: MarkMonitor Inc.
-address:      3540 East Longwing Lane, Suite 300
-address:      Meridian ID 83646
+organisation: Markmonitor Inc.
+address:      1120 S. Rackham Way, Suite 300
+address:      Meridian ID 83642
 address:      United States of America (the)
 phone:        +1 208-389-5740
-fax-no:       +1 208-389-5771
 e-mail:       dothotels@markmonitor.com
 
 contact:      technical
@@ -26644,7 +26629,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.booking.com
 
 created:      2016-09-16
-changed:      2023-12-13
+changed:      2024-01-31
 source:       IANA
 
 % IANA WHOIS server
@@ -28454,12 +28439,11 @@ address:      United States of America (the)
 
 contact:      administrative
 name:         Christopher Niemi
-organisation: MarkMonitor Inc.
-address:      3540 East Longwing Lane, Suite 300
-address:      Meridian ID 83646
+organisation: Markmonitor Inc.
+address:      1120 S. Rackham Way, Suite 300
+address:      Meridian ID 83642
 address:      United States of America (the)
 phone:        +1 208-685-1857
-fax-no:       +1 208-389-5771
 e-mail:       dotintuit@markmonitor.com
 
 contact:      technical
@@ -28486,7 +28470,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.intuit.com/
 
 created:      2016-06-09
-changed:      2023-12-13
+changed:      2024-01-31
 source:       IANA
 
 % IANA WHOIS server
@@ -29179,7 +29163,7 @@ address:      Redwood Shores CA 94065
 address:      United States of America (the)
 phone:        +1.6505062220
 fax-no:       +1.6505062120
-e-mail:       ngtld-java@cscinfo.com
+e-mail:       gtldservices@markmonitor.com
 
 contact:      technical
 name:         Howard Eland, Senior Director, DNS Infrastructure Group
@@ -29204,7 +29188,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2015-01-15
-changed:      2023-08-11
+changed:      2024-01-31
 source:       IANA
 
 % IANA WHOIS server
@@ -30002,12 +29986,11 @@ address:      United States of America (the)
 
 contact:      administrative
 name:         Chris Niemi
-organisation: MarkMonitor Inc.
-address:      391 N. Ancestor Place, Suite 150
-address:      Boise ID 83704
+organisation: Markmonitor Inc.
+address:      1120 S. Rackham Way, Suite 300
+address:      Meridian ID 83642
 address:      United States of America (the)
 phone:        +1-208-389-5740
-fax-no:       +1-208-389-5771
 e-mail:       dotchase@markmonitor.com
 
 contact:      technical
@@ -30034,7 +30017,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.jpmorganchase.com
 
 created:      2016-01-14
-changed:      2023-12-13
+changed:      2024-01-31
 source:       IANA
 
 % IANA WHOIS server
@@ -33697,8 +33680,7 @@ nserver:      A.NIC.LLP 194.169.218.157 2001:67c:13cc:0:0:0:1:157
 nserver:      B.NIC.LLP 185.24.64.157 2a04:2b00:13cc:0:0:0:1:157
 nserver:      C.NIC.LLP 212.18.248.157 2a04:2b00:13ee:0:0:0:0:157
 nserver:      D.NIC.LLP 212.18.249.157 2a04:2b00:13ff:0:0:0:0:157
-ds-rdata:     16200 7 2 0d84d15bf51c1a1c7eac512663c58bffddb5cb5e3aa960399d551754a471870e
-ds-rdata:     24513 7 2 bbfa31f25c3737e0a4ac25ff09c2f8335ad065472cd187e6d4209a84327f158b
+ds-rdata:     10892 13 2 ea4556a4924c169b1dd2e0cbf16c6b63c7e71d2c33be3f70a5212ea6f3677246
 
 whois:        whois.nic.llp
 
@@ -33706,7 +33688,7 @@ status:       ACTIVE
 remarks:      Registration information: https://intercap.inc
 
 created:      2019-11-20
-changed:      2023-11-17
+changed:      2024-01-31
 source:       IANA
 
 % IANA WHOIS server
@@ -33834,12 +33816,10 @@ address:      Canada
 phone:        +1.949.903.3449
 e-mail:       trs-ops@tucows.com
 
-nserver:      A0.NIC.LOCKER 2a01:8840:5e:0:0:0:0:33 65.22.96.33
-nserver:      A2.NIC.LOCKER 2a01:8840:61:0:0:0:0:33 65.22.99.33
-nserver:      B0.NIC.LOCKER 2a01:8840:5f:0:0:0:0:33 65.22.97.33
-nserver:      C0.NIC.LOCKER 2a01:8840:60:0:0:0:0:33 65.22.98.33
 nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
+nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
 nserver:      NS01.TRS-DNS.NET 64.96.2.1
+nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
 ds-rdata:     6301 8 2 2a62e4284ad1157a9994be5022a76cf66c2c233ceede058c673d065fee63b90e
 ds-rdata:     12691 8 2 db488867de794ae457267a654fe9266d4d03dde9031da92dd58a14e551b6da01
 
@@ -33849,7 +33829,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dish.com
 
 created:      2016-05-19
-changed:      2024-01-23
+changed:      2024-01-30
 source:       IANA
 
 % IANA WHOIS server
@@ -33939,8 +33919,7 @@ nserver:      A.NIC.LOL 194.169.218.146 2001:67c:13cc:0:0:0:1:146
 nserver:      B.NIC.LOL 185.24.64.146 2a04:2b00:13cc:0:0:0:1:146
 nserver:      C.NIC.LOL 212.18.248.146 2a04:2b00:13ee:0:0:0:0:146
 nserver:      D.NIC.LOL 212.18.249.146 2a04:2b00:13ff:0:0:0:0:146
-ds-rdata:     54097 5 2 efc57a65d9c270370a1dc1f6a3de157c6f09032864e976ac5bbb1710c6bc6779
-ds-rdata:     33368 5 2 775a315a5cff32bd9231a1b105acbb6677418bfca6746ee1b6d5a469e5e042f6
+ds-rdata:     60144 13 2 7cc10bb99e7070753445d1d12b7781256198ac40f7409a2e81f43c68df7655b2
 
 whois:        whois.nic.lol
 
@@ -33948,7 +33927,7 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.lol
 
 created:      2015-04-23
-changed:      2023-11-29
+changed:      2024-01-31
 source:       IANA
 
 % IANA WHOIS server
@@ -36146,6 +36125,7 @@ nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
 nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
 nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
 ds-rdata:     23340 8 2 f6643d8ae9760f8033a5a14b231851cedff97429ef22514cfcb1ba625eac86a4
+ds-rdata:     5134 8 2 f4c8e4ac4a227663517fb28feaa416635cc013ccab079eceda756a89541baaba
 
 whois:        
 
@@ -36153,7 +36133,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2017-06-15
-changed:      2020-10-01
+changed:      2024-01-26
 source:       IANA
 
 % IANA WHOIS server
@@ -36458,12 +36438,11 @@ address:      United States of America (the)
 
 contact:      administrative
 name:         Christopher Niemi
-organisation: MarkMonitor Inc.
-address:      3540 East Longwing Lane, Suite 300
-address:      Meridian ID 83646
+organisation: Markmonitor Inc.
+address:      1120 S. Rackham Way, Suite 300
+address:      Meridian ID 83642
 address:      United States of America (the)
 phone:        +1 208-685-1857
-fax-no:       +1 208-389-5771
 e-mail:       dotmint@markmonitor.com
 
 contact:      technical
@@ -36490,7 +36469,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.intuit.com/
 
 created:      2016-06-09
-changed:      2023-12-13
+changed:      2024-01-31
 source:       IANA
 
 % IANA WHOIS server
@@ -37250,8 +37229,7 @@ nserver:      A.NIC.MOM 194.169.218.148 2001:67c:13cc:0:0:0:1:148
 nserver:      B.NIC.MOM 185.24.64.148 2a04:2b00:13cc:0:0:0:1:148
 nserver:      C.NIC.MOM 212.18.248.148 2a04:2b00:13ee:0:0:0:0:148
 nserver:      D.NIC.MOM 212.18.249.148 2a04:2b00:13ff:0:0:0:0:148
-ds-rdata:     11348 5 2 97ffc26796c7b2a683048b7cf0bcecf3c54d00b0de377b54d7c7eeedeb2ea8b5
-ds-rdata:     47116 5 2 e7f03544d66036292dbe72a766ad86063ddb9436822a835866d2de4aeab4ed86
+ds-rdata:     9760 13 2 56259df0f4a8b713477be72cab60f621dabe130e3848bd0a8f1627f585d15072
 
 whois:        whois.nic.mom
 
@@ -37259,7 +37237,7 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.mom
 
 created:      2015-08-13
-changed:      2023-11-29
+changed:      2024-01-31
 source:       IANA
 
 % IANA WHOIS server
@@ -37393,8 +37371,7 @@ nserver:      A.NIC.MONSTER 194.169.218.83 2001:67c:13cc:0:0:0:1:83
 nserver:      B.NIC.MONSTER 185.24.64.83 2a04:2b00:13cc:0:0:0:1:83
 nserver:      C.NIC.MONSTER 212.18.248.83 2a04:2b00:13ee:0:0:0:0:83
 nserver:      D.NIC.MONSTER 212.18.249.83 2a04:2b00:13ff:0:0:0:0:83
-ds-rdata:     56230 7 2 7de5a740d6e45c95c348209c877cb97736350694e595608da72a0645960937ce
-ds-rdata:     5424 7 2 da186653115848222ee43c4276919654e43fbde898dea7f1a7a7011a09158ff0
+ds-rdata:     27704 13 2 512d954e99f6d9f1e5a007a5a005b6b542284af872ea2dc3f1f79ad013cdff50
 
 whois:        whois.nic.monster
 
@@ -37402,7 +37379,7 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.monster/
 
 created:      2015-12-23
-changed:      2023-11-29
+changed:      2024-01-31
 source:       IANA
 
 % IANA WHOIS server
@@ -37948,6 +37925,7 @@ nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
 nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
 nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
 ds-rdata:     30849 8 2 8560961fd5e191d49b2461180f7edc509e10689f85ed595ad111956bc81ff9a2
+ds-rdata:     23659 8 2 81de1bcc17ae524ceeabd94382ff3aa6bfd61804332e511b44ea5ab06ec6f52a
 
 whois:        
 
@@ -37955,7 +37933,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2016-06-24
-changed:      2020-10-01
+changed:      2024-01-26
 source:       IANA
 
 % IANA WHOIS server
@@ -39506,12 +39484,11 @@ address:      United States of America (the)
 
 contact:      administrative
 name:         Chris Niemi
-organisation: MarkMonitor Inc.
-address:      3540 East Longwing Lane, Suite 300
-address:      Meridian ID 83646
+organisation: Markmonitor Inc.
+address:      1120 S. Rackham Way, Suite 300
+address:      Meridian ID 83642
 address:      United States of America (the)
 phone:        +1 (208) 389-5740
-fax-no:       +1 (208) 389-5771
 e-mail:       dotnfl@markmonitor.com
 
 contact:      technical
@@ -39538,7 +39515,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nfl.com/
 
 created:      2016-06-03
-changed:      2023-12-13
+changed:      2024-01-31
 source:       IANA
 
 % IANA WHOIS server
@@ -40133,14 +40110,15 @@ fax-no:       +358 0 10 44 81 002
 e-mail:       dnsauthority@nokia.com
 
 contact:      technical
-name:         Paul Freeman, Head of Engineering
-organisation: CentralNIC
+name:         Paul Freeman, CTO
+organisation: CentralNic
 address:      Saddlers House, 4th Floor
 address:      44 Gutter Lane
 address:      London EC2V 6BR
 address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 020 33 88 0600
-e-mail:       support@centralnic.com
+fax-no:       +44 20 33 88 0601
+e-mail:       tld.ops@centralnic.com
 
 nserver:      A.NIC.NOKIA 194.169.218.159 2001:67c:13cc:0:0:0:1:159
 nserver:      B.NIC.NOKIA 185.24.64.159 2a04:2b00:13cc:0:0:0:1:159
@@ -40155,7 +40133,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.nokia/
 
 created:      2015-04-23
-changed:      2024-01-17
+changed:      2024-01-30
 source:       IANA
 
 % IANA WHOIS server
@@ -40820,23 +40798,19 @@ phone:        +1.949.903.3449
 e-mail:       trs-ops@tucows.com
 
 nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
+nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
 nserver:      NS01.TRS-DNS.NET 64.96.2.1
-nserver:      V0N0.NIC.OBSERVER 2a01:8840:1a:0:0:0:0:63 65.22.24.63
-nserver:      V0N1.NIC.OBSERVER 2a01:8840:1b:0:0:0:0:63 65.22.25.63
-nserver:      V0N2.NIC.OBSERVER 2a01:8840:1c:0:0:0:0:63 65.22.26.63
-nserver:      V0N3.NIC.OBSERVER 161.232.12.63 2a01:8840:f6:0:0:0:0:63
-nserver:      V2N0.NIC.OBSERVER 2a01:8840:1d:0:0:0:0:63 65.22.27.63
-nserver:      V2N1.NIC.OBSERVER 161.232.13.63 2a01:8840:f7:0:0:0:0:63
+nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
 ds-rdata:     46084 8 2 366c4c042dbbaa5636c254a7ab2331102545dca6f2c81c8ce6b42c6dd0cadeb4
 ds-rdata:     61001 8 2 73ad12c51e27b349f25a52045c94b7e62ee76ea3061c1addda4ced8fc3038c94
 
 whois:        whois.nic.observer
 
 status:       ACTIVE
-remarks:      Registration information: https://www.identity.digital/
+remarks:      Registration information: https://internetnaming.co
 
 created:      2016-09-15
-changed:      2024-01-22
+changed:      2024-01-31
 source:       IANA
 
 % IANA WHOIS server
@@ -41507,7 +41481,7 @@ address:      Redwood Shores CA 94065
 address:      United States of America (the)
 phone:        +1.6505062220
 fax-no:       +1.6505062120
-e-mail:       ngtld-oracle@cscinfo.com
+e-mail:       gtldservices@markmonitor.com
 
 contact:      technical
 name:         Howard Eland, Senior Director, DNS Infrastructure Group
@@ -41532,7 +41506,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2015-01-15
-changed:      2023-08-11
+changed:      2024-01-31
 source:       IANA
 
 % IANA WHOIS server
@@ -42676,7 +42650,9 @@ phone:        +639088698750
 e-mail:       sysadmin@dot.ph
 
 nserver:      1.NS.PH 206.51.255.1 2620:171:805:ad2:7068:0:0:1
+nserver:      NS2.CUHK.EDU.HK 137.189.6.21 2405:3000:3:6:0:0:0:15
 nserver:      NS4.APNIC.NET 2001:dd8:12:0:0:0:0:53 202.12.31.53
+nserver:      PH.COMMUNITYDNS.NET 194.0.1.23 2001:678:4:0:0:0:0:17
 ds-rdata:     29122 13 2 0ed5c93074522f903dbb7fbad2866cbe7cb67f15f0e5b54013340b57c1bcd509
 
 whois:        
@@ -42685,7 +42661,7 @@ status:       ACTIVE
 remarks:      Registration information: http://dot.ph
 
 created:      1990-09-14
-changed:      2023-12-20
+changed:      2024-01-30
 source:       IANA
 
 % IANA WHOIS server
@@ -43106,8 +43082,7 @@ nserver:      A.NIC.PICS 194.169.218.151 2001:67c:13cc:0:0:0:1:151
 nserver:      B.NIC.PICS 185.24.64.151 2a04:2b00:13cc:0:0:0:1:151
 nserver:      C.NIC.PICS 212.18.248.151 2a04:2b00:13ee:0:0:0:0:151
 nserver:      D.NIC.PICS 212.18.249.151 2a04:2b00:13ff:0:0:0:0:151
-ds-rdata:     3458 5 2 a32c380766b5205f998872b8187a99ac5027872da54b0ddec2edfbefc6279b89
-ds-rdata:     53818 5 2 9c1c58b3166f317db4aff5e4a56fca7ae4e52c20306ec758133690b153c58227
+ds-rdata:     35457 13 2 5c51e30fb24690462119a205ba0de9a3ad9742ec1e598eed93eaf240b9c170c4
 
 whois:        whois.nic.pics
 
@@ -43115,7 +43090,7 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.pics
 
 created:      2014-01-09
-changed:      2023-11-29
+changed:      2024-01-31
 source:       IANA
 
 % IANA WHOIS server
@@ -43281,7 +43256,7 @@ address:      Seattle WA 98109
 address:      United States of America (the)
 phone:        +1 206 646 5990
 fax-no:       +1 206 946 7702
-e-mail:       pin-rzm@amazon.com
+e-mail:       arsi-rzm@amazon.com
 
 contact:      technical
 name:         TLD Registry Services Technical
@@ -43310,7 +43285,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.amazonregistry.com
 
 created:      2015-11-12
-changed:      2021-11-18
+changed:      2024-02-01
 source:       IANA
 
 % IANA WHOIS server
@@ -45646,7 +45621,7 @@ address:      Seattle WA 98109
 address:      United States of America (the)
 phone:        +1 206 646 5990
 fax-no:       +1 206 946 7702
-e-mail:       read-rzm@amazon.com
+e-mail:       arsi-rzm@amazon.com
 
 contact:      technical
 name:         TLD Registry Services Technical
@@ -45675,7 +45650,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.amazonregistry.com
 
 created:      2015-11-12
-changed:      2021-11-18
+changed:      2024-02-01
 source:       IANA
 
 % IANA WHOIS server
@@ -45811,23 +45786,19 @@ phone:        +1.949.903.3449
 e-mail:       trs-ops@tucows.com
 
 nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
+nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
 nserver:      NS01.TRS-DNS.NET 64.96.2.1
-nserver:      V0N0.NIC.REALTY 2a01:8840:1a:0:0:0:0:42 65.22.24.42
-nserver:      V0N1.NIC.REALTY 2a01:8840:1b:0:0:0:0:42 65.22.25.42
-nserver:      V0N2.NIC.REALTY 2a01:8840:1c:0:0:0:0:42 65.22.26.42
-nserver:      V0N3.NIC.REALTY 161.232.12.42 2a01:8840:f6:0:0:0:0:42
-nserver:      V2N0.NIC.REALTY 2a01:8840:1d:0:0:0:0:42 65.22.27.42
-nserver:      V2N1.NIC.REALTY 161.232.13.42 2a01:8840:f7:0:0:0:0:42
+nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
 ds-rdata:     5506 8 2 20e276179f6ef711cd63c5e4851c2c3b4917fcff813c708aa902c305b8960484
 ds-rdata:     21334 8 2 613e789594bc8fce2381f7b1c2f4232093b017f5eef5444eb0f1d8ef5c2f65e2
 
 whois:        whois.nic.realty
 
 status:       ACTIVE
-remarks:      Registration information: https://www.identity.digital/
+remarks:      Registration information: https://internetnaming.co
 
 created:      2015-06-11
-changed:      2024-01-22
+changed:      2024-01-31
 source:       IANA
 
 % IANA WHOIS server
@@ -45948,21 +45919,22 @@ fax-no:       86 (755) 8293 9999
 e-mail:       icann.notices@redstone.com.cn
 
 contact:      technical
-name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias
-address:      300 Welsh Road
-address:      Building 3, Suite 105
-address:      Horsham PA 19044
-address:      United States of America (the)
-phone:        +1 215.706.5700
-fax-no:       +1 215.706.5701
-e-mail:       tld-tech-poc@afilias.info
+name:         Zhenguo Lin, DNE, ZDNS
+organisation: ZDNS
+address:      No. 4, South 4th Street, ZhongGuanCun
+address:      Haidian District
+address:      Beijing 100088
+address:      China
+phone:        (+86) 01058812473
+fax-no:       (+86) 01058813075
+e-mail:       linzhenguo@zdns.cn
 
 nserver:      A0.NIC.REDSTONE 2a01:8840:82:0:0:0:0:17 65.22.132.17
 nserver:      A2.NIC.REDSTONE 2a01:8840:85:0:0:0:0:17 65.22.135.17
 nserver:      B0.NIC.REDSTONE 2a01:8840:83:0:0:0:0:17 65.22.133.17
 nserver:      C0.NIC.REDSTONE 2a01:8840:84:0:0:0:0:17 65.22.134.17
 ds-rdata:     55555 8 2 425cc5bc7add435160d3c70cba9d545be2ff5466ecc27fb46e520be2ec1f9d0d
+ds-rdata:     49835 8 2 51a6a70d9a7c0f010d09ffaaca9cb6bbbe7fad76fb48fde6f940b606c8cde048
 
 whois:        whois.nic.redstone
 
@@ -45970,7 +45942,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www/redstone-cn.com
 
 created:      2015-03-06
-changed:      2023-08-23
+changed:      2024-01-30
 source:       IANA
 
 % IANA WHOIS server
@@ -47317,7 +47289,7 @@ address:      Seattle WA 98109
 address:      United States of America (the)
 phone:        +1 206 646 5990
 fax-no:       +1 206 946 7702
-e-mail:       room-rzm@amazon.com
+e-mail:       arsi-rzm@amazon.com
 
 contact:      technical
 name:         TLD Registry Services Technical
@@ -47346,7 +47318,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.amazonregistry.com
 
 created:      2015-11-12
-changed:      2021-11-18
+changed:      2024-02-01
 source:       IANA
 
 % IANA WHOIS server
@@ -47901,7 +47873,7 @@ address:      Seattle WA 98109
 address:      United States of America (the)
 phone:        +1 206 646 5990
 fax-no:       +1 206 946 7702
-e-mail:       safe-rzm@amazon.com
+e-mail:       arsi-rzm@amazon.com
 
 contact:      technical
 name:         TLD Registry Services Technical
@@ -47930,7 +47902,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.amazonregistry.com
 
 created:      2015-11-12
-changed:      2021-11-18
+changed:      2024-02-01
 source:       IANA
 
 % IANA WHOIS server
@@ -48523,7 +48495,7 @@ address:      Seattle WA 98109
 address:      United States of America (the)
 phone:        +1 206 646 5990
 fax-no:       +12069467702
-e-mail:       save-rzm@amazon.com
+e-mail:       arsi-rzm@amazon.com
 
 contact:      technical
 name:         TLD Registry Services Technical
@@ -48553,7 +48525,7 @@ remarks:      Registration information:
 remarks:      https://www.amazonregistry.com/
 
 created:      2016-05-19
-changed:      2021-11-18
+changed:      2024-02-01
 source:       IANA
 
 % IANA WHOIS server
@@ -49279,13 +49251,13 @@ nserver:      NS-SD.AFRINIC.NET 196.216.168.26 2001:43f8:120:0:0:0:0:26
 nserver:      PCH.SIS.SD 2001:500:14:6097:ad:0:0:1 204.61.216.97
 nserver:      SD.CCTLD.AUTHDNS.RIPE.NET 193.0.9.109 2001:67c:e0:0:0:0:0:109
 
-whois:        
+whois:        whois.nic.sd
 
 status:       ACTIVE
 remarks:      Registration information: http://www.isoc.sd
 
 created:      1997-03-06
-changed:      2022-06-11
+changed:      2024-01-29
 source:       IANA
 
 % IANA WHOIS server
@@ -49453,7 +49425,7 @@ address:      Seattle WA 98109
 address:      United States of America (the)
 phone:        +1 206 646 5990
 fax-no:       +1-206-946-7702
-e-mail:       secure-rzm@amazon.com
+e-mail:       arsi-rzm@amazon.com
 
 contact:      technical
 name:         TLD Registry Services Technical
@@ -49483,7 +49455,7 @@ remarks:      Registration information:
 remarks:      https://www.amazonregistry.com/
 
 created:      2016-07-21
-changed:      2021-11-19
+changed:      2024-01-31
 source:       IANA
 
 % IANA WHOIS server
@@ -49953,10 +49925,8 @@ nserver:      A.NIC.SFR 194.169.218.100 2001:67c:13cc:0:0:0:1:100
 nserver:      B.NIC.SFR 185.24.64.100 2a04:2b00:13cc:0:0:0:1:100
 nserver:      C.NIC.SFR 212.18.248.100 2a04:2b00:13ee:0:0:0:0:100
 nserver:      D.NIC.SFR 212.18.249.100 2a04:2b00:13ff:0:0:0:0:100
-ds-rdata:     7923 7 1 e348a086a9bc4c214c16fc529e64bbee506739c4
-ds-rdata:     7923 7 2 e3b4e6b0b3447c29949813283b4308546b1bb895fa1e2a39364f918be581bf01
-ds-rdata:     51274 7 1 bf4509a051e4cb1206784fb08211043be36a495b
-ds-rdata:     51274 7 2 4be38a9fc56f65e77125940e4ffdaccffc39380f3e74bca025b0206eb8e8628d
+ds-rdata:     58083 13 2 14a8a386f7a03b845ebd3b58aa143b9a558bb1a93eb8bb121c03291dd6d537e6
+ds-rdata:     25496 13 2 7516102f6d1f3343dabe0533df34c30b3f189dae89d61f691078ddc753653d9c
 
 whois:        whois.nic.sfr
 
@@ -49964,7 +49934,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2015-11-12
-changed:      2021-10-12
+changed:      2024-01-31
 source:       IANA
 
 % IANA WHOIS server
@@ -50672,7 +50642,7 @@ address:      Seattle WA 98109
 address:      United States of America (the)
 phone:        +1 206 646 5990
 fax-no:       +12069467702
-e-mail:       silk-rzm@amazon.com
+e-mail:       arsi-rzm@amazon.com
 
 contact:      technical
 name:         TLD Registry Services Technical
@@ -50702,7 +50672,7 @@ remarks:      Registration information:
 remarks:      https://www.amazonregistry.com/
 
 created:      2016-05-19
-changed:      2021-11-19
+changed:      2024-02-01
 source:       IANA
 
 % IANA WHOIS server
@@ -50915,12 +50885,12 @@ address:      Slovakia
 
 contact:      administrative
 name:         GAC delegate
-organisation: Office of Deputy Prime Minister of the Slovak Republic for Investments and Informatization
-address:      Stefanikova 15
-address:      Bratislava 81105
+organisation: Ministry of Investments, Regional development and Informatization of the Slovak Republic
+address:      Pribinova 25
+address:      Bratislava 81109
 address:      Slovakia
-phone:        +421/2/209 28 160
-e-mail:       gac@vicepremier.gov.sk
+phone:        +421/2/209 28 888
+e-mail:       gac@mirri.gov.sk
 
 contact:      technical
 name:         Technical Director
@@ -50947,7 +50917,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.sk-nic.sk
 
 created:      1993-03-29
-changed:      2019-04-19
+changed:      2024-01-25
 source:       IANA
 
 % IANA WHOIS server
@@ -51345,7 +51315,7 @@ address:      Seattle WA 98109
 address:      United States of America (the)
 phone:        +1 206 646 5990
 fax-no:       +1 206 946 7702
-e-mail:       smile-rzm@amazon.com
+e-mail:       arsi-rzm@amazon.com
 
 contact:      technical
 name:         TLD Registry Services Technical
@@ -51374,7 +51344,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.amazonregistry.com
 
 created:      2015-11-12
-changed:      2021-11-19
+changed:      2024-01-31
 source:       IANA
 
 % IANA WHOIS server
@@ -51871,7 +51841,7 @@ address:      Seattle WA 98109
 address:      United States of America (the)
 phone:        +1 206 646 5990
 fax-no:       +1-206-946-7702
-e-mail:       song-rzm@amazon.com
+e-mail:       arsi-rzm@amazon.com
 
 contact:      technical
 name:         IANA Contact
@@ -51897,7 +51867,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.amazonregistry.com
 
 created:      2016-01-29
-changed:      2024-01-03
+changed:      2024-01-31
 source:       IANA
 
 % IANA WHOIS server
@@ -52160,7 +52130,7 @@ address:      Seattle WA 98109
 address:      United States of America (the)
 phone:        +1 206 646 5990
 fax-no:       +1-206-946-7702
-e-mail:       spot-rzm@amazon.com
+e-mail:       arsi-rzm@amazon.com
 
 contact:      technical
 name:         TLD Registry Services Technical
@@ -52189,7 +52159,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.amazonregistry.com
 
 created:      2016-01-29
-changed:      2021-11-19
+changed:      2024-01-31
 source:       IANA
 
 % IANA WHOIS server
@@ -52577,12 +52547,11 @@ address:      United States of America (the)
 
 contact:      administrative
 name:         Christopher Niemi
-organisation: MarkMonitor, Inc.
-address:      391 N. Ancestor Place, Suite 150
-address:      Boise ID 83704
+organisation: Markmonitor Inc.
+address:      1120 S. Rackham Way, Suite 300
+address:      Meridian ID 83642
 address:      United States of America (the)
 phone:        +1 208 685 1857
-fax-no:       +1 208 389 5771
 e-mail:       dotstatefarm-notices@markmonitor.com
 
 contact:      technical
@@ -52609,7 +52578,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.statefarm.com
 
 created:      2015-11-06
-changed:      2023-12-13
+changed:      2024-01-31
 source:       IANA
 
 % IANA WHOIS server
@@ -52795,7 +52764,7 @@ nserver:      B.NIC.STORAGE 185.24.64.55 2a04:2b00:13cc:0:0:0:1:55
 nserver:      C.NIC.STORAGE 212.18.248.55 2a04:2b00:13ee:0:0:0:0:55
 nserver:      D.NIC.STORAGE 212.18.249.55 2a04:2b00:13ff:0:0:0:0:55
 ds-rdata:     50476 7 2 bf2260b22c8c9630dc3e5ce22130c4fb97edd6b27805a05f8f526b951b465156
-ds-rdata:     50476 7 1 ad942d7faef7c429fee5497a67162643e96e1841
+ds-rdata:     7498 7 2 67d97de0482b8a801916d91dda71213fe03483a3bb83125038639a1635fcc1c5
 
 whois:        whois.nic.storage
 
@@ -52803,7 +52772,7 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.storage/
 
 created:      2015-12-10
-changed:      2022-08-16
+changed:      2024-01-31
 source:       IANA
 
 % IANA WHOIS server
@@ -53933,7 +53902,7 @@ address:      Seattle WA 98109
 address:      United States of America (the)
 phone:        +1 206 646 5990
 fax-no:       +1-206-946-7702
-e-mail:       talk-rzm@amazon.com
+e-mail:       arsi-rzm@amazon.com
 
 contact:      technical
 name:         TLD Registry Services Technical
@@ -53962,7 +53931,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.amazonregistry.com
 
 created:      2016-03-18
-changed:      2021-11-19
+changed:      2024-01-31
 source:       IANA
 
 % IANA WHOIS server
@@ -54679,11 +54648,9 @@ fax-no:       +44 20 7467 6451
 e-mail:       asagar@telnic.org
 
 nserver:      ANYCAST10.IRONDNS.NET 195.253.64.12 2a01:5b0:4:0:0:0:0:c
+nserver:      ANYCAST23.IRONDNS.NET 195.253.65.11 2a01:5b0:5:0:0:0:0:b
+nserver:      ANYCAST24.IRONDNS.NET 195.253.65.12 2a01:5b0:5:0:0:0:0:c
 nserver:      ANYCAST9.IRONDNS.NET 195.253.64.11 2a01:5b0:4:0:0:0:0:b
-nserver:      NS1.DNS.NIC.TEL 156.154.169.10 2610:a1:1071:0:0:0:1:a
-nserver:      NS2.DNS.NIC.TEL 156.154.170.10 2610:a1:1072:0:0:0:1:a
-nserver:      NS3.DNS.NIC.TEL 156.154.171.10 2610:a1:1073:0:0:0:1:a
-nserver:      NS4.DNS.NIC.TEL 156.154.172.10 2610:a1:1074:0:0:0:1:a
 ds-rdata:     48802 8 2 4a00b3f46ad973780b87f241360da0b79481b257410bb68a923fe887087be139
 ds-rdata:     31166 8 2 1d7b6aada1a03510077f789a75184ca61a6fe3176a263d1be52bce89355caa8d
 
@@ -54693,7 +54660,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.tel
 
 created:      2007-03-01
-changed:      2024-01-11
+changed:      2024-01-25
 source:       IANA
 
 % IANA WHOIS server
@@ -57030,7 +56997,7 @@ address:      Seattle WA 98109
 address:      United States of America (the)
 phone:        +1 206 646 5990
 fax-no:       +1-206-946-7702
-e-mail:       tunes-rzm@amazon.com
+e-mail:       arsi-rzm@amazon.com
 
 contact:      technical
 name:         TLD Registry Services Technical
@@ -57059,7 +57026,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.amazonregistry.com
 
 created:      2016-01-29
-changed:      2021-11-19
+changed:      2024-01-31
 source:       IANA
 
 % IANA WHOIS server
@@ -57081,7 +57048,7 @@ address:      Seattle WA 98109
 address:      United States of America (the)
 phone:        +1 206 646 5990
 fax-no:       +1 206 946 7702
-e-mail:       tushu-rzm@amazon.com
+e-mail:       arsi-rzm@amazon.com
 
 contact:      technical
 name:         TLD Registry Services Technical
@@ -57110,7 +57077,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.amazonregistry.com
 
 created:      2015-11-12
-changed:      2021-11-19
+changed:      2024-01-31
 source:       IANA
 
 % IANA WHOIS server
@@ -57993,6 +57960,7 @@ e-mail:       supporto.siv@net.va
 
 nserver:      A.NIC.VA 212.77.0.110
 nserver:      B.NIC.VA 212.77.0.2
+nserver:      C.NIC.VA 212.77.2.58
 nserver:      DNS.NIC.IT 192.12.192.5 2a00:d40:1:1:0:0:0:5
 nserver:      OSIRIS.NAMEX.IT 193.201.40.6 2a0f:80:1:0:0:0:0:6
 nserver:      SETH.NAMEX.IT 193.201.40.7 2a0f:80:1:0:0:0:0:7
@@ -58004,7 +57972,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      1995-09-11
-changed:      2024-01-16
+changed:      2024-01-30
 source:       IANA
 
 % IANA WHOIS server
@@ -58560,8 +58528,6 @@ phone:        +1 340 776-4800
 fax-no:       +1 340 776-2666
 e-mail:       domain@nic.vi
 
-nserver:      AUTH100.NS.UU.NET 198.6.1.202
-nserver:      AUTH110.NS.UU.NET 198.6.1.114
 nserver:      NS3.NIC.VI 185.17.236.230
 nserver:      PCH.NIC.VI 2001:500:14:6133:ad:0:0:1 204.61.216.133
 
@@ -58571,7 +58537,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.vi
 
 created:      1995-08-31
-changed:      2023-03-07
+changed:      2024-01-31
 source:       IANA
 
 % IANA WHOIS server
@@ -59821,7 +59787,7 @@ address:      Seattle WA 98109
 address:      United States of America (the)
 phone:        +1 206 646 5990
 fax-no:       +1 206 946 7702
-e-mail:       wanggou-rzm@amazon.com
+e-mail:       arsi-rzm@amazon.com
 
 contact:      technical
 name:         TLD Registry Services Technical
@@ -59850,7 +59816,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.amazonregistry.com
 
 created:      2015-11-12
-changed:      2021-11-19
+changed:      2024-01-31
 source:       IANA
 
 % IANA WHOIS server
@@ -61127,7 +61093,7 @@ address:      Seattle WA 98109
 address:      United States of America (the)
 phone:        +1 206 646 5990
 fax-no:       +1-206-946-7702
-e-mail:       wow-rzm@amazon.com
+e-mail:       arsi-rzm@amazon.com
 
 contact:      technical
 name:         TLD Registry Services Technical
@@ -61157,7 +61123,7 @@ remarks:      Registration information:
 remarks:      https://www.amazonregistry.com/
 
 created:      2016-09-16
-changed:      2021-11-19
+changed:      2024-01-31
 source:       IANA
 
 % IANA WHOIS server
@@ -61626,7 +61592,7 @@ address:      Seattle WA 98109
 address:      United States of America (the)
 phone:        +1 206 646 5990
 fax-no:       +1-206-946-7702
-e-mail:       sale-rzm@amazon.com
+e-mail:       arsi-rzm@amazon.com
 
 contact:      technical
 name:         IANA Contact
@@ -61652,7 +61618,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.amazonregistry.com
 
 created:      2016-01-29
-changed:      2024-01-03
+changed:      2024-01-31
 source:       IANA
 
 % IANA WHOIS server
@@ -63325,7 +63291,7 @@ address:      Seattle WA 98109
 address:      United States of America (the)
 phone:        +1 206 646 5990
 fax-no:       +1-206-946-7702
-e-mail:       fashion-rzm@amazon.com
+e-mail:       arsi-rzm@amazon.com
 
 contact:      technical
 name:         IANA Contact
@@ -63351,7 +63317,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.amazonregistry.com
 
 created:      2016-01-29
-changed:      2024-01-03
+changed:      2024-01-31
 source:       IANA
 
 % IANA WHOIS server
@@ -63470,7 +63436,7 @@ address:      Seattle WA 98109
 address:      United States of America (the)
 phone:        +1 206 646 5990
 fax-no:       +1-206-946-7702
-e-mail:       store-rzm@amazon.com
+e-mail:       arsi-rzm@amazon.com
 
 contact:      technical
 name:         IANA Contact
@@ -63496,7 +63462,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.amazonregistry.com
 
 created:      2016-01-29
-changed:      2024-01-03
+changed:      2024-01-31
 source:       IANA
 
 % IANA WHOIS server
@@ -63519,7 +63485,7 @@ address:      Seattle WA 98109
 address:      United States of America (the)
 phone:        +1 206 646 5990
 fax-no:       +1-206-946-7702
-e-mail:       dotamazon-jp-rzm@amazon.com
+e-mail:       arsi-rzm@amazon.com
 
 contact:      technical
 name:         TLD Registry Services Technical
@@ -63549,7 +63515,7 @@ remarks:      Registration information:
 remarks:      https://www.amazonregistry.com/
 
 created:      2020-05-28
-changed:      2021-11-19
+changed:      2024-01-31
 source:       IANA
 
 % IANA WHOIS server
@@ -63968,7 +63934,7 @@ address:      Seattle WA 98109
 address:      United States of America (the)
 phone:        +1 206 646 5990
 fax-no:       +1 206 946 7702
-e-mail:       point-rzm@amazon.com
+e-mail:       arsi-rzm@amazon.com
 
 contact:      technical
 name:         IANA Contact
@@ -63994,7 +63960,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.amazonregistry.com
 
 created:      2015-11-25
-changed:      2024-01-03
+changed:      2024-01-31
 source:       IANA
 
 % IANA WHOIS server
@@ -64071,7 +64037,7 @@ address:      Seattle WA 98109
 address:      United States of America (the)
 phone:        +1 206 646 5990
 fax-no:       +1-206-946-7702
-e-mail:       consumerelectronics-rzm@amazon.com
+e-mail:       arsi-rzm@amazon.com
 
 contact:      technical
 name:         IANA Contact
@@ -64097,7 +64063,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.amazonregistry.com
 
 created:      2016-03-18
-changed:      2024-01-03
+changed:      2024-01-31
 source:       IANA
 
 % IANA WHOIS server
@@ -64670,7 +64636,7 @@ address:      Seattle WA 98109
 address:      United States of America (the)
 phone:        +1 206 646 5990
 fax-no:       +1-206-946-7702
-e-mail:       cloud-rzm@amazon.com
+e-mail:       arsi-rzm@amazon.com
 
 contact:      technical
 name:         IANA Contact
@@ -64696,7 +64662,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.amazonregistry.com
 
 created:      2016-01-29
-changed:      2024-01-03
+changed:      2024-01-31
 source:       IANA
 
 % IANA WHOIS server
@@ -64768,7 +64734,7 @@ address:      Seattle WA 98109
 address:      United States of America (the)
 phone:        +1 206 646 5990
 fax-no:       +1-206-946-7702
-e-mail:       onlineshopping-rzm@amazon.com
+e-mail:       arsi-rzm@amazon.com
 
 contact:      technical
 name:         IANA Contact
@@ -64794,7 +64760,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.amazonregistry.com/
 
 created:      2016-09-16
-changed:      2024-01-02
+changed:      2024-01-31
 source:       IANA
 
 % IANA WHOIS server
@@ -65318,7 +65284,7 @@ address:      Seattle WA 98109
 address:      United States of America (the)
 phone:        +1 206 646 5990
 fax-no:       +1-206-946-7702
-e-mail:       dotamazon-cn-rzm@amazon.com
+e-mail:       arsi-rzm@amazon.com
 
 contact:      technical
 name:         TLD Registry Services Technical
@@ -65348,7 +65314,7 @@ remarks:      Registration information:
 remarks:      https://www.amazonregistry.com/
 
 created:      2020-05-28
-changed:      2021-11-19
+changed:      2024-01-31
 source:       IANA
 
 % IANA WHOIS server
@@ -65371,7 +65337,7 @@ address:      Seattle WA 98109
 address:      United States of America (the)
 phone:        +1 206 646 5990
 fax-no:       +1-206-946-7702
-e-mail:       food-rzm@amazon.com
+e-mail:       arsi-rzm@amazon.com
 
 contact:      technical
 name:         IANA Contact
@@ -65397,7 +65363,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.amazonregistry.com
 
 created:      2016-01-29
-changed:      2024-01-03
+changed:      2024-01-31
 source:       IANA
 
 % IANA WHOIS server
@@ -67876,7 +67842,7 @@ address:      Seattle WA 98109
 address:      United States of America (the)
 phone:        +1 206 646 5990
 fax-no:       +1-206-946-7702
-e-mail:       book-jp-rzm@amazon.com
+e-mail:       arsi-rzm@amazon.com
 
 contact:      technical
 name:         IANA Contact
@@ -67902,7 +67868,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.amazonregistry.com
 
 created:      2016-01-29
-changed:      2024-01-02
+changed:      2024-01-31
 source:       IANA
 
 % IANA WHOIS server
@@ -69190,7 +69156,7 @@ address:      Seattle WA 98109
 address:      United States of America (the)
 phone:        +1 206 646 5990
 fax-no:       +12069467702
-e-mail:       yamaxun-rzm@amazon.com
+e-mail:       arsi-rzm@amazon.com
 
 contact:      technical
 name:         TLD Registry Services Technical
@@ -69219,7 +69185,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.amazonregistry.com
 
 created:      2015-09-10
-changed:      2021-11-19
+changed:      2024-01-31
 source:       IANA
 
 % IANA WHOIS server
@@ -69479,7 +69445,7 @@ address:      Seattle WA 98109
 address:      United States of America (the)
 phone:        +1 206 646 5990
 fax-no:       +1-206-946-7702
-e-mail:       you-rzm@amazon.com
+e-mail:       arsi-rzm@amazon.com
 
 contact:      technical
 name:         TLD Registry Services Technical
@@ -69508,7 +69474,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.amazonregistry.com
 
 created:      2016-03-18
-changed:      2021-11-19
+changed:      2024-01-31
 source:       IANA
 
 % IANA WHOIS server
@@ -69725,8 +69691,8 @@ address:      410 Terry Avenue North
 address:      Seattle WA 98109
 address:      United States of America (the)
 phone:        +1 206 646 5990
-fax-no:       1 206 946 7702
-e-mail:       zappos-rzm@amazon.com
+fax-no:       +1 206 946 7702
+e-mail:       arsi-rzm@amazon.com
 
 contact:      technical
 name:         TLD Registry Services Technical
@@ -69756,7 +69722,7 @@ remarks:      Registration information:
 remarks:      https://www.amazonregistry.com/
 
 created:      2016-05-19
-changed:      2021-11-19
+changed:      2024-01-31
 source:       IANA
 
 % IANA WHOIS server
@@ -69825,7 +69791,7 @@ address:      Seattle WA 98109
 address:      United States of America (the)
 phone:        +1 206 646 5990
 fax-no:       +1 206 946 7702
-e-mail:       zero-rzm@amazon.com
+e-mail:       arsi-rzm@amazon.com
 
 contact:      technical
 name:         IANA Contact
@@ -69851,7 +69817,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.amazonregistry.com
 
 created:      2015-11-12
-changed:      2024-01-02
+changed:      2024-01-31
 source:       IANA
 
 % IANA WHOIS server

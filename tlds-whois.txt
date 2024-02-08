@@ -2097,7 +2097,7 @@ address:      Seattle WA 98109
 address:      United States of America (the)
 phone:        +1 206 646 5990
 fax-no:       +1-206-946-7702
-e-mail:       dotamazon-rzm@amazon.com
+e-mail:       arsi-rzm@amazon.com
 
 contact:      technical
 name:         TLD Registry Services Technical
@@ -2127,7 +2127,7 @@ remarks:      Registration information:
 remarks:      https://www.amazonregistry.com/
 
 created:      2020-05-28
-changed:      2021-11-18
+changed:      2024-02-01
 source:       IANA
 
 % IANA WHOIS server
@@ -3820,7 +3820,7 @@ address:      Seattle WA 98109
 address:      United States of America (the)
 phone:        +1 206 646 5990
 fax-no:       +12069467702
-e-mail:       audible-rzm@amazon.com
+e-mail:       arsi-rzm@amazon.com
 
 contact:      technical
 name:         TLD Registry Services Technical
@@ -3850,7 +3850,7 @@ remarks:      Registration information:
 remarks:      https://www.amazonregistry.com/
 
 created:      2016-05-19
-changed:      2021-11-18
+changed:      2024-02-01
 source:       IANA
 
 % IANA WHOIS server
@@ -3965,7 +3965,7 @@ address:      Seattle WA 98109
 address:      United States of America (the)
 phone:        +1 206 646 5990
 fax-no:       +1 206 946 7702
-e-mail:       author-rzm@amazon.com
+e-mail:       arsi-rzm@amazon.com
 
 contact:      technical
 name:         TLD Registry Services Technical
@@ -3994,7 +3994,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.amazonregistry.com
 
 created:      2015-11-12
-changed:      2021-11-18
+changed:      2024-02-01
 source:       IANA
 
 % IANA WHOIS server
@@ -7485,7 +7485,7 @@ address:      Seattle WA 98109
 address:      United States of America (the)
 phone:        +1 206 646 5990
 fax-no:       +1 206 946 7702
-e-mail:       book-rzm@amazon.com
+e-mail:       arsi-rzm@amazon.com
 
 contact:      technical
 name:         TLD Registry Services Technical
@@ -7514,7 +7514,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.amazonregistry.com
 
 created:      2015-11-12
-changed:      2021-11-18
+changed:      2024-02-01
 source:       IANA
 
 % IANA WHOIS server
@@ -7723,7 +7723,7 @@ address:      Seattle WA 98109
 address:      United States of America (the)
 phone:        +1 206 646 5990
 fax-no:       +1 206 946 7702
-e-mail:       bot-rzm@amazon.com
+e-mail:       arsi-rzm@amazon.com
 
 contact:      technical
 name:         TLD Registry Services Technical
@@ -7752,7 +7752,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.amazonregistry.com
 
 created:      2015-11-12
-changed:      2021-11-18
+changed:      2024-02-01
 source:       IANA
 
 % IANA WHOIS server
@@ -8450,7 +8450,7 @@ address:      Seattle WA 98109
 address:      United States of America (the)
 phone:        +1 206 646 5990
 fax-no:       +1 206 946 7702
-e-mail:       buy-rzm@amazon.com
+e-mail:       arsi-rzm@amazon.com
 
 contact:      technical
 name:         TLD Registry Services Technical
@@ -8479,7 +8479,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.amazonregistry.com
 
 created:      2015-11-20
-changed:      2021-11-18
+changed:      2024-02-01
 source:       IANA
 
 % IANA WHOIS server
@@ -8979,7 +8979,7 @@ address:      Seattle WA 98109
 address:      United States of America (the)
 phone:        +1 206 646 5990
 fax-no:       +1 206 946 7702
-e-mail:       call-rzm@amazon.com
+e-mail:       arsi-rzm@amazon.com
 
 contact:      technical
 name:         TLD Registry Services Technical
@@ -9008,7 +9008,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.amazonregistry.com
 
 created:      2015-11-12
-changed:      2021-11-18
+changed:      2024-02-01
 source:       IANA
 
 % IANA WHOIS server
@@ -11293,7 +11293,7 @@ address:      Seattle WA 98109
 address:      United States of America (the)
 phone:        +1 206 646 5990
 fax-no:       +1 206 946 7702
-e-mail:       circle-rzm@amazon.com
+e-mail:       arsi-rzm@amazon.com
 
 contact:      technical
 name:         TLD Registry Services Technical
@@ -11322,7 +11322,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.amazonregistry.com
 
 created:      2015-11-12
-changed:      2021-11-18
+changed:      2024-02-01
 source:       IANA
 
 % IANA WHOIS server
@@ -12552,51 +12552,13 @@ source:       IANA
 
 domain:       COMCAST
 
-organisation: Comcast IP Holdings I, LLC
-address:      c/o Comcast Capital Corporation
-address:      1201 North Market Street, Suite 100
-address:      Wilmington DE 19801
-address:      United States of America (the)
+whois:        
 
-contact:      administrative
-name:         TLD Registry Services Management
-organisation: Nominet
-address:      Minerva House
-address:      Edmund Halley Road
-address:      Oxford Science Park
-address:      Oxford OX4 4DQ
-address:      United Kingdom of Great Britain and Northern Ireland (the)
-phone:        +44.1865332211
-e-mail:       registrymanagement@nominet.uk
-
-contact:      technical
-name:         TLD Registry Services Technical
-organisation: Nominet
-address:      Minerva House
-address:      Edmund Halley Road
-address:      Oxford Science Park
-address:      Oxford OX4 4DQ
-address:      United Kingdom of Great Britain and Northern Ireland (the)
-phone:        +44.1865332211
-e-mail:       registrytechnical@nominet.uk
-
-nserver:      DNS1.NIC.COMCAST 213.248.219.6 2a01:618:403:0:0:0:0:6
-nserver:      DNS2.NIC.COMCAST 103.49.83.6 2401:fd80:403:0:0:0:0:6
-nserver:      DNS3.NIC.COMCAST 213.248.223.6 2a01:618:407:0:0:0:0:6
-nserver:      DNS4.NIC.COMCAST 2401:fd80:407:0:0:0:0:6 43.230.51.6
-nserver:      DNSA.NIC.COMCAST 156.154.100.3 2001:502:ad09:0:0:0:0:3
-nserver:      DNSB.NIC.COMCAST 156.154.101.3 2001:502:2eda:0:0:0:0:3
-nserver:      DNSC.NIC.COMCAST 156.154.102.3 2610:a1:1009:0:0:0:0:3
-nserver:      DNSD.NIC.COMCAST 156.154.103.3 2610:a1:1010:0:0:0:0:3
-ds-rdata:     21809 8 2 10e13e49f33ed1e42ca5d829093548118280d27664eb9db6b52956189b5dbc67
-
-whois:        whois.nic.comcast
-
-status:       ACTIVE
-remarks:      Registration information: http://nic.comcast/
+status:       FORMER
+remarks:      Registration information: 
 
 created:      2016-06-16
-changed:      2021-10-19
+changed:      2024-02-07
 source:       IANA
 
 % IANA WHOIS server
@@ -13389,7 +13351,7 @@ address:      Seattle WA 98109
 address:      United States of America (the)
 phone:        +1 206 646 5990
 fax-no:       +1-206-946-7702
-e-mail:       coupon-rzm@amazon.com
+e-mail:       arsi-rzm@amazon.com
 
 contact:      technical
 name:         IANA Contact
@@ -13415,7 +13377,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.amazonregistry.com
 
 created:      2016-01-29
-changed:      2024-01-03
+changed:      2024-02-01
 source:       IANA
 
 % IANA WHOIS server
@@ -14959,7 +14921,7 @@ address:      Seattle WA 98109
 address:      United States of America (the)
 phone:        +1 206 646 5990
 fax-no:       +12069467702
-e-mail:       deal-rzm@amazon.com
+e-mail:       arsi-rzm@amazon.com
 
 contact:      technical
 name:         TLD Registry Services Technical
@@ -14989,7 +14951,7 @@ remarks:      Registration information:
 remarks:      https://www.amazonregistry.com/
 
 created:      2016-05-19
-changed:      2021-11-18
+changed:      2024-02-01
 source:       IANA
 
 % IANA WHOIS server
@@ -16179,6 +16141,7 @@ nserver:      C.NIC.DK 194.0.46.53 2001:678:74:0:0:0:0:53
 nserver:      D.NIC.DK 185.159.198.45 2620:10a:80ab:0:0:0:0:45
 nserver:      H.NIC.DK 2a00:1b18:1:2:0:0:0:53 46.30.126.214
 nserver:      L.NIC.DK 130.226.213.138 2001:878:0:e000:82:e2:d5:8a
+nserver:      P.NIC.DK 194.0.47.42 2001:678:78:42:ad:0:0:53
 nserver:      S.NIC.DK 193.176.144.15 2a00:d78:0:102:193:176:144:15
 ds-rdata:     21369 13 2 e6d0011e98acd5c1d332c0cfb29effa5242824f30b8ee43829ace1d789051cc1
 
@@ -16188,7 +16151,7 @@ status:       ACTIVE
 remarks:      Registration information: https://punktum.dk/
 
 created:      1987-07-14
-changed:      2023-12-13
+changed:      2024-02-07
 source:       IANA
 
 % IANA WHOIS server
@@ -19147,7 +19110,7 @@ address:      Seattle WA 98109
 address:      United States of America (the)
 phone:        +1 206 646 5990
 fax-no:       +1 206 946 7702
-e-mail:       fast-rzm@amazon.com
+e-mail:       arsi-rzm@amazon.com
 
 contact:      technical
 name:         TLD Registry Services Technical
@@ -19176,7 +19139,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.amazonregistry.com
 
 created:      2015-11-12
-changed:      2021-11-18
+changed:      2024-02-01
 source:       IANA
 
 % IANA WHOIS server
@@ -19723,7 +19686,7 @@ address:      Seattle WA 98109
 address:      United States of America (the)
 phone:        +1 206 646 5990
 fax-no:       +12069467702
-e-mail:       fire-rzm@amazon.com
+e-mail:       arsi-rzm@amazon.com
 
 contact:      technical
 name:         TLD Registry Services Technical
@@ -19753,7 +19716,7 @@ remarks:      Registration information:
 remarks:      https://www.amazonregistry.com/
 
 created:      2016-05-19
-changed:      2021-11-18
+changed:      2024-02-01
 source:       IANA
 
 % IANA WHOIS server
@@ -21019,8 +20982,8 @@ address:      410 Terry Avenue North
 address:      Seattle WA 98109
 address:      United States of America (the)
 phone:        +1 206 646 5990
-fax-no:       1 206 946 7702
-e-mail:       free-rzm@amazon.com
+fax-no:       +1 206 946 7702
+e-mail:       arsi-rzm@amazon.com
 
 contact:      technical
 name:         TLD Registry Services Technical
@@ -21050,7 +21013,7 @@ remarks:      Registration information:
 remarks:      https://www.amazonregistry.com/
 
 created:      2016-10-27
-changed:      2021-11-18
+changed:      2024-02-01
 source:       IANA
 
 % IANA WHOIS server
@@ -23879,7 +23842,7 @@ address:      Seattle WA 98109
 address:      United States of America (the)
 phone:        +1 206 646 5990
 fax-no:       +1 206 946 7702
-e-mail:       got-rzm@amazon.com
+e-mail:       arsi-rzm@amazon.com
 
 contact:      technical
 name:         TLD Registry Services Technical
@@ -23908,7 +23871,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.amazonregistry.com
 
 created:      2015-11-12
-changed:      2021-11-18
+changed:      2024-02-01
 source:       IANA
 
 % IANA WHOIS server
@@ -26441,24 +26404,19 @@ source:       IANA
 
 domain:       HOST
 
-organisation: Radix FZC
-address:      Directiplex
-address:      Next to Andheri Subway
-address:      Old Nagardas Road, Andheri (East)
-address:      Mumbai Maharashtra 400069
-address:      India
+organisation: Radix Technologies Inc.
+address:      Services Cayman Limited, P.O. Box 10008, Willow House, Cricket Square, Grand Cayman
+address:      KY1-1001
+address:      Cayman Islands (the)
 
 contact:      administrative
 name:         Director
-organisation: Radix FZC
-address:      Directiplex
-address:      Next to Andheri Subway
-address:      Old Nagardas Road, Andheri (East)
-address:      Mumbai Maharashtra 400069
-address:      India
-phone:        +1.4154494774x8522
-fax-no:       +91.2230797508
-e-mail:       admin@radixregistry.com
+organisation: Radix Technologies Inc.
+address:      Services Cayman Limited, P.O. Box 10008, Willow House, Cricket Square, Grand Cayman
+address:      KY1-1001
+address:      Cayman Islands (the)
+phone:        +971 44487934
+e-mail:       admin@radix.email
 
 contact:      technical
 name:         CTO
@@ -26481,10 +26439,10 @@ ds-rdata:     61142 8 2 d15742398f5291b0e2642bee5da6ed6ef3f4497c65bac0f5a6c9c8ff
 whois:        whois.nic.host
 
 status:       ACTIVE
-remarks:      Registration information: http://radixregistry.com/
+remarks:      Registration information: https://radix.website/
 
 created:      2014-05-22
-changed:      2021-10-12
+changed:      2024-02-07
 source:       IANA
 
 % IANA WHOIS server
@@ -26552,7 +26510,7 @@ address:      Seattle WA 98109
 address:      United States of America (the)
 phone:        +1 206 646 5990
 fax-no:       +1-206-946-7702
-e-mail:       hot-rzm@amazon.com
+e-mail:       arsi-rzm@amazon.com
 
 contact:      technical
 name:         TLD Registry Services Technical
@@ -26582,7 +26540,7 @@ remarks:      Registration information:
 remarks:      https://www.amazonregistry.com/
 
 created:      2016-07-21
-changed:      2021-11-18
+changed:      2024-02-01
 source:       IANA
 
 % IANA WHOIS server
@@ -27588,7 +27546,7 @@ nserver:      NS4.NS.IL 2001:500:14:6134:ad:0:0:1 204.61.216.134
 nserver:      NSA.NS.IL 192.115.7.53 2a01:4280:2:70:0:0:0:53
 nserver:      NSB.NS.IL 192.115.7.60 2a01:4280:2:70:0:0:0:60
 nserver:      NSE.NS.IL 192.115.4.235
-ds-rdata:     61239 13 2 728d9059778c0fadff197f462ed5539db1cf1f541e2ac7b0ef18735c8555645d
+ds-rdata:     16654 13 2 8eae70e9a2b930ed77e52c80b924add6925166081c8aabcd7023311d769bcebb
 
 whois:        whois.isoc.org.il
 
@@ -27596,7 +27554,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.isoc.org.il/domains
 
 created:      1985-10-24
-changed:      2023-06-29
+changed:      2024-02-05
 source:       IANA
 
 % IANA WHOIS server
@@ -27711,7 +27669,7 @@ address:      Seattle WA 98109
 address:      United States of America (the)
 phone:        +1 206 646 5990
 fax-no:       +12069467702
-e-mail:       imdb-rzm@amazon.com
+e-mail:       arsi-rzm@amazon.com
 
 contact:      technical
 name:         TLD Registry Services Technical
@@ -27741,7 +27699,7 @@ remarks:      Registration information:
 remarks:      https://www.amazonregistry.com/
 
 created:      2016-05-19
-changed:      2021-11-18
+changed:      2024-02-01
 source:       IANA
 
 % IANA WHOIS server
@@ -29837,7 +29795,7 @@ address:      Seattle WA 98109
 address:      United States of America (the)
 phone:        +1 206 646 5990
 fax-no:       +1 206 946 7702
-e-mail:       jot-rzm@amazon.com
+e-mail:       arsi-rzm@amazon.com
 
 contact:      technical
 name:         TLD Registry Services Technical
@@ -29866,7 +29824,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.amazonregistry.com
 
 created:      2015-11-12
-changed:      2021-11-18
+changed:      2024-02-01
 source:       IANA
 
 % IANA WHOIS server
@@ -29888,7 +29846,7 @@ address:      Seattle WA 98109
 address:      United States of America (the)
 phone:        +1 206 646 5990
 fax-no:       +1 206 946 7702
-e-mail:       joy-rzm@amazon.com
+e-mail:       arsi-rzm@amazon.com
 
 contact:      technical
 name:         TLD Registry Services Technical
@@ -29917,7 +29875,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.amazonregistry.com
 
 created:      2015-11-12
-changed:      2021-11-18
+changed:      2024-02-01
 source:       IANA
 
 % IANA WHOIS server
@@ -30595,20 +30553,19 @@ source:       IANA
 
 domain:       KI
 
-organisation: Ministry of Communications, Transport, and Tourism Development
+organisation: Ministry of Information, Communications and Transport (MICT)
 address:      Betio
 address:      Tarawa
 address:      Kiribati
 
 contact:      administrative
-name:         ICT Advisor
-organisation: Ministry of Communications, Transport and Tourism Development
+name:         Director of National ICT
+organisation: Ministry of Information, Communications and Transport
 address:      Betio
 address:      Tarawa
 address:      Kiribati
 phone:        +686 26003
-fax-no:       +686 26193
-e-mail:       ictadvisor@mcttd.gov.ki
+e-mail:       dnict@mict.gov.ki
 
 contact:      technical
 name:         Kaboterenga Romatoa
@@ -30620,7 +30577,8 @@ address:      Kiribati
 phone:        +686 25488
 e-mail:       kaboterenga.romatoa@cck.ki
 
-nserver:      NS.COCCA.FR 185.17.236.93 2a03:dd40:3:0:0:0:0:93
+nserver:      ANYCASTDNS1.NIC.KI 185.38.108.108 2a00:fea0:dead:0:0:0:0:beef
+nserver:      ANYCASTDNS2.NIC.KI 185.28.194.194
 nserver:      PCH.NIC.KI 2001:500:14:6026:ad:0:0:1 204.61.216.26
 ds-rdata:     59540 8 2 fd3b27e5c171b883fe2815dde7fbbe7f2e5af826bff47c33b5970f53e2a855de
 
@@ -30630,7 +30588,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.ki
 
 created:      1995-04-19
-changed:      2020-07-08
+changed:      2024-02-06
 source:       IANA
 
 % IANA WHOIS server
@@ -30810,7 +30768,7 @@ address:      Seattle WA 98109
 address:      United States of America (the)
 phone:        +1 206 646 5990
 fax-no:       +12069467702
-e-mail:       kindle-rzm@amazon.com
+e-mail:       arsi-rzm@amazon.com
 
 contact:      technical
 name:         TLD Registry Services Technical
@@ -30840,7 +30798,7 @@ remarks:      Registration information:
 remarks:      https://www.amazonregistry.com/
 
 created:      2016-05-19
-changed:      2021-11-18
+changed:      2024-02-01
 source:       IANA
 
 % IANA WHOIS server
@@ -32387,13 +32345,13 @@ address:      United States of America (the)
 phone:        +1 206 356 8341
 e-mail:       randy@psg.com
 
+nserver:      B.NS.LB 147.28.0.39 2001:418:1:0:0:0:0:39
 nserver:      FORK.STH.DNSNODE.NET 2a01:3f0:0:306:0:0:0:53 77.72.229.254
 nserver:      NABIL.BEIRUTIX.NET 185.91.97.18 2a05:e380:2:4:0:0:0:2
 nserver:      NN.UNINETT.NO 158.38.0.181 2001:700:0:503:0:0:aa:5302
 nserver:      NS-JP.LBDR.ORG.LB 2001:200:0:2:0:0:53:1 203.178.141.64
 nserver:      NS3.SEACOMNET.COM 2c0f:feb0:0:0:0:0:0:3 41.87.126.253
 nserver:      NS4.SEACOMNET.COM 2c0f:feb0:0:0:0:0:0:4 41.87.127.253
-nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
 ds-rdata:     3842 8 2 c838938c2127e3e10e15f92106ec565ef273b2ef7e3aeebe5a2162862fd3b469
 
 whois:        whois.lbdr.org.lb
@@ -32402,7 +32360,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.lbdr.org.lb
 
 created:      1993-08-25
-changed:      2024-01-24
+changed:      2024-02-06
 source:       IANA
 
 % IANA WHOIS server
@@ -33137,7 +33095,7 @@ address:      Seattle WA 98109
 address:      United States of America (the)
 phone:        +1 206 646 5990
 fax-no:       +1 206 946 7702
-e-mail:       like-rzm@amazon.com
+e-mail:       arsi-rzm@amazon.com
 
 contact:      technical
 name:         TLD Registry Services Technical
@@ -33166,7 +33124,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.amazonregistry.com
 
 created:      2015-11-12
-changed:      2021-11-18
+changed:      2024-02-01
 source:       IANA
 
 % IANA WHOIS server
@@ -37162,7 +37120,7 @@ address:      Seattle WA 98109
 address:      United States of America (the)
 phone:        +1 206 646 5990
 fax-no:       +12069467702
-e-mail:       moi-rzm@amazon.com
+e-mail:       arsi-rzm@amazon.com
 
 contact:      technical
 name:         TLD Registry Services Technical
@@ -37191,7 +37149,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.amazonregistry.com
 
 created:      2015-09-10
-changed:      2021-11-18
+changed:      2024-02-01
 source:       IANA
 
 % IANA WHOIS server
@@ -40200,7 +40158,7 @@ address:      Seattle WA 98109
 address:      United States of America (the)
 phone:        +1 206 646 5990
 fax-no:       +12069467702
-e-mail:       now-rzm@amazon.com
+e-mail:       arsi-rzm@amazon.com
 
 contact:      technical
 name:         TLD Registry Services Technical
@@ -40230,7 +40188,7 @@ remarks:      Registration information:
 remarks:      https://www.amazonregistry.com/
 
 created:      2016-05-19
-changed:      2021-11-18
+changed:      2024-02-01
 source:       IANA
 
 % IANA WHOIS server
@@ -41313,24 +41271,19 @@ source:       IANA
 
 domain:       ONLINE
 
-organisation: Radix FZC
-address:      Directiplex
-address:      Next to Andheri Subway
-address:      Old Nagardas Road, Andheri (East)
-address:      Mumbai Maharashtra 400069
-address:      India
+organisation: Radix Technologies Inc.
+address:      Services Cayman Limited, P.O. Box 10008, Willow House, Cricket Square, Grand Cayman
+address:      KY1-1001
+address:      Cayman Islands (the)
 
 contact:      administrative
 name:         Director
-organisation: Radix FZC
-address:      Directiplex
-address:      Next to Andheri Subway
-address:      Old Nagardas Road, Andheri (East)
-address:      Mumbai Maharashtra 400069
-address:      India
-phone:        +91.2230797500x8522
-fax-no:       +91.2230797508
-e-mail:       admin@radixregistry.com
+organisation: Radix Technologies Inc.
+address:      Services Cayman Limited, P.O. Box 10008, Willow House, Cricket Square, Grand Cayman
+address:      KY1-1001
+address:      Cayman Islands (the)
+phone:        +971 44487934
+e-mail:       admin@radix.email
 
 contact:      technical
 name:         CTO
@@ -41353,10 +41306,10 @@ ds-rdata:     4267 8 2 66d7010609cb19e99ad1da2833ddab8ca2e7acc1ce870cc28d29e76eb
 whois:        whois.nic.online
 
 status:       ACTIVE
-remarks:      Registration information: http://www.radix.website
+remarks:      Registration information: https://radix.website/
 
 created:      2015-03-06
-changed:      2021-10-12
+changed:      2024-02-07
 source:       IANA
 
 % IANA WHOIS server
@@ -42304,7 +42257,7 @@ address:      Seattle WA 98109
 address:      United States of America (the)
 phone:        +1 206 646 5990
 fax-no:       +1-206-946-7702
-e-mail:       pay-rzm@amazon.com
+e-mail:       arsi-rzm@amazon.com
 
 contact:      technical
 name:         TLD Registry Services Technical
@@ -42334,7 +42287,7 @@ remarks:      Registration information:
 remarks:      https://www.amazonregistry.com/
 
 created:      2016-07-21
-changed:      2021-11-18
+changed:      2024-02-01
 source:       IANA
 
 % IANA WHOIS server
@@ -44354,24 +44307,19 @@ source:       IANA
 
 domain:       PRESS
 
-organisation: Radix FZC
-address:      Directiplex
-address:      Next to Andheri Subway
-address:      Old Nagardas Road, Andheri (East)
-address:      Mumbai Maharashtra 400069
-address:      India
+organisation: Radix Technologies Inc.
+address:      Services Cayman Limited, P.O. Box 10008, Willow House, Cricket Square, Grand Cayman
+address:      KY1-1001
+address:      Cayman Islands (the)
 
 contact:      administrative
 name:         Director
-organisation: Radix FZC
-address:      Directiplex
-address:      Next to Andheri Subway
-address:      Old Nagardas Road, Andheri (East)
-address:      Mumbai Maharashtra 400069
-address:      India
-phone:        +1.4154494774x8522
-fax-no:       +91.2230797508
-e-mail:       admin@radixregistry.com
+organisation: Radix Technologies Inc.
+address:      Services Cayman Limited, P.O. Box 10008, Willow House, Cricket Square, Grand Cayman
+address:      KY1-1001
+address:      Cayman Islands (the)
+phone:        +971 44487934
+e-mail:       admin@radix.email
 
 contact:      technical
 name:         CTO
@@ -44394,10 +44342,10 @@ ds-rdata:     4289 8 2 03a4602f454dd05e3ef2b7a9507f7e4eeb78ba9259e35da7c3b20fd8d
 whois:        whois.nic.press
 
 status:       ACTIVE
-remarks:      Registration information: http://radix.website
+remarks:      Registration information: https://radix.website/
 
 created:      2014-05-22
-changed:      2021-10-12
+changed:      2024-02-07
 source:       IANA
 
 % IANA WHOIS server
@@ -44418,8 +44366,8 @@ address:      410 Terry Avenue North
 address:      Seattle WA 98109
 address:      United States of America (the)
 phone:        +1 206 646 5990
-fax-no:       +12069467702
-e-mail:       prime-rzm@amazon.com
+fax-no:       +1 206 946 7702
+e-mail:       arsi-rzm@amazon.com
 
 contact:      technical
 name:         TLD Registry Services Technical
@@ -44449,7 +44397,7 @@ remarks:      Registration information:
 remarks:      https://www.amazonregistry.com/
 
 created:      2016-05-19
-changed:      2021-11-18
+changed:      2024-02-01
 source:       IANA
 
 % IANA WHOIS server
@@ -50779,24 +50727,19 @@ source:       IANA
 
 domain:       SITE
 
-organisation: Radix FZC
-address:      Directiplex
-address:      Next to Andheri Subway
-address:      Old Nagardas Road, Andheri (East)
-address:      Mumbai Maharashtra 400069
-address:      India
+organisation: Radix Technologies Inc.
+address:      Services Cayman Limited, P.O. Box 10008, Willow House, Cricket Square, Grand Cayman
+address:      KY1-1001
+address:      Cayman Islands (the)
 
 contact:      administrative
 name:         Director
-organisation: Radix FZC
-address:      Directiplex
-address:      Next to Andheri Subway
-address:      Old Nagardas Road, Andheri (East)
-address:      Mumbai Maharashtra 400069
-address:      India
-phone:        +91.2230797500x8522
-fax-no:       +91.2230797508
-e-mail:       admin@radixregistry.com
+organisation: Radix Technologies Inc.
+address:      Services Cayman Limited, P.O. Box 10008, Willow House, Cricket Square, Grand Cayman
+address:      KY1-1001
+address:      Cayman Islands (the)
+phone:        +971 44487934
+e-mail:       admin@radix.email
 
 contact:      technical
 name:         CTO
@@ -50819,10 +50762,10 @@ ds-rdata:     51676 8 2 883175f6f5c68ea81563b62d1b2b79b6a997d60dc6e20cc70afd0cd6
 whois:        whois.nic.site
 
 status:       ACTIVE
-remarks:      Registration information: http://www.radix.website
+remarks:      Registration information: https://radix.website/
 
 created:      2015-03-06
-changed:      2021-10-12
+changed:      2024-02-07
 source:       IANA
 
 % IANA WHOIS server
@@ -52017,24 +51960,19 @@ source:       IANA
 
 domain:       SPACE
 
-organisation: Radix FZC
-address:      Directiplex
-address:      Next to Andheri Subway
-address:      Old Nagardas Road, Andheri (East)
-address:      Mumbai Maharashtra 400069
-address:      India
+organisation: Radix Technologies Inc.
+address:      Services Cayman Limited, P.O. Box 10008, Willow House, Cricket Square, Grand Cayman
+address:      KY1-1001
+address:      Cayman Islands (the)
 
 contact:      administrative
 name:         Director
-organisation: Radix FZC
-address:      Directiplex
-address:      Next to Andheri Subway
-address:      Old Nagardas Road, Andheri (East)
-address:      Mumbai Maharashtra 400069
-address:      India
-phone:        +1.4154494774x8522
-fax-no:       +91.2230797508
-e-mail:       admin@radixregistry.com
+organisation: Radix Technologies Inc.
+address:      Services Cayman Limited, P.O. Box 10008, Willow House, Cricket Square, Grand Cayman
+address:      KY1-1001
+address:      Cayman Islands (the)
+phone:        +971 44487934
+e-mail:       admin@radix.email
 
 contact:      technical
 name:         CTO
@@ -52057,10 +51995,10 @@ ds-rdata:     44251 8 2 a82d8ed2b07d66d6e7af375e0e44b22a82f4479ad45f5d8e1859df6f
 whois:        whois.nic.space
 
 status:       ACTIVE
-remarks:      Registration information: http://radix.website
+remarks:      Registration information: https://radix.website/
 
 created:      2014-05-22
-changed:      2021-10-12
+changed:      2024-02-07
 source:       IANA
 
 % IANA WHOIS server
@@ -52781,24 +52719,19 @@ source:       IANA
 
 domain:       STORE
 
-organisation: Radix FZC
-address:      Directiplex
-address:      Next to Andheri Subway
-address:      Old Nagardas Road, Andheri (East)
-address:      Mumbai Maharashtra 400069
-address:      India
+organisation: Radix Technologies Inc.
+address:      Services Cayman Limited, P.O. Box 10008, Willow House, Cricket Square, Grand Cayman
+address:      KY1-1001
+address:      Cayman Islands (the)
 
 contact:      administrative
 name:         Director
-organisation: Radix FZC
-address:      Directiplex
-address:      Next to Andheri Subway
-address:      Old Nagardas Road, Andheri (East)
-address:      Mumbai Maharashtra 400069
-address:      India
-phone:        +1.4154494774x8522
-fax-no:       +91.2230797508
-e-mail:       admin@radixregistry.com
+organisation: Radix Technologies Inc.
+address:      Services Cayman Limited, P.O. Box 10008, Willow House, Cricket Square, Grand Cayman
+address:      KY1-1001
+address:      Cayman Islands (the)
+phone:        +971 44487934
+e-mail:       admin@radix.email
 
 contact:      technical
 name:         CTO
@@ -52821,10 +52754,10 @@ ds-rdata:     16342 8 2 e59827295e51c4f46d5208ed454bcd78dd6ffa49f01bd203b24e1380
 whois:        whois.nic.store
 
 status:       ACTIVE
-remarks:      Registration information: http://radix.website/
+remarks:      Registration information: https://radix.website/
 
 created:      2016-02-11
-changed:      2021-10-12
+changed:      2024-02-07
 source:       IANA
 
 % IANA WHOIS server
@@ -54521,24 +54454,19 @@ source:       IANA
 
 domain:       TECH
 
-organisation: Radix FZC
-address:      Directiplex
-address:      Next to Andheri Subway
-address:      Old Nagardas Road, Andheri (East)
-address:      Mumbai Maharashtra 400069
-address:      India
+organisation: Radix Technologies Inc.
+address:      Services Cayman Limited, P.O. Box 10008, Willow House, Cricket Square, Grand Cayman
+address:      KY1-1001
+address:      Cayman Islands (the)
 
 contact:      administrative
 name:         Director
-organisation: Radix FZC
-address:      Directiplex
-address:      Next to Andheri Subway
-address:      Old Nagardas Road, Andheri (East)
-address:      Mumbai Maharashtra 400069
-address:      India
-phone:        +1.4154494774
-fax-no:       +91.2230797508
-e-mail:       admin@radixregistry.com
+organisation: Radix Technologies Inc.
+address:      Services Cayman Limited, P.O. Box 10008, Willow House, Cricket Square, Grand Cayman
+address:      KY1-1001
+address:      Cayman Islands (the)
+phone:        +971 44487934
+e-mail:       admin@radix.email
 
 contact:      technical
 name:         CTO
@@ -54561,10 +54489,10 @@ ds-rdata:     50095 8 2 83f40d01141484d8f07305e5d2e44ac5663149054c598d6e9d993c66
 whois:        whois.nic.tech
 
 status:       ACTIVE
-remarks:      Registration information: http://www.radix.website
+remarks:      Registration information: https://radix.website/
 
 created:      2015-03-12
-changed:      2021-10-12
+changed:      2024-02-07
 source:       IANA
 
 % IANA WHOIS server
@@ -57633,24 +57561,19 @@ source:       IANA
 
 domain:       UNO
 
-organisation: Radix FZC
-address:      Directiplex
-address:      Next to Andheri Subway
-address:      Old Nagardas Road, Andheri (East)
-address:      Mumbai Maharashtra 400069
-address:      India
+organisation: Radix Technologies Inc.
+address:      Services Cayman Limited, P.O. Box 10008, Willow House, Cricket Square, Grand Cayman
+address:      KY1-1001
+address:      Cayman Islands (the)
 
 contact:      administrative
 name:         Director
-organisation: Radix FZC
-address:      Directiplex
-address:      Next to Andheri Subway
-address:      Old Nagardas Road, Andheri (East)
-address:      Mumbai Maharashtra 400069
-address:      India
-phone:        +1.4154494774x8522
-fax-no:       +91.2230797508
-e-mail:       admin@radixregistry.com
+organisation: Radix Technologies Inc.
+address:      Services Cayman Limited, P.O. Box 10008, Willow House, Cricket Square, Grand Cayman
+address:      KY1-1001
+address:      Cayman Islands (the)
+phone:        +971 44487934
+e-mail:       admin@radix.email
 
 contact:      technical
 name:         CTO
@@ -57677,10 +57600,10 @@ ds-rdata:     35737 8 2 0dfccfc8e90286393539413d9f228fd96f7b08b8f15143020c07e32e
 whois:        whois.nic.uno
 
 status:       ACTIVE
-remarks:      Registration information: http://www.radix.website
+remarks:      Registration information: https://radix.website/
 
 created:      2013-11-13
-changed:      2021-10-12
+changed:      2024-02-07
 source:       IANA
 
 % IANA WHOIS server
@@ -60108,24 +60031,19 @@ source:       IANA
 
 domain:       WEBSITE
 
-organisation: Radix FZC
-address:      Directiplex
-address:      Next to Andheri Subway
-address:      Old Nagardas Road, Andheri (East)
-address:      Mumbai Maharashtra 400069
-address:      India
+organisation: Radix Technologies Inc.
+address:      Services Cayman Limited, P.O. Box 10008, Willow House, Cricket Square, Grand Cayman
+address:      KY1-1001
+address:      Cayman Islands (the)
 
 contact:      administrative
 name:         Director
-organisation: Radix FZC
-address:      Directiplex
-address:      Next to Andheri Subway
-address:      Old Nagardas Road, Andheri (East)
-address:      Mumbai Maharashtra 400069
-address:      India
-phone:        +1.4154494774x8522
-fax-no:       +91.2230797508
-e-mail:       admin@radixregistry.com
+organisation: Radix Technologies Inc.
+address:      Services Cayman Limited, P.O. Box 10008, Willow House, Cricket Square, Grand Cayman
+address:      KY1-1001
+address:      Cayman Islands (the)
+phone:        +971 44487934
+e-mail:       admin@radix.email
 
 contact:      technical
 name:         CTO
@@ -60148,10 +60066,10 @@ ds-rdata:     47815 8 2 cb5f31743f17c1c1641d7ecc4c7dc40217363645e7ac25c509393c67
 whois:        whois.nic.website
 
 status:       ACTIVE
-remarks:      Registration information: http://radix.website
+remarks:      Registration information: https://radix.website/
 
 created:      2014-05-22
-changed:      2021-10-12
+changed:      2024-02-07
 source:       IANA
 
 % IANA WHOIS server
@@ -61376,53 +61294,13 @@ source:       IANA
 
 domain:       XFINITY
 
-organisation: Comcast IP Holdings I, LLC
-address:      c/o Comcast Capital Corporation
-address:      1201 North Market Street, Suite 100
-address:      Wilmington DE 19801
-address:      United States of America (the)
+whois:        
 
-contact:      administrative
-name:         TLD Registry Services Management
-organisation: Nominet
-address:      Nominet
-address:      Minerva House
-address:      Edmund Halley Road
-address:      Oxford Science Park
-address:      Oxford OX4 4DQ
-address:      United Kingdom of Great Britain and Northern Ireland (the)
-phone:        +44.1865332211
-e-mail:       registrymanagement@nominet.uk
-
-contact:      technical
-name:         TLD Registry Services Technical
-organisation: Nominet
-address:      Nominet
-address:      Minerva House
-address:      Edmund Halley Road
-address:      Oxford Science Park
-address:      Oxford OX4 4DQ
-address:      United Kingdom of Great Britain and Northern Ireland (the)
-phone:        +44.1865332211
-e-mail:       registrytechnical@nominet.uk
-
-nserver:      DNS1.NIC.XFINITY 213.248.219.7 2a01:618:403:0:0:0:0:7
-nserver:      DNS2.NIC.XFINITY 103.49.83.7 2401:fd80:403:0:0:0:0:7
-nserver:      DNS3.NIC.XFINITY 213.248.223.7 2a01:618:407:0:0:0:0:7
-nserver:      DNS4.NIC.XFINITY 2401:fd80:407:0:0:0:0:7 43.230.51.7
-nserver:      DNSA.NIC.XFINITY 156.154.100.3 2001:502:ad09:0:0:0:0:3
-nserver:      DNSB.NIC.XFINITY 156.154.101.3 2001:502:2eda:0:0:0:0:3
-nserver:      DNSC.NIC.XFINITY 156.154.102.3 2610:a1:1009:0:0:0:0:3
-nserver:      DNSD.NIC.XFINITY 156.154.103.3 2610:a1:1010:0:0:0:0:3
-ds-rdata:     42454 8 2 c4d6cfeb973503edaa89943505206bf8c406fc92c80abad132318165aa1cb445
-
-whois:        whois.nic.xfinity
-
-status:       ACTIVE
-remarks:      Registration information: http://nic.xfinity/
+status:       FORMER
+remarks:      Registration information: 
 
 created:      2016-06-16
-changed:      2021-10-19
+changed:      2024-02-07
 source:       IANA
 
 % IANA WHOIS server
@@ -68886,9 +68764,12 @@ fax-no:       +970 8 2861617
 e-mail:       technical@pnina.ps
 
 nserver:      DNS1.GOV.PS 213.244.82.147
-nserver:      DNS3.GOV.PS 212.14.253.242
-nserver:      IDN.PNINA.PS 208.64.68.4
+nserver:      DNS3.GOV.PS 185.153.163.3
+nserver:      FORK.STH.DNSNODE.NET 2a01:3f0:0:306:0:0:0:53 77.72.229.254
+nserver:      IDN.PNINA.PS 208.64.68.60
 nserver:      NS1.PNINA.PS 194.6.225.20
+nserver:      PS-NS.ANYCAST.PCH.NET 2001:500:14:6029:ad:0:0:1 204.61.216.29
+nserver:      PS.CCTLD.AUTHDNS.RIPE.NET 193.0.9.105 2001:67c:e0:0:0:0:0:105
 
 whois:        whois.pnina.ps
 
@@ -68896,7 +68777,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.pnina.ps
 
 created:      2010-08-20
-changed:      2023-03-07
+changed:      2024-02-05
 source:       IANA
 
 % IANA WHOIS server

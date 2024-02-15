@@ -970,10 +970,14 @@ phone:        (+86) 01058812473
 fax-no:       (+86) 01058813075
 e-mail:       linzhenguo@zdns.cn
 
-nserver:      A0.NIC.REDSTONE 2a01:8840:82:0:0:0:0:17 65.22.132.17
-nserver:      A2.NIC.REDSTONE 2a01:8840:85:0:0:0:0:17 65.22.135.17
-nserver:      B0.NIC.REDSTONE 2a01:8840:83:0:0:0:0:17 65.22.133.17
-nserver:      C0.NIC.REDSTONE 2a01:8840:84:0:0:0:0:17 65.22.134.17
+nserver:      A.ZDNSCLOUD.COM 203.99.24.1
+nserver:      B.ZDNSCLOUD.COM 203.99.25.1
+nserver:      C.ZDNSCLOUD.COM 203.99.26.1
+nserver:      D.ZDNSCLOUD.COM 203.99.27.1
+nserver:      F.ZDNSCLOUD.COM 114.67.16.204
+nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
+nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     55555 8 2 425cc5bc7add435160d3c70cba9d545be2ff5466ecc27fb46e520be2ec1f9d0d
 ds-rdata:     49835 8 2 51a6a70d9a7c0f010d09ffaaca9cb6bbbe7fad76fb48fde6f940b606c8cde048
 
@@ -983,7 +987,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www/redstone-cn.com
 
 created:      2015-03-06
-changed:      2024-01-30
+changed:      2024-02-08
 source:       IANA
 
 % IANA WHOIS server

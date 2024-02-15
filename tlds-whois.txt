@@ -13566,6 +13566,8 @@ nserver:      DNS.NIC.CR 200.107.82.100 2001:13c7:7004:1:0:0:0:d100
 nserver:      P.NIC.CR 2001:500:14:6089:ad:0:0:1 204.61.216.89
 ds-rdata:     10517 13 2 268fb03099e07547620f19a62f101daea146dcee6faaa18263e0b3da4e997d6c
 ds-rdata:     10517 13 4 11d20d7c408a1f289f6ece30f241ca4beb6abe9d6376e8c6be2fee6400038989ee5c447340a5f2e7676454bbbeabfc95
+ds-rdata:     41813 13 2 be11bce314a4b75bf0531a7ff312c750813b59a61a868407949ca8d35508fbab
+ds-rdata:     41813 13 4 2c21e3b22825e9949a37d1201ae64370747765d7f68eef304be8ca8f45c59fd1e9fb4ee788b4d507106b8e1b74b1213b
 
 whois:        whois.nic.cr
 
@@ -13573,7 +13575,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.cr/
 
 created:      1990-09-10
-changed:      2023-04-12
+changed:      2024-02-12
 source:       IANA
 
 % IANA WHOIS server
@@ -14081,13 +14083,13 @@ nserver:      C.DNS.PT 2001:500:14:6105:ad:0:0:1 204.61.216.105
 nserver:      CV01.DNS.PT 185.39.208.18 2a04:6d80:0:0:0:0:0:18
 nserver:      NS.DNS.CV 41.221.192.220
 
-whois:        
+whois:        whois.nic.cv
 
 status:       ACTIVE
 remarks:      Registration information: http://www.dns.cv/
 
 created:      1996-10-21
-changed:      2023-06-07
+changed:      2024-02-12
 source:       IANA
 
 % IANA WHOIS server
@@ -17187,6 +17189,7 @@ e-mail:       support@fury.ca
 
 nserver:      A.NS.NIC.ECO 185.159.197.4 2620:10a:80aa:0:0:0:0:4
 nserver:      B.NS.NIC.ECO 185.159.198.4 2620:10a:80ab:0:0:0:0:4
+nserver:      C.NS.NIC.ECO 2a0e:dbc0:0:0:0:0:0:101 45.142.220.101
 ds-rdata:     34597 8 2 bce820d516cfe81df04c38fbcb7cf80c2eccc473b57a295948fa50ac1aff9800
 
 whois:        whois.nic.eco
@@ -17195,7 +17198,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.bigroom.eco
 
 created:      2016-08-18
-changed:      2023-09-25
+changed:      2024-02-09
 source:       IANA
 
 % IANA WHOIS server
@@ -21320,24 +21323,19 @@ source:       IANA
 
 domain:       FUN
 
-organisation: Radix FZC
-address:      Directiplex
-address:      Next to Andheri Subway
-address:      Old Nagardas Road, Andheri (East)
-address:      Mumbai Maharashtra 400069
-address:      India
+organisation: Radix Technologies Inc.
+address:      Services Cayman Limited, P.O. Box 10008, Willow House, Cricket Square, Grand Cayman
+address:      KY1-1001
+address:      Cayman Islands (the)
 
 contact:      administrative
 name:         Director
-organisation: Radix FZC
-address:      Directiplex
-address:      Next to Andheri Subway
-address:      Old Nagardas Road, Andheri (East)
-address:      Mumbai Maharashtra 400069
-address:      India
-phone:        +1.4154494774x8522
-fax-no:       +91.2230797508
-e-mail:       admin@radixregistry.com
+organisation: Radix Technologies Inc.
+address:      Services Cayman Limited, P.O. Box 10008, Willow House, Cricket Square, Grand Cayman
+address:      KY1-1001
+address:      Cayman Islands (the)
+phone:        +971 44487934
+e-mail:       admin@radix.email
 
 contact:      technical
 name:         CTO
@@ -21360,10 +21358,10 @@ ds-rdata:     4594 8 2 58d070a391a5808da071de7234c293b2a4a32006f1ff152ccac45e2ee
 whois:        whois.nic.fun
 
 status:       ACTIVE
-remarks:      Registration information: http://www.radixregistry.com
+remarks:      Registration information: https://www.radix.website/
 
 created:      2016-11-30
-changed:      2021-10-12
+changed:      2024-02-08
 source:       IANA
 
 % IANA WHOIS server
@@ -22539,7 +22537,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.gg
 
 created:      1996-08-07
-changed:      2020-12-13
+changed:      2024-02-12
 source:       IANA
 
 % IANA WHOIS server
@@ -29113,14 +29111,12 @@ address:      Redwood Shores CA 94065
 address:      United States of America (the)
 
 contact:      administrative
-name:         Domain Administrator
-organisation: Oracle Corporation
-address:      500 Oracle Parkway
-address:      M/S 501ip3
-address:      Redwood Shores CA 94065
+name:         Chris Niemi
+organisation: Markmonitor Inc.
+address:      1120 S. Rackham Way, Suite 300
+address:      Meridian ID 83642
 address:      United States of America (the)
-phone:        +1.6505062220
-fax-no:       +1.6505062120
+phone:        +1.208-389-5740
 e-mail:       gtldservices@markmonitor.com
 
 contact:      technical
@@ -29146,7 +29142,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2015-01-15
-changed:      2024-01-31
+changed:      2024-02-09
 source:       IANA
 
 % IANA WHOIS server
@@ -29243,7 +29239,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.je
 
 created:      1996-08-08
-changed:      2020-12-13
+changed:      2024-02-12
 source:       IANA
 
 % IANA WHOIS server
@@ -32346,12 +32342,14 @@ phone:        +1 206 356 8341
 e-mail:       randy@psg.com
 
 nserver:      B.NS.LB 147.28.0.39 2001:418:1:0:0:0:0:39
-nserver:      FORK.STH.DNSNODE.NET 2a01:3f0:0:306:0:0:0:53 77.72.229.254
-nserver:      NABIL.BEIRUTIX.NET 185.91.97.18 2a05:e380:2:4:0:0:0:2
-nserver:      NN.UNINETT.NO 158.38.0.181 2001:700:0:503:0:0:aa:5302
-nserver:      NS-JP.LBDR.ORG.LB 2001:200:0:2:0:0:53:1 203.178.141.64
-nserver:      NS3.SEACOMNET.COM 2c0f:feb0:0:0:0:0:0:3 41.87.126.253
-nserver:      NS4.SEACOMNET.COM 2c0f:feb0:0:0:0:0:0:4 41.87.127.253
+nserver:      I.NS.LB 2a01:3f0:0:306:0:0:0:53 77.72.229.254
+nserver:      M.NS.LB 2001:19f0:7401:890d:5400:4ff:fea8:9ffa 78.141.235.25
+nserver:      N.NS.LB 158.38.0.181 2001:700:0:503:0:0:aa:5302
+nserver:      NABIL.NS.LB 185.91.97.18 2a05:e380:2:4:0:0:0:2
+nserver:      R.NS.LB 105.16.170.1 2c0f:feb0:c:1:0:0:1:1
+nserver:      S.NS.LB 105.16.115.1 2c0f:feb0:2:1:0:0:1:8001
+nserver:      T.NS.LB 139.84.235.208 2a05:f480:3000:205f:5400:4ff:fea4:e565
+nserver:      W.NS.LB 2001:200:0:2:0:0:53:1 203.178.141.64
 ds-rdata:     3842 8 2 c838938c2127e3e10e15f92106ec565ef273b2ef7e3aeebe5a2162862fd3b469
 
 whois:        whois.lbdr.org.lb
@@ -32360,7 +32358,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.lbdr.org.lb
 
 created:      1993-08-25
-changed:      2024-02-06
+changed:      2024-02-12
 source:       IANA
 
 % IANA WHOIS server
@@ -36078,10 +36076,12 @@ phone:        +1-703-925-6999
 fax-no:       +1-703-948-3978
 e-mail:       info@verisign-grs.com
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+nserver:      A.NIC.MERCKMSD 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.MERCKMSD 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.MERCKMSD 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      X.NIC.MERCKMSD 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.MERCKMSD 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.MERCKMSD 156.154.174.82 2610:a1:1076:0:0:0:1:82
 ds-rdata:     23340 8 2 f6643d8ae9760f8033a5a14b231851cedff97429ef22514cfcb1ba625eac86a4
 ds-rdata:     5134 8 2 f4c8e4ac4a227663517fb28feaa416635cc013ccab079eceda756a89541baaba
 
@@ -36091,7 +36091,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2017-06-15
-changed:      2024-01-26
+changed:      2024-02-08
 source:       IANA
 
 % IANA WHOIS server
@@ -37878,10 +37878,12 @@ phone:        1-703-925-6999
 fax-no:       1-703-948-3978
 e-mail:       info@verisign-grs.com
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+nserver:      A.NIC.MSD 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.MSD 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.MSD 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      X.NIC.MSD 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.MSD 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.MSD 156.154.174.82 2610:a1:1076:0:0:0:1:82
 ds-rdata:     30849 8 2 8560961fd5e191d49b2461180f7edc509e10689f85ed595ad111956bc81ff9a2
 ds-rdata:     23659 8 2 81de1bcc17ae524ceeabd94382ff3aa6bfd61804332e511b44ea5ab06ec6f52a
 
@@ -37891,7 +37893,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2016-06-24
-changed:      2024-01-26
+changed:      2024-02-08
 source:       IANA
 
 % IANA WHOIS server
@@ -38319,6 +38321,7 @@ nserver:      M.MX-NS.MX 200.94.176.1 2001:13c7:7000:0:0:0:0:1
 nserver:      O.MX-NS.MX 200.23.1.1
 nserver:      X.MX-NS.MX 201.131.252.1
 ds-rdata:     5714 8 2 f98c2f8fd23ee07ae29137fa6b2ac6bd44be32d684fd06bb894ee307c56700e5
+ds-rdata:     62752 8 2 1b2f55dbf6cfb9eb66b0963daa6bbe2cbbdcb851598fec25ec2ccdc9a3785a12
 
 whois:        whois.mx
 
@@ -38326,7 +38329,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.registry.mx/
 
 created:      1989-02-01
-changed:      2023-07-18
+changed:      2024-02-08
 source:       IANA
 
 % IANA WHOIS server
@@ -41426,14 +41429,12 @@ address:      Redwood Shores CA 94065
 address:      United States of America (the)
 
 contact:      administrative
-name:         Domain Administrator
-organisation: Oracle Corporation
-address:      500 Oracle Parkway
-address:      M/S 501ip3
-address:      Redwood Shores CA 94065
+name:         Chris Niemi
+organisation: Markmonitor Inc.
+address:      1120 S. Rackham Way, Suite 300
+address:      Meridian ID 83642
 address:      United States of America (the)
-phone:        +1.6505062220
-fax-no:       +1.6505062120
+phone:        +1.208-389-5740
 e-mail:       gtldservices@markmonitor.com
 
 contact:      technical
@@ -41459,7 +41460,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2015-01-15
-changed:      2024-01-31
+changed:      2024-02-09
 source:       IANA
 
 % IANA WHOIS server
@@ -45106,6 +45107,7 @@ nserver:      NS2.NIC.PW 185.24.64.12 2a04:2b00:13cc:0:0:0:1:12
 nserver:      NS5.NIC.PW 212.18.248.12 2a04:2b00:13ee:0:0:0:0:12
 nserver:      NS6.NIC.PW 212.18.249.12 2a04:2b00:13ff:0:0:0:0:12
 ds-rdata:     44440 13 2 362cd4eb8c8fd51674622639f860f906ea08a7c977400547a9f0ac7db92e14c6
+ds-rdata:     41432 13 2 ab329751c91ed6648a0f77cd45a3008773ce24a4c8a8fd4a510c3a303e19f1ac
 
 whois:        whois.nic.pw
 
@@ -45113,7 +45115,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.registry.pw
 
 created:      1997-06-12
-changed:      2022-03-22
+changed:      2024-02-13
 source:       IANA
 
 % IANA WHOIS server
@@ -45877,10 +45879,14 @@ phone:        (+86) 01058812473
 fax-no:       (+86) 01058813075
 e-mail:       linzhenguo@zdns.cn
 
-nserver:      A0.NIC.REDSTONE 2a01:8840:82:0:0:0:0:17 65.22.132.17
-nserver:      A2.NIC.REDSTONE 2a01:8840:85:0:0:0:0:17 65.22.135.17
-nserver:      B0.NIC.REDSTONE 2a01:8840:83:0:0:0:0:17 65.22.133.17
-nserver:      C0.NIC.REDSTONE 2a01:8840:84:0:0:0:0:17 65.22.134.17
+nserver:      A.ZDNSCLOUD.COM 203.99.24.1
+nserver:      B.ZDNSCLOUD.COM 203.99.25.1
+nserver:      C.ZDNSCLOUD.COM 203.99.26.1
+nserver:      D.ZDNSCLOUD.COM 203.99.27.1
+nserver:      F.ZDNSCLOUD.COM 114.67.16.204
+nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
+nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     55555 8 2 425cc5bc7add435160d3c70cba9d545be2ff5466ecc27fb46e520be2ec1f9d0d
 ds-rdata:     49835 8 2 51a6a70d9a7c0f010d09ffaaca9cb6bbbe7fad76fb48fde6f940b606c8cde048
 
@@ -45890,7 +45896,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www/redstone-cn.com
 
 created:      2015-03-06
-changed:      2024-01-30
+changed:      2024-02-08
 source:       IANA
 
 % IANA WHOIS server
@@ -52390,14 +52396,13 @@ address:      Mumbai Maharashtra 400011
 address:      India
 
 contact:      administrative
-name:         Senior Project Manager
+name:         Director - Data Engineering & Platforms
 organisation: Star India Private Limited
-address:      Star House, Off Dr.E.Moses Road, Mahalaxmi
-address:      Mumbai Maharashtra 400011
+address:      Star House, Urmi Estate, 95, Ganpatrao Kadam Marg, Lower Parel (West)
+address:      Mumbai Maharashtra 400013
 address:      India
-phone:        +912266301126
-fax-no:       +912266305050
-e-mail:       gtl.admin@startv.com
+phone:        +912266305555
+e-mail:       star.gtl.admin@disney.com
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
@@ -52422,7 +52427,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.startv.com
 
 created:      2015-12-10
-changed:      2021-04-29
+changed:      2024-02-14
 source:       IANA
 
 % IANA WHOIS server
@@ -57846,7 +57851,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.cctld.uz/
 
 created:      1995-04-29
-changed:      2024-01-05
+changed:      2024-02-14
 source:       IANA
 
 % IANA WHOIS server
@@ -65972,6 +65977,7 @@ nserver:      JO.CCTLD.AUTHDNS.RIPE.NET 193.0.9.83 2001:67c:e0:0:0:0:0:83
 nserver:      JORDAN1ST.NIC.GOV.JO 193.188.69.19 2a02:9c0:0:19:0:0:0:19
 nserver:      PETRA.NIC.GOV.JO 193.188.66.2
 nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
+ds-rdata:     58951 7 2 8c351c0a4ca0030b6f43d94050a814c1357e29dc50e98dffc18b25c2921a05a6
 
 whois:        
 
@@ -65979,7 +65985,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.idn.jo/
 
 created:      2010-08-20
-changed:      2023-11-22
+changed:      2024-02-09
 source:       IANA
 
 % IANA WHOIS server

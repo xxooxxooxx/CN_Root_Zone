@@ -1412,7 +1412,7 @@ status:       ACTIVE
 remarks:      Registration information: http://whois.ai
 
 created:      1995-02-16
-changed:      2023-11-14
+changed:      2024-02-20
 source:       IANA
 
 % IANA WHOIS server
@@ -4755,15 +4755,13 @@ fax-no:       +52.5552505187
 e-mail:       info@punto2012.com
 
 contact:      technical
-name:         CTO
-organisation: CentralNic
-address:      Saddlers House, 4th Floor
-address:      44 Gutter Lane
-address:      London EC2V 6BR
-address:      United Kingdom of Great Britain and Northern Ireland (the)
-phone:        +44 20 33 88 0600
-fax-no:       +44 20 33 88 0601
-e-mail:       tld.ops@centralnic.com
+name:         Francisco Obispo
+organisation: Tucows Inc
+address:      96 Mowat Avenue
+address:      Toronto Ontario M6K3M1
+address:      Canada
+phone:        +1.949.903.3449
+e-mail:       trs-ops@tucows.com
 
 nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
 nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
@@ -4779,7 +4777,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.bar
 
 created:      2014-02-13
-changed:      2023-11-30
+changed:      2024-02-20
 source:       IANA
 
 % IANA WHOIS server
@@ -6553,6 +6551,8 @@ e-mail:       iana@registry.godaddy
 nserver:      A.GTLD.BIZ 156.154.124.65 2001:502:ad09:0:0:0:0:30
 nserver:      B.GTLD.BIZ 156.154.125.65
 nserver:      C.GTLD.BIZ 156.154.127.65
+nserver:      M.GTLD.BIZ 204.74.105.1 2610:a1:3180:0:0:0:0:53
+nserver:      N.GTLD.BIZ 204.74.107.1 2610:a1:3280:0:0:0:0:53
 nserver:      W.GTLD.BIZ 2001:dcd:1:0:0:0:0:13 37.209.192.13
 nserver:      X.GTLD.BIZ 2001:dcd:2:0:0:0:0:13 37.209.194.13
 nserver:      Y.GTLD.BIZ 2001:dcd:3:0:0:0:0:13 37.209.196.13
@@ -6564,7 +6564,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.biz
 
 created:      2001-06-26
-changed:      2023-12-13
+changed:      2024-02-20
 source:       IANA
 
 % IANA WHOIS server
@@ -13564,8 +13564,6 @@ nserver:      CA2.NIC.CR 185.159.198.100 2620:10a:80ab:0:0:0:0:100
 nserver:      DE.NIC.CR 194.0.11.107 2001:678:e:107:0:0:0:53
 nserver:      DNS.NIC.CR 200.107.82.100 2001:13c7:7004:1:0:0:0:d100
 nserver:      P.NIC.CR 2001:500:14:6089:ad:0:0:1 204.61.216.89
-ds-rdata:     10517 13 2 268fb03099e07547620f19a62f101daea146dcee6faaa18263e0b3da4e997d6c
-ds-rdata:     10517 13 4 11d20d7c408a1f289f6ece30f241ca4beb6abe9d6376e8c6be2fee6400038989ee5c447340a5f2e7676454bbbeabfc95
 ds-rdata:     41813 13 2 be11bce314a4b75bf0531a7ff312c750813b59a61a868407949ca8d35508fbab
 ds-rdata:     41813 13 4 2c21e3b22825e9949a37d1201ae64370747765d7f68eef304be8ca8f45c59fd1e9fb4ee788b4d507106b8e1b74b1213b
 
@@ -13575,7 +13573,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.cr/
 
 created:      1990-09-10
-changed:      2024-02-12
+changed:      2024-02-15
 source:       IANA
 
 % IANA WHOIS server
@@ -14127,6 +14125,7 @@ nserver:      CW.CCTLD.AUTHDNS.RIPE.NET 193.0.9.86 2001:67c:e0:0:0:0:0:86
 nserver:      KADUSHI.CURINFO.CW 65.208.122.63
 nserver:      NS0.JA.NET 128.86.1.20 193.63.94.20 2001:630:0:8:0:0:0:14 2001:630:0:9:0:0:0:14
 nserver:      NS01-SERVER.CURINFO.CW 65.208.122.36
+nserver:      NS1.BNA.CW 216.122.189.85
 nserver:      NS1.DNS.CW 194.0.28.6 2001:678:2c:0:194:0:28:6
 
 whois:        
@@ -14135,7 +14134,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.uoc.cw/cw-registry
 
 created:      2010-12-20
-changed:      2023-08-25
+changed:      2024-02-16
 source:       IANA
 
 % IANA WHOIS server
@@ -14180,7 +14179,7 @@ status:       ACTIVE
 remarks:      Registration information: https://cxda.org.cx
 
 created:      1997-04-24
-changed:      2023-10-04
+changed:      2024-02-16
 source:       IANA
 
 % IANA WHOIS server
@@ -27541,8 +27540,8 @@ nserver:      LOOKUP.IUCC.AC.IL 128.139.34.240 2001:bf8:900:6:0:0:808b:22f0
 nserver:      NS1.NS.IL 194.146.106.122 2001:67c:1010:31:0:0:0:53
 nserver:      NS3.NS.IL 194.0.11.103 2001:678:e:103:0:0:0:53
 nserver:      NS4.NS.IL 2001:500:14:6134:ad:0:0:1 204.61.216.134
-nserver:      NSA.NS.IL 192.115.7.53 2a01:4280:2:70:0:0:0:53
-nserver:      NSB.NS.IL 192.115.7.60 2a01:4280:2:70:0:0:0:60
+nserver:      NSA.NS.IL 192.115.7.53 2a01:4280:7:0:0:0:0:53
+nserver:      NSB.NS.IL 192.115.7.60 2a01:4280:7:0:0:0:0:60
 nserver:      NSE.NS.IL 192.115.4.235
 ds-rdata:     16654 13 2 8eae70e9a2b930ed77e52c80b924add6925166081c8aabcd7023311d769bcebb
 
@@ -27552,7 +27551,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.isoc.org.il/domains
 
 created:      1985-10-24
-changed:      2024-02-05
+changed:      2024-02-20
 source:       IANA
 
 % IANA WHOIS server
@@ -36554,9 +36553,9 @@ phone:        +389 23070377
 fax-no:       +389 23088222
 e-mail:       vladislav.bidikov@finki.ukim.mk
 
-nserver:      D.EXT.NIC.CZ 193.29.206.2 2001:678:1:0:0:0:0:2
+nserver:      B.DNS.SI 153.5.81.140 2001:1470:8000:53:0:0:0:44
 nserver:      DNS-MK.UNIVIE.AC.AT 2001:628:453:bb:0:0:0:4 78.104.145.4
-nserver:      NS2.ARNES.SI 194.249.4.44 2001:1470:8000:53:0:0:0:44
+nserver:      MK-E.NS.NIC.CZ 185.43.134.12 2001:148f:fffd:0:0:0:0:12
 nserver:      TLD1.MARNET.MK 194.149.137.168
 
 whois:        whois.marnet.mk
@@ -36565,7 +36564,7 @@ status:       ACTIVE
 remarks:      Registration information: http://marnet.mk/
 
 created:      1993-09-23
-changed:      2023-07-24
+changed:      2024-02-15
 source:       IANA
 
 % IANA WHOIS server
@@ -38320,7 +38319,6 @@ nserver:      I.MX-NS.MX 207.248.68.1
 nserver:      M.MX-NS.MX 200.94.176.1 2001:13c7:7000:0:0:0:0:1
 nserver:      O.MX-NS.MX 200.23.1.1
 nserver:      X.MX-NS.MX 201.131.252.1
-ds-rdata:     5714 8 2 f98c2f8fd23ee07ae29137fa6b2ac6bd44be32d684fd06bb894ee307c56700e5
 ds-rdata:     62752 8 2 1b2f55dbf6cfb9eb66b0963daa6bbe2cbbdcb851598fec25ec2ccdc9a3785a12
 
 whois:        whois.mx
@@ -38329,7 +38327,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.registry.mx/
 
 created:      1989-02-01
-changed:      2024-02-08
+changed:      2024-02-15
 source:       IANA
 
 % IANA WHOIS server
@@ -39429,7 +39427,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.nf
 
 created:      1996-03-18
-changed:      2022-11-21
+changed:      2024-02-20
 source:       IANA
 
 % IANA WHOIS server
@@ -43858,14 +43856,14 @@ address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 1865 332211
 e-mail:       registrytechnical@nominet.uk
 
-nserver:      DNS1.NOMINETDNS.UK 213.248.219.254 2a01:618:403:0:0:0:0:254
-nserver:      DNS2.NOMINETDNS.UK 103.49.83.254 2401:fd80:403:0:0:0:0:254
-nserver:      DNS3.NOMINETDNS.UK 213.248.223.254 2a01:618:407:0:0:0:0:254
-nserver:      DNS4.NOMINETDNS.UK 2401:fd80:407:0:0:0:0:254 43.230.51.254
-nserver:      DNSA.NOMINETDNS.UK 156.154.100.3 2001:502:ad09:0:0:0:0:3
-nserver:      DNSB.NOMINETDNS.UK 156.154.101.3 2001:502:2eda:0:0:0:0:3
-nserver:      DNSC.NOMINETDNS.UK 156.154.102.3 2610:a1:1009:0:0:0:0:3
-nserver:      DNSD.NOMINETDNS.UK 156.154.103.3 2610:a1:1010:0:0:0:0:3
+nserver:      DNS1.NIC.PN 213.248.219.128 2a01:618:403:0:0:0:0:128
+nserver:      DNS2.NIC.PN 103.49.83.128 2401:fd80:403:0:0:0:0:128
+nserver:      DNS3.NIC.PN 213.248.223.128 2a01:618:407:0:0:0:0:128
+nserver:      DNS4.NIC.PN 2401:fd80:407:0:0:0:0:128 43.230.51.128
+nserver:      DNSA.NIC.PN 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.NIC.PN 156.154.101.3 2001:502:2eda:0:0:0:0:3
+nserver:      DNSC.NIC.PN 156.154.102.3 2610:a1:1009:0:0:0:0:3
+nserver:      DNSD.NIC.PN 156.154.103.3 2610:a1:1010:0:0:0:0:3
 
 whois:        
 
@@ -43873,7 +43871,7 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.pn
 
 created:      1997-07-10
-changed:      2023-09-25
+changed:      2024-02-15
 source:       IANA
 
 % IANA WHOIS server
@@ -45896,7 +45894,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www/redstone-cn.com
 
 created:      2015-03-06
-changed:      2024-02-08
+changed:      2024-02-21
 source:       IANA
 
 % IANA WHOIS server
@@ -46509,15 +46507,13 @@ fax-no:       +52.5552505187
 e-mail:       info@punto2012.com
 
 contact:      technical
-name:         CTO
-organisation: CentralNic
-address:      Saddlers House, 4th Floor
-address:      44 Gutter Lane
-address:      London EC2V 6BR
-address:      United Kingdom of Great Britain and Northern Ireland (the)
-phone:        +44 20 33 88 0600
-fax-no:       +44 20 33 88 0601
-e-mail:       tld.ops@centralnic.com
+name:         Francisco Obispo
+organisation: Tucows Inc
+address:      96 Mowat Avenue
+address:      Toronto Ontario M6K3M1
+address:      Canada
+phone:        +1.949.903.3449
+e-mail:       trs-ops@tucows.com
 
 nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
 nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
@@ -46533,7 +46529,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.register.rest/
 
 created:      2014-03-06
-changed:      2023-11-30
+changed:      2024-02-20
 source:       IANA
 
 % IANA WHOIS server
@@ -48772,8 +48768,8 @@ phone:        +66 2 2448261
 fax-no:       +66 2 2448164
 e-mail:       bero@thains.co.th
 
-nserver:      A.NIC.SCB 122.155.23.51 2001:c38:2000:183:0:0:0:17
 nserver:      C.NIC.SCB 194.0.1.35 2001:678:4:0:0:0:0:23
+nserver:      NN1.NIC.SCB 194.58.198.136 2a01:3f1:3032:8001:0:0:0:136
 nserver:      RZ.NIC.SCB 194.0.25.42 2001:678:20:0:0:0:0:42
 ds-rdata:     20801 8 2 16bff89dd2faf9ac06221f6de0e206ed57fec2e29316779e30789d7e00a5bd2f
 
@@ -48784,7 +48780,7 @@ remarks:      Registration information:
 remarks:      https://www.scb.co.th/en/personal-banking/top-level-domain.html
 
 created:      2014-06-26
-changed:      2023-12-22
+changed:      2024-02-15
 source:       IANA
 
 % IANA WHOIS server
@@ -57258,7 +57254,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.hostmaster.ua/
 
 created:      1992-12-01
-changed:      2023-02-27
+changed:      2024-02-16
 source:       IANA
 
 % IANA WHOIS server
@@ -62132,8 +62128,8 @@ nserver:      LOOKUP.IUCC.AC.IL 128.139.34.240 2001:bf8:900:6:0:0:808b:22f0
 nserver:      NS1.NS.IL 194.146.106.122 2001:67c:1010:31:0:0:0:53
 nserver:      NS3.NS.IL 194.0.11.103 2001:678:e:103:0:0:0:53
 nserver:      NS4.NS.IL 2001:500:14:6134:ad:0:0:1 204.61.216.134
-nserver:      NSA.NS.IL 192.115.7.53 2a01:4280:2:70:0:0:0:53
-nserver:      NSB.NS.IL 192.115.7.60 2a01:4280:2:70:0:0:0:60
+nserver:      NSA.NS.IL 192.115.7.53 2a01:4280:7:0:0:0:0:53
+nserver:      NSB.NS.IL 192.115.7.60 2a01:4280:7:0:0:0:0:60
 nserver:      NSE.NS.IL 192.115.4.235
 ds-rdata:     48814 13 2 0255186b246dca8e53de92159f38ef7b209cca2a1be875cb1a1dad2d592a9c9e
 
@@ -63735,9 +63731,9 @@ phone:        +389 23070377
 fax-no:       +389 23088222
 e-mail:       vladislav.bidikov@finki.ukim.mk
 
-nserver:      D.EXT.NIC.CZ 193.29.206.2 2001:678:1:0:0:0:0:2
+nserver:      B.DNS.SI 153.5.81.140 2001:1470:8000:53:0:0:0:44
 nserver:      DNS-MK.UNIVIE.AC.AT 2001:628:453:bb:0:0:0:4 78.104.145.4
-nserver:      NS2.ARNES.SI 194.249.4.44 2001:1470:8000:53:0:0:0:44
+nserver:      MK-E.NS.NIC.CZ 185.43.134.12 2001:148f:fffd:0:0:0:0:12
 nserver:      TLD1.MARNET.MK 194.149.137.168
 
 whois:        whois.marnet.mk
@@ -63746,7 +63742,7 @@ status:       ACTIVE
 remarks:      Registration information: http://marnet.mk/
 
 created:      2014-04-21
-changed:      2023-07-24
+changed:      2024-02-21
 source:       IANA
 
 % IANA WHOIS server

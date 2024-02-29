@@ -4506,6 +4506,7 @@ nserver:      B.NIC.BABY 185.24.64.101 2a04:2b00:13cc:0:0:0:1:101
 nserver:      C.NIC.BABY 212.18.248.101 2a04:2b00:13ee:0:0:0:0:101
 nserver:      D.NIC.BABY 212.18.249.101 2a04:2b00:13ff:0:0:0:0:101
 ds-rdata:     11182 8 2 6b39ccc9ba6c73c818d68522547e5d56db46e13607dc0e83047d6e111067dcb2
+ds-rdata:     14956 8 2 523ec19f90ba1e0cd7292414999aab7a1fe67f878097fac9f18905fc4d68ae08
 
 whois:        whois.nic.baby
 
@@ -4513,7 +4514,7 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.baby/
 
 created:      2016-01-14
-changed:      2022-08-16
+changed:      2024-02-28
 source:       IANA
 
 % IANA WHOIS server
@@ -7218,8 +7219,8 @@ nserver:      A.NIC.BOATS 194.169.218.134 2001:67c:13cc:0:0:0:1:134
 nserver:      B.NIC.BOATS 185.24.64.134 2a04:2b00:13cc:0:0:0:1:134
 nserver:      C.NIC.BOATS 212.18.248.134 2a04:2b00:13ee:0:0:0:0:134
 nserver:      D.NIC.BOATS 212.18.249.134 2a04:2b00:13ff:0:0:0:0:134
-ds-rdata:     184 8 2 a4a33b365286abb2176f9f617093d4dade9cd2af1c8b4955db2b0ad92b6940d5
 ds-rdata:     59980 8 2 a5e1e3d7c3a1cd95834be1a4f1b403eb0018e4918d107c25a61360b2b7e585dd
+ds-rdata:     35419 8 2 43c5098ed1c55c5eb62237acd9ebdc4721ca7e8b8290c66538ee4eae7bfd997e
 
 whois:        whois.nic.boats
 
@@ -7227,7 +7228,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.boats
 
 created:      2015-02-13
-changed:      2022-08-16
+changed:      2024-02-28
 source:       IANA
 
 % IANA WHOIS server
@@ -10404,12 +10405,8 @@ nserver:      A.NIC.CEO 194.169.218.78 2001:67c:13cc:0:0:0:1:78
 nserver:      B.NIC.CEO 185.24.64.78 2a04:2b00:13cc:0:0:0:1:78
 nserver:      C.NIC.CEO 212.18.248.78 2a04:2b00:13ee:0:0:0:0:78
 nserver:      D.NIC.CEO 212.18.249.78 2a04:2b00:13ff:0:0:0:0:78
-ds-rdata:     63689 8 1 db7a8f6aadcee147d241a9778857e94707234d4e
-ds-rdata:     63689 8 2 f2ab788c2802c3f219d53f37e7e1687ecf2e453e04bc5abcc0b444fc0e35b1ee
-ds-rdata:     47971 8 1 c1d4b59f029dbfcc32c1b3524ee5f5b87735ea60
-ds-rdata:     47971 8 2 ca81c48a6831fd48d45caf9a0deb74d0e8b8f217cdd05cfd7090c1f926219aea
-ds-rdata:     20929 8 1 bf13ed10ce2850f7c686261f06da97a0e5eb78a6
 ds-rdata:     20929 8 2 dce04f950578106c1c5f8386db709467091c961227606f0a761c7a0e10e2ddc7
+ds-rdata:     24601 8 2 3ad5b5b1cc294b39d77dec9669a8fdbbaf0307d3766f29e14f7364e7f83ad771
 
 whois:        whois.nic.ceo
 
@@ -10417,7 +10414,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.peoplebrowsr.com
 
 created:      2013-12-19
-changed:      2023-10-24
+changed:      2024-02-28
 source:       IANA
 
 % IANA WHOIS server
@@ -12434,8 +12431,8 @@ nserver:      A.NIC.COLLEGE 194.169.218.44 2001:67c:13cc:0:0:0:1:44
 nserver:      B.NIC.COLLEGE 185.24.64.44 2a04:2b00:13cc:0:0:0:1:44
 nserver:      C.NIC.COLLEGE 212.18.248.44 2a04:2b00:13ee:0:0:0:0:44
 nserver:      D.NIC.COLLEGE 212.18.249.44 2a04:2b00:13ff:0:0:0:0:44
-ds-rdata:     46634 8 1 e8d1436abc9b53d4219d05356cc1687732014b60
 ds-rdata:     46634 8 2 7bebb696e117d17efa506b8dd2209d2c49e97e6635596ff3177be76be0463c3c
+ds-rdata:     58717 8 2 e6e5f277e746f95d3437e6dcb123cc6825cf733639c389ba79d55d997e25413a
 
 whois:        whois.nic.college
 
@@ -12443,7 +12440,7 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.college/
 
 created:      2014-03-13
-changed:      2022-08-16
+changed:      2024-02-28
 source:       IANA
 
 % IANA WHOIS server
@@ -14087,7 +14084,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dns.cv/
 
 created:      1996-10-21
-changed:      2024-02-12
+changed:      2024-02-26
 source:       IANA
 
 % IANA WHOIS server
@@ -14127,6 +14124,7 @@ nserver:      NS0.JA.NET 128.86.1.20 193.63.94.20 2001:630:0:8:0:0:0:14 2001:630
 nserver:      NS01-SERVER.CURINFO.CW 65.208.122.36
 nserver:      NS1.BNA.CW 216.122.189.85
 nserver:      NS1.DNS.CW 194.0.28.6 2001:678:2c:0:194:0:28:6
+nserver:      NS2.BNA.CW 216.122.189.86
 
 whois:        
 
@@ -14134,7 +14132,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.uoc.cw/cw-registry
 
 created:      2010-12-20
-changed:      2024-02-16
+changed:      2024-02-22
 source:       IANA
 
 % IANA WHOIS server
@@ -16138,8 +16136,7 @@ fax-no:       +45 3364 6066
 e-mail:       tld2019tech@punktum.dk
 
 nserver:      B.NIC.DK 193.163.102.222 2a01:630:0:80:0:0:0:53
-nserver:      C.NIC.DK 194.0.46.53 2001:678:74:0:0:0:0:53
-nserver:      D.NIC.DK 185.159.198.45 2620:10a:80ab:0:0:0:0:45
+nserver:      C.NIC.DK 185.159.199.45 2620:10a:80ac:0:0:0:0:45
 nserver:      H.NIC.DK 2a00:1b18:1:2:0:0:0:53 46.30.126.214
 nserver:      L.NIC.DK 130.226.213.138 2001:878:0:e000:82:e2:d5:8a
 nserver:      P.NIC.DK 194.0.47.42 2001:678:78:42:ad:0:0:53
@@ -16152,7 +16149,7 @@ status:       ACTIVE
 remarks:      Registration information: https://punktum.dk/
 
 created:      1987-07-14
-changed:      2024-02-07
+changed:      2024-02-28
 source:       IANA
 
 % IANA WHOIS server
@@ -20048,7 +20045,6 @@ nserver:      NS2.FJ 144.120.146.65 2402:2940:100:100d:0:0:0:1
 nserver:      NS3.FJ 185.38.108.108
 nserver:      NS4.FJ 185.28.194.194
 nserver:      NS5.FJ 2001:500:14:6138:ad:0:0:1 204.61.216.138
-ds-rdata:     27739 8 2 d7fe923eed1e1194597cc5ebcb37d10f3bfa2e927159f5018cddb86d30665abb
 
 whois:        www.whois.fj
 
@@ -20056,7 +20052,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.domains.fj/
 
 created:      1992-06-03
-changed:      2024-01-18
+changed:      2024-02-28
 source:       IANA
 
 % IANA WHOIS server
@@ -29638,7 +29634,7 @@ address:      Amman 11191
 address:      Jordan
 
 contact:      administrative
-name:         Eng. Nabil Abu-Sall
+name:         Jordan Domains Registry Admin
 organisation: Ministry of Digital Economy and Entrepreneurship (MoDEE)
 address:      8th Circle - Bayader Wadi Al Seer
 address:      P.O. Box 9903
@@ -29646,10 +29642,10 @@ address:      Amman 11191
 address:      Jordan
 phone:        +962 6 5805700
 fax-no:       +962 6 5861059
-e-mail:       nabil.abusall@modee.gov.jo
+e-mail:       AdminCCtld@modee.gov.jo
 
 contact:      technical
-name:         National Domain Names Division
+name:         Jordan Domains Registry Technical
 organisation: Ministry of Digital Economy and Entrepreneurship (MoDEE)
 address:      8th Circle - Bayader Wadi Al Seer
 address:      P.O. Box 9903
@@ -29657,7 +29653,7 @@ address:      Amman 11191
 address:      Jordan
 phone:        +962 6 5300263
 fax-no:       +962 6 5861059
-e-mail:       dns@modee.gov.jo
+e-mail:       TechCCtld@modee.gov.jo
 
 nserver:      AMRA.NIC.GOV.JO 193.188.66.103
 nserver:      JO.CCTLD.AUTHDNS.RIPE.NET 193.0.9.83 2001:67c:e0:0:0:0:0:83
@@ -29671,7 +29667,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.dns.jo
 
 created:      1994-11-23
-changed:      2022-09-12
+changed:      2024-02-26
 source:       IANA
 
 % IANA WHOIS server
@@ -32357,7 +32353,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.lbdr.org.lb
 
 created:      1993-08-25
-changed:      2024-02-12
+changed:      2024-02-26
 source:       IANA
 
 % IANA WHOIS server
@@ -33536,7 +33532,7 @@ phone:        +94 11 4 216 061
 e-mail:       hostmaster@domains.lk
 
 nserver:      C.NIC.LK 203.143.29.3 2405:5400:3:1:203:143:29:3
-nserver:      D.NIC.LK 123.231.6.18
+nserver:      D.NIC.LK 123.231.6.18 2402:4000:479:c5:0:0:0:a
 nserver:      M.NIC.LK 202.129.235.229 2407:c00:21:8:202:129:235:229
 nserver:      NS1.AC.LK 192.248.1.162 2401:dd00:1:0:0:0:0:162
 nserver:      P.NIC.LK 2001:500:14:6027:ad:0:0:1 204.61.216.27
@@ -33551,7 +33547,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.domains.lk/
 
 created:      1990-06-15
-changed:      2023-11-08
+changed:      2024-02-23
 source:       IANA
 
 % IANA WHOIS server
@@ -36066,14 +36062,14 @@ phone:        908-243-2545
 e-mail:       merckdomains@merck.com
 
 contact:      technical
-name:         Registry Customer Service
-organisation: Verisign, Inc.
-address:      12061 Bluemont Way
-address:      Reston VA 20190
+name:         Raymond Zylstra, IANA Contact
+organisation: GoDaddy Registry
+address:      2155 E GoDaddy Way
+address:      Tempe AZ 85284
 address:      United States of America (the)
-phone:        +1-703-925-6999
-fax-no:       +1-703-948-3978
-e-mail:       info@verisign-grs.com
+phone:        +1 480-505-8800
+fax-no:       +1 480-624-2546
+e-mail:       iana@registry.godaddy
 
 nserver:      A.NIC.MERCKMSD 2001:dcd:1:0:0:0:0:9 37.209.192.9
 nserver:      B.NIC.MERCKMSD 2001:dcd:2:0:0:0:0:9 37.209.194.9
@@ -36090,7 +36086,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2017-06-15
-changed:      2024-02-08
+changed:      2024-02-22
 source:       IANA
 
 % IANA WHOIS server
@@ -37868,14 +37864,14 @@ phone:        908-243-2545
 e-mail:       merckdomains@merck.com
 
 contact:      technical
-name:         Registry Customer Service
-organisation: Verisign, Inc
-address:      12061 Bluemont Way
-address:      Reston VA 20190
+name:         Raymond Zylstra, IANA Contact
+organisation: GoDaddy Registry
+address:      2155 E GoDaddy Way
+address:      Tempe AZ 85284
 address:      United States of America (the)
-phone:        1-703-925-6999
-fax-no:       1-703-948-3978
-e-mail:       info@verisign-grs.com
+phone:        +1 480-505-8800
+fax-no:       +1 480-624-2546
+e-mail:       iana@registry.godaddy
 
 nserver:      A.NIC.MSD 2001:dcd:1:0:0:0:0:9 37.209.192.9
 nserver:      B.NIC.MSD 2001:dcd:2:0:0:0:0:9 37.209.194.9
@@ -37892,7 +37888,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2016-06-24
-changed:      2024-02-08
+changed:      2024-02-22
 source:       IANA
 
 % IANA WHOIS server
@@ -40731,21 +40727,19 @@ source:       IANA
 
 domain:       OBSERVER
 
-organisation: Dog Beach, LLC
-address:      c/o Identity Digital Limited
-address:      10500 NE 8th Street, Suite 750
-address:      Bellevue WA 98004
+organisation: Fegistry, LLC
+address:      1845 West Mercer Way
+address:      Mercer Island WA 98040
 address:      United States of America (the)
 
 contact:      administrative
-name:         Vice President, Engineering
-organisation: Identity Digital Limited
-address:      10500 NE 8th Street, Suite 750
-address:      Bellevue WA 98004
-address:      United States of America (the)
-phone:        +1.425.298.2200
-fax-no:       +1.425.671.0020
-e-mail:       tldadmin@identity.digital
+name:         Principal
+organisation: Internet Naming Co.
+address:      23 Lime Tree Bay, West Bay
+address:      Grand Cayman KY1-1505
+address:      Cayman Islands (the)
+phone:        +1.424.888.0690
+e-mail:       partners@inaming.co
 
 contact:      technical
 name:         Francisco Obispo
@@ -40769,7 +40763,7 @@ status:       ACTIVE
 remarks:      Registration information: https://internetnaming.co
 
 created:      2016-09-15
-changed:      2024-01-31
+changed:      2024-02-23
 source:       IANA
 
 % IANA WHOIS server
@@ -45708,21 +45702,19 @@ source:       IANA
 
 domain:       REALTY
 
-organisation: Dog Beach, LLC
-address:      c/o Identity Digital Limited
-address:      10500 NE 8th Street, Suite 750
-address:      Bellevue WA 98004
-address:      United States of America (the)
+organisation: Internet Naming Co.
+address:      23 Lime Tree Bay, West Bay
+address:      Grand Cayman KY1-1505
+address:      Cayman Islands (the)
 
 contact:      administrative
-name:         Vice President, Engineering
-organisation: Identity Digital Limited
-address:      10500 NE 8th Street, Suite 750
-address:      Bellevue WA 98004
-address:      United States of America (the)
-phone:        +1.425.298.2200
-fax-no:       +1.425.671.0020
-e-mail:       tldadmin@identity.digital
+name:         Principal
+organisation: Internet Naming Co.
+address:      23 Lime Tree Bay, West Bay
+address:      Grand Cayman KY1-1505
+address:      Cayman Islands (the)
+phone:        +1.424.888.0690
+e-mail:       partners@inaming.co
 
 contact:      technical
 name:         Francisco Obispo
@@ -45746,7 +45738,7 @@ status:       ACTIVE
 remarks:      Registration information: https://internetnaming.co
 
 created:      2015-06-11
-changed:      2024-01-31
+changed:      2024-02-23
 source:       IANA
 
 % IANA WHOIS server
@@ -46228,6 +46220,7 @@ nserver:      G.ZDNSCLOUD.COM 42.62.2.16
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     770 8 2 897ea15932fa4407809d32ca7c7da4b0c0e455316a897970f152109f18ce6cd9
+ds-rdata:     6712 8 2 06090fb53ae539ce051d9236a0c6b5fd58361167bc0d7f5e8e9eab4f62d4fffb
 
 whois:        whois.nic.ren
 
@@ -46235,7 +46228,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.ren/
 
 created:      2014-02-28
-changed:      2022-12-08
+changed:      2024-02-22
 source:       IANA
 
 % IANA WHOIS server
@@ -54484,8 +54477,8 @@ nserver:      A.NIC.TECH 194.169.218.60 2001:67c:13cc:0:0:0:1:60
 nserver:      B.NIC.TECH 185.24.64.60 2a04:2b00:13cc:0:0:0:1:60
 nserver:      E.NIC.TECH 212.18.248.60 2a04:2b00:13ee:0:0:0:0:60
 nserver:      F.NIC.TECH 212.18.249.60 2a04:2b00:13ff:0:0:0:0:60
-ds-rdata:     50095 8 1 82f72f2462dee25b99da2470535ad0a7d131f1eb
 ds-rdata:     50095 8 2 83f40d01141484d8f07305e5d2e44ac5663149054c598d6e9d993c661686c6ee
+ds-rdata:     28487 8 2 ea62fa86a9c863738597a42d28762b1f75d42f7d77aa6767425de138f8b0e78c
 
 whois:        whois.nic.tech
 
@@ -54493,7 +54486,7 @@ status:       ACTIVE
 remarks:      Registration information: https://radix.website/
 
 created:      2015-03-12
-changed:      2024-02-07
+changed:      2024-02-28
 source:       IANA
 
 % IANA WHOIS server
@@ -57141,10 +57134,9 @@ nserver:      B.DNS.TW 210.201.138.58 2404:0:10a0:0:0:0:0:58
 nserver:      C.DNS.TW 2001:b020:0:77:0:0:0:1 203.66.87.201
 nserver:      D.DNS.TW 2001:4541:9010:7:0:0:0:186 60.199.165.186
 nserver:      E.DNS.TW 2001:b000:1e0:c000:0:0:0:11 211.20.231.11
-nserver:      F.DNS.TW 163.28.1.10
+nserver:      F.DNS.TW 182.173.0.10
 nserver:      G.DNS.TW 34.141.111.176
 nserver:      H.DNS.TW 2001:500:14:6119:ad:0:0:1 204.61.216.119
-nserver:      NS.TWNIC.NET 192.83.166.11 2001:288:1:1006:0:0:0:11
 ds-rdata:     51277 8 2 462da9af501d2b1eef6725522db5972f8cd2490b51d92088ff1e3d2de0ec7bcd
 
 whois:        whois.twnic.net.tw
@@ -57153,7 +57145,7 @@ status:       ACTIVE
 remarks:      Registration information: http://rs.twnic.net.tw
 
 created:      1989-07-31
-changed:      2023-08-08
+changed:      2024-02-23
 source:       IANA
 
 % IANA WHOIS server
@@ -58455,13 +58447,13 @@ e-mail:       domain@nic.vi
 nserver:      NS3.NIC.VI 185.17.236.230
 nserver:      PCH.NIC.VI 2001:500:14:6133:ad:0:0:1 204.61.216.133
 
-whois:        
+whois:        virgil.nic.vi
 
 status:       ACTIVE
-remarks:      Registration information: http://www.nic.vi
+remarks:      Registration information: https://secure.nic.vi
 
 created:      1995-08-31
-changed:      2024-01-31
+changed:      2024-02-26
 source:       IANA
 
 % IANA WHOIS server
@@ -63538,6 +63530,7 @@ nserver:      G.ZDNSCLOUD.COM 42.62.2.16
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     56914 8 2 5465baa574aa100721edded85284559d873f32fed96c02d0144b0281569ff37d
+ds-rdata:     61001 8 2 b4dea8c89ab832565a80719c8af8fb5d7ed535a9c3e2361d8b494d45f6a05d5a
 
 whois:        
 
@@ -63545,7 +63538,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2014-05-08
-changed:      2022-12-08
+changed:      2024-02-26
 source:       IANA
 
 % IANA WHOIS server
@@ -64931,6 +64924,7 @@ nserver:      G.ZDNSCLOUD.COM 42.62.2.16
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     14747 8 2 6581fd2fc61a9a81926e5dbe6f7eeb940402bf2db280c98f50aba666e4c74371
+ds-rdata:     12187 8 2 ca358cb59005ac2c0871a1c5d9d954c82a4077bd5507844c8fa7c86e8dcd5a64
 
 whois:        
 
@@ -64938,7 +64932,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2015-05-08
-changed:      2022-12-08
+changed:      2024-02-26
 source:       IANA
 
 % IANA WHOIS server
@@ -65074,12 +65068,12 @@ phone:        +380503538629
 fax-no:       +380442309344
 e-mail:       dotukr@uanic.net
 
-nserver:      DNS.TCI.NET.UA 91.231.86.238
+nserver:      DNS.TCI.NET.UA 2a02:128:2:52ae:fdee:d892:347d:d892 91.231.86.238
 nserver:      DNS1.U-REGISTRY.COM 51.222.128.197
-nserver:      DNS2.U-REGISTRY.NET 195.123.1.7
 nserver:      DNS3.DOTUKR.COM 37.187.75.31
 nserver:      TIER1.NUM.NET.UA 149.202.5.226
 nserver:      UKR.NS.UA 194.58.197.4 2a01:3f1:c001:0:0:0:0:53
+nserver:      UKR.UKRNAMES.UA 195.123.192.7
 
 whois:        whois.dotukr.com
 
@@ -65088,7 +65082,7 @@ remarks:      Registration information:
 remarks:      https://namestore.u-registry.com
 
 created:      2011-03-01
-changed:      2023-03-07
+changed:      2024-02-27
 source:       IANA
 
 % IANA WHOIS server
@@ -65328,7 +65322,7 @@ e-mail:       tech-admin@twnic.tw
 nserver:      ANYTLD.APNIC.NET 2001:dd8:12:0:0:0:0:53 202.12.31.53
 nserver:      D.DNS.TW 2001:4541:9010:7:0:0:0:186 60.199.165.186
 nserver:      E.DNS.TW 2001:b000:1e0:c000:0:0:0:11 211.20.231.11
-nserver:      F.DNS.TW 163.28.1.10
+nserver:      F.DNS.TW 182.173.0.10
 nserver:      G.DNS.TW 34.141.111.176
 nserver:      H.DNS.TW 2001:500:14:6119:ad:0:0:1 204.61.216.119
 ds-rdata:     3667 8 2 8ac78818cca7d2cd3a323bead03ccf68025ca932219014748692f12ed7a4b2ca
@@ -65380,7 +65374,7 @@ e-mail:       tech-admin@twnic.tw
 nserver:      ANYTLD.APNIC.NET 2001:dd8:12:0:0:0:0:53 202.12.31.53
 nserver:      D.DNS.TW 2001:4541:9010:7:0:0:0:186 60.199.165.186
 nserver:      E.DNS.TW 2001:b000:1e0:c000:0:0:0:11 211.20.231.11
-nserver:      F.DNS.TW 163.28.1.10
+nserver:      F.DNS.TW 182.173.0.10
 nserver:      G.DNS.TW 34.141.111.176
 nserver:      H.DNS.TW 2001:500:14:6119:ad:0:0:1 204.61.216.119
 ds-rdata:     15901 8 2 119f2b2637aeb13da5c5d5b605ddcb9389a811a27d52102d9df28ee507c02da4
@@ -65946,7 +65940,7 @@ address:      Amman 11191
 address:      Jordan
 
 contact:      administrative
-name:         Eng. Nabil Abu-Sall
+name:         Jordan Domains Registry Admin
 organisation: Ministry of Digital Economy and Entrepreneurship (MoDEE)
 address:      8th Circle - Bayader Wadi Al Seer
 address:      P.O. Box 9903
@@ -65954,10 +65948,10 @@ address:      Amman 11191
 address:      Jordan
 phone:        +962 6 5805700
 fax-no:       +962 6 5861059
-e-mail:       nabil.abusall@modee.gov.jo
+e-mail:       AdminCCtld@modee.gov.jo
 
 contact:      technical
-name:         National Domain Names Division
+name:         Jordan Domains Registry Technical
 organisation: Ministry of Digital Economy and Entrepreneurship (MoDEE)
 address:      8th Circle - Bayader Wadi Al Seer
 address:      P.O. Box 9903
@@ -65965,7 +65959,7 @@ address:      Amman 11191
 address:      Jordan
 phone:        +962 6 5300263
 fax-no:       +962 6 5861059
-e-mail:       dns@modee.gov.jo
+e-mail:       TechCCtld@modee.gov.jo
 
 nserver:      AMRA.NIC.GOV.JO 193.188.66.103
 nserver:      CLOUDNS.NIC.NET.JO 2a05:d018:123c:3500:3e00:7185:3a6e:e082 54.155.28.251
@@ -65981,7 +65975,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.idn.jo/
 
 created:      2010-08-20
-changed:      2024-02-09
+changed:      2024-02-26
 source:       IANA
 
 % IANA WHOIS server
@@ -67206,6 +67200,7 @@ nserver:      G.ZDNSCLOUD.COM 42.62.2.16
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     61882 8 2 ef3f494c35f4c2c571a0e5644f6e2760818f2eb7b08e1b05b522d995022b6786
+ds-rdata:     47587 8 2 c25353ef849dce2b94e77b4a8997a7ea66d3a8614ec62493a18f072df66de9a6
 
 whois:        
 
@@ -67213,7 +67208,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2017-12-21
-changed:      2022-12-08
+changed:      2024-02-28
 source:       IANA
 
 % IANA WHOIS server
@@ -68916,8 +68911,8 @@ nserver:      GENERATIONXYZ.NIC.XYZ 212.18.249.42 2a04:2b00:13ff:0:0:0:0:42
 nserver:      X.NIC.XYZ 194.169.218.42 2001:67c:13cc:0:0:0:1:42
 nserver:      Y.NIC.XYZ 185.24.64.42 2a04:2b00:13cc:0:0:0:1:42
 nserver:      Z.NIC.XYZ 212.18.248.42 2a04:2b00:13ee:0:0:0:0:42
-ds-rdata:     3599 8 1 3fa3b264f45db5f38bedeaf1a88b76aa318c2c7f
 ds-rdata:     3599 8 2 b9733869bc84c86bb59d102ba5da6b27b2088552332a39dcd54bc4e8d66b0499
+ds-rdata:     18130 8 2 5aa5961266594cceac50949a99219fe004f130e1864a427143e9ff2e641cac6f
 
 whois:        whois.nic.xyz
 
@@ -68925,7 +68920,7 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.xyz
 
 created:      2014-02-06
-changed:      2022-08-16
+changed:      2024-02-28
 source:       IANA
 
 % IANA WHOIS server
@@ -68963,8 +68958,8 @@ nserver:      A.NIC.YACHTS 194.169.218.133 2001:67c:13cc:0:0:0:1:133
 nserver:      B.NIC.YACHTS 185.24.64.133 2a04:2b00:13cc:0:0:0:1:133
 nserver:      C.NIC.YACHTS 212.18.248.133 2a04:2b00:13ee:0:0:0:0:133
 nserver:      D.NIC.YACHTS 212.18.249.133 2a04:2b00:13ff:0:0:0:0:133
-ds-rdata:     50071 8 2 bf1b2d1657ad8be12fbedad8af0999d1e9185c100937ac023d01c9a6cca78dae
 ds-rdata:     14477 8 2 0180abc62cf090f5df1ef074f1958c237261e14633f4ad949298514bda155257
+ds-rdata:     17422 8 2 dc355a5b3fd478cb3aebdb011d77f40368c5af50df98a38bc219d8f89a372649
 
 whois:        whois.nic.yachts
 
@@ -68972,7 +68967,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.yachts
 
 created:      2014-05-01
-changed:      2022-08-16
+changed:      2024-02-28
 source:       IANA
 
 % IANA WHOIS server

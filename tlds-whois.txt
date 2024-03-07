@@ -557,6 +557,7 @@ nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
 nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
 nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
 ds-rdata:     35388 8 2 0c1ddb821c823afec10942d3dcd16d6306221e4ee7f2f524e5d9bad48bafd8fc
+ds-rdata:     56299 8 2 83307d3a3a6ae2bd8c9fbb7060a5acb8dbc48b2a56ca944cae4dc803ce8e5a84
 
 whois:        
 
@@ -564,7 +565,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.accenture.com
 
 created:      2015-04-30
-changed:      2020-10-01
+changed:      2024-03-06
 source:       IANA
 
 % IANA WHOIS server
@@ -3307,6 +3308,7 @@ nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
 nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
 nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
 ds-rdata:     46728 8 2 d197248e95610371f7624d79d397037ea5e200e6f338bccedf5e93bb68448152
+ds-rdata:     58066 8 2 44e4cc2ad4bcbc5b2c2cd6fbfa18da14d35b3fb5b0e21e9f1b25721101938299
 
 whois:        whois.nic.arte
 
@@ -3314,7 +3316,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2015-09-24
-changed:      2020-10-01
+changed:      2024-03-06
 source:       IANA
 
 % IANA WHOIS server
@@ -4559,6 +4561,7 @@ nserver:      G.ZDNSCLOUD.COM 42.62.2.16
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     63817 8 2 13605ebd9736b66b1eb3b2db5865ca66b5efd2be720087fe4441039f3aa4cf3d
+ds-rdata:     23825 8 2 7daede4b986a05b32cd3698ce14d0a0866d12a2ab955b8dc3659d25d7ad65cbe
 
 whois:        whois.gtld.knet.cn
 
@@ -4566,7 +4569,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.zdns.cn
 
 created:      2015-12-17
-changed:      2022-12-08
+changed:      2024-02-29
 source:       IANA
 
 % IANA WHOIS server
@@ -5691,8 +5694,8 @@ nserver:      A.NIC.BEAUTY 194.169.218.119 2001:67c:13cc:0:0:0:1:119
 nserver:      B.NIC.BEAUTY 185.24.64.119 2a04:2b00:13cc:0:0:0:1:119
 nserver:      C.NIC.BEAUTY 212.18.248.119 2a04:2b00:13ee:0:0:0:0:119
 nserver:      D.NIC.BEAUTY 212.18.249.119 2a04:2b00:13ff:0:0:0:0:119
-ds-rdata:     35340 8 2 2489479f7a6e57341c7c5508c55113491c519dd846258a6593c4d1aba57d463e
 ds-rdata:     52406 8 2 c5c45b79dbe67a132237b020f4966fe32fbe61553487e38d47918561568e9957
+ds-rdata:     6827 8 2 76ebfbd30c8ca9a269ae19395256889058390459d1770d6efdd04fdbb7c08b7b
 
 whois:        whois.nic.beauty
 
@@ -5700,7 +5703,7 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.beauty/
 
 created:      2016-04-07
-changed:      2022-08-16
+changed:      2024-03-01
 source:       IANA
 
 % IANA WHOIS server
@@ -8597,9 +8600,8 @@ address:      Plot 206/207 Independence Avenue
 address:      Private Bag 00495
 address:      Gaborone
 address:      Botswana
-phone:        +2673685419
-fax-no:       +267 395 7976
-e-mail:       ramotsababa@bocra.org.bw
+phone:        +2673685428
+e-mail:       mathuba@bocra.org.bw
 
 contact:      technical
 name:         Engineer - ccTLD
@@ -8608,9 +8610,8 @@ address:      Plot 206/207 Independence Avenue
 address:      Private Bag 00495
 address:      Gaborone
 address:      Botswana
-phone:        +267 368 5410
-fax-no:       +267 395 7976
-e-mail:       matlapeng@bocra.org.bw
+phone:        +267 368 5426
+e-mail:       sepepe@bocra.org.bw
 
 nserver:      DNS1.NIC.NET.BW 168.167.98.226 2c0f:ff00:1:3:0:0:0:226
 nserver:      MASTER.BTC.NET.BW 168.167.168.37 2c0f:ff00:0:6:0:0:0:3 2c0f:ff00:0:6:0:0:0:5
@@ -8623,7 +8624,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.net.bw
 
 created:      1993-03-19
-changed:      2022-07-27
+changed:      2024-03-05
 source:       IANA
 
 % IANA WHOIS server
@@ -9940,7 +9941,7 @@ address:      Barcelona 08002
 address:      Spain
 phone:        +34 936 75 03 54
 fax-no:       +34 936 75 03 54
-e-mail:       info@domini.cat
+e-mail:       iana@domini.cat
 
 contact:      technical
 name:         Werner Staub
@@ -9954,7 +9955,6 @@ e-mail:       dnsmaster@corenic.org
 
 nserver:      ANYC1.IRONDNS.NET 195.253.64.4 2a01:5b0:4:0:0:0:0:4
 nserver:      CAT.PCH.NET 2001:500:14:6020:ad:0:0:1 204.61.216.20
-nserver:      NS.NIC.CAT 2001:40b0:1:3:0:0:0:2 84.88.0.162
 nserver:      NS1.NIC.ES 194.69.254.1 2001:67c:21cc:2000:0:0:64:41
 nserver:      NSC.NIC.DE 194.0.11.110 2001:678:e:110:0:0:0:53
 nserver:      SWITCH.NIC.CAT 130.59.31.29 2001:620:0:ff:0:0:0:2f
@@ -9966,7 +9966,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.domini.cat
 
 created:      2005-12-19
-changed:      2020-01-15
+changed:      2024-03-01
 source:       IANA
 
 % IANA WHOIS server
@@ -10544,6 +10544,7 @@ nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
 nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
 nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
 ds-rdata:     53505 8 2 afc328685d96ea41036f4563042db2d7485c8ad9c790bd22111abd414bcafd17
+ds-rdata:     21814 8 2 9d6445887f736116b22a9c4cda34da82592146649482638fbc144651299bdeb4
 
 whois:        whois.nic.cfa
 
@@ -10551,7 +10552,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.cfainstitute.org
 
 created:      2015-04-16
-changed:      2020-10-01
+changed:      2024-03-06
 source:       IANA
 
 % IANA WHOIS server
@@ -11469,31 +11470,28 @@ source:       IANA
 domain:       CITIC
 
 organisation: CITIC Group Corporation
-address:      Capital Mansion,6 Xinyuannanlu
-address:      Chaoyang District
-address:      Beijing 100004
+address:      95 Floor,CITIC Tower,No.10 Guanghualu,Chaoyang District
+address:      Beijing 100020
 address:      China
 
 contact:      administrative
 name:         Xiaohui Ji
 organisation: CITIC Group Corporation
-address:      Capital Mansion,6 Xinyuannanlu
-address:      Chaoyang District
-address:      Beijing 100004
+address:      95 Floor,CITIC Tower,No.10 Guanghualu,Chaoyang District
+address:      Beijing 100020
 address:      China
-phone:        86 10 59661088
-fax-no:       86 10 59660088
+phone:        +861059661088
+fax-no:       +861059660088
 e-mail:       jixh@citic.com
 
 contact:      technical
 name:         Jichao Fei
 organisation: CITIC Group Corporation
-address:      Capital Mansion,6 Xinyuannanlu
-address:      Chaoyang District
-address:      Beijing 100004
+address:      95 Floor,CITIC Tower,No.10 Guanghualu,Chaoyang District
+address:      Beijing 100020
 address:      China
-phone:        86 10 59661013
-fax-no:       86 10 59660013
+phone:        +861059661013
+fax-no:       +861059660013
 e-mail:       feijc@citic.com
 
 nserver:      A.ZDNSCLOUD.COM 203.99.24.1
@@ -11505,6 +11503,7 @@ nserver:      G.ZDNSCLOUD.COM 42.62.2.16
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     12331 8 2 cdbfc9f67e7f97e1759bf1bcaa26c853bc5dde881551e1fa4a633e8bd6b8c9bd
+ds-rdata:     40391 8 2 7ca2fece772e8398fbf071ecbb433e716f56ea88eda63ec81384913dd736648d
 
 whois:        
 
@@ -11512,7 +11511,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2014-04-17
-changed:      2022-12-08
+changed:      2024-03-04
 source:       IANA
 
 % IANA WHOIS server
@@ -12088,6 +12087,7 @@ nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
 nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
 nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
 ds-rdata:     2823 8 2 49afa8257aef277eadce81a3b3712be90aec8a22363b302884acf373eadadf0c
+ds-rdata:     21826 8 2 5baa5f5647baef29365e3f37d0914e0abe5f4d62afca9cf59863fb94aa5964e7
 
 whois:        whois.nic.clubmed
 
@@ -12095,7 +12095,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2015-09-24
-changed:      2020-10-01
+changed:      2024-03-06
 source:       IANA
 
 % IANA WHOIS server
@@ -17191,10 +17191,10 @@ ds-rdata:     34597 8 2 bce820d516cfe81df04c38fbcb7cf80c2eccc473b57a295948fa50ac
 whois:        whois.nic.eco
 
 status:       ACTIVE
-remarks:      Registration information: https://www.bigroom.eco
+remarks:      Registration information: https://go.eco
 
 created:      2016-08-18
-changed:      2024-02-09
+changed:      2024-03-06
 source:       IANA
 
 % IANA WHOIS server
@@ -20045,6 +20045,7 @@ nserver:      NS2.FJ 144.120.146.65 2402:2940:100:100d:0:0:0:1
 nserver:      NS3.FJ 185.38.108.108
 nserver:      NS4.FJ 185.28.194.194
 nserver:      NS5.FJ 2001:500:14:6138:ad:0:0:1 204.61.216.138
+ds-rdata:     49279 8 2 8c0eb5586196ae081e070fc7e8289979cd124da063db1193ba8dee0e9a670420
 
 whois:        www.whois.fj
 
@@ -20052,7 +20053,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.domains.fj/
 
 created:      1992-06-03
-changed:      2024-02-28
+changed:      2024-02-29
 source:       IANA
 
 % IANA WHOIS server
@@ -22389,6 +22390,7 @@ nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
 nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
 nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
 ds-rdata:     22539 8 2 983fdbfbba09945a8da7feacb64460fa801f4a3481d83fa9e1257fc92ed206a3
+ds-rdata:     34012 8 2 edefc992a1962e973126b51f53a920da4c0caafe53491bd1dd768c440770961e
 
 whois:        whois.nic.genting
 
@@ -22396,7 +22398,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.genting/
 
 created:      2015-06-11
-changed:      2020-10-01
+changed:      2024-03-06
 source:       IANA
 
 % IANA WHOIS server
@@ -24543,44 +24545,13 @@ source:       IANA
 
 domain:       GUARDIAN
 
-organisation: The Guardian Life Insurance Company of America
-address:      7 Hanover Square
-address:      New York NY 10004
-address:      United States of America (the)
-
-contact:      administrative
-name:         Managing Partner
-organisation: FairWinds Partners LLC
-address:      1000 Potomac Street NW #350
-address:      Washington DC 20007
-address:      United States of America (the)
-phone:        202 223 9252
-fax-no:       202 223 9256
-e-mail:       guardianregistry@fairwindspartners.com
-
-contact:      technical
-name:         Bonnie Bryant
-organisation: Verisign, Inc.
-address:      12061 Bluemont Way
-address:      Reston VA 20190
-address:      United States of America (the)
-phone:        +1-703-925-6999
-fax-no:       +1-703-948-3978
-e-mail:       info@verisign-grs.com
-
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
-ds-rdata:     5751 8 2 11ecdf54b3e2e3e14ce6b189827eb40d28d743708b8d461d00074046bc4b552f
-
 whois:        
 
-status:       ACTIVE
+status:       FORMER
 remarks:      Registration information: 
 
 created:      2016-04-14
-changed:      2020-10-01
+changed:      2024-03-05
 source:       IANA
 
 % IANA WHOIS server
@@ -29656,6 +29627,7 @@ fax-no:       +962 6 5861059
 e-mail:       TechCCtld@modee.gov.jo
 
 nserver:      AMRA.NIC.GOV.JO 193.188.66.103
+nserver:      CLOUDNS.NIC.NET.JO 2a05:d018:123c:3500:3e00:7185:3a6e:e082 54.155.28.251
 nserver:      JO.CCTLD.AUTHDNS.RIPE.NET 193.0.9.83 2001:67c:e0:0:0:0:0:83
 nserver:      JORDAN1ST.NIC.GOV.JO 193.188.69.19 2a02:9c0:0:19:0:0:0:19
 nserver:      PETRA.NIC.GOV.JO 193.188.66.2
@@ -29667,7 +29639,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.dns.jo
 
 created:      1994-11-23
-changed:      2024-02-26
+changed:      2024-03-04
 source:       IANA
 
 % IANA WHOIS server
@@ -34832,6 +34804,7 @@ nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
 nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
 nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
 ds-rdata:     48459 8 2 e44bc6e7cba1624a5f16941f1d53fe470a3a7da4b1c592878d1b32e8ebef667c
+ds-rdata:     23521 8 2 9ba0fe20840ece2ff7793f00a66ce5457904d0549526c8454b0cfec4a697b59c
 
 whois:        
 
@@ -34839,7 +34812,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.maif.fr
 
 created:      2015-02-13
-changed:      2020-10-01
+changed:      2024-03-06
 source:       IANA
 
 % IANA WHOIS server
@@ -36080,13 +36053,13 @@ nserver:      Z.NIC.MERCKMSD 156.154.174.82 2610:a1:1076:0:0:0:1:82
 ds-rdata:     23340 8 2 f6643d8ae9760f8033a5a14b231851cedff97429ef22514cfcb1ba625eac86a4
 ds-rdata:     5134 8 2 f4c8e4ac4a227663517fb28feaa416635cc013ccab079eceda756a89541baaba
 
-whois:        
+whois:        whois.nic.merckmsd
 
 status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2017-06-15
-changed:      2024-02-22
+changed:      2024-03-06
 source:       IANA
 
 % IANA WHOIS server
@@ -37882,13 +37855,13 @@ nserver:      Z.NIC.MSD 156.154.174.82 2610:a1:1076:0:0:0:1:82
 ds-rdata:     30849 8 2 8560961fd5e191d49b2461180f7edc509e10689f85ed595ad111956bc81ff9a2
 ds-rdata:     23659 8 2 81de1bcc17ae524ceeabd94382ff3aa6bfd61804332e511b44ea5ab06ec6f52a
 
-whois:        
+whois:        whois.nic.msd
 
 status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2016-06-24
-changed:      2024-02-22
+changed:      2024-03-06
 source:       IANA
 
 % IANA WHOIS server
@@ -41490,6 +41463,7 @@ nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
 nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
 nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
 ds-rdata:     44385 8 2 54957bdf3921ca2d50bb340e042605f8d39ee91ca2a08a37424ce88882c4fe1a
+ds-rdata:     10282 8 2 5719fca748be7253d9b0c4cd2c07454768bf9f5411e940ba7ec7d4954e55582c
 
 whois:        whois.nic.orange
 
@@ -41497,7 +41471,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2015-06-18
-changed:      2020-10-01
+changed:      2024-03-06
 source:       IANA
 
 % IANA WHOIS server
@@ -51652,6 +51626,7 @@ nserver:      G.ZDNSCLOUD.COM 42.62.2.16
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     25066 8 2 ce87e0735a424d4601fdb8d7691ff1b916c54c6ce367a9a66cce7f88ec8a9e97
+ds-rdata:     61396 8 2 44f80a22b60d8c7a4e02d5c1b57af36da11d0cefe4320e588e20dcd4b2a80f09
 
 whois:        
 
@@ -51659,7 +51634,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2014-02-27
-changed:      2022-12-08
+changed:      2024-02-29
 source:       IANA
 
 % IANA WHOIS server
@@ -57489,6 +57464,7 @@ nserver:      G.ZDNSCLOUD.COM 42.62.2.16
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     51527 8 2 79fe987f5edef21f8afc9a56dfe663d4b6ae8e2b046f82ea092571b6b2871d96
+ds-rdata:     28037 8 2 3b3e219bab1692507eb991da755f11ef1920d5f3402b4e9ab28cf86156948967
 
 whois:        whois.nic.unicom
 
@@ -57496,7 +57472,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.chinaunicom.cn
 
 created:      2016-01-22
-changed:      2022-12-08
+changed:      2024-03-04
 source:       IANA
 
 % IANA WHOIS server
@@ -59674,6 +59650,7 @@ nserver:      G.ZDNSCLOUD.COM 42.62.2.16
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     20969 8 2 e686eb5367b243e5dfd5c5faadb23b0a52172b9cf5c72b28836be2af9402dadd
+ds-rdata:     19549 8 2 328b02976180a88840e22a052b3d03c8ce7b67609b7cc1840e0e0fe71a3e8e8e
 
 whois:        whois.gtld.knet.cn
 
@@ -59681,7 +59658,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.zodiacregistry.com
 
 created:      2013-12-12
-changed:      2022-12-08
+changed:      2024-02-29
 source:       IANA
 
 % IANA WHOIS server
@@ -60301,6 +60278,7 @@ nserver:      E.EXT.NIC.FR 193.176.144.22 2a00:d78:0:102:193:176:144:22
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
 ds-rdata:     18393 13 2 c67316fa4c43d54d07c93074eddb7914346c4132726a258cd2acc3d4877081e5
+ds-rdata:     19250 13 2 6fa97d147253c2afb0cfcf18edb8c97e592d05e0845b6c644c3793fed8a756dd
 
 whois:        whois.nic.wf
 
@@ -60308,7 +60286,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.wf
 
 created:      1997-11-14
-changed:      2022-10-04
+changed:      2024-03-04
 source:       IANA
 
 % IANA WHOIS server
@@ -61631,7 +61609,7 @@ nserver:      F.ZDNSCLOUD.COM 114.67.16.204
 nserver:      G.ZDNSCLOUD.COM 42.62.2.16
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
-ds-rdata:     42247 8 2 339254f4939c992790a50b1d257ea5c50bf4fc30f9d7b55a0fe875885af8bb7a
+ds-rdata:     44210 8 2 ca8c1b37378e7eba858c4fe9bad7bd6748e70da47639c3a0e31db1f71f66f467
 
 whois:        whois.gtld.knet.cn
 
@@ -61639,7 +61617,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.newgtld.cn
 
 created:      2015-03-12
-changed:      2022-12-08
+changed:      2024-03-06
 source:       IANA
 
 % IANA WHOIS server
@@ -61682,7 +61660,7 @@ nserver:      F.ZDNSCLOUD.COM 114.67.16.204
 nserver:      G.ZDNSCLOUD.COM 42.62.2.16
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
-ds-rdata:     11479 8 2 7881a662f41e0d4b2133e66229672677147a22a8eca1d1d02db93ecdb127d895
+ds-rdata:     35945 8 2 5a563eded23044a6c1b623a011123e7ad260b656f89301f500d7fcd04223a801
 
 whois:        whois.gtld.knet.cn
 
@@ -61690,7 +61668,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.newgtld.cn
 
 created:      2013-12-12
-changed:      2022-12-08
+changed:      2024-03-06
 source:       IANA
 
 % IANA WHOIS server
@@ -62073,6 +62051,7 @@ nserver:      G.ZDNSCLOUD.COM 42.62.2.16
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     46399 8 2 65907e5274d504536003bc4c24ac8d4907d0a7018996ffda5b7f46e8bd9825ba
+ds-rdata:     21806 8 2 622cfb958a0ee383c82ce227dfed29b054b4db76b914ccf5d65703b41da6d536
 
 whois:        whois.gtld.knet.cn
 
@@ -62080,7 +62059,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.bagua.wang
 
 created:      2014-11-06
-changed:      2022-12-08
+changed:      2024-02-29
 source:       IANA
 
 % IANA WHOIS server
@@ -62526,7 +62505,7 @@ nserver:      F.ZDNSCLOUD.COM 114.67.16.204
 nserver:      G.ZDNSCLOUD.COM 42.62.2.16
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
-ds-rdata:     30406 8 2 a9b0f70f49b9e0819d93e5e98d1a24499ed86dc201c15d77eaf1ecbbf7c6d2ae
+ds-rdata:     54794 8 2 04db2d2f9cab81d80fd8f7062b4e2a42a99f9fdf172a90039c30e4a6b9a844df
 
 whois:        whois.gtld.knet.cn
 
@@ -62534,7 +62513,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.newgtld.cn
 
 created:      2013-12-12
-changed:      2022-12-08
+changed:      2024-03-06
 source:       IANA
 
 % IANA WHOIS server
@@ -62788,6 +62767,7 @@ nserver:      G.ZDNSCLOUD.COM 42.62.2.16
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     44995 8 2 75ec90f39171d405cb5d609ab0c62f21b2c53da70d28d642d226121a4dc9a917
+ds-rdata:     57167 8 2 2596d4a370097ac33133e16b582ce273752f50086f0a9b87645d8cc9aeaca992
 
 whois:        whois.nic.xn--8y0a063a
 
@@ -62795,7 +62775,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.chinaunicom.cn
 
 created:      2015-12-10
-changed:      2022-12-08
+changed:      2024-03-04
 source:       IANA
 
 % IANA WHOIS server
@@ -63030,7 +63010,7 @@ nserver:      F.ZDNSCLOUD.COM 114.67.16.204
 nserver:      G.ZDNSCLOUD.COM 42.62.2.16
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
-ds-rdata:     769 8 2 2bae7ba36ea94541b8bc12188eb1aa933b5081cc281909cc5874af2ebeebae96
+ds-rdata:     46544 8 2 0310cad1673a9aeca7a4eb6c955ea0bebefd87c77c702772e94aa0eb31cb82d3
 
 whois:        whois.gtld.knet.cn
 
@@ -63038,7 +63018,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.newgtld.cn
 
 created:      2015-03-12
-changed:      2023-01-18
+changed:      2024-03-06
 source:       IANA
 
 % IANA WHOIS server
@@ -63635,6 +63615,7 @@ nserver:      G.ZDNSCLOUD.COM 42.62.2.16
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     995 8 2 c37db96801455f34fc09b824107a81b4df13f273e00d1ef24b73986df0eda81c
+ds-rdata:     62552 8 2 a9400022e8ac90989aa6a0ecd9003dadc0902982336bafba4ce68e0fb15a8391
 
 whois:        whois.gtld.knet.cn
 
@@ -63642,7 +63623,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.shangcheng.wang
 
 created:      2014-02-27
-changed:      2022-12-08
+changed:      2024-02-29
 source:       IANA
 
 % IANA WHOIS server
@@ -64041,31 +64022,28 @@ domain:       中信
 domain-ace:   XN--FIQ64B
 
 organisation: CITIC Group Corporation
-address:      Capital Mansion,6 Xinyuannanlu
-address:      Chaoyang District
-address:      Beijing 100004
+address:      95 Floor,CITIC Tower,No.10 Guanghualu,Chaoyang District
+address:      Beijing 100020
 address:      China
 
 contact:      administrative
 name:         Xiaohui Ji
 organisation: CITIC Group Corporation
-address:      Capital Mansion,6 Xinyuannanlu
-address:      Chaoyang District
-address:      Beijing 100004
+address:      95 Floor,CITIC Tower,No.10 Guanghualu,Chaoyang District
+address:      Beijing 100020
 address:      China
-phone:        86 10 59661088
-fax-no:       86 10 59660088
+phone:        +861059661088
+fax-no:       +861059660088
 e-mail:       jixh@citic.com
 
 contact:      technical
 name:         Jichao Fei
 organisation: CITIC Group Corporation
-address:      Capital Mansion,6 Xinyuannanlu
-address:      Chaoyang District
-address:      Beijing 100004
+address:      95 Floor,CITIC Tower,No.10 Guanghualu,Chaoyang District
+address:      Beijing 100020
 address:      China
-phone:        86 10 59661013
-fax-no:       86 10 59660013
+phone:        +861059661013
+fax-no:       +861059660013
 e-mail:       feijc@citic.com
 
 nserver:      A.ZDNSCLOUD.COM 203.99.24.1
@@ -64077,6 +64055,7 @@ nserver:      G.ZDNSCLOUD.COM 42.62.2.16
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     38824 8 2 2de6674a0eb17276f0e601cbd11a42a23fa04016329f0fa30a80df7c6a5625f2
+ds-rdata:     9361 8 2 68ad16c70c11245f8efbc2798b069d8983ae1b2f3dd5e0fa65a8f386da1b9042
 
 whois:        whois.gtld.knet.cn
 
@@ -64084,7 +64063,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2014-01-09
-changed:      2022-12-08
+changed:      2024-03-04
 source:       IANA
 
 % IANA WHOIS server
@@ -64824,6 +64803,7 @@ nserver:      G.ZDNSCLOUD.COM 42.62.2.16
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     36091 8 2 d5bc5cf399deadce2782f1d21051a13787822441ea5850f69189960974c9eb95
+ds-rdata:     59966 8 2 307e3f825424a5378d0069150e670e339c5beb63052166013cc43c72ef79f489
 
 whois:        whois.gtld.knet.cn
 
@@ -64831,7 +64811,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.wangdian.wang
 
 created:      2014-11-20
-changed:      2022-12-08
+changed:      2024-02-29
 source:       IANA
 
 % IANA WHOIS server
@@ -67888,6 +67868,7 @@ nserver:      G.ZDNSCLOUD.COM 42.62.2.16
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     57266 8 2 a3c057a22744eb0ff0518d51e55b1271dab9d39391b55edc98443b22882b1c0c
+ds-rdata:     34994 8 2 5ef0d396751ede7d6b87b3dda8d9ecc7883a45b21c1a8d60fbf0ff92b5c2c445
 
 whois:        whois.nic.xn--ses554g
 
@@ -67895,7 +67876,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.xn--ses554g/
 
 created:      2014-03-13
-changed:      2022-12-08
+changed:      2024-03-04
 source:       IANA
 
 % IANA WHOIS server

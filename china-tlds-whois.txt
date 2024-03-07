@@ -138,6 +138,7 @@ nserver:      G.ZDNSCLOUD.COM 42.62.2.16
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     63817 8 2 13605ebd9736b66b1eb3b2db5865ca66b5efd2be720087fe4441039f3aa4cf3d
+ds-rdata:     23825 8 2 7daede4b986a05b32cd3698ce14d0a0866d12a2ab955b8dc3659d25d7ad65cbe
 
 whois:        whois.gtld.knet.cn
 
@@ -145,7 +146,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.zdns.cn
 
 created:      2015-12-17
-changed:      2022-12-08
+changed:      2024-02-29
 source:       IANA
 
 % IANA WHOIS server
@@ -155,31 +156,28 @@ source:       IANA
 domain:       CITIC
 
 organisation: CITIC Group Corporation
-address:      Capital Mansion,6 Xinyuannanlu
-address:      Chaoyang District
-address:      Beijing 100004
+address:      95 Floor,CITIC Tower,No.10 Guanghualu,Chaoyang District
+address:      Beijing 100020
 address:      China
 
 contact:      administrative
 name:         Xiaohui Ji
 organisation: CITIC Group Corporation
-address:      Capital Mansion,6 Xinyuannanlu
-address:      Chaoyang District
-address:      Beijing 100004
+address:      95 Floor,CITIC Tower,No.10 Guanghualu,Chaoyang District
+address:      Beijing 100020
 address:      China
-phone:        86 10 59661088
-fax-no:       86 10 59660088
+phone:        +861059661088
+fax-no:       +861059660088
 e-mail:       jixh@citic.com
 
 contact:      technical
 name:         Jichao Fei
 organisation: CITIC Group Corporation
-address:      Capital Mansion,6 Xinyuannanlu
-address:      Chaoyang District
-address:      Beijing 100004
+address:      95 Floor,CITIC Tower,No.10 Guanghualu,Chaoyang District
+address:      Beijing 100020
 address:      China
-phone:        86 10 59661013
-fax-no:       86 10 59660013
+phone:        +861059661013
+fax-no:       +861059660013
 e-mail:       feijc@citic.com
 
 nserver:      A.ZDNSCLOUD.COM 203.99.24.1
@@ -191,6 +189,7 @@ nserver:      G.ZDNSCLOUD.COM 42.62.2.16
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     12331 8 2 cdbfc9f67e7f97e1759bf1bcaa26c853bc5dde881551e1fa4a633e8bd6b8c9bd
+ds-rdata:     40391 8 2 7ca2fece772e8398fbf071ecbb433e716f56ea88eda63ec81384913dd736648d
 
 whois:        
 
@@ -198,7 +197,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2014-04-17
-changed:      2022-12-08
+changed:      2024-03-04
 source:       IANA
 
 % IANA WHOIS server
@@ -1275,6 +1274,7 @@ nserver:      G.ZDNSCLOUD.COM 42.62.2.16
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     25066 8 2 ce87e0735a424d4601fdb8d7691ff1b916c54c6ce367a9a66cce7f88ec8a9e97
+ds-rdata:     61396 8 2 44f80a22b60d8c7a4e02d5c1b57af36da11d0cefe4320e588e20dcd4b2a80f09
 
 whois:        
 
@@ -1282,7 +1282,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2014-02-27
-changed:      2022-12-08
+changed:      2024-02-29
 source:       IANA
 
 % IANA WHOIS server
@@ -1380,6 +1380,7 @@ nserver:      G.ZDNSCLOUD.COM 42.62.2.16
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     51527 8 2 79fe987f5edef21f8afc9a56dfe663d4b6ae8e2b046f82ea092571b6b2871d96
+ds-rdata:     28037 8 2 3b3e219bab1692507eb991da755f11ef1920d5f3402b4e9ab28cf86156948967
 
 whois:        whois.nic.unicom
 
@@ -1387,7 +1388,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.chinaunicom.cn
 
 created:      2016-01-22
-changed:      2022-12-08
+changed:      2024-03-04
 source:       IANA
 
 % IANA WHOIS server
@@ -1433,6 +1434,7 @@ nserver:      G.ZDNSCLOUD.COM 42.62.2.16
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     20969 8 2 e686eb5367b243e5dfd5c5faadb23b0a52172b9cf5c72b28836be2af9402dadd
+ds-rdata:     19549 8 2 328b02976180a88840e22a052b3d03c8ce7b67609b7cc1840e0e0fe71a3e8e8e
 
 whois:        whois.gtld.knet.cn
 
@@ -1440,7 +1442,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.zodiacregistry.com
 
 created:      2013-12-12
-changed:      2022-12-08
+changed:      2024-02-29
 source:       IANA
 
 % IANA WHOIS server
@@ -1699,31 +1701,28 @@ domain:       中信
 domain-ace:   XN--FIQ64B
 
 organisation: CITIC Group Corporation
-address:      Capital Mansion,6 Xinyuannanlu
-address:      Chaoyang District
-address:      Beijing 100004
+address:      95 Floor,CITIC Tower,No.10 Guanghualu,Chaoyang District
+address:      Beijing 100020
 address:      China
 
 contact:      administrative
 name:         Xiaohui Ji
 organisation: CITIC Group Corporation
-address:      Capital Mansion,6 Xinyuannanlu
-address:      Chaoyang District
-address:      Beijing 100004
+address:      95 Floor,CITIC Tower,No.10 Guanghualu,Chaoyang District
+address:      Beijing 100020
 address:      China
-phone:        86 10 59661088
-fax-no:       86 10 59660088
+phone:        +861059661088
+fax-no:       +861059660088
 e-mail:       jixh@citic.com
 
 contact:      technical
 name:         Jichao Fei
 organisation: CITIC Group Corporation
-address:      Capital Mansion,6 Xinyuannanlu
-address:      Chaoyang District
-address:      Beijing 100004
+address:      95 Floor,CITIC Tower,No.10 Guanghualu,Chaoyang District
+address:      Beijing 100020
 address:      China
-phone:        86 10 59661013
-fax-no:       86 10 59660013
+phone:        +861059661013
+fax-no:       +861059660013
 e-mail:       feijc@citic.com
 
 nserver:      A.ZDNSCLOUD.COM 203.99.24.1
@@ -1735,6 +1734,7 @@ nserver:      G.ZDNSCLOUD.COM 42.62.2.16
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     38824 8 2 2de6674a0eb17276f0e601cbd11a42a23fa04016329f0fa30a80df7c6a5625f2
+ds-rdata:     9361 8 2 68ad16c70c11245f8efbc2798b069d8983ae1b2f3dd5e0fa65a8f386da1b9042
 
 whois:        whois.gtld.knet.cn
 
@@ -1742,7 +1742,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2014-01-09
-changed:      2022-12-08
+changed:      2024-03-04
 source:       IANA
 
 % IANA WHOIS server
@@ -2090,6 +2090,7 @@ nserver:      G.ZDNSCLOUD.COM 42.62.2.16
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     46399 8 2 65907e5274d504536003bc4c24ac8d4907d0a7018996ffda5b7f46e8bd9825ba
+ds-rdata:     21806 8 2 622cfb958a0ee383c82ce227dfed29b054b4db76b914ccf5d65703b41da6d536
 
 whois:        whois.gtld.knet.cn
 
@@ -2097,7 +2098,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.bagua.wang
 
 created:      2014-11-06
-changed:      2022-12-08
+changed:      2024-02-29
 source:       IANA
 
 % IANA WHOIS server
@@ -2249,6 +2250,7 @@ nserver:      G.ZDNSCLOUD.COM 42.62.2.16
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     995 8 2 c37db96801455f34fc09b824107a81b4df13f273e00d1ef24b73986df0eda81c
+ds-rdata:     62552 8 2 a9400022e8ac90989aa6a0ecd9003dadc0902982336bafba4ce68e0fb15a8391
 
 whois:        whois.gtld.knet.cn
 
@@ -2256,7 +2258,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.shangcheng.wang
 
 created:      2014-02-27
-changed:      2022-12-08
+changed:      2024-02-29
 source:       IANA
 
 % IANA WHOIS server
@@ -2596,7 +2598,7 @@ nserver:      F.ZDNSCLOUD.COM 114.67.16.204
 nserver:      G.ZDNSCLOUD.COM 42.62.2.16
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
-ds-rdata:     42247 8 2 339254f4939c992790a50b1d257ea5c50bf4fc30f9d7b55a0fe875885af8bb7a
+ds-rdata:     44210 8 2 ca8c1b37378e7eba858c4fe9bad7bd6748e70da47639c3a0e31db1f71f66f467
 
 whois:        whois.gtld.knet.cn
 
@@ -2604,7 +2606,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.newgtld.cn
 
 created:      2015-03-12
-changed:      2022-12-08
+changed:      2024-03-06
 source:       IANA
 
 % IANA WHOIS server
@@ -2647,7 +2649,7 @@ nserver:      F.ZDNSCLOUD.COM 114.67.16.204
 nserver:      G.ZDNSCLOUD.COM 42.62.2.16
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
-ds-rdata:     30406 8 2 a9b0f70f49b9e0819d93e5e98d1a24499ed86dc201c15d77eaf1ecbbf7c6d2ae
+ds-rdata:     54794 8 2 04db2d2f9cab81d80fd8f7062b4e2a42a99f9fdf172a90039c30e4a6b9a844df
 
 whois:        whois.gtld.knet.cn
 
@@ -2655,7 +2657,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.newgtld.cn
 
 created:      2013-12-12
-changed:      2022-12-08
+changed:      2024-03-06
 source:       IANA
 
 % IANA WHOIS server
@@ -2903,7 +2905,7 @@ nserver:      F.ZDNSCLOUD.COM 114.67.16.204
 nserver:      G.ZDNSCLOUD.COM 42.62.2.16
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
-ds-rdata:     769 8 2 2bae7ba36ea94541b8bc12188eb1aa933b5081cc281909cc5874af2ebeebae96
+ds-rdata:     46544 8 2 0310cad1673a9aeca7a4eb6c955ea0bebefd87c77c702772e94aa0eb31cb82d3
 
 whois:        whois.gtld.knet.cn
 
@@ -2911,7 +2913,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.newgtld.cn
 
 created:      2015-03-12
-changed:      2023-01-18
+changed:      2024-03-06
 source:       IANA
 
 % IANA WHOIS server
@@ -3009,6 +3011,7 @@ nserver:      G.ZDNSCLOUD.COM 42.62.2.16
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     57266 8 2 a3c057a22744eb0ff0518d51e55b1271dab9d39391b55edc98443b22882b1c0c
+ds-rdata:     34994 8 2 5ef0d396751ede7d6b87b3dda8d9ecc7883a45b21c1a8d60fbf0ff92b5c2c445
 
 whois:        whois.nic.xn--ses554g
 
@@ -3016,7 +3019,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.xn--ses554g/
 
 created:      2014-03-13
-changed:      2022-12-08
+changed:      2024-03-04
 source:       IANA
 
 % IANA WHOIS server
@@ -3061,6 +3064,7 @@ nserver:      G.ZDNSCLOUD.COM 42.62.2.16
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     36091 8 2 d5bc5cf399deadce2782f1d21051a13787822441ea5850f69189960974c9eb95
+ds-rdata:     59966 8 2 307e3f825424a5378d0069150e670e339c5beb63052166013cc43c72ef79f489
 
 whois:        whois.gtld.knet.cn
 
@@ -3068,7 +3072,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.wangdian.wang
 
 created:      2014-11-20
-changed:      2022-12-08
+changed:      2024-02-29
 source:       IANA
 
 % IANA WHOIS server
@@ -3218,6 +3222,7 @@ nserver:      G.ZDNSCLOUD.COM 42.62.2.16
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     44995 8 2 75ec90f39171d405cb5d609ab0c62f21b2c53da70d28d642d226121a4dc9a917
+ds-rdata:     57167 8 2 2596d4a370097ac33133e16b582ce273752f50086f0a9b87645d8cc9aeaca992
 
 whois:        whois.nic.xn--8y0a063a
 
@@ -3225,7 +3230,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.chinaunicom.cn
 
 created:      2015-12-10
-changed:      2022-12-08
+changed:      2024-03-04
 source:       IANA
 
 % IANA WHOIS server
@@ -3317,7 +3322,7 @@ nserver:      F.ZDNSCLOUD.COM 114.67.16.204
 nserver:      G.ZDNSCLOUD.COM 42.62.2.16
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
-ds-rdata:     11479 8 2 7881a662f41e0d4b2133e66229672677147a22a8eca1d1d02db93ecdb127d895
+ds-rdata:     35945 8 2 5a563eded23044a6c1b623a011123e7ad260b656f89301f500d7fcd04223a801
 
 whois:        whois.gtld.knet.cn
 
@@ -3325,7 +3330,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.newgtld.cn
 
 created:      2013-12-12
-changed:      2022-12-08
+changed:      2024-03-06
 source:       IANA
 
 % IANA WHOIS server

@@ -1966,9 +1966,8 @@ e-mail:       contact@mondomaine.alsace
 contact:      technical
 name:         TLD Technical Contact
 organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
-address:      Immeuble Le Stephenson
-address:      1, rue Stephenson
-address:      Montigny-Le-Bretonneux 78180
+address:      7, avenue du 8 mai 1945
+address:      Guyancourt 78280
 address:      France
 phone:        +33 1 39 30 83 00
 fax-no:       +33 1 39 30 83 01
@@ -1985,7 +1984,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.mondomaine.alsace
 
 created:      2014-09-18
-changed:      2022-07-27
+changed:      2024-03-11
 source:       IANA
 
 % IANA WHOIS server
@@ -4532,7 +4531,7 @@ address:      Beijing
 address:      China
 
 contact:      administrative
-name:         Nannan Xu
+name:         Yuchen Wang
 organisation: Baidu, Inc.
 address:      Baidu Campus, No.10 Shangdi 10th Street
 address:      Haidian District
@@ -4540,7 +4539,7 @@ address:      Beijing
 address:      China
 phone:        +86 188 1064 7965
 fax-no:       +86 10 5992 0062
-e-mail:       xunannan02@baidu.com
+e-mail:       wangyuchen08@baidu.com
 
 contact:      technical
 name:         Gao Lei
@@ -4569,7 +4568,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.zdns.cn
 
 created:      2015-12-17
-changed:      2024-02-29
+changed:      2024-03-11
 source:       IANA
 
 % IANA WHOIS server
@@ -6942,13 +6941,13 @@ nserver:      C0.BM.AFILIAS-NST.INFO 199.254.61.9 2001:500:27:0:0:0:0:9
 nserver:      D0.BM.AFILIAS-NST.ORG 199.254.62.9 2001:500:28:0:0:0:0:9
 ds-rdata:     37810 8 2 e3e102b0b9334884c32ba5ee04c628e94d9d66b9026287109066ebeeecfebc20
 
-whois:        
+whois:        whois.nic.bm
 
 status:       ACTIVE
 remarks:      Registration information: http://www.bermudanic.bm
 
 created:      1993-03-31
-changed:      2020-09-29
+changed:      2024-03-11
 source:       IANA
 
 % IANA WHOIS server
@@ -7638,9 +7637,8 @@ e-mail:       tldbostik@safebrands.com
 contact:      technical
 name:         TLD Technical Contact
 organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
-address:      Immeuble Le Stephenson
-address:      1, rue Stephenson
-address:      Montigny-Le-Bretonneux 78180
+address:      7, avenue du 8 mai 1945
+address:      Guyancourt 78280
 address:      France
 phone:        +33 1 39 30 83 00
 fax-no:       +33 1 39 30 83 01
@@ -7657,7 +7655,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.bostik.com
 
 created:      2015-11-06
-changed:      2022-07-28
+changed:      2024-03-12
 source:       IANA
 
 % IANA WHOIS server
@@ -13263,9 +13261,8 @@ e-mail:       support@puntu.corsica
 contact:      technical
 name:         TLD Technical Contact
 organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
-address:      Immeuble Le Stephenson
-address:      1, rue Stephenson
-address:      Montigny-Le-Bretonneux 78180
+address:      7, avenue du 8 mai
+address:      Guyancourt 78280
 address:      France
 phone:        +33 1 39 30 83 00
 fax-no:       +33 1 39 30 83 01
@@ -13279,10 +13276,10 @@ ds-rdata:     16766 13 2 fb25f2d69835bf52cd5389473cd4b0c58d581385ee40b1d1a357135
 whois:        whois.nic.corsica
 
 status:       ACTIVE
-remarks:      Registration information: https://www.puntu.corsica
+remarks:      Registration information: https://puntu.corsica
 
 created:      2015-04-23
-changed:      2022-08-23
+changed:      2024-03-11
 source:       IANA
 
 % IANA WHOIS server
@@ -19225,6 +19222,7 @@ nserver:      B.NIC.FEEDBACK 185.24.64.50 2a04:2b00:13cc:0:0:0:1:50
 nserver:      C.NIC.FEEDBACK 212.18.248.50 2a04:2b00:13ee:0:0:0:0:50
 nserver:      D.NIC.FEEDBACK 212.18.249.50 2a04:2b00:13ff:0:0:0:0:50
 ds-rdata:     16786 8 2 00f7f4b6df67dc7b828c14829884908ee92e57fe312ed483c43da299fa5ddae5
+ds-rdata:     37115 8 2 234ee176851a803e7cb19fafc25c1f2dc1090e119fcee44fa63140bd014c64f2
 
 whois:        whois.nic.feedback
 
@@ -19232,7 +19230,7 @@ status:       ACTIVE
 remarks:      Registration information: http://centralnic.com
 
 created:      2014-03-06
-changed:      2021-11-29
+changed:      2024-03-07
 source:       IANA
 
 % IANA WHOIS server
@@ -20807,6 +20805,7 @@ nserver:      B.NIC.FORUM 185.24.64.65 2a04:2b00:13cc:0:0:0:1:65
 nserver:      C.NIC.FORUM 212.18.248.65 2a04:2b00:13ee:0:0:0:0:65
 nserver:      D.NIC.FORUM 212.18.249.65 2a04:2b00:13ff:0:0:0:0:65
 ds-rdata:     9475 8 2 a53a95d8ab4105b83918a104f8828b1e0dddb48c290a8eff1960918e01eafae6
+ds-rdata:     12827 8 2 07ad0e47c13b5699efcbdf1a3717b66e2601748b09256173ff713b4d1346512c
 
 whois:        whois.nic.forum
 
@@ -20814,7 +20813,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.topspectrum.com
 
 created:      2015-06-11
-changed:      2021-10-12
+changed:      2024-03-07
 source:       IANA
 
 % IANA WHOIS server
@@ -20921,17 +20920,15 @@ source:       IANA
 domain:       FR
 
 organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
-address:      Immeuble Le Stephenson
-address:      1, rue Stephenson
-address:      Montigny-Le-Bretonneux 78180
+address:      7, avenue du 8 mai 1945
+address:      Guyancourt 78280
 address:      France
 
 contact:      administrative
 name:         TLD Admin Contact
 organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
-address:      Immeuble Le Stephenson
-address:      1, rue Stephenson
-address:      Montigny-Le-Bretonneux 78180
+address:      7, avenue du 8 mai 1945
+address:      Guyancourt 78280
 address:      France
 phone:        +33 1 39 30 83 05
 fax-no:       +33 1 39 30 83 01
@@ -20940,9 +20937,8 @@ e-mail:       tld-admin@nic.fr
 contact:      technical
 name:         TLD Technical Contact
 organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
-address:      Immeuble Le Stephenson
-address:      1, rue Stephenson
-address:      Montigny-Le-Bretonneux 78180
+address:      7, avenue du 8 mai 1945
+address:      Guyancourt 78280
 address:      France
 phone:        +33 1 39 30 83 00
 fax-no:       +33 1 39 30 83 01
@@ -20960,7 +20956,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.fr
 
 created:      1986-09-02
-changed:      2023-09-01
+changed:      2024-03-12
 source:       IANA
 
 % IANA WHOIS server
@@ -21348,8 +21344,8 @@ nserver:      A.NIC.FUN 194.169.218.72 2001:67c:13cc:0:0:0:1:72
 nserver:      B.NIC.FUN 185.24.64.72 2a04:2b00:13cc:0:0:0:1:72
 nserver:      E.NIC.FUN 212.18.248.72 2a04:2b00:13ee:0:0:0:0:72
 nserver:      F.NIC.FUN 212.18.249.72 2a04:2b00:13ff:0:0:0:0:72
-ds-rdata:     4594 8 1 e256d68d24212dd3355f3ae897504e47f847579c
 ds-rdata:     4594 8 2 58d070a391a5808da071de7234c293b2a4a32006f1ff152ccac45e2ee66c3891
+ds-rdata:     45055 8 2 5e45d3230400b1e80e5e2011e4d03e969fa89254b8a2a483d6f366b17357f957
 
 whois:        whois.nic.fun
 
@@ -21357,7 +21353,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.radix.website/
 
 created:      2016-11-30
-changed:      2024-02-08
+changed:      2024-03-11
 source:       IANA
 
 % IANA WHOIS server
@@ -24923,8 +24919,8 @@ nserver:      A.NIC.HAIR 194.169.218.117 2001:67c:13cc:0:0:0:1:117
 nserver:      B.NIC.HAIR 185.24.64.117 2a04:2b00:13cc:0:0:0:1:117
 nserver:      C.NIC.HAIR 212.18.248.117 2a04:2b00:13ee:0:0:0:0:117
 nserver:      D.NIC.HAIR 212.18.249.117 2a04:2b00:13ff:0:0:0:0:117
-ds-rdata:     30150 8 2 50cca06c1ed8718a9398f347566c5fa6773222e7b3f152847292a5697cd8a7dd
 ds-rdata:     39236 8 2 d8c88daa478496c4f99a8cb5cacb0746cdde2612e9668beb6f7d683ac220313b
+ds-rdata:     30070 8 2 70efc235a8da1ce4cafcb1fdfba2bd6115ad02b6062adebc6e8ab91ca3a6bd79
 
 whois:        whois.nic.hair
 
@@ -24932,7 +24928,7 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.hair/
 
 created:      2016-09-16
-changed:      2022-08-16
+changed:      2024-03-11
 source:       IANA
 
 % IANA WHOIS server
@@ -26397,8 +26393,8 @@ nserver:      A.NIC.HOST 194.169.218.53 2001:67c:13cc:0:0:0:1:53
 nserver:      B.NIC.HOST 185.24.64.53 2a04:2b00:13cc:0:0:0:1:53
 nserver:      E.NIC.HOST 212.18.248.53 2a04:2b00:13ee:0:0:0:0:53
 nserver:      F.NIC.HOST 212.18.249.53 2a04:2b00:13ff:0:0:0:0:53
-ds-rdata:     61142 8 1 86b9716c2e5daadc785ada27d4e8bfb190947d14
 ds-rdata:     61142 8 2 d15742398f5291b0e2642bee5da6ed6ef3f4497c65bac0f5a6c9c8ff495cf286
+ds-rdata:     1897 8 2 726c3c1baf1ba9853660e4d34270d42d1e8c50ec79a1843c7cb14fa1dc8f38f8
 
 whois:        whois.nic.host
 
@@ -26406,7 +26402,7 @@ status:       ACTIVE
 remarks:      Registration information: https://radix.website/
 
 created:      2014-05-22
-changed:      2024-02-07
+changed:      2024-03-11
 source:       IANA
 
 % IANA WHOIS server
@@ -28721,7 +28717,7 @@ nserver:      D.NIC.IS 194.146.106.58 2001:67c:1010:14:0:0:0:53
 nserver:      DURINN.RHNET.IS 130.208.16.20 2a00:c88:10:16:0:0:0:20
 nserver:      E.NIC.IS 194.0.25.41 2001:678:20:0:0:0:0:41
 nserver:      SUNIC.SUNET.SE 192.36.125.2 2001:6b0:7:0:0:0:0:2
-ds-rdata:     50437 8 2 9f52f1f92f1559e26dfdd71dad54db41acdd80f0150d974b08caf910d45e8b6e
+ds-rdata:     17566 8 2 d53c92eab2840fdea346dbc99900c032f47763762e10e95ce6b0a895ddcb6b4e
 
 whois:        whois.isnic.is
 
@@ -28729,7 +28725,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.isnic.is/
 
 created:      1987-11-18
-changed:      2024-01-16
+changed:      2024-03-08
 source:       IANA
 
 % IANA WHOIS server
@@ -30213,7 +30209,6 @@ nserver:      KENIC.ANYCASTDNS.CZ 185.28.194.194 185.38.108.108
 nserver:      MZIZI.KENIC.OR.KE 196.1.4.130 196.1.4.3 196.13.202.53 198.32.67.9 2001:43f8:10:0:50c0:a8ff:feee:30
 nserver:      NS-KE.AFRINIC.NET 196.216.168.22 2001:43f8:120:0:0:0:0:22
 nserver:      NS.ANYCAST.KENIC.OR.KE 2001:500:14:6007:ad:0:0:1 204.61.216.7
-nserver:      NS2KE.DNS.BUSINESS 147.135.106.237 2604:2dc0:200:2eb:0:0:0:237
 ds-rdata:     28886 8 2 19406c149df3db23a40a55194b87c7d78c9223427d4602b78b117ef20f072afd
 
 whois:        whois.kenic.or.ke
@@ -30222,7 +30217,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.kenic.or.ke
 
 created:      1993-04-29
-changed:      2023-03-17
+changed:      2024-03-11
 source:       IANA
 
 % IANA WHOIS server
@@ -31812,9 +31807,8 @@ address:      France
 contact:      administrative
 name:         Account Manager
 organisation: AFNIC
-address:      Immeuble Le Stephenson
-address:      1, rue Stephenson
-address:      Montigny-Le-Bretonneux 78180
+address:      7, avenue du 8 mai 1945
+address:      Guyancourt 78280
 address:      France
 phone:        +33 139308300
 fax-no:       +33 139308301
@@ -31823,9 +31817,8 @@ e-mail:       lancaster@afnic.fr
 contact:      technical
 name:         TLD Technical Contact
 organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
-address:      Immeuble Le Stephenson
-address:      1, rue Stephenson
-address:      Montigny-Le-Bretonneux 78180
+address:      7, avenue du 8 mai 1945
+address:      Guyancourt 78280
 address:      France
 phone:        +33 1 39 30 83 00
 fax-no:       +33 1 39 30 83 01
@@ -31842,7 +31835,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.lancaster.fr
 
 created:      2015-06-18
-changed:      2022-07-21
+changed:      2024-03-13
 source:       IANA
 
 % IANA WHOIS server
@@ -34812,7 +34805,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.maif.fr
 
 created:      2015-02-13
-changed:      2024-03-06
+changed:      2024-03-07
 source:       IANA
 
 % IANA WHOIS server
@@ -34899,8 +34892,8 @@ nserver:      A.NIC.MAKEUP 194.169.218.116 2001:67c:13cc:0:0:0:1:116
 nserver:      B.NIC.MAKEUP 185.24.64.116 2a04:2b00:13cc:0:0:0:1:116
 nserver:      C.NIC.MAKEUP 212.18.248.116 2a04:2b00:13ee:0:0:0:0:116
 nserver:      D.NIC.MAKEUP 212.18.249.116 2a04:2b00:13ff:0:0:0:0:116
-ds-rdata:     64251 8 2 d35bafb6c94ccfff2dd894b0b745c49c0717bcc5348ca5422b1a9405db1cafb8
 ds-rdata:     49310 8 2 335d21fa55d5e1e94ad51a0cd89e8bef3f034c5f842c2ad0a305abedb2603257
+ds-rdata:     34334 8 2 17b774be41d73e0e533db43f9ca06113284d7454cb3744726d09c46676d4532b
 
 whois:        whois.nic.makeup
 
@@ -34908,7 +34901,7 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.makeup/
 
 created:      2015-12-23
-changed:      2022-08-16
+changed:      2024-03-11
 source:       IANA
 
 % IANA WHOIS server
@@ -37201,7 +37194,6 @@ nserver:      C.NIC.MONASH 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      X.NIC.MONASH 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.MONASH 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.MONASH 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     59965 8 2 d344b67791659d1f21f6181494a347040694c757c57a8d76cbccfd00caa1348f
 ds-rdata:     58609 8 2 c0713dbc0879e96bacce82a9e23928cf407dd5336121ca0931cc93d193050b42
 
 whois:        whois.nic.monash
@@ -37210,7 +37202,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.monash
 
 created:      2014-01-09
-changed:      2023-09-27
+changed:      2024-03-13
 source:       IANA
 
 % IANA WHOIS server
@@ -37532,8 +37524,8 @@ nserver:      A.NIC.MOTORCYCLES 194.169.218.135 2001:67c:13cc:0:0:0:1:135
 nserver:      B.NIC.MOTORCYCLES 185.24.64.135 2a04:2b00:13cc:0:0:0:1:135
 nserver:      C.NIC.MOTORCYCLES 212.18.248.135 2a04:2b00:13ee:0:0:0:0:135
 nserver:      D.NIC.MOTORCYCLES 212.18.249.135 2a04:2b00:13ff:0:0:0:0:135
-ds-rdata:     21907 8 2 6aca9a367926ed9773d6feea4671eedf7bf4ddc8c08b7cd8fec415e9dbdfcc66
 ds-rdata:     4906 8 2 b200a2be6fcdbe18e128fcbf7f0e60f646b58f1d6c8842a9243c17aae03e74db
+ds-rdata:     34942 8 2 5a0f6d031f2eabcbc8c3501be933fa32def649ab1172b5c8c51c9be6f38d6c91
 
 whois:        whois.nic.motorcycles
 
@@ -37541,7 +37533,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.motorcycles
 
 created:      2014-05-01
-changed:      2022-08-16
+changed:      2024-03-11
 source:       IANA
 
 % IANA WHOIS server
@@ -37812,7 +37804,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.ms
 
 created:      1997-03-06
-changed:      2022-11-21
+changed:      2024-03-08
 source:       IANA
 
 % IANA WHOIS server
@@ -43747,17 +43739,15 @@ source:       IANA
 domain:       PM
 
 organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
-address:      Immeuble Le Stephenson
-address:      1, rue Stephenson
-address:      Montigny-Le-Bretonneux 78180
+address:      7, avenue du 8 mai 1945
+address:      Guyancourt 78280
 address:      France
 
 contact:      administrative
 name:         TLD Admin Contact
 organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
-address:      Immeuble Le Stephenson
-address:      1, rue Stephenson
-address:      Montigny-Le-Bretonneux 78180
+address:      7, avenue du 8 mai 1945
+address:      Guyancourt 78280
 address:      France
 phone:        +33 1 39 30 83 05
 fax-no:       +33 1 39 30 83 01
@@ -43766,9 +43756,8 @@ e-mail:       tld-admin@nic.fr
 contact:      technical
 name:         TLD Technical Contact
 organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
-address:      Immeuble Le Stephenson
-address:      1, rue Stephenson
-address:      Montigny-Le-Bretonneux 78180
+address:      7, avenue du 8 mai 1945
+address:      Guyancourt 78280
 address:      France
 phone:        +33 1 39 30 83 00
 fax-no:       +33 1 39 30 83 01
@@ -43786,7 +43775,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.pm
 
 created:      1997-08-20
-changed:      2022-10-04
+changed:      2024-03-12
 source:       IANA
 
 % IANA WHOIS server
@@ -44303,8 +44292,8 @@ nserver:      A.NIC.PRESS 194.169.218.34 2001:67c:13cc:0:0:0:1:34
 nserver:      B.NIC.PRESS 185.24.64.34 2a04:2b00:13cc:0:0:0:1:34
 nserver:      E.NIC.PRESS 212.18.248.34 2a04:2b00:13ee:0:0:0:0:34
 nserver:      F.NIC.PRESS 212.18.249.34 2a04:2b00:13ff:0:0:0:0:34
-ds-rdata:     4289 8 1 2efc540d13139b56fc1041247b275bc5cc6de009
 ds-rdata:     4289 8 2 03a4602f454dd05e3ef2b7a9507f7e4eeb78ba9259e35da7c3b20fd8da43341a
+ds-rdata:     56540 8 2 9e422a4e7be0a741b0c7e5c5ca984afa95b0c2f512f13be981e47aecf87ea581
 
 whois:        whois.nic.press
 
@@ -44312,7 +44301,7 @@ status:       ACTIVE
 remarks:      Registration information: https://radix.website/
 
 created:      2014-05-22
-changed:      2024-02-07
+changed:      2024-03-11
 source:       IANA
 
 % IANA WHOIS server
@@ -44781,8 +44770,8 @@ nserver:      A.NIC.PROTECTION 194.169.218.67 2001:67c:13cc:0:0:0:1:67
 nserver:      B.NIC.PROTECTION 185.24.64.67 2a04:2b00:13cc:0:0:0:1:67
 nserver:      E.NIC.PROTECTION 212.18.248.67 2a04:2b00:13ee:0:0:0:0:67
 nserver:      F.NIC.PROTECTION 212.18.249.67 2a04:2b00:13ff:0:0:0:0:67
-ds-rdata:     46846 8 1 44911d0cb6ae4931c66c83c2881085e48866b075
 ds-rdata:     46846 8 2 3e780717cc500405e3e7869aebbe9f3d49ac770b338e216fca3f096efe92f2cf
+ds-rdata:     42842 8 2 a53b40df5d9fe9bcd1973b978c241562c22c70291dd829e6c59a864cb528b415
 
 whois:        whois.nic.protection
 
@@ -44790,7 +44779,7 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.protection/
 
 created:      2015-08-13
-changed:      2022-08-16
+changed:      2024-03-11
 source:       IANA
 
 % IANA WHOIS server
@@ -45361,10 +45350,8 @@ nserver:      A-CNIC.NIC.QUEST 194.169.218.19 2001:67c:13cc:0:0:0:1:19
 nserver:      B-CNIC.NIC.QUEST 185.24.64.19 2a04:2b00:13cc:0:0:0:1:19
 nserver:      C-CNIC.NIC.QUEST 212.18.248.19 2a04:2b00:13ee:0:0:0:0:19
 nserver:      D-CNIC.NIC.QUEST 212.18.249.19 2a04:2b00:13ff:0:0:0:0:19
-ds-rdata:     21334 8 1 d99396efcd9b8f4a3b269cd1e9620572fb04f0d0
-ds-rdata:     21334 8 2 8472c2fdf0a9d2be4a2c1bc4c601c987118e6a815b1242b6985110b7c390e80e
 ds-rdata:     50071 8 2 a0a1fa69fa59661ad0501d87885426b7b879c84b19891309db11ea15a92ef2ab
-ds-rdata:     50071 8 1 118c9e561b08fc2c993ca75545ff688ecff4ffcb
+ds-rdata:     19889 8 2 ddae7f1bec24724592cf3a52a82cd3b9aae5810038199816544a50bd6ff5f481
 
 whois:        whois.nic.quest
 
@@ -45372,7 +45359,7 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.quest/
 
 created:      2015-08-06
-changed:      2022-08-16
+changed:      2024-03-11
 source:       IANA
 
 % IANA WHOIS server
@@ -45476,17 +45463,15 @@ source:       IANA
 domain:       RE
 
 organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
-address:      Immeuble Le Stephenson
-address:      1, rue Stephenson
-address:      Montigny-Le-Bretonneux 78180
+address:      7, avenue du 8 mai 1945
+address:      Guyancourt 78280
 address:      France
 
 contact:      administrative
 name:         TLD Admin Contact
 organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
-address:      Immeuble Le Stephenson
-address:      1, rue Stephenson
-address:      Montigny-Le-Bretonneux 78180
+address:      7, avenue du 8 mai 1945
+address:      Guyancourt 78280
 address:      France
 phone:        +33 1 39 30 83 05
 fax-no:       +33 1 39 30 83 01
@@ -45495,9 +45480,8 @@ e-mail:       tld-admin@nic.fr
 contact:      technical
 name:         TLD Technical Contact
 organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
-address:      Immeuble Le Stephenson
-address:      1, rue Stephenson
-address:      Montigny-Le-Bretonneux 78180
+address:      7, avenue du 8 mai 1945
+address:      Guyancourt 78280
 address:      France
 phone:        +33 1 39 30 83 00
 fax-no:       +33 1 39 30 83 01
@@ -45515,7 +45499,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.re
 
 created:      1997-04-07
-changed:      2022-10-04
+changed:      2024-03-12
 source:       IANA
 
 % IANA WHOIS server
@@ -48466,13 +48450,14 @@ phone:        +442070151717
 e-mail:       ngtld-saxo@cscglobal.com
 
 contact:      technical
-name:         Project & Process Manager
-organisation: Saxo Bank A/S
-address:      Phillip Heymans Allé 15
-address:      Hellerup DK-2900
-address:      Denmark
-phone:        +442070151717
-e-mail:       ngtld-saxo@cscglobal.com
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
 
 nserver:      A.NIC.SAXO 2001:dcd:1:0:0:0:0:9 37.209.192.9
 nserver:      B.NIC.SAXO 2001:dcd:2:0:0:0:0:9 37.209.194.9
@@ -48481,6 +48466,7 @@ nserver:      X.NIC.SAXO 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.SAXO 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.SAXO 156.154.174.82 2610:a1:1076:0:0:0:1:82
 ds-rdata:     8887 8 2 117f2b38851f01fd3b94ff49ed5a41b04425f8926aa9d569c301cf46f05202c3
+ds-rdata:     60076 8 2 596e280e257bce8da04e98ffb42a2d9df28c1736d00a08a665fc92506d32f2a9
 
 whois:        whois.nic.saxo
 
@@ -48488,7 +48474,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.saxo
 
 created:      2015-01-15
-changed:      2023-11-30
+changed:      2024-03-11
 source:       IANA
 
 % IANA WHOIS server
@@ -49892,6 +49878,7 @@ nserver:      DSANY3.SGNIC.SG 185.159.198.170 2620:10a:80ab:0:0:0:0:170
 nserver:      NS4.APNIC.NET 2001:dd8:12:0:0:0:0:53 202.12.31.53
 nserver:      PCH.SGZONES.SG 2001:500:14:6057:ad:0:0:1 204.61.216.57
 ds-rdata:     46664 8 2 b9e9522b9e345fd54e73e8ebf3d3cfff9a09189fed03f5106d8ee3e345fb80b5
+ds-rdata:     26329 8 2 404a15e6ca2f4ce259d8b2bd13894c7823a9513973103c962ff52bfc57a380af
 
 whois:        whois.sgnic.sg
 
@@ -49899,7 +49886,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.sgnic.sg
 
 created:      1988-10-19
-changed:      2022-06-15
+changed:      2024-03-08
 source:       IANA
 
 % IANA WHOIS server
@@ -51332,9 +51319,8 @@ e-mail:       contact-j-nomsdedomaine@sncf.fr
 contact:      technical
 name:         TLD Technical Contact
 organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
-address:      Immeuble Le Stephenson
-address:      1, rue Stephenson
-address:      Montigny-Le-Bretonneux 78180
+address:      7, avenue du 8 mai 1945
+address:      Guyancourt 78280
 address:      France
 phone:        +33 1 39 30 83 00
 fax-no:       +33 1 39 30 83 01
@@ -51351,7 +51337,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.sncf.com
 
 created:      2015-05-08
-changed:      2022-09-20
+changed:      2024-03-13
 source:       IANA
 
 % IANA WHOIS server
@@ -54535,14 +54521,14 @@ fax-no:       +44 20 7467 6451
 e-mail:       asagar@telnic.org
 
 contact:      technical
-name:         TLD Technical Contact
-organisation: Telnames Ltd
-address:      16 Charles II Street
-address:      London SW1Y 4NW
-address:      United Kingdom of Great Britain and Northern Ireland (the)
-phone:        +44 20 7467 6450
-fax-no:       +44 20 7467 6451
-e-mail:       asagar@telnic.org
+name:         ironDNS Support
+organisation: Knipp Medien und Kommunikation GmbH
+address:      Martin-Schmeisser-Weg 9
+address:      Dortmund North Rhine-Westphalia 44227
+address:      Germany
+phone:        +49-231-9703-0
+fax-no:       +49-231-9703-200
+e-mail:       dnsmaster@irondns.net
 
 nserver:      ANYCAST10.IRONDNS.NET 195.253.64.12 2a01:5b0:4:0:0:0:0:c
 nserver:      ANYCAST23.IRONDNS.NET 195.253.65.11 2a01:5b0:5:0:0:0:0:b
@@ -54557,7 +54543,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.tel
 
 created:      2007-03-01
-changed:      2024-01-25
+changed:      2024-03-13
 source:       IANA
 
 % IANA WHOIS server
@@ -54713,17 +54699,15 @@ source:       IANA
 domain:       TF
 
 organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
-address:      Immeuble Le Stephenson
-address:      1, rue Stephenson
-address:      Montigny-Le-Bretonneux 78180
+address:      7, avenue du 8 mai 1945
+address:      Guyancourt 78280
 address:      France
 
 contact:      administrative
 name:         TLD Admin Contact
 organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
-address:      Immeuble Le Stephenson
-address:      1, rue Stephenson
-address:      Montigny-Le-Bretonneux 78180
+address:      7, avenue du 8 mai 1945
+address:      Guyancourt 78280
 address:      France
 phone:        +33 1 39 30 83 05
 fax-no:       +33 1 39 30 83 01
@@ -54732,9 +54716,8 @@ e-mail:       tld-admin@nic.fr
 contact:      technical
 name:         TLD Technical Contact
 organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
-address:      Immeuble Le Stephenson
-address:      1, rue Stephenson
-address:      Montigny-Le-Bretonneux 78180
+address:      7, avenue du 8 mai 1945
+address:      Guyancourt 78280
 address:      France
 phone:        +33 1 39 30 83 00
 fax-no:       +33 1 39 30 83 01
@@ -54745,6 +54728,7 @@ nserver:      E.EXT.NIC.FR 193.176.144.22 2a00:d78:0:102:193:176:144:22
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
 ds-rdata:     12095 13 2 4110abe221396d1a9493c5dd67140890e14c73d7ac0fcd67f4b60979e9881283
+ds-rdata:     61832 13 2 9b5c9089b84d2138e6c30163d9b169e6e793236827ce2a0eedab7cb96c644d83
 
 whois:        whois.nic.tf
 
@@ -54752,7 +54736,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.tf
 
 created:      1997-08-26
-changed:      2022-10-04
+changed:      2024-03-12
 source:       IANA
 
 % IANA WHOIS server
@@ -56092,9 +56076,8 @@ e-mail:       total-tld@nameshield.net
 contact:      technical
 name:         TLD Technical Contact
 organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
-address:      Immeuble Le Stephenson
-address:      1, rue Stephenson
-address:      Montigny-Le-Bretonneux 78180
+address:      7, avenue du 8 mai 1945
+address:      Guyancourt 78280
 address:      France
 phone:        +33 1 39 30 83 00
 fax-no:       +33 1 39 30 83 01
@@ -56111,7 +56094,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.total
 
 created:      2016-02-05
-changed:      2024-01-05
+changed:      2024-03-11
 source:       IANA
 
 % IANA WHOIS server
@@ -60246,17 +60229,15 @@ source:       IANA
 domain:       WF
 
 organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
-address:      Immeuble Le Stephenson
-address:      1, rue Stephenson
-address:      Montigny-Le-Bretonneux 78180
+address:      7, avenue du 8 mai 1945
+address:      Guyancourt 78280
 address:      France
 
 contact:      administrative
 name:         TLD Admin Contact
 organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
-address:      Immeuble Le Stephenson
-address:      1, rue Stephenson
-address:      Montigny-Le-Bretonneux 78180
+address:      7, avenue du 8 mai 1945
+address:      Guyancourt 78280
 address:      France
 phone:        +33 1 39 30 83 05
 fax-no:       +33 1 39 30 83 01
@@ -60265,9 +60246,8 @@ e-mail:       tld-admin@nic.fr
 contact:      technical
 name:         TLD Technical Contact
 organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
-address:      Immeuble Le Stephenson
-address:      1, rue Stephenson
-address:      Montigny-Le-Bretonneux 78180
+address:      7, avenue du 8 mai 1945
+address:      Guyancourt 78280
 address:      France
 phone:        +33 1 39 30 83 00
 fax-no:       +33 1 39 30 83 01
@@ -60277,7 +60257,6 @@ nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      E.EXT.NIC.FR 193.176.144.22 2a00:d78:0:102:193:176:144:22
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
-ds-rdata:     18393 13 2 c67316fa4c43d54d07c93074eddb7914346c4132726a258cd2acc3d4877081e5
 ds-rdata:     19250 13 2 6fa97d147253c2afb0cfcf18edb8c97e592d05e0845b6c644c3793fed8a756dd
 
 whois:        whois.nic.wf
@@ -60286,7 +60265,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.wf
 
 created:      1997-11-14
-changed:      2024-03-04
+changed:      2024-03-12
 source:       IANA
 
 % IANA WHOIS server
@@ -63459,6 +63438,7 @@ nserver:      DSANY3.SGNIC.SG 185.159.198.170 2620:10a:80ab:0:0:0:0:170
 nserver:      NS4.APNIC.NET 2001:dd8:12:0:0:0:0:53 202.12.31.53
 nserver:      PCH.SGZONES.SG 2001:500:14:6057:ad:0:0:1 204.61.216.57
 ds-rdata:     48176 8 2 c1c692e8bb1ecab17a80c5829445d6301787a275b6091a95754c4ac9681fb50e
+ds-rdata:     47752 8 2 f76b1d7f3857a37138b77beed55b38160ee01fc53dae8dedb41b91b4c443be71
 
 whois:        whois.sgnic.sg
 
@@ -63466,7 +63446,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.sgnic.sg/
 
 created:      2011-02-05
-changed:      2023-03-07
+changed:      2024-03-08
 source:       IANA
 
 % IANA WHOIS server
@@ -68213,28 +68193,25 @@ source:       IANA
 domain:       信息
 domain-ace:   XN--VUQ861B
 
-organisation: Beijing Tele-info Network Technology Co., Ltd.
-address:      Building 21, 1 Gaolizhang Road
-address:      Haidian District
-address:      Beijing 100095
+organisation: Beijing Tele-info Technology Co., Ltd.
+address:      21st Floor, Block D, Beihang Zhizhen Building, No. 7 Zhichun Road, Haidan District
+address:      Beijing 100088
 address:      China
 
 contact:      administrative
 name:         CEO
-organisation: Beijing Tele-info Network Technology Co., Ltd.
-address:      Building 21, 1 Gaolizhang Road
-address:      Haidian District
-address:      Beijing 100095
+organisation: Beijing Tele-info Technology Co., Ltd.
+address:      21st Floor, Block D, Beihang Zhizhen Building, No. 7 Zhichun Road, Haidan District
+address:      Beijing 100088
 address:      China
 phone:        +86 18910283591
 e-mail:       lr@teleinfo.cn
 
 contact:      technical
 name:         CTO
-organisation: Beijing Tele-info Network Technology Co., Ltd.
-address:      Building 21, 1 Gaolizhang Road
-address:      Haidian District
-address:      Beijing 100095
+organisation: Beijing Tele-info Technology Co., Ltd.
+address:      21st Floor, Block D, Beihang Zhizhen Building, No. 7 Zhichun Road, Haidan District
+address:      Beijing 100088
 address:      China
 phone:        +86 13811939493
 e-mail:       gtld@teleinfo.cn
@@ -68251,7 +68228,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.teleinfo.cn
 
 created:      2015-02-05
-changed:      2023-03-16
+changed:      2024-03-07
 source:       IANA
 
 % IANA WHOIS server
@@ -68697,6 +68674,7 @@ nserver:      DSANY3.SGNIC.SG 185.159.198.170 2620:10a:80ab:0:0:0:0:170
 nserver:      NS4.APNIC.NET 2001:dd8:12:0:0:0:0:53 202.12.31.53
 nserver:      PCH.SGZONES.SG 2001:500:14:6057:ad:0:0:1 204.61.216.57
 ds-rdata:     52561 8 2 8c1b2380f8ef57daa14b40ab3f447a62838ca148d2d778e048aee2d6ff374755
+ds-rdata:     42197 8 2 d8001fe0b7a80f256a0ee1789c909f320bbb43964fb8e211274ab22220074c41
 
 whois:        whois.sgnic.sg
 
@@ -68704,7 +68682,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.sgnic.sg/
 
 created:      2011-02-05
-changed:      2023-03-07
+changed:      2024-03-08
 source:       IANA
 
 % IANA WHOIS server
@@ -69390,17 +69368,15 @@ source:       IANA
 domain:       YT
 
 organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
-address:      Immeuble Le Stephenson
-address:      1, rue Stephenson
-address:      Montigny-Le-Bretonneux 78180
+address:      7, avenue du 8 mai 1945
+address:      Guyancourt 78280
 address:      France
 
 contact:      administrative
 name:         TLD Admin Contact
 organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
-address:      Immeuble Le Stephenson
-address:      1, rue Stephenson
-address:      Montigny-Le-Bretonneux 78180
+address:      7, avenue du 8 mai 1945
+address:      Guyancourt 78280
 address:      France
 phone:        +33 1 39 30 83 05
 fax-no:       +33 1 39 30 83 01
@@ -69409,9 +69385,8 @@ e-mail:       tld-admin@nic.fr
 contact:      technical
 name:         TLD Technical Contact
 organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
-address:      Immeuble Le Stephenson
-address:      1, rue Stephenson
-address:      Montigny-Le-Bretonneux 78180
+address:      7, avenue du 8 mai 1945
+address:      Guyancourt 78280
 address:      France
 phone:        +33 1 39 30 83 00
 fax-no:       +33 1 39 30 83 01
@@ -69429,7 +69404,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.yt
 
 created:      1997-11-17
-changed:      2022-10-04
+changed:      2024-03-12
 source:       IANA
 
 % IANA WHOIS server

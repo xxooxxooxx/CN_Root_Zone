@@ -109,7 +109,7 @@ address:      Beijing
 address:      China
 
 contact:      administrative
-name:         Nannan Xu
+name:         Yuchen Wang
 organisation: Baidu, Inc.
 address:      Baidu Campus, No.10 Shangdi 10th Street
 address:      Haidian District
@@ -117,7 +117,7 @@ address:      Beijing
 address:      China
 phone:        +86 188 1064 7965
 fax-no:       +86 10 5992 0062
-e-mail:       xunannan02@baidu.com
+e-mail:       wangyuchen08@baidu.com
 
 contact:      technical
 name:         Gao Lei
@@ -146,7 +146,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.zdns.cn
 
 created:      2015-12-17
-changed:      2024-02-29
+changed:      2024-03-11
 source:       IANA
 
 % IANA WHOIS server
@@ -1953,28 +1953,25 @@ source:       IANA
 domain:       信息
 domain-ace:   XN--VUQ861B
 
-organisation: Beijing Tele-info Network Technology Co., Ltd.
-address:      Building 21, 1 Gaolizhang Road
-address:      Haidian District
-address:      Beijing 100095
+organisation: Beijing Tele-info Technology Co., Ltd.
+address:      21st Floor, Block D, Beihang Zhizhen Building, No. 7 Zhichun Road, Haidan District
+address:      Beijing 100088
 address:      China
 
 contact:      administrative
 name:         CEO
-organisation: Beijing Tele-info Network Technology Co., Ltd.
-address:      Building 21, 1 Gaolizhang Road
-address:      Haidian District
-address:      Beijing 100095
+organisation: Beijing Tele-info Technology Co., Ltd.
+address:      21st Floor, Block D, Beihang Zhizhen Building, No. 7 Zhichun Road, Haidan District
+address:      Beijing 100088
 address:      China
 phone:        +86 18910283591
 e-mail:       lr@teleinfo.cn
 
 contact:      technical
 name:         CTO
-organisation: Beijing Tele-info Network Technology Co., Ltd.
-address:      Building 21, 1 Gaolizhang Road
-address:      Haidian District
-address:      Beijing 100095
+organisation: Beijing Tele-info Technology Co., Ltd.
+address:      21st Floor, Block D, Beihang Zhizhen Building, No. 7 Zhichun Road, Haidan District
+address:      Beijing 100088
 address:      China
 phone:        +86 13811939493
 e-mail:       gtld@teleinfo.cn
@@ -1991,7 +1988,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.teleinfo.cn
 
 created:      2015-02-05
-changed:      2023-03-16
+changed:      2024-03-07
 source:       IANA
 
 % IANA WHOIS server

@@ -552,10 +552,12 @@ phone:        +1-703-925-6999
 fax-no:       +1-703-948-3978
 e-mail:       info@verisign-grs.com
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+nserver:      V0N0.NIC.ACCENTURE 2a01:8840:6a:0:0:0:0:8 65.22.108.8
+nserver:      V0N1.NIC.ACCENTURE 2a01:8840:6b:0:0:0:0:8 65.22.109.8
+nserver:      V0N2.NIC.ACCENTURE 2a01:8840:6c:0:0:0:0:8 65.22.110.8
+nserver:      V0N3.NIC.ACCENTURE 161.232.32.8 2a01:8840:108:0:0:0:0:8
+nserver:      V2N0.NIC.ACCENTURE 2a01:8840:6d:0:0:0:0:8 65.22.111.8
+nserver:      V2N1.NIC.ACCENTURE 161.232.33.8 2a01:8840:109:0:0:0:0:8
 ds-rdata:     35388 8 2 0c1ddb821c823afec10942d3dcd16d6306221e4ee7f2f524e5d9bad48bafd8fc
 ds-rdata:     56299 8 2 83307d3a3a6ae2bd8c9fbb7060a5acb8dbc48b2a56ca944cae4dc803ce8e5a84
 
@@ -565,7 +567,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.accenture.com
 
 created:      2015-04-30
-changed:      2024-03-06
+changed:      2024-03-15
 source:       IANA
 
 % IANA WHOIS server
@@ -3302,10 +3304,12 @@ phone:        +1-703-925-6999
 fax-no:       +1-703-948-3978
 e-mail:       info@verisign-grs.com
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+nserver:      V0N0.NIC.ARTE 2a01:8840:6a:0:0:0:0:11 65.22.108.11
+nserver:      V0N1.NIC.ARTE 2a01:8840:6b:0:0:0:0:11 65.22.109.11
+nserver:      V0N2.NIC.ARTE 2a01:8840:6c:0:0:0:0:11 65.22.110.11
+nserver:      V0N3.NIC.ARTE 161.232.32.11 2a01:8840:108:0:0:0:0:11
+nserver:      V2N0.NIC.ARTE 2a01:8840:6d:0:0:0:0:11 65.22.111.11
+nserver:      V2N1.NIC.ARTE 161.232.33.11 2a01:8840:109:0:0:0:0:11
 ds-rdata:     46728 8 2 d197248e95610371f7624d79d397037ea5e200e6f338bccedf5e93bb68448152
 ds-rdata:     58066 8 2 44e4cc2ad4bcbc5b2c2cd6fbfa18da14d35b3fb5b0e21e9f1b25721101938299
 
@@ -3315,7 +3319,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2015-09-24
-changed:      2024-03-06
+changed:      2024-03-15
 source:       IANA
 
 % IANA WHOIS server
@@ -8747,9 +8751,8 @@ e-mail:       contact@pik.bzh
 contact:      technical
 name:         TLD Technical Contact
 organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
-address:      Immeuble Le Stephenson
-address:      1, rue Stephenson
-address:      Montigny-Le-Bretonneux 78180
+address:      7, avenue du 8 mai 1945
+address:      Guyancourt 78280
 address:      France
 phone:        +33 1 39 30 83 00
 fax-no:       +33 1 39 30 83 01
@@ -8766,7 +8769,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.pik.bzh
 
 created:      2014-05-29
-changed:      2023-12-19
+changed:      2024-03-19
 source:       IANA
 
 % IANA WHOIS server
@@ -10537,10 +10540,12 @@ phone:        +1-703-925-6999
 fax-no:       +1-703-948-3978
 e-mail:       info@verisign-grs.com
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+nserver:      V0N0.NIC.CFA 2a01:8840:66:0:0:0:0:27 65.22.104.27
+nserver:      V0N1.NIC.CFA 2a01:8840:67:0:0:0:0:27 65.22.105.27
+nserver:      V0N2.NIC.CFA 2a01:8840:68:0:0:0:0:27 65.22.106.27
+nserver:      V0N3.NIC.CFA 161.232.30.27 2a01:8840:106:0:0:0:0:27
+nserver:      V2N0.NIC.CFA 2a01:8840:69:0:0:0:0:27 65.22.107.27
+nserver:      V2N1.NIC.CFA 161.232.31.27 2a01:8840:107:0:0:0:0:27
 ds-rdata:     53505 8 2 afc328685d96ea41036f4563042db2d7485c8ad9c790bd22111abd414bcafd17
 ds-rdata:     21814 8 2 9d6445887f736116b22a9c4cda34da82592146649482638fbc144651299bdeb4
 
@@ -10550,7 +10555,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.cfainstitute.org
 
 created:      2015-04-16
-changed:      2024-03-06
+changed:      2024-03-15
 source:       IANA
 
 % IANA WHOIS server
@@ -12080,10 +12085,12 @@ phone:        +1-703-925-6999
 fax-no:       +1-703-948-3978
 e-mail:       info@verisign-grs.com
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+nserver:      V0N0.NIC.CLUBMED 2a01:8840:6a:0:0:0:0:12 65.22.108.12
+nserver:      V0N1.NIC.CLUBMED 2a01:8840:6b:0:0:0:0:12 65.22.109.12
+nserver:      V0N2.NIC.CLUBMED 2a01:8840:6c:0:0:0:0:12 65.22.110.12
+nserver:      V0N3.NIC.CLUBMED 161.232.32.12 2a01:8840:108:0:0:0:0:12
+nserver:      V2N0.NIC.CLUBMED 2a01:8840:6d:0:0:0:0:12 65.22.111.12
+nserver:      V2N1.NIC.CLUBMED 161.232.33.12 2a01:8840:109:0:0:0:0:12
 ds-rdata:     2823 8 2 49afa8257aef277eadce81a3b3712be90aec8a22363b302884acf373eadadf0c
 ds-rdata:     21826 8 2 5baa5f5647baef29365e3f37d0914e0abe5f4d62afca9cf59863fb94aa5964e7
 
@@ -12093,7 +12100,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2015-09-24
-changed:      2024-03-06
+changed:      2024-03-15
 source:       IANA
 
 % IANA WHOIS server
@@ -13793,6 +13800,8 @@ e-mail:       support@fury.ca
 
 nserver:      A.NS.NIC.CROWN 185.159.197.5 2620:10a:80aa:0:0:0:0:5
 nserver:      B.NS.NIC.CROWN 185.159.198.5 2620:10a:80ab:0:0:0:0:5
+nserver:      C.NS.NIC.CROWN 2a0e:dbc0:0:0:0:0:0:101 45.142.220.101
+nserver:      D.NS.NIC.CROWN 185.159.199.5 2620:10a:80ac:0:0:0:0:5
 ds-rdata:     41194 8 2 f7c822b56b709256e744781b677c0b32da1e218eac286a2543b064a19a40f3d5
 
 whois:        whois.nic.crown
@@ -13801,7 +13810,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.crown.com/
 
 created:      2015-06-04
-changed:      2023-06-26
+changed:      2024-03-15
 source:       IANA
 
 % IANA WHOIS server
@@ -17183,6 +17192,7 @@ e-mail:       support@fury.ca
 nserver:      A.NS.NIC.ECO 185.159.197.4 2620:10a:80aa:0:0:0:0:4
 nserver:      B.NS.NIC.ECO 185.159.198.4 2620:10a:80ab:0:0:0:0:4
 nserver:      C.NS.NIC.ECO 2a0e:dbc0:0:0:0:0:0:101 45.142.220.101
+nserver:      D.NS.NIC.ECO 185.159.199.4 2620:10a:80ac:0:0:0:0:4
 ds-rdata:     34597 8 2 bce820d516cfe81df04c38fbcb7cf80c2eccc473b57a295948fa50ac1aff9800
 
 whois:        whois.nic.eco
@@ -17191,7 +17201,7 @@ status:       ACTIVE
 remarks:      Registration information: https://go.eco
 
 created:      2016-08-18
-changed:      2024-03-06
+changed:      2024-03-15
 source:       IANA
 
 % IANA WHOIS server
@@ -18738,6 +18748,7 @@ nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
 nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
 nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
 ds-rdata:     8913 8 2 4b1c638c7fc58d11bf54b976ce4fba1cdb935f993f6b50194093b2479bff8504
+ds-rdata:     48074 8 2 4375da09c7286dcde9acc036596d3f2b9f1347e1a83f13a1e98c7e9821d2ead9
 
 whois:        whois.nic.fairwinds
 
@@ -18746,7 +18757,7 @@ remarks:      Registration information:
 remarks:      http://www.fairwindspartners.com
 
 created:      2015-10-29
-changed:      2020-10-01
+changed:      2024-03-18
 source:       IANA
 
 % IANA WHOIS server
@@ -19217,10 +19228,10 @@ phone:        +44 20 33 88 0600
 fax-no:       +44 20 33 88 0601
 e-mail:       tld.ops@centralnic.com
 
-nserver:      A.NIC.FEEDBACK 194.169.218.50 2001:67c:13cc:0:0:0:1:50
-nserver:      B.NIC.FEEDBACK 185.24.64.50 2a04:2b00:13cc:0:0:0:1:50
-nserver:      C.NIC.FEEDBACK 212.18.248.50 2a04:2b00:13ee:0:0:0:0:50
-nserver:      D.NIC.FEEDBACK 212.18.249.50 2a04:2b00:13ff:0:0:0:0:50
+nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
+nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
+nserver:      NS01.TRS-DNS.NET 64.96.2.1
+nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
 ds-rdata:     16786 8 2 00f7f4b6df67dc7b828c14829884908ee92e57fe312ed483c43da299fa5ddae5
 ds-rdata:     37115 8 2 234ee176851a803e7cb19fafc25c1f2dc1090e119fcee44fa63140bd014c64f2
 
@@ -19230,7 +19241,7 @@ status:       ACTIVE
 remarks:      Registration information: http://centralnic.com
 
 created:      2014-03-06
-changed:      2024-03-07
+changed:      2024-03-20
 source:       IANA
 
 % IANA WHOIS server
@@ -20800,10 +20811,10 @@ phone:        +44 20 33 88 0600
 fax-no:       +44 20 33 88 0601
 e-mail:       tld.ops@centralnic.com
 
-nserver:      A.NIC.FORUM 194.169.218.65 2001:67c:13cc:0:0:0:1:65
-nserver:      B.NIC.FORUM 185.24.64.65 2a04:2b00:13cc:0:0:0:1:65
-nserver:      C.NIC.FORUM 212.18.248.65 2a04:2b00:13ee:0:0:0:0:65
-nserver:      D.NIC.FORUM 212.18.249.65 2a04:2b00:13ff:0:0:0:0:65
+nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
+nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
+nserver:      NS01.TRS-DNS.NET 64.96.2.1
+nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
 ds-rdata:     9475 8 2 a53a95d8ab4105b83918a104f8828b1e0dddb48c290a8eff1960918e01eafae6
 ds-rdata:     12827 8 2 07ad0e47c13b5699efcbdf1a3717b66e2601748b09256173ff713b4d1346512c
 
@@ -20813,7 +20824,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.topspectrum.com
 
 created:      2015-06-11
-changed:      2024-03-07
+changed:      2024-03-20
 source:       IANA
 
 % IANA WHOIS server
@@ -22381,10 +22392,12 @@ phone:        +1-703-925-6999
 fax-no:       +1-703-948-3978
 e-mail:       info@verisign-grs.com
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+nserver:      V0N0.NIC.GENTING 2a01:8840:6a:0:0:0:0:13 65.22.108.13
+nserver:      V0N1.NIC.GENTING 2a01:8840:6b:0:0:0:0:13 65.22.109.13
+nserver:      V0N2.NIC.GENTING 2a01:8840:6c:0:0:0:0:13 65.22.110.13
+nserver:      V0N3.NIC.GENTING 161.232.32.13 2a01:8840:108:0:0:0:0:13
+nserver:      V2N0.NIC.GENTING 2a01:8840:6d:0:0:0:0:13 65.22.111.13
+nserver:      V2N1.NIC.GENTING 161.232.33.13 2a01:8840:109:0:0:0:0:13
 ds-rdata:     22539 8 2 983fdbfbba09945a8da7feacb64460fa801f4a3481d83fa9e1257fc92ed206a3
 ds-rdata:     34012 8 2 edefc992a1962e973126b51f53a920da4c0caafe53491bd1dd768c440770961e
 
@@ -22394,7 +22407,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.genting/
 
 created:      2015-06-11
-changed:      2024-03-06
+changed:      2024-03-15
 source:       IANA
 
 % IANA WHOIS server
@@ -24432,7 +24445,7 @@ status:       ACTIVE
 remarks:      Registration information: http://secure.nic.gs
 
 created:      1997-07-31
-changed:      2022-11-21
+changed:      2024-03-20
 source:       IANA
 
 % IANA WHOIS server
@@ -30842,6 +30855,8 @@ e-mail:       support@fury.ca
 
 nserver:      A.NS.NIC.KIWI 185.159.197.1 2620:10a:80aa:0:0:0:0:1
 nserver:      B.NS.NIC.KIWI 185.159.198.1 2620:10a:80ab:0:0:0:0:1
+nserver:      C.NS.NIC.KIWI 2a0e:dbc0:0:0:0:0:0:101 45.142.220.101
+nserver:      D.NS.NIC.KIWI 185.159.199.1 2620:10a:80ac:0:0:0:0:1
 ds-rdata:     28462 8 2 a1c28ef63fe4b2ca5de823951a0a0edf27f73601eca4371da74b600190846f7d
 
 whois:        whois.nic.kiwi
@@ -30850,7 +30865,7 @@ status:       ACTIVE
 remarks:      Registration information: http://hello.kiwi
 
 created:      2013-11-25
-changed:      2023-09-26
+changed:      2024-03-14
 source:       IANA
 
 % IANA WHOIS server
@@ -32490,9 +32505,8 @@ e-mail:       registre@e-leclerc.com
 contact:      technical
 name:         TLD Technical Contact
 organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
-address:      Immeuble Le Stephenson
-address:      1, rue Stephenson
-address:      Montigny-Le-Bretonneux 78180
+address:      7, avenue du 8 mai 1945
+address:      Guyancourt 78280
 address:      France
 phone:        +33 1 39 30 83 00
 fax-no:       +33 1 39 30 83 01
@@ -32510,7 +32524,7 @@ remarks:      Registration information:
 remarks:      http://www.mouvement-leclerc.com
 
 created:      2015-01-29
-changed:      2022-07-28
+changed:      2024-03-14
 source:       IANA
 
 % IANA WHOIS server
@@ -34792,10 +34806,12 @@ phone:        +1-703-925-6999
 fax-no:       +1-703-948-3978
 e-mail:       info@verisign-grs.com
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+nserver:      V0N0.NIC.MAIF 2a01:8840:6a:0:0:0:0:5 65.22.108.5
+nserver:      V0N1.NIC.MAIF 2a01:8840:6b:0:0:0:0:5 65.22.109.5
+nserver:      V0N2.NIC.MAIF 2a01:8840:6c:0:0:0:0:5 65.22.110.5
+nserver:      V0N3.NIC.MAIF 161.232.32.5 2a01:8840:108:0:0:0:0:5
+nserver:      V2N0.NIC.MAIF 2a01:8840:6d:0:0:0:0:5 65.22.111.5
+nserver:      V2N1.NIC.MAIF 161.232.33.5 2a01:8840:109:0:0:0:0:5
 ds-rdata:     48459 8 2 e44bc6e7cba1624a5f16941f1d53fe470a3a7da4b1c592878d1b32e8ebef667c
 ds-rdata:     23521 8 2 9ba0fe20840ece2ff7793f00a66ce5457904d0549526c8454b0cfec4a697b59c
 
@@ -34805,7 +34821,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.maif.fr
 
 created:      2015-02-13
-changed:      2024-03-07
+changed:      2024-03-15
 source:       IANA
 
 % IANA WHOIS server
@@ -36656,6 +36672,8 @@ e-mail:       support@fury.ca
 
 nserver:      A.NS.NIC.MLS 185.159.197.8 2620:10a:80aa:0:0:0:0:8
 nserver:      B.NS.NIC.MLS 185.159.198.8 2620:10a:80ab:0:0:0:0:8
+nserver:      C.NS.NIC.MLS 2a0e:dbc0:0:0:0:0:0:101 45.142.220.101
+nserver:      D.NS.NIC.MLS 185.159.199.8 2620:10a:80ac:0:0:0:0:8
 ds-rdata:     2629 8 2 1f831bf4f17ca7b3636eb20249abe2bc58fe071b0f6e8869ec904c8dd8a48cb8
 
 whois:        whois.nic.mls
@@ -36664,7 +36682,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2015-08-20
-changed:      2023-09-22
+changed:      2024-03-19
 source:       IANA
 
 % IANA WHOIS server
@@ -41260,8 +41278,8 @@ nserver:      A.NIC.ONLINE 194.169.218.54 2001:67c:13cc:0:0:0:1:54
 nserver:      B.NIC.ONLINE 185.24.64.54 2a04:2b00:13cc:0:0:0:1:54
 nserver:      E.NIC.ONLINE 212.18.248.54 2a04:2b00:13ee:0:0:0:0:54
 nserver:      F.NIC.ONLINE 212.18.249.54 2a04:2b00:13ff:0:0:0:0:54
-ds-rdata:     4267 8 1 a038da06a96ad8e9bfe2ba78c392ff7804b4cd2b
 ds-rdata:     4267 8 2 66d7010609cb19e99ad1da2833ddab8ca2e7acc1ce870cc28d29e76eb53d39ba
+ds-rdata:     19282 8 2 2706a216bd382a5823c746ce685cbc84ca12a9c227e47792abd990fa7885dbb0
 
 whois:        whois.nic.online
 
@@ -41269,7 +41287,7 @@ status:       ACTIVE
 remarks:      Registration information: https://radix.website/
 
 created:      2015-03-06
-changed:      2024-02-07
+changed:      2024-03-20
 source:       IANA
 
 % IANA WHOIS server
@@ -41450,10 +41468,12 @@ phone:        +1-703-925-6999
 fax-no:       +1-703-948-3978
 e-mail:       info@verisign-grs.com
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+nserver:      V0N0.NIC.ORANGE 2a01:8840:6a:0:0:0:0:16 65.22.108.16
+nserver:      V0N1.NIC.ORANGE 2a01:8840:6b:0:0:0:0:16 65.22.109.16
+nserver:      V0N2.NIC.ORANGE 2a01:8840:6c:0:0:0:0:16 65.22.110.16
+nserver:      V0N3.NIC.ORANGE 161.232.32.16 2a01:8840:108:0:0:0:0:16
+nserver:      V2N0.NIC.ORANGE 2a01:8840:6d:0:0:0:0:16 65.22.111.16
+nserver:      V2N1.NIC.ORANGE 161.232.33.16 2a01:8840:109:0:0:0:0:16
 ds-rdata:     44385 8 2 54957bdf3921ca2d50bb340e042605f8d39ee91ca2a08a37424ce88882c4fe1a
 ds-rdata:     10282 8 2 5719fca748be7253d9b0c4cd2c07454768bf9f5411e940ba7ec7d4954e55582c
 
@@ -41463,7 +41483,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2015-06-18
-changed:      2024-03-06
+changed:      2024-03-15
 source:       IANA
 
 % IANA WHOIS server
@@ -41966,9 +41986,8 @@ address:      France
 contact:      administrative
 name:         Account Manager
 organisation: AFNIC
-address:      Immeuble Le Stephenson
-address:      1, rue Stephenson
-address:      Montigny-Le-Bretonneux 78180
+address:      7, avenue du 8 mai 1945
+address:      Guyancourt 78280
 address:      France
 phone:        +33 139308300
 fax-no:       +33 139308301
@@ -41977,9 +41996,8 @@ e-mail:       gtld-admin@nic.fr
 contact:      technical
 name:         TLD Technical Contact
 organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
-address:      Immeuble Le Stephenson
-address:      1, rue Stephenson
-address:      Montigny-Le-Bretonneux 78180
+address:      7, avenue du 8 mai 1945
+address:      Guyancourt 78280
 address:      France
 phone:        +33 1 39 30 83 00
 fax-no:       +33 1 39 30 83 01
@@ -41997,7 +42015,7 @@ status:       ACTIVE
 remarks:      Registration information: http://mondomaine.paris.fr/
 
 created:      2014-03-27
-changed:      2022-07-21
+changed:      2024-03-15
 source:       IANA
 
 % IANA WHOIS server
@@ -48459,12 +48477,12 @@ phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
 e-mail:       tldtech@identity.digital
 
-nserver:      A.NIC.SAXO 2001:dcd:1:0:0:0:0:9 37.209.192.9
-nserver:      B.NIC.SAXO 2001:dcd:2:0:0:0:0:9 37.209.194.9
-nserver:      C.NIC.SAXO 2001:dcd:3:0:0:0:0:9 37.209.196.9
-nserver:      X.NIC.SAXO 156.154.172.82 2610:a1:1074:0:0:0:1:82
-nserver:      Y.NIC.SAXO 156.154.173.82 2610:a1:1075:0:0:0:1:82
-nserver:      Z.NIC.SAXO 156.154.174.82 2610:a1:1076:0:0:0:1:82
+nserver:      V0N0.NIC.SAXO 2a01:8840:6a:0:0:0:0:27 65.22.108.27
+nserver:      V0N1.NIC.SAXO 2a01:8840:6b:0:0:0:0:27 65.22.109.27
+nserver:      V0N2.NIC.SAXO 2a01:8840:6c:0:0:0:0:27 65.22.110.27
+nserver:      V0N3.NIC.SAXO 161.232.32.27 2a01:8840:108:0:0:0:0:27
+nserver:      V2N0.NIC.SAXO 2a01:8840:6d:0:0:0:0:27 65.22.111.27
+nserver:      V2N1.NIC.SAXO 161.232.33.27 2a01:8840:109:0:0:0:0:27
 ds-rdata:     8887 8 2 117f2b38851f01fd3b94ff49ed5a41b04425f8926aa9d569c301cf46f05202c3
 ds-rdata:     60076 8 2 596e280e257bce8da04e98ffb42a2d9df28c1736d00a08a665fc92506d32f2a9
 
@@ -48474,7 +48492,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.saxo
 
 created:      2015-01-15
-changed:      2024-03-11
+changed:      2024-03-15
 source:       IANA
 
 % IANA WHOIS server
@@ -50712,8 +50730,8 @@ nserver:      A.NIC.SITE 194.169.218.61 2001:67c:13cc:0:0:0:1:61
 nserver:      B.NIC.SITE 185.24.64.61 2a04:2b00:13cc:0:0:0:1:61
 nserver:      E.NIC.SITE 212.18.248.61 2a04:2b00:13ee:0:0:0:0:61
 nserver:      F.NIC.SITE 212.18.249.61 2a04:2b00:13ff:0:0:0:0:61
-ds-rdata:     51676 8 1 90ddbeeeb973b0f8719ed763fb6eede97c73abf5
 ds-rdata:     51676 8 2 883175f6f5c68ea81563b62d1b2b79b6a997d60dc6e20cc70afd0cd6b7e82f62
+ds-rdata:     51974 8 2 a06dc47457cc1185cf1b3a7cf6eccb84978de92939dd182beed9521509d0da7b
 
 whois:        whois.nic.site
 
@@ -50721,7 +50739,7 @@ status:       ACTIVE
 remarks:      Registration information: https://radix.website/
 
 created:      2015-03-06
-changed:      2024-02-07
+changed:      2024-03-20
 source:       IANA
 
 % IANA WHOIS server
@@ -51945,8 +51963,8 @@ nserver:      A.NIC.SPACE 194.169.218.51 2001:67c:13cc:0:0:0:1:51
 nserver:      B.NIC.SPACE 185.24.64.51 2a04:2b00:13cc:0:0:0:1:51
 nserver:      E.NIC.SPACE 212.18.248.51 2a04:2b00:13ee:0:0:0:0:51
 nserver:      F.NIC.SPACE 212.18.249.51 2a04:2b00:13ff:0:0:0:0:51
-ds-rdata:     44251 8 1 36acb68b734dfe465cc1112f9dac08b8b66627cc
 ds-rdata:     44251 8 2 a82d8ed2b07d66d6e7af375e0e44b22a82f4479ad45f5d8e1859df6fc170e67c
+ds-rdata:     63881 8 2 85ee1264739a00fb6139712c3d7227721d99654226b0140f14a3e3d1a63b315f
 
 whois:        whois.nic.space
 
@@ -51954,7 +51972,7 @@ status:       ACTIVE
 remarks:      Registration information: https://radix.website/
 
 created:      2014-05-22
-changed:      2024-02-07
+changed:      2024-03-20
 source:       IANA
 
 % IANA WHOIS server
@@ -52179,12 +52197,12 @@ address:      South Sudan
 phone:        +211 922338781
 e-mail:       tech@nic.ss
 
-nserver:      B.NS.TZNIC.OR.TZ 196.216.162.70 2001:43f8:e0:1:0:0:0:70
 nserver:      NS-SS.AFRINIC.NET 196.216.168.27 2001:43f8:120:0:0:0:0:27
 nserver:      PCH.NIC.SS 2001:500:14:6130:ad:0:0:1 204.61.216.130
 nserver:      SSNIC.ANYCASTDNS.CZ 185.28.194.194 185.38.108.108
 ds-rdata:     43817 8 1 65fb691da6eb488ed99195e7609837f787eafc4a
 ds-rdata:     43817 8 2 f85d36a2e056ff8cbb8dc79c748e4ec1e862c4f739891f9595669aa3384a252d
+ds-rdata:     39884 8 2 b603d47de4d4ac23168537763d91e5677300ac06f5d9a1108d29ea91c2c0d204
 
 whois:        whois.nic.ss
 
@@ -52192,7 +52210,7 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.ss/
 
 created:      2011-08-31
-changed:      2022-06-13
+changed:      2024-03-19
 source:       IANA
 
 % IANA WHOIS server
@@ -52703,8 +52721,8 @@ nserver:      A.NIC.STORE 194.169.218.45 2001:67c:13cc:0:0:0:1:45
 nserver:      B.NIC.STORE 185.24.64.45 2a04:2b00:13cc:0:0:0:1:45
 nserver:      E.NIC.STORE 212.18.248.45 2a04:2b00:13ee:0:0:0:0:45
 nserver:      F.NIC.STORE 212.18.249.45 2a04:2b00:13ff:0:0:0:0:45
-ds-rdata:     16342 8 1 c6d41fb11396e2b908bd82add46457daa960ec23
 ds-rdata:     16342 8 2 e59827295e51c4f46d5208ed454bcd78dd6ffa49f01bd203b24e1380aa535675
+ds-rdata:     38974 8 2 3d17e03a2e9dd75f65939b2ca470d85f03ce4cbea32187d65ea1a610569e5f49
 
 whois:        whois.nic.store
 
@@ -52712,7 +52730,7 @@ status:       ACTIVE
 remarks:      Registration information: https://radix.website/
 
 created:      2016-02-11
-changed:      2024-02-07
+changed:      2024-03-20
 source:       IANA
 
 % IANA WHOIS server
@@ -54534,7 +54552,6 @@ nserver:      ANYCAST10.IRONDNS.NET 195.253.64.12 2a01:5b0:4:0:0:0:0:c
 nserver:      ANYCAST23.IRONDNS.NET 195.253.65.11 2a01:5b0:5:0:0:0:0:b
 nserver:      ANYCAST24.IRONDNS.NET 195.253.65.12 2a01:5b0:5:0:0:0:0:c
 nserver:      ANYCAST9.IRONDNS.NET 195.253.64.11 2a01:5b0:4:0:0:0:0:b
-ds-rdata:     48802 8 2 4a00b3f46ad973780b87f241360da0b79481b257410bb68a923fe887087be139
 ds-rdata:     31166 8 2 1d7b6aada1a03510077f789a75184ca61a6fe3176a263d1be52bce89355caa8d
 
 whois:        whois.nic.tel
@@ -54543,7 +54560,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.tel
 
 created:      2007-03-01
-changed:      2024-03-13
+changed:      2024-03-18
 source:       IANA
 
 % IANA WHOIS server
@@ -54727,7 +54744,6 @@ nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      E.EXT.NIC.FR 193.176.144.22 2a00:d78:0:102:193:176:144:22
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
-ds-rdata:     12095 13 2 4110abe221396d1a9493c5dd67140890e14c73d7ac0fcd67f4b60979e9881283
 ds-rdata:     61832 13 2 9b5c9089b84d2138e6c30163d9b169e6e793236827ce2a0eedab7cb96c644d83
 
 whois:        whois.nic.tf
@@ -54736,7 +54752,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.tf
 
 created:      1997-08-26
-changed:      2024-03-12
+changed:      2024-03-14
 source:       IANA
 
 % IANA WHOIS server
@@ -57542,12 +57558,8 @@ nserver:      A.NIC.UNO 194.169.218.21 2001:67c:13cc:0:0:0:1:21
 nserver:      B.NIC.UNO 185.24.64.21 2a04:2b00:13cc:0:0:0:1:21
 nserver:      C.NIC.UNO 212.18.248.21 2a04:2b00:13ee:0:0:0:0:21
 nserver:      D.NIC.UNO 212.18.249.21 2a04:2b00:13ff:0:0:0:0:21
-ds-rdata:     57892 8 1 3b49fdc11daee5187a4170a5badf77a917bce481
-ds-rdata:     57892 8 2 c156dd21b3b96a50fa94be322cdf6f0144e86c9597e4aa56d53e9b490c94a537
-ds-rdata:     64285 8 1 e0d6f2ecbe3f28f3f59d4193198240f9966011e8
-ds-rdata:     64285 8 2 3b4dd0febfbd51cb5f15db43ccfc832de0989445d6bb70c31a9b96f681cc6c77
-ds-rdata:     35737 8 1 a6654717b1b97394de61bfe6d043459ba3a0112a
 ds-rdata:     35737 8 2 0dfccfc8e90286393539413d9f228fd96f7b08b8f15143020c07e32e3d254936
+ds-rdata:     7286 8 2 d85eed6e94d62f2d9c4d8ff199a5cb355ad0e3b56bf845264aa9f38bfc6450b5
 
 whois:        whois.nic.uno
 
@@ -57555,7 +57567,7 @@ status:       ACTIVE
 remarks:      Registration information: https://radix.website/
 
 created:      2013-11-13
-changed:      2024-02-07
+changed:      2024-03-20
 source:       IANA
 
 % IANA WHOIS server
@@ -60013,8 +60025,8 @@ nserver:      A.NIC.WEBSITE 194.169.218.52 2001:67c:13cc:0:0:0:1:52
 nserver:      B.NIC.WEBSITE 185.24.64.52 2a04:2b00:13cc:0:0:0:1:52
 nserver:      E.NIC.WEBSITE 212.18.248.52 2a04:2b00:13ee:0:0:0:0:52
 nserver:      F.NIC.WEBSITE 212.18.249.52 2a04:2b00:13ff:0:0:0:0:52
-ds-rdata:     47815 8 1 34c5e08b2f09248a85be31cd465db919af06da90
 ds-rdata:     47815 8 2 cb5f31743f17c1c1641d7ecc4c7dc40217363645e7ac25c509393c6709d933a8
+ds-rdata:     58591 8 2 bad631380e8e6f70cf21dec0d8d8abbe9df00cd2f0f9376a33535a3fa6ab26e6
 
 whois:        whois.nic.website
 
@@ -60022,7 +60034,7 @@ status:       ACTIVE
 remarks:      Registration information: https://radix.website/
 
 created:      2014-05-22
-changed:      2024-02-07
+changed:      2024-03-20
 source:       IANA
 
 % IANA WHOIS server
@@ -61054,23 +61066,23 @@ address:      New York NY 10006
 address:      United States of America (the)
 
 contact:      administrative
-name:         Senior Paralegal
+name:         General Counsel
 organisation: World Trade Centers Association, Inc.
-address:      120 Broadway, Suite 3350
-address:      New York NY 10271
+address:      115 Broadway, Suite 1202
+address:      New York NY 10006
 address:      United States of America (the)
-phone:        (212) 432-2640
-fax-no:       (212) 488-0064
+phone:        +12124322702
+fax-no:       +12124880064
 e-mail:       trademark@wtca.org
 
 contact:      technical
-name:         Chief Operating Officer
+name:         General Counsel
 organisation: World Trade Centers Association, Inc.
-address:      120 Broadway, Suite 3350
-address:      New York NY 10271
+address:      115 Broadway, Suite 1202
+address:      New York NY 10006
 address:      United States of America (the)
-phone:        (212) 432-2647
-fax-no:       (212) 488-0064
+phone:        +12124322702
+fax-no:       +12124880064
 e-mail:       trademark@wtca.org
 
 nserver:      A.NIC.WTC 2001:dcd:1:0:0:0:0:9 37.209.192.9
@@ -61079,7 +61091,6 @@ nserver:      C.NIC.WTC 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      X.NIC.WTC 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.WTC 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.WTC 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     44554 8 2 b9a169f58e754770e8e23d48da8591a92f602f3d94862b33344c996c0590a6c4
 ds-rdata:     60754 8 2 f5ba575547a9cc6e47f9785e00d2f89d55f9541135a7fa91926e8f953add6609
 
 whois:        whois.nic.wtc
@@ -61088,7 +61099,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.wtc/
 
 created:      2014-04-17
-changed:      2023-09-19
+changed:      2024-03-15
 source:       IANA
 
 % IANA WHOIS server
@@ -69397,6 +69408,7 @@ nserver:      E.EXT.NIC.FR 193.176.144.22 2a00:d78:0:102:193:176:144:22
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
 ds-rdata:     58156 13 2 712dd1bbc29e719caf3b34e9a0bee2d443df1ed9d2d6e09b97baa828d5ff3dc7
+ds-rdata:     2488 13 2 185aed42dc3641ea53ec74c474aeaf72f049556fe306ded0e748b60c5fed1000
 
 whois:        whois.nic.yt
 
@@ -69404,7 +69416,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.yt
 
 created:      1997-11-17
-changed:      2024-03-12
+changed:      2024-03-20
 source:       IANA
 
 % IANA WHOIS server

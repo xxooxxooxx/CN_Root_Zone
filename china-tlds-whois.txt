@@ -1433,7 +1433,6 @@ nserver:      F.ZDNSCLOUD.COM 114.67.16.204
 nserver:      G.ZDNSCLOUD.COM 42.62.2.16
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
-ds-rdata:     20969 8 2 e686eb5367b243e5dfd5c5faadb23b0a52172b9cf5c72b28836be2af9402dadd
 ds-rdata:     19549 8 2 328b02976180a88840e22a052b3d03c8ce7b67609b7cc1840e0e0fe71a3e8e8e
 
 whois:        whois.gtld.knet.cn
@@ -1442,7 +1441,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.zodiacregistry.com
 
 created:      2013-12-12
-changed:      2024-02-29
+changed:      2024-03-27
 source:       IANA
 
 % IANA WHOIS server
@@ -2086,7 +2085,6 @@ nserver:      F.ZDNSCLOUD.COM 114.67.16.204
 nserver:      G.ZDNSCLOUD.COM 42.62.2.16
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
-ds-rdata:     46399 8 2 65907e5274d504536003bc4c24ac8d4907d0a7018996ffda5b7f46e8bd9825ba
 ds-rdata:     21806 8 2 622cfb958a0ee383c82ce227dfed29b054b4db76b914ccf5d65703b41da6d536
 
 whois:        whois.gtld.knet.cn
@@ -2095,7 +2093,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.bagua.wang
 
 created:      2014-11-06
-changed:      2024-02-29
+changed:      2024-03-27
 source:       IANA
 
 % IANA WHOIS server
@@ -2246,7 +2244,6 @@ nserver:      F.ZDNSCLOUD.COM 114.67.16.204
 nserver:      G.ZDNSCLOUD.COM 42.62.2.16
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
-ds-rdata:     995 8 2 c37db96801455f34fc09b824107a81b4df13f273e00d1ef24b73986df0eda81c
 ds-rdata:     62552 8 2 a9400022e8ac90989aa6a0ecd9003dadc0902982336bafba4ce68e0fb15a8391
 
 whois:        whois.gtld.knet.cn
@@ -2255,7 +2252,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.shangcheng.wang
 
 created:      2014-02-27
-changed:      2024-02-29
+changed:      2024-03-27
 source:       IANA
 
 % IANA WHOIS server
@@ -3060,7 +3057,6 @@ nserver:      F.ZDNSCLOUD.COM 114.67.16.204
 nserver:      G.ZDNSCLOUD.COM 42.62.2.16
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
-ds-rdata:     36091 8 2 d5bc5cf399deadce2782f1d21051a13787822441ea5850f69189960974c9eb95
 ds-rdata:     59966 8 2 307e3f825424a5378d0069150e670e339c5beb63052166013cc43c72ef79f489
 
 whois:        whois.gtld.knet.cn
@@ -3069,7 +3065,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.wangdian.wang
 
 created:      2014-11-20
-changed:      2024-02-29
+changed:      2024-03-27
 source:       IANA
 
 % IANA WHOIS server

@@ -2909,9 +2909,8 @@ e-mail:       naubin@universalflower.com
 contact:      technical
 name:         TLD Technical Contact
 organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
-address:      Immeuble Le Stephenson
-address:      1, rue Stephenson
-address:      Montigny-Le-Bretonneux 78180
+address:      7, avenue du 8 mai 1945
+address:      Guyancourt 78280
 address:      France
 phone:        +33 1 39 30 83 00
 fax-no:       +33 1 39 30 83 01
@@ -2928,7 +2927,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.aquarelle.com
 
 created:      2014-11-06
-changed:      2022-08-09
+changed:      2024-03-27
 source:       IANA
 
 % IANA WHOIS server
@@ -3695,6 +3694,7 @@ phone:        +61 (0)3 8341 4111
 fax-no:       +61 (0)3 8341 4112
 e-mail:       auda.iana@auda.org.au
 
+nserver:      A.AU 2407:6e00:254:0:0:0:0:1 58.65.254.1
 nserver:      Q.AU 2a01:8840:be:0:0:0:0:1 65.22.196.1
 nserver:      R.AU 2a01:8840:bf:0:0:0:0:1 65.22.197.1
 nserver:      S.AU 2a01:8840:c0:0:0:0:0:1 65.22.198.1
@@ -3708,7 +3708,7 @@ remarks:      Registration information:
 remarks:      https://www.auda.org.au/domains/au-domains/
 
 created:      1986-03-05
-changed:      2023-10-06
+changed:      2024-03-21
 source:       IANA
 
 % IANA WHOIS server
@@ -4101,44 +4101,13 @@ source:       IANA
 
 domain:       AVIANCA
 
-organisation: Avianca Holdings S.A.
-address:      Calle Aquilino de la Guardia No. 8, IGRA Building
-address:      Panama City
-address:      Panama
+whois:        
 
-contact:      administrative
-name:         Digital Operations and Services Analyst
-organisation: Aerovias del Continente Americano S.A. Avianca
-address:      Calle 26 #59-15
-address:      Bogotá D.C.
-address:      Colombia
-phone:        +503-2247-2151
-e-mail:       sebastian.correa@avianca.com
-
-contact:      technical
-name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias
-address:      300 Welsh Road
-address:      Building 3, Suite 105
-address:      Horsham PA 19044
-address:      United States of America (the)
-phone:        +1.215.706.5700
-fax-no:       +1.215.706.5701
-e-mail:       tld-tech-poc@afilias.info
-
-nserver:      A0.NIC.AVIANCA 2a01:8840:4e:0:0:0:0:17 65.22.80.17
-nserver:      A2.NIC.AVIANCA 2a01:8840:51:0:0:0:0:17 65.22.83.17
-nserver:      B0.NIC.AVIANCA 2a01:8840:4f:0:0:0:0:17 65.22.81.17
-nserver:      C0.NIC.AVIANCA 2a01:8840:50:0:0:0:0:17 65.22.82.17
-ds-rdata:     16027 8 2 a87ec8292b65cd932f5b29c32773dabfff897e71b9921fa4f000f826542f65cc
-
-whois:        whois.nic.avianca
-
-status:       ACTIVE
-remarks:      Registration information: http://avianca.com/es-us/
+status:       FORMER
+remarks:      Registration information: 
 
 created:      2016-02-26
-changed:      2023-08-03
+changed:      2024-03-27
 source:       IANA
 
 % IANA WHOIS server
@@ -8615,8 +8584,8 @@ address:      Botswana
 phone:        +267 368 5426
 e-mail:       sepepe@bocra.org.bw
 
-nserver:      DNS1.NIC.NET.BW 168.167.98.226 2c0f:ff00:1:3:0:0:0:226
-nserver:      MASTER.BTC.NET.BW 168.167.168.37 2c0f:ff00:0:6:0:0:0:3 2c0f:ff00:0:6:0:0:0:5
+nserver:      DNS1.NIC.NET.BW 168.167.98.226
+nserver:      MASTER.BTC.NET.BW 168.167.168.37
 nserver:      NS-BW.AFRINIC.NET 196.216.168.72 2001:43f8:120:0:0:0:0:72
 nserver:      PCH.NIC.NET.BW 2001:500:14:6070:ad:0:0:1 204.61.216.70
 
@@ -8626,7 +8595,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.net.bw
 
 created:      1993-03-19
-changed:      2024-03-05
+changed:      2024-03-27
 source:       IANA
 
 % IANA WHOIS server
@@ -18743,10 +18712,12 @@ phone:        +1 7039256999
 fax-no:       +1 7039483978
 e-mail:       info@verisign-grs.com
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
 nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
 nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+nserver:      NS1.NOMINETDNS.UK 213.248.219.135 2a01:618:403:0:0:0:0:135
+nserver:      NS2.NOMINETDNS.UK 103.49.83.135 2401:fd80:403:0:0:0:0:135
+nserver:      NS3.NOMINETDNS.UK 213.248.223.135 2a01:618:407:0:0:0:0:135
+nserver:      NS4.NOMINETDNS.UK 2401:fd80:407:0:0:0:0:135 43.230.51.135
 ds-rdata:     8913 8 2 4b1c638c7fc58d11bf54b976ce4fba1cdb935f993f6b50194093b2479bff8504
 ds-rdata:     48074 8 2 4375da09c7286dcde9acc036596d3f2b9f1347e1a83f13a1e98c7e9821d2ead9
 
@@ -18757,7 +18728,7 @@ remarks:      Registration information:
 remarks:      http://www.fairwindspartners.com
 
 created:      2015-10-29
-changed:      2024-03-18
+changed:      2024-03-27
 source:       IANA
 
 % IANA WHOIS server
@@ -31674,7 +31645,7 @@ source:       IANA
 
 domain:       LACAIXA
 
-organisation: CAIXA D'ESTALVIS I PENSIONS DE BARCELONA
+organisation: Fundación Bancaria Caixa d'Estalvis i Pensions de Barcelona, "la Caixa"
 address:      Av. Diagonal 621-629
 address:      Barcelona 08028
 address:      Spain
@@ -31711,7 +31682,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.lacaixa.com
 
 created:      2014-07-10
-changed:      2022-01-07
+changed:      2024-03-22
 source:       IANA
 
 % IANA WHOIS server
@@ -48483,7 +48454,6 @@ nserver:      V0N2.NIC.SAXO 2a01:8840:6c:0:0:0:0:27 65.22.110.27
 nserver:      V0N3.NIC.SAXO 161.232.32.27 2a01:8840:108:0:0:0:0:27
 nserver:      V2N0.NIC.SAXO 2a01:8840:6d:0:0:0:0:27 65.22.111.27
 nserver:      V2N1.NIC.SAXO 161.232.33.27 2a01:8840:109:0:0:0:0:27
-ds-rdata:     8887 8 2 117f2b38851f01fd3b94ff49ed5a41b04425f8926aa9d569c301cf46f05202c3
 ds-rdata:     60076 8 2 596e280e257bce8da04e98ffb42a2d9df28c1736d00a08a665fc92506d32f2a9
 
 whois:        whois.nic.saxo
@@ -48492,7 +48462,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.saxo
 
 created:      2015-01-15
-changed:      2024-03-15
+changed:      2024-03-27
 source:       IANA
 
 % IANA WHOIS server
@@ -53493,6 +53463,8 @@ e-mail:       support@fury.ca
 
 nserver:      NS1.NS.SX 185.159.197.10 2620:10a:80aa:0:0:0:0:10
 nserver:      NS2.NS.SX 185.159.198.10 2620:10a:80ab:0:0:0:0:10
+nserver:      NS3.NS.SX 185.159.199.10 2620:10a:80ac:0:0:0:0:10
+nserver:      NS4.NS.SX 2a0e:dbc0:0:0:0:0:0:101 45.142.220.101
 ds-rdata:     34036 8 2 8fbc9761b3375b5a00ad9a7c0e1d22f7574c87efbbcdd5249845a9778f876ce6
 
 whois:        whois.sx
@@ -53501,7 +53473,7 @@ status:       ACTIVE
 remarks:      Registration information: http://registry.sx
 
 created:      2010-12-20
-changed:      2023-09-20
+changed:      2024-03-27
 source:       IANA
 
 % IANA WHOIS server
@@ -55023,14 +54995,14 @@ fax-no:       +1 800 914 8922
 e-mail:       ngtld-tiaa@cscinfo.com
 
 contact:      technical
-name:         Registry Customer Service
-organisation: Verisign, Inc.
-address:      12061 Bluemont Way
-address:      Reston VA 20190
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
 address:      United States of America (the)
-phone:        +1-703-925-6999
-fax-no:       +1-703-948-3978
-e-mail:       info@verisign-grs.com
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
 
 nserver:      V0N0.NIC.TIAA 2a01:8840:6a:0:0:0:0:7 65.22.108.7
 nserver:      V0N1.NIC.TIAA 2a01:8840:6b:0:0:0:0:7 65.22.109.7
@@ -55047,7 +55019,7 @@ status:       ACTIVE
 remarks:      Registration information: http://tiaa.org
 
 created:      2016-03-24
-changed:      2023-11-14
+changed:      2024-03-27
 source:       IANA
 
 % IANA WHOIS server
@@ -59644,7 +59616,6 @@ nserver:      F.ZDNSCLOUD.COM 114.67.16.204
 nserver:      G.ZDNSCLOUD.COM 42.62.2.16
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
-ds-rdata:     20969 8 2 e686eb5367b243e5dfd5c5faadb23b0a52172b9cf5c72b28836be2af9402dadd
 ds-rdata:     19549 8 2 328b02976180a88840e22a052b3d03c8ce7b67609b7cc1840e0e0fe71a3e8e8e
 
 whois:        whois.gtld.knet.cn
@@ -59653,7 +59624,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.zodiacregistry.com
 
 created:      2013-12-12
-changed:      2024-02-29
+changed:      2024-03-27
 source:       IANA
 
 % IANA WHOIS server
@@ -62040,7 +62011,6 @@ nserver:      F.ZDNSCLOUD.COM 114.67.16.204
 nserver:      G.ZDNSCLOUD.COM 42.62.2.16
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
-ds-rdata:     46399 8 2 65907e5274d504536003bc4c24ac8d4907d0a7018996ffda5b7f46e8bd9825ba
 ds-rdata:     21806 8 2 622cfb958a0ee383c82ce227dfed29b054b4db76b914ccf5d65703b41da6d536
 
 whois:        whois.gtld.knet.cn
@@ -62049,7 +62019,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.bagua.wang
 
 created:      2014-11-06
-changed:      2024-02-29
+changed:      2024-03-27
 source:       IANA
 
 % IANA WHOIS server
@@ -63451,13 +63421,13 @@ nserver:      PCH.SGZONES.SG 2001:500:14:6057:ad:0:0:1 204.61.216.57
 ds-rdata:     48176 8 2 c1c692e8bb1ecab17a80c5829445d6301787a275b6091a95754c4ac9681fb50e
 ds-rdata:     47752 8 2 f76b1d7f3857a37138b77beed55b38160ee01fc53dae8dedb41b91b4c443be71
 
-whois:        whois.sgnic.sg
+whois:        whois.ta.sgnic.sg
 
 status:       ACTIVE
 remarks:      Registration information: http://www.sgnic.sg/
 
 created:      2011-02-05
-changed:      2024-03-08
+changed:      2024-03-23
 source:       IANA
 
 % IANA WHOIS server
@@ -63605,7 +63575,6 @@ nserver:      F.ZDNSCLOUD.COM 114.67.16.204
 nserver:      G.ZDNSCLOUD.COM 42.62.2.16
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
-ds-rdata:     995 8 2 c37db96801455f34fc09b824107a81b4df13f273e00d1ef24b73986df0eda81c
 ds-rdata:     62552 8 2 a9400022e8ac90989aa6a0ecd9003dadc0902982336bafba4ce68e0fb15a8391
 
 whois:        whois.gtld.knet.cn
@@ -63614,7 +63583,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.shangcheng.wang
 
 created:      2014-02-27
-changed:      2024-02-29
+changed:      2024-03-27
 source:       IANA
 
 % IANA WHOIS server
@@ -64793,7 +64762,6 @@ nserver:      F.ZDNSCLOUD.COM 114.67.16.204
 nserver:      G.ZDNSCLOUD.COM 42.62.2.16
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
-ds-rdata:     36091 8 2 d5bc5cf399deadce2782f1d21051a13787822441ea5850f69189960974c9eb95
 ds-rdata:     59966 8 2 307e3f825424a5378d0069150e670e339c5beb63052166013cc43c72ef79f489
 
 whois:        whois.gtld.knet.cn
@@ -64802,7 +64770,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.wangdian.wang
 
 created:      2014-11-20
-changed:      2024-02-29
+changed:      2024-03-27
 source:       IANA
 
 % IANA WHOIS server
@@ -68687,13 +68655,13 @@ nserver:      PCH.SGZONES.SG 2001:500:14:6057:ad:0:0:1 204.61.216.57
 ds-rdata:     52561 8 2 8c1b2380f8ef57daa14b40ab3f447a62838ca148d2d778e048aee2d6ff374755
 ds-rdata:     42197 8 2 d8001fe0b7a80f256a0ee1789c909f320bbb43964fb8e211274ab22220074c41
 
-whois:        whois.sgnic.sg
+whois:        whois.zh.sgnic.sg
 
 status:       ACTIVE
 remarks:      Registration information: http://www.sgnic.sg/
 
 created:      2011-02-05
-changed:      2024-03-08
+changed:      2024-03-23
 source:       IANA
 
 % IANA WHOIS server
@@ -69407,7 +69375,6 @@ nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      E.EXT.NIC.FR 193.176.144.22 2a00:d78:0:102:193:176:144:22
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
-ds-rdata:     58156 13 2 712dd1bbc29e719caf3b34e9a0bee2d443df1ed9d2d6e09b97baa828d5ff3dc7
 ds-rdata:     2488 13 2 185aed42dc3641ea53ec74c474aeaf72f049556fe306ded0e748b60c5fed1000
 
 whois:        whois.nic.yt
@@ -69416,7 +69383,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.yt
 
 created:      1997-11-17
-changed:      2024-03-20
+changed:      2024-03-25
 source:       IANA
 
 % IANA WHOIS server

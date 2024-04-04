@@ -543,14 +543,14 @@ fax-no:       n/a
 e-mail:       ngtld-accenture@cscinfo.com
 
 contact:      technical
-name:         Registry Customer Service
-organisation: Verisign, Inc.
-address:      12061 Bluemont Way
-address:      Reston VA 20190
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
 address:      United States of America (the)
-phone:        +1-703-925-6999
-fax-no:       +1-703-948-3978
-e-mail:       info@verisign-grs.com
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
 
 nserver:      V0N0.NIC.ACCENTURE 2a01:8840:6a:0:0:0:0:8 65.22.108.8
 nserver:      V0N1.NIC.ACCENTURE 2a01:8840:6b:0:0:0:0:8 65.22.109.8
@@ -558,16 +558,15 @@ nserver:      V0N2.NIC.ACCENTURE 2a01:8840:6c:0:0:0:0:8 65.22.110.8
 nserver:      V0N3.NIC.ACCENTURE 161.232.32.8 2a01:8840:108:0:0:0:0:8
 nserver:      V2N0.NIC.ACCENTURE 2a01:8840:6d:0:0:0:0:8 65.22.111.8
 nserver:      V2N1.NIC.ACCENTURE 161.232.33.8 2a01:8840:109:0:0:0:0:8
-ds-rdata:     35388 8 2 0c1ddb821c823afec10942d3dcd16d6306221e4ee7f2f524e5d9bad48bafd8fc
 ds-rdata:     56299 8 2 83307d3a3a6ae2bd8c9fbb7060a5acb8dbc48b2a56ca944cae4dc803ce8e5a84
 
-whois:        
+whois:        whois.nic.accenture
 
 status:       ACTIVE
 remarks:      Registration information: http://www.accenture.com
 
 created:      2015-04-30
-changed:      2024-03-15
+changed:      2024-03-31
 source:       IANA
 
 % IANA WHOIS server
@@ -3294,14 +3293,14 @@ phone:        +33 3 88 14 22 22
 e-mail:       ngtld-arte@cscinfo.com
 
 contact:      technical
-name:         Registry Customer Service
-organisation: Verisign, inc.
-address:      12061 Bluemont Way
-address:      Reston VA 20190
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
 address:      United States of America (the)
-phone:        +1-703-925-6999
-fax-no:       +1-703-948-3978
-e-mail:       info@verisign-grs.com
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
 
 nserver:      V0N0.NIC.ARTE 2a01:8840:6a:0:0:0:0:11 65.22.108.11
 nserver:      V0N1.NIC.ARTE 2a01:8840:6b:0:0:0:0:11 65.22.109.11
@@ -3309,7 +3308,6 @@ nserver:      V0N2.NIC.ARTE 2a01:8840:6c:0:0:0:0:11 65.22.110.11
 nserver:      V0N3.NIC.ARTE 161.232.32.11 2a01:8840:108:0:0:0:0:11
 nserver:      V2N0.NIC.ARTE 2a01:8840:6d:0:0:0:0:11 65.22.111.11
 nserver:      V2N1.NIC.ARTE 161.232.33.11 2a01:8840:109:0:0:0:0:11
-ds-rdata:     46728 8 2 d197248e95610371f7624d79d397037ea5e200e6f338bccedf5e93bb68448152
 ds-rdata:     58066 8 2 44e4cc2ad4bcbc5b2c2cd6fbfa18da14d35b3fb5b0e21e9f1b25721101938299
 
 whois:        whois.nic.arte
@@ -3318,7 +3316,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2015-09-24
-changed:      2024-03-15
+changed:      2024-03-31
 source:       IANA
 
 % IANA WHOIS server
@@ -5522,6 +5520,8 @@ nserver:      JAMUNA.BTCL.NET.BD 203.112.194.231 2407:5000:88:4:0:0:0:231
 nserver:      SURMA.BTCL.NET.BD 203.112.194.232 2407:5000:88:4:0:0:0:232
 ds-rdata:     26044 8 1 2dad1b7f8ca778464f536fddd15efd24cccb62ef
 ds-rdata:     26044 8 2 bd01c4b4345d21fc38aa88129f7bc00fdd7b422799cc6703736e3b381f37dd5b
+ds-rdata:     7807 8 1 38669cb8e3c390506f58a6b8e0c6ad6e636798a3
+ds-rdata:     7807 8 2 fee7d4265c78882701e52ec56d56316a985047d0fc24f095ba90f772458cb5ec
 
 whois:        
 
@@ -5529,7 +5529,7 @@ status:       ACTIVE
 remarks:      Registration information: http://domainreg.btcl.com.bd/
 
 created:      1999-05-20
-changed:      2023-04-11
+changed:      2024-04-03
 source:       IANA
 
 % IANA WHOIS server
@@ -10500,14 +10500,14 @@ fax-no:       434 951 5320
 e-mail:       ngtld-cfa@cscinfo.com
 
 contact:      technical
-name:         Registry Customer Service
-organisation: Verisign, Inc.
-address:      12061 Bluemont Way
-address:      Reston VA 20190
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
 address:      United States of America (the)
-phone:        +1-703-925-6999
-fax-no:       +1-703-948-3978
-e-mail:       info@verisign-grs.com
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
 
 nserver:      V0N0.NIC.CFA 2a01:8840:66:0:0:0:0:27 65.22.104.27
 nserver:      V0N1.NIC.CFA 2a01:8840:67:0:0:0:0:27 65.22.105.27
@@ -10515,7 +10515,6 @@ nserver:      V0N2.NIC.CFA 2a01:8840:68:0:0:0:0:27 65.22.106.27
 nserver:      V0N3.NIC.CFA 161.232.30.27 2a01:8840:106:0:0:0:0:27
 nserver:      V2N0.NIC.CFA 2a01:8840:69:0:0:0:0:27 65.22.107.27
 nserver:      V2N1.NIC.CFA 161.232.31.27 2a01:8840:107:0:0:0:0:27
-ds-rdata:     53505 8 2 afc328685d96ea41036f4563042db2d7485c8ad9c790bd22111abd414bcafd17
 ds-rdata:     21814 8 2 9d6445887f736116b22a9c4cda34da82592146649482638fbc144651299bdeb4
 
 whois:        whois.nic.cfa
@@ -10524,7 +10523,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.cfainstitute.org
 
 created:      2015-04-16
-changed:      2024-03-15
+changed:      2024-03-31
 source:       IANA
 
 % IANA WHOIS server
@@ -12045,14 +12044,14 @@ fax-no:       +33 1 53 35 36 10
 e-mail:       ngtld-clubmed@cscinfo.com
 
 contact:      technical
-name:         Registry Customer Service
-organisation: Verisign, inc.
-address:      12061 Bluemont Way
-address:      Reston VA 20190
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
 address:      United States of America (the)
-phone:        +1-703-925-6999
-fax-no:       +1-703-948-3978
-e-mail:       info@verisign-grs.com
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
 
 nserver:      V0N0.NIC.CLUBMED 2a01:8840:6a:0:0:0:0:12 65.22.108.12
 nserver:      V0N1.NIC.CLUBMED 2a01:8840:6b:0:0:0:0:12 65.22.109.12
@@ -12060,7 +12059,6 @@ nserver:      V0N2.NIC.CLUBMED 2a01:8840:6c:0:0:0:0:12 65.22.110.12
 nserver:      V0N3.NIC.CLUBMED 161.232.32.12 2a01:8840:108:0:0:0:0:12
 nserver:      V2N0.NIC.CLUBMED 2a01:8840:6d:0:0:0:0:12 65.22.111.12
 nserver:      V2N1.NIC.CLUBMED 161.232.33.12 2a01:8840:109:0:0:0:0:12
-ds-rdata:     2823 8 2 49afa8257aef277eadce81a3b3712be90aec8a22363b302884acf373eadadf0c
 ds-rdata:     21826 8 2 5baa5f5647baef29365e3f37d0914e0abe5f4d62afca9cf59863fb94aa5964e7
 
 whois:        whois.nic.clubmed
@@ -12069,7 +12067,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2015-09-24
-changed:      2024-03-15
+changed:      2024-03-31
 source:       IANA
 
 % IANA WHOIS server
@@ -22354,14 +22352,14 @@ fax-no:       +65 6720 0866
 e-mail:       ngtld-genting@cscglobal.com
 
 contact:      technical
-name:         Bonnie Bryant
-organisation: Verisign, Inc.
-address:      12061 Bluemont Way
-address:      Reston VA 20190
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
 address:      United States of America (the)
-phone:        +1-703-925-6999
-fax-no:       +1-703-948-3978
-e-mail:       info@verisign-grs.com
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
 
 nserver:      V0N0.NIC.GENTING 2a01:8840:6a:0:0:0:0:13 65.22.108.13
 nserver:      V0N1.NIC.GENTING 2a01:8840:6b:0:0:0:0:13 65.22.109.13
@@ -22369,7 +22367,6 @@ nserver:      V0N2.NIC.GENTING 2a01:8840:6c:0:0:0:0:13 65.22.110.13
 nserver:      V0N3.NIC.GENTING 161.232.32.13 2a01:8840:108:0:0:0:0:13
 nserver:      V2N0.NIC.GENTING 2a01:8840:6d:0:0:0:0:13 65.22.111.13
 nserver:      V2N1.NIC.GENTING 161.232.33.13 2a01:8840:109:0:0:0:0:13
-ds-rdata:     22539 8 2 983fdbfbba09945a8da7feacb64460fa801f4a3481d83fa9e1257fc92ed206a3
 ds-rdata:     34012 8 2 edefc992a1962e973126b51f53a920da4c0caafe53491bd1dd768c440770961e
 
 whois:        whois.nic.genting
@@ -22378,7 +22375,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.genting/
 
 created:      2015-06-11
-changed:      2024-03-15
+changed:      2024-03-31
 source:       IANA
 
 % IANA WHOIS server
@@ -34132,8 +34129,8 @@ address:      Broadstreet
 address:      Monrovia 10-6053
 address:      Liberia
 phone:        +231886510417
-fax-no:       +231 227083
-e-mail:       murey@wulkifarms.com
+fax-no:       +231886457932
+e-mail:       murey@cylmainc.com
 
 contact:      technical
 name:         Randy Bush
@@ -34147,7 +34144,6 @@ nserver:      FORK.STH.DNSNODE.NET 2a01:3f0:0:306:0:0:0:53 77.72.229.254
 nserver:      NS-LR.AFRINIC.NET 196.216.168.61 2001:43f8:120:0:0:0:0:61
 nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
 ds-rdata:     29984 8 2 aa0ec78a15474b054759a26a2be9d85a97f5fe9fe485a206e68b4f83b07789f8
-ds-rdata:     29984 8 1 a5e2025d5c3b1f4853bdda21aa6a751e552dc715
 
 whois:        
 
@@ -34155,7 +34151,7 @@ status:       ACTIVE
 remarks:      Registration information: http://psg.com/dns/lr
 
 created:      1997-04-09
-changed:      2020-01-24
+changed:      2024-04-03
 source:       IANA
 
 % IANA WHOIS server
@@ -34768,14 +34764,14 @@ fax-no:       +33 549738083
 e-mail:       ngtld-maif@cscinfo.com
 
 contact:      technical
-name:         Registry Customer Service
-organisation: Verisign, Inc.
-address:      12061 Bluemont Way
-address:      Reston VA 20190
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
 address:      United States of America (the)
-phone:        +1-703-925-6999
-fax-no:       +1-703-948-3978
-e-mail:       info@verisign-grs.com
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
 
 nserver:      V0N0.NIC.MAIF 2a01:8840:6a:0:0:0:0:5 65.22.108.5
 nserver:      V0N1.NIC.MAIF 2a01:8840:6b:0:0:0:0:5 65.22.109.5
@@ -34783,16 +34779,15 @@ nserver:      V0N2.NIC.MAIF 2a01:8840:6c:0:0:0:0:5 65.22.110.5
 nserver:      V0N3.NIC.MAIF 161.232.32.5 2a01:8840:108:0:0:0:0:5
 nserver:      V2N0.NIC.MAIF 2a01:8840:6d:0:0:0:0:5 65.22.111.5
 nserver:      V2N1.NIC.MAIF 161.232.33.5 2a01:8840:109:0:0:0:0:5
-ds-rdata:     48459 8 2 e44bc6e7cba1624a5f16941f1d53fe470a3a7da4b1c592878d1b32e8ebef667c
 ds-rdata:     23521 8 2 9ba0fe20840ece2ff7793f00a66ce5457904d0549526c8454b0cfec4a697b59c
 
-whois:        
+whois:        whois.nic.maif
 
 status:       ACTIVE
 remarks:      Registration information: http://www.maif.fr
 
 created:      2015-02-13
-changed:      2024-03-15
+changed:      2024-03-31
 source:       IANA
 
 % IANA WHOIS server
@@ -36717,9 +36712,8 @@ address:      France
 contact:      administrative
 name:         Account Manager
 organisation: AFNIC
-address:      Immeuble Le Stephenson
-address:      1, rue Stephenson
-address:      Montigny-Le-Bretonneux 78180
+address:      7, avenue du 8 mai 1945
+address:      Guyancourt 78280
 address:      France
 phone:        +33 139308315
 fax-no:       +33 139308301
@@ -36728,9 +36722,8 @@ e-mail:       groupemma@afnic.fr
 contact:      technical
 name:         TLD Technical Contact
 organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
-address:      Immeuble Le Stephenson
-address:      1, rue Stephenson
-address:      Montigny-Le-Bretonneux 78180
+address:      7, avenue du 8 mai 1945
+address:      Guyancourt 78280
 address:      France
 phone:        +33 1 39 30 83 00
 fax-no:       +33 1 39 30 83 01
@@ -36747,7 +36740,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.mma.fr
 
 created:      2015-02-27
-changed:      2022-07-21
+changed:      2024-04-03
 source:       IANA
 
 % IANA WHOIS server
@@ -38046,9 +38039,8 @@ address:      France
 contact:      administrative
 name:         Account Manager
 organisation: AFNIC
-address:      Immeuble Le Stephenson
-address:      1, rue Stephenson
-address:      Montigny-Le-Bretonneux 78180
+address:      7, avenue du 8 mai 1945
+address:      Guyancourt 78280
 address:      France
 phone:        +33139308300
 fax-no:       +33 139308301
@@ -38057,9 +38049,8 @@ e-mail:       museum@afnic.fr
 contact:      technical
 name:         TLD Technical Contact
 organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
-address:      Immeuble Le Stephenson
-address:      1, rue Stephenson
-address:      Montigny-Le-Bretonneux 78180
+address:      7, avenue du 8 mai 1945
+address:      Guyancourt 78280
 address:      France
 phone:        +33 1 39 30 83 00
 fax-no:       +33 1 39 30 83 01
@@ -38076,7 +38067,7 @@ status:       ACTIVE
 remarks:      Registration information: http://about.museum
 
 created:      2001-10-20
-changed:      2022-07-28
+changed:      2024-04-03
 source:       IANA
 
 % IANA WHOIS server
@@ -41430,14 +41421,14 @@ phone:        +44 (0) 207 535 4412
 e-mail:       ngtld-orange@cscinfo.com
 
 contact:      technical
-name:         Registry Customer Service
-organisation: Verisign, inc.
-address:      12061 Bluemont Way
-address:      Reston VA 20190
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
 address:      United States of America (the)
-phone:        +1-703-925-6999
-fax-no:       +1-703-948-3978
-e-mail:       info@verisign-grs.com
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
 
 nserver:      V0N0.NIC.ORANGE 2a01:8840:6a:0:0:0:0:16 65.22.108.16
 nserver:      V0N1.NIC.ORANGE 2a01:8840:6b:0:0:0:0:16 65.22.109.16
@@ -41445,7 +41436,6 @@ nserver:      V0N2.NIC.ORANGE 2a01:8840:6c:0:0:0:0:16 65.22.110.16
 nserver:      V0N3.NIC.ORANGE 161.232.32.16 2a01:8840:108:0:0:0:0:16
 nserver:      V2N0.NIC.ORANGE 2a01:8840:6d:0:0:0:0:16 65.22.111.16
 nserver:      V2N1.NIC.ORANGE 161.232.33.16 2a01:8840:109:0:0:0:0:16
-ds-rdata:     44385 8 2 54957bdf3921ca2d50bb340e042605f8d39ee91ca2a08a37424ce88882c4fe1a
 ds-rdata:     10282 8 2 5719fca748be7253d9b0c4cd2c07454768bf9f5411e940ba7ec7d4954e55582c
 
 whois:        whois.nic.orange
@@ -41454,7 +41444,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2015-06-18
-changed:      2024-03-15
+changed:      2024-03-31
 source:       IANA
 
 % IANA WHOIS server
@@ -49865,7 +49855,6 @@ nserver:      DSANY2.SGNIC.SG 185.159.197.170 2620:10a:80aa:0:0:0:0:170
 nserver:      DSANY3.SGNIC.SG 185.159.198.170 2620:10a:80ab:0:0:0:0:170
 nserver:      NS4.APNIC.NET 2001:dd8:12:0:0:0:0:53 202.12.31.53
 nserver:      PCH.SGZONES.SG 2001:500:14:6057:ad:0:0:1 204.61.216.57
-ds-rdata:     46664 8 2 b9e9522b9e345fd54e73e8ebf3d3cfff9a09189fed03f5106d8ee3e345fb80b5
 ds-rdata:     26329 8 2 404a15e6ca2f4ce259d8b2bd13894c7823a9513973103c962ff52bfc57a380af
 
 whois:        whois.sgnic.sg
@@ -49874,7 +49863,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.sgnic.sg
 
 created:      1988-10-19
-changed:      2024-03-08
+changed:      2024-03-28
 source:       IANA
 
 % IANA WHOIS server
@@ -55010,7 +54999,6 @@ nserver:      V0N2.NIC.TIAA 2a01:8840:6c:0:0:0:0:7 65.22.110.7
 nserver:      V0N3.NIC.TIAA 161.232.32.7 2a01:8840:108:0:0:0:0:7
 nserver:      V2N0.NIC.TIAA 2a01:8840:6d:0:0:0:0:7 65.22.111.7
 nserver:      V2N1.NIC.TIAA 161.232.33.7 2a01:8840:109:0:0:0:0:7
-ds-rdata:     9186 8 2 5214d8971ec4dc7cd349205bcb13f84d4446aafa4d87d07c8c5443a180741fea
 ds-rdata:     14185 8 2 14d2ba968e8bda466149febec577c50eca9cb7759996fa762a5f8081c424b825
 
 whois:        whois.nic.tiaa
@@ -55019,7 +55007,7 @@ status:       ACTIVE
 remarks:      Registration information: http://tiaa.org
 
 created:      2016-03-24
-changed:      2024-03-27
+changed:      2024-03-28
 source:       IANA
 
 % IANA WHOIS server
@@ -55930,6 +55918,7 @@ nserver:      G.ZDNSCLOUD.COM 42.62.2.16
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     56384 8 2 ba378c5913404ec654df544f519b0fb287e140d64dac5d59e349962393c17945
+ds-rdata:     26780 8 2 5d6e7869ee8e3b536a617de89482ddd1dcb9db9dbb1ac33d6ed351e2ca095b1b
 
 whois:        whois.nic.top
 
@@ -55937,7 +55926,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.top
 
 created:      2014-07-24
-changed:      2022-12-08
+changed:      2024-04-02
 source:       IANA
 
 % IANA WHOIS server
@@ -56318,6 +56307,7 @@ nserver:      NS72.NIC.TR 2603:1020:201:10:0:0:0:111 40.68.114.66
 nserver:      NS73.NIC.TR 31.145.253.159
 nserver:      NS74.NIC.TR 31.145.253.160
 ds-rdata:     48972 13 2 1e67cf0aa2e236a06d1f93491990960efebab089a2badaefbb64e391ae6e95eb
+ds-rdata:     52321 13 2 31fca215aa6690c3d1c265d141cc879576d16f8f06dbfb99d38893e8f9e33d23
 
 whois:        whois.trabis.gov.tr
 
@@ -56325,7 +56315,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.trabis.gov.tr
 
 created:      1990-09-17
-changed:      2023-12-05
+changed:      2024-04-02
 source:       IANA
 
 % IANA WHOIS server
@@ -57179,6 +57169,7 @@ fax-no:       +1 978 359 5830
 e-mail:       sia@nest.org
 
 nserver:      BG.NS.UA 185.136.96.185 185.136.97.185 2a06:fb00:1:0:0:0:2:185 2a06:fb00:1:0:0:0:4:185
+nserver:      CZ.NS.UA 185.43.134.15 2001:148f:fffd:0:0:0:0:15
 nserver:      HO1.NS.UA 195.47.253.1 2001:67c:258:0:0:0:0:1
 nserver:      IN1.NS.UA 2604:ee00:0:101:0:0:0:40 74.123.224.40
 nserver:      NN.NS.UA 194.58.197.4 2a01:3f1:c001:0:0:0:0:53
@@ -57192,7 +57183,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.hostmaster.ua/
 
 created:      1992-12-01
-changed:      2024-02-16
+changed:      2024-03-28
 source:       IANA
 
 % IANA WHOIS server
@@ -63418,7 +63409,6 @@ nserver:      DSANY2.SGNIC.SG 185.159.197.170 2620:10a:80aa:0:0:0:0:170
 nserver:      DSANY3.SGNIC.SG 185.159.198.170 2620:10a:80ab:0:0:0:0:170
 nserver:      NS4.APNIC.NET 2001:dd8:12:0:0:0:0:53 202.12.31.53
 nserver:      PCH.SGZONES.SG 2001:500:14:6057:ad:0:0:1 204.61.216.57
-ds-rdata:     48176 8 2 c1c692e8bb1ecab17a80c5829445d6301787a275b6091a95754c4ac9681fb50e
 ds-rdata:     47752 8 2 f76b1d7f3857a37138b77beed55b38160ee01fc53dae8dedb41b91b4c443be71
 
 whois:        whois.ta.sgnic.sg
@@ -63427,7 +63417,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.sgnic.sg/
 
 created:      2011-02-05
-changed:      2024-03-23
+changed:      2024-03-28
 source:       IANA
 
 % IANA WHOIS server
@@ -68652,7 +68642,6 @@ nserver:      DSANY2.SGNIC.SG 185.159.197.170 2620:10a:80aa:0:0:0:0:170
 nserver:      DSANY3.SGNIC.SG 185.159.198.170 2620:10a:80ab:0:0:0:0:170
 nserver:      NS4.APNIC.NET 2001:dd8:12:0:0:0:0:53 202.12.31.53
 nserver:      PCH.SGZONES.SG 2001:500:14:6057:ad:0:0:1 204.61.216.57
-ds-rdata:     52561 8 2 8c1b2380f8ef57daa14b40ab3f447a62838ca148d2d778e048aee2d6ff374755
 ds-rdata:     42197 8 2 d8001fe0b7a80f256a0ee1789c909f320bbb43964fb8e211274ab22220074c41
 
 whois:        whois.zh.sgnic.sg
@@ -68661,7 +68650,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.sgnic.sg/
 
 created:      2011-02-05
-changed:      2024-03-23
+changed:      2024-03-28
 source:       IANA
 
 % IANA WHOIS server

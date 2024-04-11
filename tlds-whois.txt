@@ -2941,26 +2941,25 @@ address:      Buenos Aires C1064AAB
 address:      Argentina
 
 contact:      administrative
-name:         Nacional Director
-organisation: Dirección Nacional del Registro de Nombres de Dominio de Internet – NIC Argentina
+name:         Director Nacional del Registro de Dominios de Internet
+organisation: Dirección Nacional del Registro de Nombres de Dominio de Internet - NIC Argentina
 address:      Suipacha 767 3rd floor
-address:      Buenos Aires C1008AAO
+address:      Buenos Aires CABA C1008AAO
 address:      Argentina
 phone:        +54 11 5238 1350
 e-mail:       direccion@nic.ar
 
 contact:      technical
-name:         Sr. Juan Olmos
-organisation: Dirección General de Sistemas, Secretaría Legal y Técnica
+name:         Director Nacional del Registro de Dominios de Internet
+organisation: Dirección Nacional del Registro de Nombres de Dominio de Internet - NIC Argentina
 address:      Suipacha 767 3rd floor
-address:      Buenos Aires C1008AAO
+address:      Buenos Aires CABA C1008AAO
 address:      Argentina
 phone:        +54 11 5238 1350
-e-mail:       jolmos@nic.ar
+e-mail:       direccion@nic.ar
 
-nserver:      A.DNS.AR 200.108.145.50 2801:140:0:0:0:0:0:10
+nserver:      A.LACTLD.ORG 200.0.68.10 2801:14:a000:0:0:0:0:10
 nserver:      AR.CCTLD.AUTHDNS.RIPE.NET 193.0.9.59 2001:67c:e0:0:0:0:0:59
-nserver:      B.DNS.AR 200.108.147.50 2801:140:11:0:0:0:0:50
 nserver:      C.DNS.AR 200.108.148.50 2801:140:10:0:0:0:0:10
 nserver:      D.DNS.AR 192.140.126.50 2801:140:dddd:0:0:0:0:50
 nserver:      E.DNS.AR 170.238.66.50 2801:140:eeee:0:0:0:0:50
@@ -2973,7 +2972,7 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.ar
 
 created:      1987-09-23
-changed:      2021-07-26
+changed:      2024-04-08
 source:       IANA
 
 % IANA WHOIS server
@@ -13671,10 +13670,10 @@ address:      Canada
 phone:        +1.949.903.3449
 e-mail:       trs-ops@tucows.com
 
-nserver:      NS1.UNIREGISTRY.NET 2620:57:4000:1:0:0:0:1 64.96.1.1
-nserver:      NS2.UNIREGISTRY.INFO 64.96.2.1
-nserver:      NS5.UNIREGISTRY.NET 2001:500:14:7002:ad:0:0:1 204.61.217.2
-nserver:      NS6.UNIREGISTRY.INFO 206.51.254.2 2620:171:804:ad2:0:0:0:2
+nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
+nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
+nserver:      NS01.TRS-DNS.NET 64.96.2.1
+nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
 ds-rdata:     11419 13 2 2393ddf8501d382cb4a700c85abcc974a95aad110898b8becc4bdba60b5e50f1
 
 whois:        whois.nic.creditunion
@@ -13684,7 +13683,7 @@ remarks:      Registration information:
 remarks:      http://www.identity.coop/creditunion
 
 created:      2015-10-15
-changed:      2023-06-07
+changed:      2024-04-04
 source:       IANA
 
 % IANA WHOIS server
@@ -17123,7 +17122,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.ec
 
 created:      1991-02-01
-changed:      2023-09-07
+changed:      2024-04-10
 source:       IANA
 
 % IANA WHOIS server
@@ -18701,21 +18700,22 @@ fax-no:       +1 2022239256
 e-mail:       fairwindsregistry@fairwindspartners.com
 
 contact:      technical
-name:         Registry Customer Service
-organisation: Verisign, Inc.
-address:      12061 Bluemont Way
-address:      Reston VA 20190
-address:      United States of America (the)
-phone:        +1 7039256999
-fax-no:       +1 7039483978
-e-mail:       info@verisign-grs.com
+name:         TLD Registry Services Technical
+organisation: Nominet
+address:      Minerva House, Edmund Halley Road, Oxford Science Park
+address:      Oxford OX4 4DQ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 1865 332211
+e-mail:       registrytechnical@nominet.uk
 
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
 nserver:      NS1.NOMINETDNS.UK 213.248.219.135 2a01:618:403:0:0:0:0:135
 nserver:      NS2.NOMINETDNS.UK 103.49.83.135 2401:fd80:403:0:0:0:0:135
 nserver:      NS3.NOMINETDNS.UK 213.248.223.135 2a01:618:407:0:0:0:0:135
 nserver:      NS4.NOMINETDNS.UK 2401:fd80:407:0:0:0:0:135 43.230.51.135
+nserver:      NSA.NOMINETDNS.UK 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      NSB.NOMINETDNS.UK 156.154.101.3 2001:502:2eda:0:0:0:0:3
+nserver:      NSC.NOMINETDNS.UK 156.154.102.3 2610:a1:1009:0:0:0:0:3
+nserver:      NSD.NOMINETDNS.UK 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     8913 8 2 4b1c638c7fc58d11bf54b976ce4fba1cdb935f993f6b50194093b2479bff8504
 ds-rdata:     48074 8 2 4375da09c7286dcde9acc036596d3f2b9f1347e1a83f13a1e98c7e9821d2ead9
 
@@ -18726,7 +18726,7 @@ remarks:      Registration information:
 remarks:      http://www.fairwindspartners.com
 
 created:      2015-10-29
-changed:      2024-03-27
+changed:      2024-04-10
 source:       IANA
 
 % IANA WHOIS server
@@ -23005,31 +23005,31 @@ source:       IANA
 
 domain:       GLOBAL
 
-organisation: Dot Global Domain Registry Limited
-address:      6th floor, South Bank House, Barrow Street
-address:      Dublin Dublin 8
-address:      Ireland
+organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
 
 contact:      administrative
-name:         CEO
-organisation: Dot Global Domain Registry Limited
-address:      6th floor, South Bank House, Barrow Street
-address:      Dublin Dublin 8
-address:      Ireland
-phone:        +1 8554845622
-fax-no:       +353 16335466
-e-mail:       contact@nic.global
-
-contact:      technical
-name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+name:         SVice President, Engineering
+organisation: Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldtech@donuts.email
+e-mail:       tldadmin@identity.digital
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
 
 nserver:      A0.NIC.GLOBAL 2a01:8840:4e:0:0:0:0:1 65.22.80.1
 nserver:      A2.NIC.GLOBAL 2a01:8840:51:0:0:0:0:1 65.22.83.1
@@ -23043,7 +23043,7 @@ status:       ACTIVE
 remarks:      Registration information: https://donuts.domains/
 
 created:      2014-05-29
-changed:      2021-12-02
+changed:      2024-04-10
 source:       IANA
 
 % IANA WHOIS server
@@ -37955,14 +37955,14 @@ fax-no:       +852 2319 2626
 e-mail:       cherry.lam@hkirc.hk
 
 contact:      technical
-name:         Jacky Lok
+name:         James Ma
 organisation: Hong Kong Internet Registration Corporation Limited
 address:      Unit 501, Level 5, Core C, Cyberport 3
 address:      100 Cyberport Road
 address:      Hong Kong
 phone:        +852 2319 2303
 fax-no:       +852 2319 2626
-e-mail:       jacky.lok@hkirc.hk
+e-mail:       james.ma@hkirc.hk
 
 nserver:      NS1.NIC.MTR 2001:dca:4000:0:0:0:cb77:2a4 203.119.2.164
 nserver:      NS2.NIC.MTR 2001:dca:2000:0:0:0:cb77:57a4 203.119.87.164
@@ -37976,7 +37976,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.mtr
 
 created:      2015-07-31
-changed:      2023-12-06
+changed:      2024-04-09
 source:       IANA
 
 % IANA WHOIS server
@@ -41762,9 +41762,8 @@ e-mail:       whois@domain.ovh.net
 contact:      technical
 name:         TLD Technical Contact
 organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
-address:      Immeuble Le Stephenson
-address:      1, rue Stephenson
-address:      Montigny-Le-Bretonneux 78180
+address:      7, avenue du 8 mai 1945
+address:      Guyancourt 78280
 address:      France
 phone:        +33 1 39 30 83 00
 fax-no:       +33 1 39 30 83 01
@@ -41781,7 +41780,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.ovh.com
 
 created:      2014-05-01
-changed:      2022-07-21
+changed:      2024-04-04
 source:       IANA
 
 % IANA WHOIS server
@@ -43747,6 +43746,7 @@ nserver:      E.EXT.NIC.FR 193.176.144.22 2a00:d78:0:102:193:176:144:22
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
 ds-rdata:     17970 13 2 7d82ccd8dd0674ca01ccf836c21240a504c85597eed5e511131c3e17c323b503
+ds-rdata:     6926 13 2 a6c8233fc45f53c788ee2adfeea7dac7abb8b7108c25e38b56a3fa6848715f48
 
 whois:        whois.nic.pm
 
@@ -43754,7 +43754,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.pm
 
 created:      1997-08-20
-changed:      2024-03-12
+changed:      2024-04-08
 source:       IANA
 
 % IANA WHOIS server
@@ -52159,8 +52159,6 @@ e-mail:       tech@nic.ss
 nserver:      NS-SS.AFRINIC.NET 196.216.168.27 2001:43f8:120:0:0:0:0:27
 nserver:      PCH.NIC.SS 2001:500:14:6130:ad:0:0:1 204.61.216.130
 nserver:      SSNIC.ANYCASTDNS.CZ 185.28.194.194 185.38.108.108
-ds-rdata:     43817 8 1 65fb691da6eb488ed99195e7609837f787eafc4a
-ds-rdata:     43817 8 2 f85d36a2e056ff8cbb8dc79c748e4ec1e862c4f739891f9595669aa3384a252d
 ds-rdata:     39884 8 2 b603d47de4d4ac23168537763d91e5677300ac06f5d9a1108d29ea91c2c0d204
 
 whois:        whois.nic.ss
@@ -52169,7 +52167,7 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.ss/
 
 created:      2011-08-31
-changed:      2024-03-19
+changed:      2024-04-05
 source:       IANA
 
 % IANA WHOIS server
@@ -65895,8 +65893,7 @@ nserver:      CLOUDNS.NIC.NET.JO 2a05:d018:123c:3500:3e00:7185:3a6e:e082 54.155.
 nserver:      JO.CCTLD.AUTHDNS.RIPE.NET 193.0.9.83 2001:67c:e0:0:0:0:0:83
 nserver:      JORDAN1ST.NIC.GOV.JO 193.188.69.19 2a02:9c0:0:19:0:0:0:19
 nserver:      PETRA.NIC.GOV.JO 193.188.66.2
-nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
-ds-rdata:     58951 7 2 8c351c0a4ca0030b6f43d94050a814c1357e29dc50e98dffc18b25c2921a05a6
+ds-rdata:     16636 8 2 1897394f6281ab9881583bff57ee32b0200c1e30fe01f99405eede36ba83da7c
 
 whois:        
 
@@ -65904,7 +65901,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.idn.jo/
 
 created:      2010-08-20
-changed:      2024-02-26
+changed:      2024-04-08
 source:       IANA
 
 % IANA WHOIS server
@@ -67816,7 +67813,6 @@ nserver:      F.ZDNSCLOUD.COM 114.67.16.204
 nserver:      G.ZDNSCLOUD.COM 42.62.2.16
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
-ds-rdata:     57266 8 2 a3c057a22744eb0ff0518d51e55b1271dab9d39391b55edc98443b22882b1c0c
 ds-rdata:     34994 8 2 5ef0d396751ede7d6b87b3dda8d9ecc7883a45b21c1a8d60fbf0ff92b5c2c445
 
 whois:        whois.nic.xn--ses554g
@@ -67825,7 +67821,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.xn--ses554g/
 
 created:      2014-03-13
-changed:      2024-03-04
+changed:      2024-04-08
 source:       IANA
 
 % IANA WHOIS server

@@ -768,14 +768,14 @@ fax-no:       +852 2319 2626
 e-mail:       cherry.lam@hkirc.hk
 
 contact:      technical
-name:         Jacky Lok
+name:         James Ma
 organisation: Hong Kong Internet Registration Corporation Limited
 address:      Unit 501, Level 5, Core C, Cyberport 3
 address:      100 Cyberport Road
 address:      Hong Kong
 phone:        +852 2319 2303
 fax-no:       +852 2319 2626
-e-mail:       jacky.lok@hkirc.hk
+e-mail:       james.ma@hkirc.hk
 
 nserver:      NS1.NIC.MTR 2001:dca:4000:0:0:0:cb77:2a4 203.119.2.164
 nserver:      NS2.NIC.MTR 2001:dca:2000:0:0:0:cb77:57a4 203.119.87.164
@@ -789,7 +789,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.mtr
 
 created:      2015-07-31
-changed:      2023-12-06
+changed:      2024-04-09
 source:       IANA
 
 % IANA WHOIS server
@@ -3005,7 +3005,6 @@ nserver:      F.ZDNSCLOUD.COM 114.67.16.204
 nserver:      G.ZDNSCLOUD.COM 42.62.2.16
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
-ds-rdata:     57266 8 2 a3c057a22744eb0ff0518d51e55b1271dab9d39391b55edc98443b22882b1c0c
 ds-rdata:     34994 8 2 5ef0d396751ede7d6b87b3dda8d9ecc7883a45b21c1a8d60fbf0ff92b5c2c445
 
 whois:        whois.nic.xn--ses554g
@@ -3014,7 +3013,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.xn--ses554g/
 
 created:      2014-03-13
-changed:      2024-03-04
+changed:      2024-04-08
 source:       IANA
 
 % IANA WHOIS server

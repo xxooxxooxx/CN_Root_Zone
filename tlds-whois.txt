@@ -338,15 +338,15 @@ source:       IANA
 domain:       ABOGADO
 
 organisation: Registry Services, LLC
-address:      2155 E. GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -355,8 +355,8 @@ e-mail:       iana@registry.godaddy
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -376,7 +376,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.abogado/
 
 created:      2014-07-10
-changed:      2023-12-14
+changed:      2024-04-16
 source:       IANA
 
 % IANA WHOIS server
@@ -862,15 +862,15 @@ source:       IANA
 domain:       ADULT
 
 organisation: ICM Registry AD LLC
-address:      2155 E. GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E. GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -879,8 +879,8 @@ e-mail:       iana@registry.godaddy
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -900,7 +900,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.adult
 
 created:      2014-11-26
-changed:      2023-12-14
+changed:      2024-04-16
 source:       IANA
 
 % IANA WHOIS server
@@ -2935,7 +2935,7 @@ source:       IANA
 
 domain:       AR
 
-organisation: Presidencia de la Nación – Secretaría Legal y Técnica
+organisation: Presidencia de la Nacion , Secretaria Legal y Tecnica
 address:      Balcarce no. 50, Planta Baja
 address:      Buenos Aires C1064AAB
 address:      Argentina
@@ -2972,7 +2972,7 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.ar
 
 created:      1987-09-23
-changed:      2024-04-08
+changed:      2024-04-12
 source:       IANA
 
 % IANA WHOIS server
@@ -4388,13 +4388,13 @@ nserver:      DNSD.NIC.AZURE 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     25698 8 2 2c2d532d450f86fbc9238816088ed98ae6c8a5f665706dd634ba4e63a8d8837f
 ds-rdata:     40166 8 2 9f412d488bc68de48010ed08d94cc6830cd604296f3bdf244ac9d7dfa74ae458
 
-whois:        
+whois:        whois.nic.azure
 
 status:       ACTIVE
 remarks:      Registration information: http://www.microsoft.com
 
 created:      2015-04-30
-changed:      2023-11-16
+changed:      2024-04-11
 source:       IANA
 
 % IANA WHOIS server
@@ -4750,7 +4750,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.bar
 
 created:      2014-02-13
-changed:      2024-02-20
+changed:      2024-04-11
 source:       IANA
 
 % IANA WHOIS server
@@ -5684,15 +5684,15 @@ source:       IANA
 domain:       BEER
 
 organisation: Registry Services, LLC
-address:      2155 E. GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -5701,8 +5701,8 @@ e-mail:       iana@registry.godaddy
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -5722,7 +5722,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.beer/
 
 created:      2014-03-13
-changed:      2023-12-13
+changed:      2024-04-16
 source:       IANA
 
 % IANA WHOIS server
@@ -6387,13 +6387,13 @@ nserver:      DNSD.NIC.BING 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     54939 8 2 aa18f258897855e86489c4a522ea45da55918bcd1c6dd418322081331df89e85
 ds-rdata:     35654 8 2 5d6d052d2f2cbb18e7f16aa68b42e37b7ed0fc58bd491e8e97c8aeafb3279c81
 
-whois:        
+whois:        whois.nic.bing
 
 status:       ACTIVE
 remarks:      Registration information: http://www.microsoft.com
 
 created:      2015-04-30
-changed:      2023-11-16
+changed:      2024-04-11
 source:       IANA
 
 % IANA WHOIS server
@@ -6499,15 +6499,15 @@ source:       IANA
 domain:       BIZ
 
 organisation: Registry Services, LLC
-address:      2155 E. GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -6516,8 +6516,8 @@ e-mail:       iana@registry.godaddy
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -6539,7 +6539,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.biz
 
 created:      2001-06-26
-changed:      2024-02-20
+changed:      2024-04-16
 source:       IANA
 
 % IANA WHOIS server
@@ -6642,15 +6642,15 @@ source:       IANA
 domain:       BLACKFRIDAY
 
 organisation: Registry Services, LLC
-address:      2155 E. GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E. GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
@@ -6659,8 +6659,8 @@ e-mail:       iana@registry.godaddy
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E. GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
@@ -6680,7 +6680,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.blackfriday/
 
 created:      2014-04-17
-changed:      2023-09-07
+changed:      2024-04-16
 source:       IANA
 
 % IANA WHOIS server
@@ -7637,15 +7637,15 @@ source:       IANA
 domain:       BOSTON
 
 organisation: Registry Services, LLC
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 
 contact:      administrative
 name:         IANA Contact
 organisation: Registry Services, LLC
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -7654,8 +7654,8 @@ e-mail:       iana@registry.godaddy
 contact:      technical
 name:         IANA contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -7675,7 +7675,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.boston/
 
 created:      2016-11-21
-changed:      2023-12-13
+changed:      2024-04-16
 source:       IANA
 
 % IANA WHOIS server
@@ -9706,15 +9706,15 @@ source:       IANA
 domain:       CASA
 
 organisation: Registry Services, LLC
-address:      2155 E. GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -9723,8 +9723,8 @@ e-mail:       iana@registry.godaddy
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -9744,7 +9744,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.casa/
 
 created:      2014-08-18
-changed:      2023-12-13
+changed:      2024-04-16
 source:       IANA
 
 % IANA WHOIS server
@@ -11980,15 +11980,15 @@ source:       IANA
 domain:       CLUB
 
 organisation: Registry Services, LLC
-address:      2155 E. GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E. GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -11997,8 +11997,8 @@ e-mail:       iana@registry.godaddy
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
@@ -12018,7 +12018,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.club/
 
 created:      2014-01-09
-changed:      2023-12-13
+changed:      2024-04-16
 source:       IANA
 
 % IANA WHOIS server
@@ -12685,15 +12685,15 @@ source:       IANA
 domain:       COMPARE
 
 organisation: Registry Services, LLC
-address:      2155 E. GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -12702,8 +12702,8 @@ e-mail:       iana@registry.godaddy
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -12723,7 +12723,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.compare/
 
 created:      2015-12-23
-changed:      2023-12-13
+changed:      2024-04-16
 source:       IANA
 
 % IANA WHOIS server
@@ -13073,15 +13073,15 @@ source:       IANA
 domain:       COOKING
 
 organisation: Registry Services, LLC
-address:      2155 E. GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -13090,8 +13090,8 @@ e-mail:       iana@registry.godaddy
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -13111,7 +13111,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.cooking/
 
 created:      2014-02-28
-changed:      2023-12-13
+changed:      2024-04-16
 source:       IANA
 
 % IANA WHOIS server
@@ -13403,15 +13403,15 @@ source:       IANA
 domain:       COURSES
 
 organisation: Registry Services, LLC
-address:      2155 E. GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -13420,8 +13420,8 @@ e-mail:       iana@registry.godaddy
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -13441,7 +13441,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.get.courses/
 
 created:      2015-02-19
-changed:      2023-12-13
+changed:      2024-04-16
 source:       IANA
 
 % IANA WHOIS server
@@ -14784,15 +14784,15 @@ source:       IANA
 domain:       DDS
 
 organisation: Registry Services, LLC
-address:      2155 E. GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -14801,8 +14801,8 @@ e-mail:       iana@registry.godaddy
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -14822,7 +14822,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.dds/
 
 created:      2016-01-08
-changed:      2023-12-13
+changed:      2024-04-16
 source:       IANA
 
 % IANA WHOIS server
@@ -15464,15 +15464,15 @@ source:       IANA
 domain:       DESIGN
 
 organisation: Registry Services, LLC
-address:      2155 E. GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E. GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -15481,8 +15481,8 @@ e-mail:       iana@registry.godaddy
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E. GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -15502,7 +15502,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.design/
 
 created:      2014-12-18
-changed:      2023-12-13
+changed:      2024-04-16
 source:       IANA
 
 % IANA WHOIS server
@@ -19026,15 +19026,15 @@ source:       IANA
 domain:       FASHION
 
 organisation: Registry Services, LLC
-address:      2155 E. GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -19043,8 +19043,8 @@ e-mail:       iana@registry.godaddy
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -19064,7 +19064,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.fashion/
 
 created:      2014-10-23
-changed:      2023-12-13
+changed:      2024-04-16
 source:       IANA
 
 % IANA WHOIS server
@@ -19845,15 +19845,15 @@ source:       IANA
 domain:       FISHING
 
 organisation: Registry Services, LLC
-address:      2155 E. GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -19862,8 +19862,8 @@ e-mail:       iana@registry.godaddy
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -19883,7 +19883,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.fishing/
 
 created:      2014-02-28
-changed:      2023-12-13
+changed:      2024-04-16
 source:       IANA
 
 % IANA WHOIS server
@@ -19893,15 +19893,15 @@ source:       IANA
 domain:       FIT
 
 organisation: Registry Services, LLC
-address:      2155 E. GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -19910,8 +19910,8 @@ e-mail:       iana@registry.godaddy
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -19931,7 +19931,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.fit/
 
 created:      2014-12-18
-changed:      2023-12-13
+changed:      2024-04-16
 source:       IANA
 
 % IANA WHOIS server
@@ -21916,15 +21916,15 @@ source:       IANA
 domain:       GARDEN
 
 organisation: Registry Services, LLC
-address:      2155 E. GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -21933,8 +21933,8 @@ e-mail:       iana@registry.godaddy
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -21954,7 +21954,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.garden/
 
 created:      2014-10-23
-changed:      2023-12-13
+changed:      2024-04-16
 source:       IANA
 
 % IANA WHOIS server
@@ -21964,15 +21964,15 @@ source:       IANA
 domain:       GAY
 
 organisation: Registry Services, LLC
-address:      2155 E. GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -21981,8 +21981,8 @@ e-mail:       iana@registry.godaddy
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -22002,7 +22002,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.gay
 
 created:      2019-07-19
-changed:      2023-12-13
+changed:      2024-04-16
 source:       IANA
 
 % IANA WHOIS server
@@ -23372,16 +23372,15 @@ source:       IANA
 domain:       GODADDY
 
 organisation: Go Daddy East, LLC
-address:      14455 N Hayden Road
-address:      Suite #219
-address:      Scottsdale AZ 85260
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 
 contact:      administrative
 name:         IANA Contact
 organisation: Go Daddy
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 393 4275
@@ -23390,8 +23389,8 @@ e-mail:       iana@registry.godaddy
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
@@ -23411,7 +23410,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.godaddy
 
 created:      2016-06-24
-changed:      2023-12-13
+changed:      2024-04-16
 source:       IANA
 
 % IANA WHOIS server
@@ -25205,15 +25204,15 @@ source:       IANA
 domain:       HEALTH
 
 organisation: Registry Services, LLC
-address:      2155 E. GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E. GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -25222,8 +25221,8 @@ e-mail:       iana@registry.godaddy
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
@@ -25243,7 +25242,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dothealth.co
 
 created:      2015-09-17
-changed:      2023-12-13
+changed:      2024-04-16
 source:       IANA
 
 % IANA WHOIS server
@@ -25687,14 +25686,14 @@ fax-no:       +852 2319 2626
 e-mail:       info@hkirc.hk
 
 contact:      technical
-name:         Jacky Lok
+name:         James Ma
 organisation: Hong Kong Internet Registration Corporation Ltd.
 address:      Unit 501, Level 5, Core C, Cyberport 3
 address:      100 Cyberport Road
 address:      Hong Kong
 phone:        +852 2319 2303
 fax-no:       +852 2319 2626
-e-mail:       jacky.lok@hkirc.hk
+e-mail:       james.ma@hkirc.hk
 
 nserver:      C.HKIRC.NET.HK 2001:dca:4000:0:0:0:cb77:2da 203.119.2.218
 nserver:      D.HKIRC.NET.HK 2001:dca:2000:0:0:0:cb77:57da 203.119.87.218
@@ -25713,7 +25712,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.hkirc.hk
 
 created:      1990-01-03
-changed:      2024-01-03
+changed:      2024-04-11
 source:       IANA
 
 % IANA WHOIS server
@@ -26135,8 +26134,8 @@ nserver:      A.NIC.HOMES 194.169.218.132 2001:67c:13cc:0:0:0:1:132
 nserver:      B.NIC.HOMES 185.24.64.132 2a04:2b00:13cc:0:0:0:1:132
 nserver:      C.NIC.HOMES 212.18.248.132 2a04:2b00:13ee:0:0:0:0:132
 nserver:      D.NIC.HOMES 212.18.249.132 2a04:2b00:13ff:0:0:0:0:132
-ds-rdata:     44875 8 2 de0934d0c6c5221ba3533739b3147e327a87f8e97db379136a9343aa9d330079
 ds-rdata:     33262 8 2 d9f3c8d72738eba7ed5002404c5e2748e1aa47c83e36d33d2d4eb72360e49d80
+ds-rdata:     64382 8 2 252b825350b3fb0d15cc087d7e7e52af81ce901db0f3a614d927ad153c909560
 
 whois:        whois.nic.homes
 
@@ -26144,7 +26143,7 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.homes/
 
 created:      2014-05-01
-changed:      2022-08-16
+changed:      2024-04-15
 source:       IANA
 
 % IANA WHOIS server
@@ -26249,15 +26248,15 @@ source:       IANA
 domain:       HORSE
 
 organisation: Registry Services, LLC
-address:      2155 E. GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -26266,8 +26265,8 @@ e-mail:       iana@registry.godaddy
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -26287,7 +26286,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.horse/
 
 created:      2014-02-28
-changed:      2023-12-13
+changed:      2024-04-16
 source:       IANA
 
 % IANA WHOIS server
@@ -26572,13 +26571,13 @@ nserver:      DNSD.NIC.HOTMAIL 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     12876 8 2 5d35f9e8561ce9835fbdbcd44fd9f80c93d5412827694bd7b17bc1477a8e70ab
 ds-rdata:     30586 8 2 c055d04ac9301bff85af9424f6d368d206d7e4786813a22fd3cceaa6928f50cc
 
-whois:        
+whois:        whois.nic.hotmail
 
 status:       ACTIVE
 remarks:      Registration information: http://www.microsoft.com
 
 created:      2015-04-30
-changed:      2023-11-16
+changed:      2024-04-11
 source:       IANA
 
 % IANA WHOIS server
@@ -28036,15 +28035,15 @@ source:       IANA
 domain:       INK
 
 organisation: Registry Services, LLC
-address:      2155 E. GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -28053,8 +28052,8 @@ e-mail:       iana@registry.godaddy
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -28074,7 +28073,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.ink/
 
 created:      2014-02-27
-changed:      2023-12-13
+changed:      2024-04-16
 source:       IANA
 
 % IANA WHOIS server
@@ -29972,19 +29971,21 @@ source:       IANA
 
 domain:       JUEGOS
 
-organisation: Internet Naming Company LLC
-address:      23 Lime Tree Bay
-address:      West Bay Grand Cayman KY1-1505
-address:      Cayman Islands (the)
+organisation: Dog Beach, LLC
+address:      c/o Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
 
 contact:      administrative
-name:         Shayan Rostam
-organisation: Internet Naming Company LLC
-address:      23 Lime Tree Bay
-address:      West Bay Grand Cayman KY1-1505
-address:      Cayman Islands (the)
-phone:        +1.424.888.0690
-e-mail:       partners@inaming.co
+name:         Vice President, Engineering
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldadmin@identity.digital
 
 contact:      technical
 name:         Francisco Obispo
@@ -30007,7 +30008,7 @@ status:       ACTIVE
 remarks:      Registration information: http://uniregistry.link
 
 created:      2014-05-08
-changed:      2023-03-21
+changed:      2024-04-11
 source:       IANA
 
 % IANA WHOIS server
@@ -32048,8 +32049,8 @@ nserver:      A.NIC.LAT 194.169.218.156 2001:67c:13cc:0:0:0:1:156
 nserver:      B.NIC.LAT 185.24.64.156 2a04:2b00:13cc:0:0:0:1:156
 nserver:      C.NIC.LAT 212.18.248.156 2a04:2b00:13ee:0:0:0:0:156
 nserver:      D.NIC.LAT 212.18.249.156 2a04:2b00:13ff:0:0:0:0:156
-ds-rdata:     961 8 2 d87e3ee5babaa5dbf51c4af462d2670be2b702a2972903ae27bee9ba64413973
 ds-rdata:     42520 8 2 fae20127b971e74d949e113cd4d738f82d6d53c5091b76cda93a5877554df1f4
+ds-rdata:     25789 8 2 16aae37ef2d2a809d0d1ed18b045161dd63607375e23687ed840c78d8ab4387e
 
 whois:        whois.nic.lat
 
@@ -32057,7 +32058,7 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.lat
 
 created:      2014-12-04
-changed:      2022-10-27
+changed:      2024-04-15
 source:       IANA
 
 % IANA WHOIS server
@@ -32162,15 +32163,15 @@ source:       IANA
 domain:       LAW
 
 organisation: Registry Services, LLC
-address:      2155 E. GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -32179,8 +32180,8 @@ e-mail:       iana@registry.godaddy
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -32200,7 +32201,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.law/
 
 created:      2015-06-18
-changed:      2023-12-13
+changed:      2024-04-16
 source:       IANA
 
 % IANA WHOIS server
@@ -34450,15 +34451,15 @@ source:       IANA
 domain:       LUXE
 
 organisation: Registry Services, LLC
-address:      2155 E. GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -34467,8 +34468,8 @@ e-mail:       iana@registry.godaddy
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -34488,7 +34489,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.luxe/
 
 created:      2014-03-13
-changed:      2023-12-13
+changed:      2024-04-17
 source:       IANA
 
 % IANA WHOIS server
@@ -35762,8 +35763,8 @@ address:      Australia
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -35772,8 +35773,8 @@ e-mail:       iana@registry.godaddy
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -35793,7 +35794,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.live.melbourne/
 
 created:      2014-07-03
-changed:      2023-12-13
+changed:      2024-04-17
 source:       IANA
 
 % IANA WHOIS server
@@ -36136,15 +36137,15 @@ source:       IANA
 domain:       MIAMI
 
 organisation: Registry Services, LLC
-address:      2155 E. GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -36153,8 +36154,8 @@ e-mail:       iana@registry.godaddy
 contact:      technical
 name:         IANA contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -36174,7 +36175,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.miami
 
 created:      2014-02-28
-changed:      2023-12-13
+changed:      2024-04-17
 source:       IANA
 
 % IANA WHOIS server
@@ -36218,13 +36219,13 @@ nserver:      DNSD.NIC.MICROSOFT 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     35775 8 2 75b42b6862ac3b32fc471d044de968df0d3e9a2b6d4ead5addba4ed42fef185a
 ds-rdata:     55012 8 2 6124fc6575fd96e99e526b792f5637653c25dc4e1e2c034c7a23fe2e2da94acf
 
-whois:        
+whois:        whois.nic.microsoft
 
 status:       ACTIVE
 remarks:      Registration information: http://www.microsoft.com
 
 created:      2015-04-30
-changed:      2023-11-16
+changed:      2024-04-11
 source:       IANA
 
 % IANA WHOIS server
@@ -37779,6 +37780,7 @@ nserver:      A.LACTLD.ORG 200.0.68.10 2801:14:a000:0:0:0:0:10
 nserver:      MS-NS.ANYCAST.PCH.NET 2001:500:14:6033:ad:0:0:1 204.61.216.33
 nserver:      NS1.ANYCASTDNS.CZ 185.38.108.108 2a00:fea0:dead:0:0:0:0:beef
 nserver:      NS2.ANYCASTDNS.CZ 185.28.194.194
+ds-rdata:     50317 8 2 a32757d135853b428cc7825f0bb88fa79f73a2fe497fb4e9f69611cc1687572a
 
 whois:        whois.nic.ms
 
@@ -37786,7 +37788,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.ms
 
 created:      1997-03-06
-changed:      2024-03-08
+changed:      2024-04-17
 source:       IANA
 
 % IANA WHOIS server
@@ -39059,20 +39061,20 @@ address:      Sterling VA 20166
 address:      United States of America (the)
 
 contact:      administrative
-name:         Director
+name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
 contact:      technical
-name:         Director
+name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
@@ -39092,7 +39094,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.neustar.biz
 
 created:      2014-02-06
-changed:      2023-12-13
+changed:      2024-04-17
 source:       IANA
 
 % IANA WHOIS server
@@ -40532,8 +40534,8 @@ address:      United States of America (the)
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -40542,8 +40544,8 @@ e-mail:       iana@registry.godaddy
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -40563,7 +40565,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.mydotnyc.com
 
 created:      2014-03-13
-changed:      2023-12-13
+changed:      2024-04-17
 source:       IANA
 
 % IANA WHOIS server
@@ -40750,13 +40752,13 @@ nserver:      NS2.DNS.NIC.OFFICE 156.154.145.126 2610:a1:1072:0:0:0:0:7e
 nserver:      NS3.DNS.NIC.OFFICE 156.154.159.126 2610:a1:1073:0:0:0:0:7e
 ds-rdata:     9475 8 2 8193e9e63984c0eebac5e602c134ca712c7843002bcddef3c08a199ac9d4308d
 
-whois:        
+whois:        whois.nic.office
 
 status:       ACTIVE
 remarks:      Registration information: http://www.office.com
 
 created:      2015-06-04
-changed:      2023-12-13
+changed:      2024-04-11
 source:       IANA
 
 % IANA WHOIS server
@@ -42752,15 +42754,15 @@ source:       IANA
 domain:       PHOTO
 
 organisation: Registry Services, LLC
-address:      2155 E. GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E. GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
@@ -42769,8 +42771,8 @@ e-mail:       iana@registry.godaddy
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E. GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
@@ -42790,7 +42792,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.photo/
 
 created:      2014-01-16
-changed:      2023-09-07
+changed:      2024-04-17
 source:       IANA
 
 % IANA WHOIS server
@@ -43745,7 +43747,6 @@ nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      E.EXT.NIC.FR 193.176.144.22 2a00:d78:0:102:193:176:144:22
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
-ds-rdata:     17970 13 2 7d82ccd8dd0674ca01ccf836c21240a504c85597eed5e511131c3e17c323b503
 ds-rdata:     6926 13 2 a6c8233fc45f53c788ee2adfeea7dac7abb8b7108c25e38b56a3fa6848715f48
 
 whois:        whois.nic.pm
@@ -43754,7 +43755,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.pm
 
 created:      1997-08-20
-changed:      2024-04-08
+changed:      2024-04-15
 source:       IANA
 
 % IANA WHOIS server
@@ -44004,15 +44005,15 @@ source:       IANA
 domain:       PORN
 
 organisation: ICM Registry PN LLC
-address:      2155 E. GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E. GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -44021,8 +44022,8 @@ e-mail:       iana@registry.godaddy
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -44042,7 +44043,7 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.porn
 
 created:      2014-11-26
-changed:      2023-12-13
+changed:      2024-04-17
 source:       IANA
 
 % IANA WHOIS server
@@ -46203,8 +46204,8 @@ nserver:      A.NIC.RENT 194.169.218.63 2001:67c:13cc:0:0:0:1:63
 nserver:      B.NIC.RENT 185.24.64.63 2a04:2b00:13cc:0:0:0:1:63
 nserver:      C.NIC.RENT 212.18.248.63 2a04:2b00:13ee:0:0:0:0:63
 nserver:      D.NIC.RENT 212.18.249.63 2a04:2b00:13ff:0:0:0:0:63
-ds-rdata:     56632 8 1 5a37261d09f9158d95c49030c66337f40e66b6a1
 ds-rdata:     56632 8 2 d49a86cdf8411ab763fc46430370a6432392b06e1a6c7f6ababad8e1e85b558b
+ds-rdata:     51469 8 2 9615fe0f4a0124abdc48d14952ceff48db6685cf6ad3a2a9307ad43642932e72
 
 whois:        whois.nic.rent
 
@@ -46212,7 +46213,7 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.rent/
 
 created:      2015-04-02
-changed:      2022-08-16
+changed:      2024-04-15
 source:       IANA
 
 % IANA WHOIS server
@@ -46459,7 +46460,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.register.rest/
 
 created:      2014-03-06
-changed:      2024-02-20
+changed:      2024-04-11
 source:       IANA
 
 % IANA WHOIS server
@@ -47061,15 +47062,15 @@ source:       IANA
 domain:       RODEO
 
 organisation: Registry Services, LLC
-address:      2155 E. GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -47078,8 +47079,8 @@ e-mail:       iana@registry.godaddy
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -47099,7 +47100,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.rodeo/
 
 created:      2014-02-28
-changed:      2023-12-13
+changed:      2024-04-17
 source:       IANA
 
 % IANA WHOIS server
@@ -49375,6 +49376,7 @@ nserver:      B.NIC.SECURITY 185.24.64.68 2a04:2b00:13cc:0:0:0:1:68
 nserver:      E.NIC.SECURITY 212.18.248.68 2a04:2b00:13ee:0:0:0:0:68
 nserver:      F.NIC.SECURITY 212.18.249.68 2a04:2b00:13ff:0:0:0:0:68
 ds-rdata:     14150 8 2 2859485c57b2b929084427b8c2b444200fa44011015aa6bf005146582947a257
+ds-rdata:     50966 8 2 a0ed827c29bd60ff8a0e4a22fce421c519126b23cd2206da41c16c6233604f8a
 
 whois:        whois.nic.security
 
@@ -49382,7 +49384,7 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.security/
 
 created:      2015-09-03
-changed:      2023-01-18
+changed:      2024-04-15
 source:       IANA
 
 % IANA WHOIS server
@@ -49441,15 +49443,15 @@ source:       IANA
 domain:       SELECT
 
 organisation: Registry Services, LLC
-address:      2155 E. GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -49458,8 +49460,8 @@ e-mail:       iana@registry.godaddy
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -49479,7 +49481,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.select/
 
 created:      2015-12-23
-changed:      2023-12-13
+changed:      2024-04-17
 source:       IANA
 
 % IANA WHOIS server
@@ -49680,15 +49682,15 @@ source:       IANA
 domain:       SEX
 
 organisation: ICM Registry SX LLC
-address:      2155 E. GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E. GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -49697,8 +49699,8 @@ e-mail:       iana@registry.godaddy
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -49718,7 +49720,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.sex
 
 created:      2015-04-09
-changed:      2023-12-13
+changed:      2024-04-17
 source:       IANA
 
 % IANA WHOIS server
@@ -50498,10 +50500,10 @@ ds-rdata:     53074 8 2 d3bbe46af529561a317922df27d89686e06b87343f22bac2569d38a5
 whois:        whois.register.si
 
 status:       ACTIVE
-remarks:      Registration information: http://www.registry.si/
+remarks:      Registration information: https://www.registry.si/
 
 created:      1992-04-01
-changed:      2023-07-10
+changed:      2024-04-16
 source:       IANA
 
 % IANA WHOIS server
@@ -50878,8 +50880,8 @@ nserver:      A.NIC.SKIN 194.169.218.118 2001:67c:13cc:0:0:0:1:118
 nserver:      B.NIC.SKIN 185.24.64.118 2a04:2b00:13cc:0:0:0:1:118
 nserver:      C.NIC.SKIN 212.18.248.118 2a04:2b00:13ee:0:0:0:0:118
 nserver:      D.NIC.SKIN 212.18.249.118 2a04:2b00:13ff:0:0:0:0:118
-ds-rdata:     8175 8 2 5b2d4845730f45f86f38d3fd6271b5e212bde653a75fe7a3bca1267e0429d386
 ds-rdata:     24104 8 2 3eaebed2323950252487a9e9f953157a1bbe8b0b7d82906fcd2816c623778b0a
+ds-rdata:     33019 8 2 b4c9053752d4f7540c8fa6c8b03b3f8044dd1a9ec6f19f93b4c841bfe26747c7
 
 whois:        whois.nic.skin
 
@@ -50887,7 +50889,7 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.skin/
 
 created:      2015-12-23
-changed:      2022-08-16
+changed:      2024-04-15
 source:       IANA
 
 % IANA WHOIS server
@@ -50982,13 +50984,13 @@ nserver:      NS2.DNS.NIC.SKYPE 156.154.145.151 2610:a1:1072:0:0:0:0:97
 nserver:      NS3.DNS.NIC.SKYPE 156.154.159.151 2610:a1:1073:0:0:0:0:97
 ds-rdata:     56554 8 2 ffa94dc331d59fbe4b7b2e51871b8ceeec8ce9baa00efb2a9553f09f84804e6a
 
-whois:        
+whois:        whois.nic.skype
 
 status:       ACTIVE
 remarks:      Registration information: http://www.skype.com
 
 created:      2015-03-19
-changed:      2023-12-13
+changed:      2024-04-11
 source:       IANA
 
 % IANA WHOIS server
@@ -51276,7 +51278,7 @@ source:       IANA
 
 domain:       SNCF
 
-organisation: SNCF (Société Nationale des Chemins de fer Francais)
+organisation: Société Nationale SNCF
 address:      2 Place aux Etoiles
 address:      Cedex
 address:      La Plaine St Denis 93633
@@ -51314,7 +51316,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.sncf.com
 
 created:      2015-05-08
-changed:      2024-03-13
+changed:      2024-04-16
 source:       IANA
 
 % IANA WHOIS server
@@ -52793,15 +52795,15 @@ source:       IANA
 domain:       STUDY
 
 organisation: Registry Services, LLC
-address:      2155 E. GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -52810,8 +52812,8 @@ e-mail:       iana@registry.godaddy
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -52828,10 +52830,10 @@ ds-rdata:     61795 8 2 4b9e5e4b221d060c3da6b8cf0cbe64e526c00ed82ce0d634e52a22ab
 whois:        whois.nic.study
 
 status:       ACTIVE
-remarks:      Registration information: http://www.open.edu.au/
+remarks:      Registration information: http://nic.study
 
 created:      2015-02-19
-changed:      2023-12-13
+changed:      2024-04-17
 source:       IANA
 
 % IANA WHOIS server
@@ -53135,15 +53137,15 @@ source:       IANA
 domain:       SURF
 
 organisation: Registry Services, LLC
-address:      2155 E. GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -53152,8 +53154,8 @@ e-mail:       iana@registry.godaddy
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -53173,7 +53175,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.surf/
 
 created:      2014-03-13
-changed:      2023-12-13
+changed:      2024-04-17
 source:       IANA
 
 % IANA WHOIS server
@@ -53524,8 +53526,8 @@ address:      Australia
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -53534,8 +53536,8 @@ e-mail:       iana@registry.godaddy
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -53552,11 +53554,10 @@ ds-rdata:     56155 8 2 6f8bec880cb37266b04e5b34a8a61238404ddca2ac3efcfd47bf641e
 whois:        whois.nic.sydney
 
 status:       ACTIVE
-remarks:      Registration information:
-remarks:      http://www.ariservices.com/dotsydney
+remarks:      Registration information: http://iconic.sydney
 
 created:      2014-10-30
-changed:      2023-12-13
+changed:      2024-04-17
 source:       IANA
 
 % IANA WHOIS server
@@ -53994,15 +53995,15 @@ source:       IANA
 domain:       TATTOO
 
 organisation: Registry Services, LLC
-address:      2155 E. GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -54011,8 +54012,8 @@ e-mail:       iana@registry.godaddy
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E. GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480 505 8800
 e-mail:       iana@registry.godaddy
@@ -54031,7 +54032,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.tattoo/
 
 created:      2013-11-08
-changed:      2023-12-13
+changed:      2024-04-17
 source:       IANA
 
 % IANA WHOIS server
@@ -54948,8 +54949,8 @@ nserver:      A.NIC.THEATRE 194.169.218.69 2001:67c:13cc:0:0:0:1:69
 nserver:      B.NIC.THEATRE 185.24.64.69 2a04:2b00:13cc:0:0:0:1:69
 nserver:      C.NIC.THEATRE 212.18.248.69 2a04:2b00:13ee:0:0:0:0:69
 nserver:      D.NIC.THEATRE 212.18.249.69 2a04:2b00:13ff:0:0:0:0:69
-ds-rdata:     45196 8 1 abed901a738d17abfa754e304b6e1c0c9021aac5
 ds-rdata:     45196 8 2 530b10ce5cc67a1f4c6e5f59bf28e851426b9d6991233203e42a8970bd9a8011
+ds-rdata:     62486 8 2 70c496598e2094e5e0bb8caf3b58908758e7b91ec2e370912ef7f733ea22f195
 
 whois:        whois.nic.theatre
 
@@ -54957,7 +54958,7 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.theatre/
 
 created:      2015-08-13
-changed:      2022-08-16
+changed:      2024-04-15
 source:       IANA
 
 % IANA WHOIS server
@@ -55043,8 +55044,8 @@ nserver:      A.NIC.TICKETS 194.169.218.58 2001:67c:13cc:0:0:0:1:58
 nserver:      B.NIC.TICKETS 185.24.64.58 2a04:2b00:13cc:0:0:0:1:58
 nserver:      C.NIC.TICKETS 212.18.248.58 2a04:2b00:13ee:0:0:0:0:58
 nserver:      D.NIC.TICKETS 212.18.249.58 2a04:2b00:13ff:0:0:0:0:58
-ds-rdata:     11069 8 1 ef9659c10a6ff3b9259f2df0cf7d36eca515c8f0
 ds-rdata:     11069 8 2 5d58d40b472461672340583b4865540a52bfb551ca57663b22084e554d09532b
+ds-rdata:     41687 8 2 ea32f704a1ac5dc44a391652f8b566b058f220acdd5bafbfb47fb9b4f3d01868
 
 whois:        whois.nic.tickets
 
@@ -55052,7 +55053,7 @@ status:       ACTIVE
 remarks:      Registration information: http://tickets.tickets
 
 created:      2015-03-19
-changed:      2022-08-16
+changed:      2024-04-15
 source:       IANA
 
 % IANA WHOIS server
@@ -56304,7 +56305,6 @@ nserver:      NS71.NIC.TR 185.67.32.53
 nserver:      NS72.NIC.TR 2603:1020:201:10:0:0:0:111 40.68.114.66
 nserver:      NS73.NIC.TR 31.145.253.159
 nserver:      NS74.NIC.TR 31.145.253.160
-ds-rdata:     48972 13 2 1e67cf0aa2e236a06d1f93491990960efebab089a2badaefbb64e391ae6e95eb
 ds-rdata:     52321 13 2 31fca215aa6690c3d1c265d141cc879576d16f8f06dbfb99d38893e8f9e33d23
 
 whois:        whois.trabis.gov.tr
@@ -56313,7 +56313,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.trabis.gov.tr
 
 created:      1990-09-17
-changed:      2024-04-02
+changed:      2024-04-12
 source:       IANA
 
 % IANA WHOIS server
@@ -57631,15 +57631,15 @@ source:       IANA
 domain:       US
 
 organisation: Registry Services, LLC
-address:      2155 E Godaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 
 contact:      administrative
 name:         IANA Contact
 organisation: Registry Services, LLC
-address:      2155 E. Godaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 393 4275
@@ -57648,8 +57648,8 @@ e-mail:       iana@about.us
 contact:      technical
 name:         IANA Contact
 organisation: Registry Services, LLC
-address:      2155 E. Godaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 393 4275
@@ -57669,7 +57669,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.us
 
 created:      1985-02-15
-changed:      2023-12-13
+changed:      2024-04-16
 source:       IANA
 
 % IANA WHOIS server
@@ -58686,15 +58686,15 @@ source:       IANA
 domain:       VIP
 
 organisation: Registry Services, LLC
-address:      2155 E. GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -58703,8 +58703,8 @@ e-mail:       iana@registry.godaddy
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -58724,7 +58724,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.vip/
 
 created:      2015-07-30
-changed:      2023-12-13
+changed:      2024-04-17
 source:       IANA
 
 % IANA WHOIS server
@@ -59082,15 +59082,15 @@ source:       IANA
 domain:       VODKA
 
 organisation: Registry Services, LLC
-address:      2155 E. GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -59099,8 +59099,8 @@ e-mail:       iana@registry.godaddy
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -59120,7 +59120,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.vodka/
 
 created:      2014-02-28
-changed:      2023-12-13
+changed:      2024-04-17
 source:       IANA
 
 % IANA WHOIS server
@@ -60058,15 +60058,15 @@ source:       IANA
 domain:       WEDDING
 
 organisation: Registry Services, LLC
-address:      2155 E. GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -60075,8 +60075,8 @@ e-mail:       iana@registry.godaddy
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -60096,7 +60096,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.wedding/
 
 created:      2014-07-10
-changed:      2023-12-13
+changed:      2024-04-17
 source:       IANA
 
 % IANA WHOIS server
@@ -60337,15 +60337,15 @@ source:       IANA
 domain:       WIKI
 
 organisation: Registry Services, LLC
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -60354,8 +60354,8 @@ e-mail:       iana@registry.godaddy
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -60375,7 +60375,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.wiki
 
 created:      2014-02-06
-changed:      2023-12-13
+changed:      2024-04-17
 source:       IANA
 
 % IANA WHOIS server
@@ -60515,13 +60515,13 @@ nserver:      DNSD.NIC.WINDOWS 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     44526 8 2 f6dda2f2e3e99e70c47f0393f0154d1641435abdf20e5e5c0a8416c0da34a922
 ds-rdata:     31600 8 2 8057adbdc309cac9cdb987f477b7217b15c88d0a7f84e3b9ba5af412d24b60c9
 
-whois:        
+whois:        whois.nic.windows
 
 status:       ACTIVE
 remarks:      Registration information: http://www.microsoft.com
 
 created:      2015-04-30
-changed:      2023-11-16
+changed:      2024-04-11
 source:       IANA
 
 % IANA WHOIS server
@@ -60775,15 +60775,15 @@ source:       IANA
 domain:       WORK
 
 organisation: Registry Services, LLC
-address:      2155 E. GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -60792,8 +60792,8 @@ e-mail:       iana@registry.godaddy
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -60813,7 +60813,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.work/
 
 created:      2014-08-18
-changed:      2023-12-13
+changed:      2024-04-17
 source:       IANA
 
 % IANA WHOIS server
@@ -61152,13 +61152,13 @@ nserver:      DNSD.NIC.XBOX 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     48291 8 2 1189083bb85010770d8937e4bc2a2af6fc2c81f2eef8a53a7a2457709a53c362
 ds-rdata:     43570 8 2 2c478092b86d62235c8a27bf365edda5c86167e1e9244a50526b735038e5dc26
 
-whois:        
+whois:        whois.nic.xbox
 
 status:       ACTIVE
 remarks:      Registration information: http://www.microsoft.com
 
 created:      2015-04-30
-changed:      2023-11-16
+changed:      2024-04-11
 source:       IANA
 
 % IANA WHOIS server
@@ -63808,6 +63808,7 @@ nserver:      G.ZDNSCLOUD.COM 42.62.2.16
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     16702 8 2 3dc3633898aef4cf395e3b558dddb6b02111abc6bc31be55346bb44cb7778e74
+ds-rdata:     36754 8 2 d4a3344e3eb4166464489b5a5706ace8b8ad7cdc2d3c0aea088e8851b8e24de2
 
 whois:        whois.nic.xn--efvy88h
 
@@ -63815,7 +63816,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.gd.xinhua.org
 
 created:      2015-08-06
-changed:      2022-12-08
+changed:      2024-04-16
 source:       IANA
 
 % IANA WHOIS server
@@ -65035,14 +65036,14 @@ fax-no:       +852 2319 2626
 e-mail:       info@hkirc.hk
 
 contact:      technical
-name:         Jacky Lok
+name:         James Ma
 organisation: Hong Kong Internet Registration Corporation Ltd.
 address:      Unit 501, Level 5, Core C, Cyberport 3
 address:      100 Cyberport Road
 address:      Hong Kong
 phone:        +852 2319 2303
 fax-no:       +852 2319 2626
-e-mail:       jacky.lok@hkirc.hk
+e-mail:       james.ma@hkirc.hk
 
 nserver:      C.HKIRC.NET.HK 2001:dca:4000:0:0:0:cb77:2da 203.119.2.218
 nserver:      D.HKIRC.NET.HK 2001:dca:2000:0:0:0:cb77:57da 203.119.87.218
@@ -65061,7 +65062,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.hkirc.hk
 
 created:      2010-07-12
-changed:      2023-12-06
+changed:      2024-04-11
 source:       IANA
 
 % IANA WHOIS server
@@ -68758,15 +68759,15 @@ source:       IANA
 domain:       XXX
 
 organisation: ICM Registry LLC
-address:      2155 E. GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E. GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -68775,8 +68776,8 @@ e-mail:       iana@registry.godaddy
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -68796,7 +68797,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.xxx
 
 created:      2011-04-15
-changed:      2023-12-13
+changed:      2024-04-17
 source:       IANA
 
 % IANA WHOIS server
@@ -69137,15 +69138,15 @@ source:       IANA
 domain:       YOGA
 
 organisation: Registry Services, LLC
-address:      2155 E. GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -69154,8 +69155,8 @@ e-mail:       iana@registry.godaddy
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -69175,7 +69176,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.yoga/
 
 created:      2014-08-15
-changed:      2023-12-13
+changed:      2024-04-17
 source:       IANA
 
 % IANA WHOIS server

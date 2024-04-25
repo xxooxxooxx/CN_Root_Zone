@@ -789,12 +789,9 @@ phone:        +376 875481
 fax-no:       +376 725001
 e-mail:       fabrici.rossell@andorratelecom.ad
 
-nserver:      AD.CCTLD.AUTHDNS.RIPE.NET 193.0.9.53 2001:67c:e0:0:0:0:0:53
 nserver:      AD.NS.NIC.ES 194.69.254.15 2001:67c:21cc:2000:0:0:64:47
 nserver:      ANYCAST23.IRONDNS.NET 195.253.65.11 2a01:5b0:5:0:0:0:0:b
 nserver:      ANYCAST9.IRONDNS.NET 195.253.64.11 2a01:5b0:4:0:0:0:0:b
-nserver:      DNSC.AD 194.158.74.10 2a02:8060:32fa:0:0:0:0:b
-nserver:      DNSM.AD 194.158.74.9 2a02:8060:32fa:0:0:0:0:a
 nserver:      NS3.NIC.FR 192.134.0.49 2001:660:3006:1:0:0:1:1
 ds-rdata:     10624 8 2 732ac3921e40eac6c01b0c467beda420f42bf38b7c462e86d01d1d2c4eb9da37
 ds-rdata:     50617 8 2 12432422b23ea8f82751d15041df27f6e2c8c408c3d7a18dcac511652e5e263d
@@ -805,7 +802,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.ad
 
 created:      1996-01-09
-changed:      2023-11-28
+changed:      2024-04-22
 source:       IANA
 
 % IANA WHOIS server
@@ -1982,10 +1979,10 @@ ds-rdata:     7047 13 2 40ac4eda437f376b0a772ac6f570055a6aa58d635ac07946a778abeb
 whois:        whois.nic.alsace
 
 status:       ACTIVE
-remarks:      Registration information: http://www.mondomaine.alsace
+remarks:      Registration information: https://www.mondomaine.alsace
 
 created:      2014-09-18
-changed:      2024-03-11
+changed:      2024-04-24
 source:       IANA
 
 % IANA WHOIS server
@@ -2521,14 +2518,14 @@ address:      China
 
 contact:      administrative
 name:         Senior Operation Manager
-organisation: QIHOO 360 Technology Co. Ltd.
+organisation: Beijing Qihu Keji Co., Ltd.
 address:      Building #2, No. 6 Jiuxianqiao Road
 address:      Chaoyang District
 address:      Beijing
 address:      China
 phone:        +86 10 5244 7383
 fax-no:       +86. 10 5878 1411
-e-mail:       newgtld@360.cn
+e-mail:       newgtld_legal@360.cn
 
 contact:      technical
 name:         CTO
@@ -2553,7 +2550,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.teleinfo.cn
 
 created:      2016-03-18
-changed:      2022-09-20
+changed:      2024-04-19
 source:       IANA
 
 % IANA WHOIS server
@@ -2923,10 +2920,10 @@ ds-rdata:     22061 13 2 65a423ec214071521668ed047d2e74ba781e6495e0252cb8e08a7a6
 whois:        whois.nic.aquarelle
 
 status:       ACTIVE
-remarks:      Registration information: http://www.aquarelle.com
+remarks:      Registration information: https://www.aquarelle.com
 
 created:      2014-11-06
-changed:      2024-03-27
+changed:      2024-04-24
 source:       IANA
 
 % IANA WHOIS server
@@ -2935,7 +2932,7 @@ source:       IANA
 
 domain:       AR
 
-organisation: Presidencia de la Nacion , Secretaria Legal y Tecnica
+organisation: Presidencia de la Nación , Secretaría Legal y Técnica
 address:      Balcarce no. 50, Planta Baja
 address:      Buenos Aires C1064AAB
 address:      Argentina
@@ -2956,7 +2953,7 @@ address:      Suipacha 767 3rd floor
 address:      Buenos Aires CABA C1008AAO
 address:      Argentina
 phone:        +54 11 5238 1350
-e-mail:       direccion@nic.ar
+e-mail:       contacto_dgsi@nic.ar
 
 nserver:      A.LACTLD.ORG 200.0.68.10 2801:14:a000:0:0:0:0:10
 nserver:      AR.CCTLD.AUTHDNS.RIPE.NET 193.0.9.59 2001:67c:e0:0:0:0:0:59
@@ -2972,7 +2969,7 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.ar
 
 created:      1987-09-23
-changed:      2024-04-12
+changed:      2024-04-18
 source:       IANA
 
 % IANA WHOIS server
@@ -4740,8 +4737,6 @@ nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
 nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
 nserver:      NS01.TRS-DNS.NET 64.96.2.1
 nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
-ds-rdata:     55406 8 1 eecf54c6dab2cf3fa76effce97b78f432050da9e
-ds-rdata:     55406 8 2 8e8e102e6751da62e354bd322c9bdd42c29bf6a413b29da5bdc579e2ed3c8da1
 ds-rdata:     44209 8 2 53ed75bdc08a244e1c088d80ea97a39b5aad3e9121f58de1d22ae72c58d84a1f
 
 whois:        whois.nic.bar
@@ -4750,7 +4745,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.bar
 
 created:      2014-02-13
-changed:      2024-04-11
+changed:      2024-04-22
 source:       IANA
 
 % IANA WHOIS server
@@ -7384,6 +7379,7 @@ nserver:      B.NIC.BOND 185.24.64.85 2a04:2b00:13cc:0:0:0:1:85
 nserver:      C.NIC.BOND 212.18.248.85 2a04:2b00:13ee:0:0:0:0:85
 nserver:      D.NIC.BOND 212.18.249.85 2a04:2b00:13ff:0:0:0:0:85
 ds-rdata:     35002 8 2 fa12aa0eba1f60642345ceefbdd7a36ec310eb1602547beaad5a1793ecca9dd5
+ds-rdata:     6470 8 2 a7074c6987d326d776c85c8b378a3ef437099503492c367d67952a9dcec2d229
 
 whois:        whois.nic.bond
 
@@ -7391,7 +7387,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.bond
 
 created:      2014-10-30
-changed:      2021-11-29
+changed:      2024-04-18
 source:       IANA
 
 % IANA WHOIS server
@@ -8734,10 +8730,10 @@ ds-rdata:     21101 13 2 1142355e16da610e0872122f8e5f542ee0d3668abb727f3a031e2c1
 whois:        whois.nic.bzh
 
 status:       ACTIVE
-remarks:      Registration information: http://www.pik.bzh
+remarks:      Registration information: https://www.pik.bzh
 
 created:      2014-05-29
-changed:      2024-03-19
+changed:      2024-04-24
 source:       IANA
 
 % IANA WHOIS server
@@ -11958,6 +11954,10 @@ address:      Canada
 phone:        +1.9499033449
 e-mail:       trs-ops@tucows.com
 
+nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
+nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
+nserver:      NS01.TRS-DNS.NET 64.96.2.1
+nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
 nserver:      NS1.UNIREGISTRY.NET 2620:57:4000:1:0:0:0:1 64.96.1.1
 nserver:      NS2.UNIREGISTRY.INFO 64.96.2.1
 nserver:      NS3.UNIREGISTRY.NET 185.159.197.3 2620:10a:80aa:0:0:0:0:3
@@ -11970,7 +11970,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.get.cloud
 
 created:      2015-06-18
-changed:      2023-11-20
+changed:      2024-04-23
 source:       IANA
 
 % IANA WHOIS server
@@ -13193,6 +13193,10 @@ address:      Canada
 phone:        +1.949.903.3449
 e-mail:       trs-ops@tucows.com
 
+nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
+nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
+nserver:      NS01.TRS-DNS.NET 64.96.2.1
+nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
 nserver:      NS1.UNIREGISTRY.NET 2620:57:4000:1:0:0:0:1 64.96.1.1
 nserver:      NS2.UNIREGISTRY.INFO 64.96.2.1
 nserver:      NS3.UNIREGISTRY.NET 185.159.197.3 2620:10a:80aa:0:0:0:0:3
@@ -13205,7 +13209,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.coop
 
 created:      2001-12-15
-changed:      2023-04-21
+changed:      2024-04-23
 source:       IANA
 
 % IANA WHOIS server
@@ -16017,7 +16021,6 @@ nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
 nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
 nserver:      NS01.TRS-DNS.NET 64.96.2.1
 nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
-ds-rdata:     25674 8 2 06c661d544490aaf9c0efa121f0fd66ae957cb1900309fdae4a670ac4af1d37d
 ds-rdata:     41150 8 2 d206fa304919c1b109784efe3704271919a8da8ab5dfe8637c22e1ae7c8c46ab
 
 whois:        whois.nic.diy
@@ -16026,7 +16029,7 @@ status:       ACTIVE
 remarks:      Registration information: https://internetnaming.co
 
 created:      2016-07-21
-changed:      2024-01-09
+changed:      2024-04-24
 source:       IANA
 
 % IANA WHOIS server
@@ -17404,8 +17407,8 @@ phone:        +202 33458366
 fax-no:       +202 33458365
 e-mail:       tech@egregistry.eg
 
+nserver:      DNS-EG.UNIVIE.AC.AT 2001:628:453:bb:0:0:0:8 78.104.145.8
 nserver:      FRCU.EUN.EG 193.227.1.1
-nserver:      NS5.UNIVIE.AC.AT 193.171.255.77 2001:628:453:4305:0:0:0:53
 nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
 
 whois:        
@@ -17414,7 +17417,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.egregistry.eg/
 
 created:      1990-11-30
-changed:      2017-08-05
+changed:      2024-04-24
 source:       IANA
 
 % IANA WHOIS server
@@ -19187,15 +19190,13 @@ fax-no:       206-238-1232
 e-mail:       contact@topspectrum.com
 
 contact:      technical
-name:         CTO
-organisation: CentralNic
-address:      Saddlers House, 4th Floor
-address:      44 Gutter Lane
-address:      London EC2V 6BR
-address:      United Kingdom of Great Britain and Northern Ireland (the)
-phone:        +44 20 33 88 0600
-fax-no:       +44 20 33 88 0601
-e-mail:       tld.ops@centralnic.com
+name:         Francisco Obispo
+organisation: Tucows Inc
+address:      96 Mowat Avenue
+address:      Toronto Ontario M6K3M1
+address:      Canada
+phone:        +1.949.903.3449
+e-mail:       trs-ops@tucows.com
 
 nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
 nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
@@ -19210,7 +19211,7 @@ status:       ACTIVE
 remarks:      Registration information: http://centralnic.com
 
 created:      2014-03-06
-changed:      2024-03-20
+changed:      2024-04-23
 source:       IANA
 
 % IANA WHOIS server
@@ -20540,7 +20541,6 @@ nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
 nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
 nserver:      NS01.TRS-DNS.NET 64.96.2.1
 nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
-ds-rdata:     42180 8 2 4aa1f08b292b3835fd27b5692d0cd0c1cd0119bf1455a69506e50cdc6c47d761
 ds-rdata:     3415 8 2 ca071e56345c271f2097dea2fd030a761869d20acaf34540f56c26eb484a4eea
 
 whois:        
@@ -20549,7 +20549,7 @@ status:       ACTIVE
 remarks:      Registration information: https://internetnaming.co
 
 created:      2016-11-04
-changed:      2024-01-09
+changed:      2024-04-24
 source:       IANA
 
 % IANA WHOIS server
@@ -20770,15 +20770,13 @@ fax-no:       206-238-1232
 e-mail:       jay@fegistry.com
 
 contact:      technical
-name:         CTO
-organisation: CentralNic
-address:      Saddlers House, 4th Floor
-address:      44 Gutter Lane
-address:      London EC2V 6BR
-address:      United Kingdom of Great Britain and Northern Ireland (the)
-phone:        +44 20 33 88 0600
-fax-no:       +44 20 33 88 0601
-e-mail:       tld.ops@centralnic.com
+name:         Francisco Obispo
+organisation: Tucows Inc
+address:      96 Mowat Avenue
+address:      Toronto Ontario M6K3M1
+address:      Canada
+phone:        +1.949.903.3449
+e-mail:       trs-ops@tucows.com
 
 nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
 nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
@@ -20793,7 +20791,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.topspectrum.com
 
 created:      2015-06-11
-changed:      2024-03-20
+changed:      2024-04-18
 source:       IANA
 
 % IANA WHOIS server
@@ -25510,6 +25508,10 @@ address:      Canada
 phone:        +1.949.903.3449
 e-mail:       trs-ops@tucows.com
 
+nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
+nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
+nserver:      NS01.TRS-DNS.NET 64.96.2.1
+nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
 nserver:      NS1.UNIREGISTRY.NET 2620:57:4000:1:0:0:0:1 64.96.1.1
 nserver:      NS2.UNIREGISTRY.INFO 64.96.2.1
 nserver:      NS3.UNIREGISTRY.NET 185.159.197.3 2620:10a:80aa:0:0:0:0:3
@@ -25522,7 +25524,7 @@ status:       ACTIVE
 remarks:      Registration information: https://get.hiphop
 
 created:      2014-05-08
-changed:      2023-05-17
+changed:      2024-04-24
 source:       IANA
 
 % IANA WHOIS server
@@ -26849,6 +26851,7 @@ nserver:      D.HU 2a00:e6a0:3:1014:0:0:53:99 5.28.0.99
 nserver:      E.HU 194.0.25.11 2001:678:20:0:0:0:0:11
 nserver:      F.HU 194.0.9.1 2001:678:c:0:0:0:0:1
 ds-rdata:     2104 8 2 65f5d64b860f26feae0bde3ca51b730b38381678c8c316f16b37e551105ebac5
+ds-rdata:     46162 8 2 09b29528cb5f451df8e98be0d82126e931a6a0a45349c4bf6516c49c8a64041b
 
 whois:        whois.nic.hu
 
@@ -26856,7 +26859,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.domain.hu
 
 created:      1990-11-07
-changed:      2023-11-27
+changed:      2024-04-22
 source:       IANA
 
 % IANA WHOIS server
@@ -28272,7 +28275,7 @@ remarks:      Registration information:
 remarks:      https://www.iana.org/domains/int
 
 created:      1988-11-03
-changed:      2022-12-13
+changed:      2024-04-23
 source:       IANA
 
 % IANA WHOIS server
@@ -29335,7 +29338,7 @@ source:       IANA
 
 domain:       JIO
 
-organisation: Affinity Names, Inc.
+organisation: Reliance Industries Limited
 address:      Building 2A, 1st floor, CA - 13
 address:      Reliance Corporate Park, Thane Belapur Road
 address:      Navi Mumbai Maharashtra 400701
@@ -29354,13 +29357,12 @@ e-mail:       saket.gadkari@ril.com
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Afilias Limited
-address:      c/o Donuts Inc.
-address:      10500 NE 8th Street, Suite 750
+address:      c/o Identity Digital Inc. 10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldtech@donuts.email
+e-mail:       tldtech@identity.digital
 
 nserver:      A0.NIC.JIO 2a01:8840:ce:0:0:0:0:33 65.22.212.33
 nserver:      A2.NIC.JIO 2a01:8840:d1:0:0:0:0:33 65.22.215.33
@@ -29374,7 +29376,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.ril.com
 
 created:      2016-08-11
-changed:      2023-08-28
+changed:      2024-04-23
 source:       IANA
 
 % IANA WHOIS server
@@ -32956,7 +32958,6 @@ nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
 nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
 nserver:      NS01.TRS-DNS.NET 64.96.2.1
 nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
-ds-rdata:     43470 8 2 bc977bf20baf75a4593e81d3e773f044543de7c3db7c8b0a7059e6f370a5c86c
 ds-rdata:     19435 8 2 4fae9da930da43ca7d112abeeb973fc22de2a72b39f7570dbd1d7cf825aae708
 
 whois:        whois.nic.lifestyle
@@ -32965,7 +32966,7 @@ status:       ACTIVE
 remarks:      Registration information: https://internetnaming.co
 
 created:      2015-10-01
-changed:      2024-01-09
+changed:      2024-04-24
 source:       IANA
 
 % IANA WHOIS server
@@ -33435,7 +33436,6 @@ nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
 nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
 nserver:      NS01.TRS-DNS.NET 64.96.2.1
 nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
-ds-rdata:     9429 8 2 341ce294ded797dd426a6b6afeaa0c85ba65bbc8ec3d5a7895d77dee88435df4
 ds-rdata:     59309 8 2 276c77d08efe6388824f1726e7c6d754189f9ea1747718d4960c5ee66ae2837a
 
 whois:        
@@ -33444,7 +33444,7 @@ status:       ACTIVE
 remarks:      Registration information: https://internetnaming.co
 
 created:      2015-12-10
-changed:      2024-01-09
+changed:      2024-04-24
 source:       IANA
 
 % IANA WHOIS server
@@ -34002,6 +34002,10 @@ address:      Canada
 phone:        1.9499033449
 e-mail:       trs-ops@tucows.com
 
+nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
+nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
+nserver:      NS01.TRS-DNS.NET 64.96.2.1
+nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
 nserver:      NS1.UNIREGISTRY.NET 2620:57:4000:1:0:0:0:1 64.96.1.1
 nserver:      NS2.UNIREGISTRY.INFO 64.96.2.1
 nserver:      NS3.UNIREGISTRY.NET 185.159.197.3 2620:10a:80aa:0:0:0:0:3
@@ -34014,7 +34018,7 @@ status:       ACTIVE
 remarks:      Registration information: http://get.love
 
 created:      2015-03-25
-changed:      2023-04-20
+changed:      2024-04-23
 source:       IANA
 
 % IANA WHOIS server
@@ -40701,7 +40705,6 @@ nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
 nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
 nserver:      NS01.TRS-DNS.NET 64.96.2.1
 nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
-ds-rdata:     46084 8 2 366c4c042dbbaa5636c254a7ab2331102545dca6f2c81c8ce6b42c6dd0cadeb4
 ds-rdata:     61001 8 2 73ad12c51e27b349f25a52045c94b7e62ee76ea3061c1addda4ced8fc3038c94
 
 whois:        whois.nic.observer
@@ -40710,7 +40713,7 @@ status:       ACTIVE
 remarks:      Registration information: https://internetnaming.co
 
 created:      2016-09-15
-changed:      2024-02-23
+changed:      2024-04-24
 source:       IANA
 
 % IANA WHOIS server
@@ -41779,10 +41782,10 @@ ds-rdata:     24939 13 2 02a3f789b7d6c726513eebadf7f64741fed1acd57405339d9d50191
 whois:        whois.nic.ovh
 
 status:       ACTIVE
-remarks:      Registration information: http://www.ovh.com
+remarks:      Registration information: https://www.ovh.com
 
 created:      2014-05-01
-changed:      2024-04-04
+changed:      2024-04-24
 source:       IANA
 
 % IANA WHOIS server
@@ -45472,6 +45475,7 @@ nserver:      E.EXT.NIC.FR 193.176.144.22 2a00:d78:0:102:193:176:144:22
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
 ds-rdata:     49754 13 2 ce6c40407ed006c7a2d34b04f01ea0d825a64fa2418d6e994192ad05ad24ff68
+ds-rdata:     61047 13 2 6a6546f44c8680c705612f9722a591dbbb88bf0d40e89e1cb45fad18eee3d4ea
 
 whois:        whois.nic.re
 
@@ -45479,7 +45483,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.re
 
 created:      1997-04-07
-changed:      2024-03-12
+changed:      2024-04-22
 source:       IANA
 
 % IANA WHOIS server
@@ -45667,7 +45671,6 @@ nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
 nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
 nserver:      NS01.TRS-DNS.NET 64.96.2.1
 nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
-ds-rdata:     5506 8 2 20e276179f6ef711cd63c5e4851c2c3b4917fcff813c708aa902c305b8960484
 ds-rdata:     21334 8 2 613e789594bc8fce2381f7b1c2f4232093b017f5eef5444eb0f1d8ef5c2f65e2
 
 whois:        whois.nic.realty
@@ -45676,7 +45679,7 @@ status:       ACTIVE
 remarks:      Registration information: https://internetnaming.co
 
 created:      2015-06-11
-changed:      2024-02-23
+changed:      2024-04-23
 source:       IANA
 
 % IANA WHOIS server
@@ -46450,8 +46453,6 @@ nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
 nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
 nserver:      NS01.TRS-DNS.NET 64.96.2.1
 nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
-ds-rdata:     25199 8 1 c43af7dec8b165d6c8b832bcb984c2407ef5ed8d
-ds-rdata:     25199 8 2 8f477474f47c387d246b6849202ca0c54c4d5a50d322c79718a98100314d08b7
 ds-rdata:     1306 8 2 291a11f18605131354f74ccd032e1ebc65cf837656234b50bb52669088112aff
 
 whois:        whois.nic.rest
@@ -46460,7 +46461,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.register.rest/
 
 created:      2014-03-06
-changed:      2024-04-11
+changed:      2024-04-22
 source:       IANA
 
 % IANA WHOIS server
@@ -50359,14 +50360,14 @@ address:      China
 
 contact:      administrative
 name:         Senior Operation Manager
-organisation: QIHOO 360 Technology Co. Ltd.
+organisation: Beijing Qihu Keji Co., Ltd.
 address:      Building #2, No. 6 Jiuxianqiao Road
 address:      Chaoyang District
 address:      Beijing
 address:      China
 phone:        +86 10 5244 7383
 fax-no:       +86. 10 5878 1411
-e-mail:       newgtld@360.cn
+e-mail:       newgtld_legal@360.cn
 
 contact:      technical
 name:         CTO
@@ -50391,7 +50392,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.teleinfo.cn
 
 created:      2016-03-18
-changed:      2022-09-20
+changed:      2024-04-19
 source:       IANA
 
 % IANA WHOIS server
@@ -52073,10 +52074,10 @@ nserver:      NS2.SR.NET 200.2.162.30
 whois:        
 
 status:       ACTIVE
-remarks:      Registration information: http://isp.datasur.sr/
+remarks:      Registration information: https://isp.datasur.sr/
 
 created:      1991-09-03
-changed:      2023-02-17
+changed:      2024-04-22
 source:       IANA
 
 % IANA WHOIS server
@@ -57905,7 +57906,6 @@ nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
 nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
 nserver:      NS01.TRS-DNS.NET 64.96.2.1
 nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
-ds-rdata:     51813 8 2 93baec1bc806c42034f1ba91345d8aa439242ea114157951bf6b7e9f79fc9e0c
 ds-rdata:     16105 8 2 f270cc6904f1292fbe949fc33c20cf64887d06cc82d2243413eccaeb98e7221c
 
 whois:        whois.nic.vana
@@ -57914,7 +57914,7 @@ status:       ACTIVE
 remarks:      Registration information: https://internetnaming.co
 
 created:      2015-09-24
-changed:      2024-01-09
+changed:      2024-04-24
 source:       IANA
 
 % IANA WHOIS server
@@ -61238,14 +61238,14 @@ address:      China
 
 contact:      administrative
 name:         Senior Operation Manager
-organisation: QIHOO 360 Technology Co. Ltd.
+organisation: Beijing Qihu Keji Co., Ltd.
 address:      Building #2, No. 6 Jiuxianqiao Road
 address:      Chaoyang District
 address:      Beijing
 address:      China
 phone:        +86 10 5244 7383
 fax-no:       +86. 10 5878 1411
-e-mail:       newgtld@360.cn
+e-mail:       newgtld_legal@360.cn
 
 contact:      technical
 name:         CTO
@@ -61270,7 +61270,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.teleinfo.cn
 
 created:      2016-03-18
-changed:      2022-09-20
+changed:      2024-04-19
 source:       IANA
 
 % IANA WHOIS server
@@ -67093,9 +67093,9 @@ source:       IANA
 domain:       招聘
 domain-ace:   XN--OTU796D
 
-organisation: Dot Trademark TLD Holding Company Limited
-address:      F/26, East Tower, Forturn Plaza, No.118, Tiyu Dong Rd
-address:      Guangzhou Guangdong
+organisation: Jiang Yu Liang Cai Technology Company Limited
+address:      Rm 1202, No. 233 Tianhe North Road, Tianhe District
+address:      Guangzhou Guangdong 510610
 address:      China
 
 contact:      administrative
@@ -67110,12 +67110,11 @@ e-mail:       icann@trademarkdomain.com
 
 contact:      technical
 name:         Tao ZHANG
-organisation: Dot Trademark TLD Holding Company Limited
-address:      F/26, East Tower, Forturn Plaza, No.118, Tiyu Dong Rd
-address:      Guangzhou Guangdong
+organisation: Jiang Yu Liang Cai Technology Company Limited
+address:      Rm 1202, No. 233 Tianhe North Road, Tianhe District
+address:      Guangzhou Guangdong 510610
 address:      China
-phone:        +86-020-85720323
-fax-no:       N/A
+phone:        +86-10-68424346
 e-mail:       icann@trademarkdomain.com
 
 nserver:      A.ZDNSCLOUD.COM 203.99.24.1
@@ -67135,7 +67134,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2017-12-21
-changed:      2024-02-28
+changed:      2024-04-22
 source:       IANA
 
 % IANA WHOIS server
@@ -69386,14 +69385,14 @@ address:      China
 
 contact:      administrative
 name:         Senior Operation Manager
-organisation: QIHOO 360 Technology Co. Ltd.
+organisation: Beijing Qihu Keji Co., Ltd.
 address:      Building #2, No. 6 Jiuxianqiao Road
 address:      Chaoyang District
 address:      Beijing
 address:      China
 phone:        +86 10 5244 7383
 fax-no:       +86. 10 5878 1411
-e-mail:       newgtld@360.cn
+e-mail:       newgtld_legal@360.cn
 
 contact:      technical
 name:         CTO
@@ -69418,7 +69417,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.teleinfo.cn
 
 created:      2016-03-18
-changed:      2022-09-20
+changed:      2024-04-19
 source:       IANA
 
 % IANA WHOIS server
@@ -69706,7 +69705,7 @@ status:       ACTIVE
 remarks:      Registration information: https://registry.zicta.zm
 
 created:      1994-03-25
-changed:      2023-03-20
+changed:      2024-04-24
 source:       IANA
 
 % IANA WHOIS server

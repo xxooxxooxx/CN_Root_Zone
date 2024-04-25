@@ -11,13 +11,13 @@ address:      China
 
 contact:      administrative
 name:         Senior Operation Manager
-organisation: QIHOO 360 Technology Co. Ltd.
+organisation: Beijing Qihu Keji Co., Ltd.
 address:      Chaoyang District
 address:      Beijing
 address:      China
 phone:        +86 10 5244 7383
 fax-no:       +86. 10 5878 1411
-e-mail:       newgtld@360.cn
+e-mail:       newgtld_legal@360.cn
 
 contact:      technical
 name:         CTO
@@ -42,7 +42,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.teleinfo.cn
 
 created:      2016-03-18
-changed:      2022-09-20
+changed:      2024-04-19
 source:       IANA
 
 % IANA WHOIS server
@@ -1150,13 +1150,13 @@ address:      China
 
 contact:      administrative
 name:         Senior Operation Manager
-organisation: QIHOO 360 Technology Co. Ltd.
+organisation: Beijing Qihu Keji Co., Ltd.
 address:      Chaoyang District
 address:      Beijing
 address:      China
 phone:        +86 10 5244 7383
 fax-no:       +86. 10 5878 1411
-e-mail:       newgtld@360.cn
+e-mail:       newgtld_legal@360.cn
 
 contact:      technical
 name:         CTO
@@ -1181,7 +1181,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.teleinfo.cn
 
 created:      2016-03-18
-changed:      2022-09-20
+changed:      2024-04-19
 source:       IANA
 
 % IANA WHOIS server
@@ -1507,13 +1507,13 @@ address:      China
 
 contact:      administrative
 name:         Senior Operation Manager
-organisation: QIHOO 360 Technology Co. Ltd.
+organisation: Beijing Qihu Keji Co., Ltd.
 address:      Chaoyang District
 address:      Beijing
 address:      China
 phone:        +86 10 5244 7383
 fax-no:       +86. 10 5878 1411
-e-mail:       newgtld@360.cn
+e-mail:       newgtld_legal@360.cn
 
 contact:      technical
 name:         CTO
@@ -1538,7 +1538,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.teleinfo.cn
 
 created:      2016-03-18
-changed:      2022-09-20
+changed:      2024-04-19
 source:       IANA
 
 % IANA WHOIS server
@@ -1605,13 +1605,13 @@ address:      China
 
 contact:      administrative
 name:         Senior Operation Manager
-organisation: QIHOO 360 Technology Co. Ltd.
+organisation: Beijing Qihu Keji Co., Ltd.
 address:      Chaoyang District
 address:      Beijing
 address:      China
 phone:        +86 10 5244 7383
 fax-no:       +86. 10 5878 1411
-e-mail:       newgtld@360.cn
+e-mail:       newgtld_legal@360.cn
 
 contact:      technical
 name:         CTO
@@ -1636,7 +1636,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.teleinfo.cn
 
 created:      2016-03-18
-changed:      2022-09-20
+changed:      2024-04-19
 source:       IANA
 
 % IANA WHOIS server
@@ -2711,9 +2711,9 @@ source:       IANA
 domain:       招聘
 domain-ace:   XN--OTU796D
 
-organisation: Dot Trademark TLD Holding Company Limited
-address:      F/26, East Tower, Forturn Plaza, No.118, Tiyu Dong Rd
-address:      Guangzhou Guangdong
+organisation: Jiang Yu Liang Cai Technology Company Limited
+address:      Rm 1202, No. 233 Tianhe North Road, Tianhe District
+address:      Guangzhou Guangdong 510610
 address:      China
 
 contact:      administrative
@@ -2728,12 +2728,11 @@ e-mail:       icann@trademarkdomain.com
 
 contact:      technical
 name:         Tao ZHANG
-organisation: Dot Trademark TLD Holding Company Limited
-address:      F/26, East Tower, Forturn Plaza, No.118, Tiyu Dong Rd
-address:      Guangzhou Guangdong
+organisation: Jiang Yu Liang Cai Technology Company Limited
+address:      Rm 1202, No. 233 Tianhe North Road, Tianhe District
+address:      Guangzhou Guangdong 510610
 address:      China
-phone:        +86-020-85720323
-fax-no:       N/A
+phone:        +86-10-68424346
 e-mail:       icann@trademarkdomain.com
 
 nserver:      A.ZDNSCLOUD.COM 203.99.24.1
@@ -2753,7 +2752,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2017-12-21
-changed:      2024-02-28
+changed:      2024-04-22
 source:       IANA
 
 % IANA WHOIS server

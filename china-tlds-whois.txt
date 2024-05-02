@@ -1029,7 +1029,6 @@ nserver:      F.ZDNSCLOUD.COM 114.67.16.204
 nserver:      G.ZDNSCLOUD.COM 42.62.2.16
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
-ds-rdata:     770 8 2 897ea15932fa4407809d32ca7c7da4b0c0e455316a897970f152109f18ce6cd9
 ds-rdata:     6712 8 2 06090fb53ae539ce051d9236a0c6b5fd58361167bc0d7f5e8e9eab4f62d4fffb
 
 whois:        whois.nic.ren
@@ -1038,7 +1037,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.ren/
 
 created:      2014-02-28
-changed:      2024-02-22
+changed:      2024-04-26
 source:       IANA
 
 % IANA WHOIS server
@@ -1291,7 +1290,7 @@ source:       IANA
 
 domain:       TOP
 
-organisation: Jiangsu Bangning Science & Technology Co.,Ltd.
+organisation: .TOP Registry
 address:      3th Floor, BangNing Technology Park, 2 YuHua Avenue
 address:      Yuhuatai District
 address:      Nanjing Jiangsu
@@ -1336,7 +1335,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.top
 
 created:      2014-07-24
-changed:      2024-04-02
+changed:      2024-04-26
 source:       IANA
 
 % IANA WHOIS server
@@ -1439,10 +1438,10 @@ ds-rdata:     19549 8 2 328b02976180a88840e22a052b3d03c8ce7b67609b7cc1840e0e0fe7
 whois:        whois.gtld.knet.cn
 
 status:       ACTIVE
-remarks:      Registration information: http://www.zodiacregistry.com
+remarks:      Registration information: http://www.nic.wang
 
 created:      2013-12-12
-changed:      2024-03-27
+changed:      2024-04-29
 source:       IANA
 
 % IANA WHOIS server

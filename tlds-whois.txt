@@ -3258,6 +3258,7 @@ nserver:      B.NIC.ART 185.24.64.49 2a04:2b00:13cc:0:0:0:1:49
 nserver:      C.NIC.ART 212.18.248.49 2a04:2b00:13ee:0:0:0:0:49
 nserver:      D.NIC.ART 212.18.249.49 2a04:2b00:13ff:0:0:0:0:49
 ds-rdata:     29485 8 2 bf041a7ec6ca857f5d85151c66f561deb9c863b98e05670c345c9cf9ed199aee
+ds-rdata:     32002 8 2 fb2ae28a30b90d8b273b88edf84d3edc704c6aa6dd08c1f51c8e96992441bb17
 
 whois:        whois.nic.art
 
@@ -3265,7 +3266,7 @@ status:       ACTIVE
 remarks:      Registration information: http://art.art/
 
 created:      2016-06-09
-changed:      2021-09-23
+changed:      2024-04-30
 source:       IANA
 
 % IANA WHOIS server
@@ -9061,8 +9062,8 @@ nserver:      A.NIC.CAM 194.169.218.77 2001:67c:13cc:0:0:0:1:77
 nserver:      B.NIC.CAM 185.24.64.77 2a04:2b00:13cc:0:0:0:1:77
 nserver:      C.NIC.CAM 212.18.248.77 2a04:2b00:13ee:0:0:0:0:77
 nserver:      D.NIC.CAM 212.18.249.77 2a04:2b00:13ff:0:0:0:0:77
-ds-rdata:     27179 8 2 f8c48547453f63fcc5bf62884a1f885fe50d467079e7b17da3c8d0a2dc92474d
 ds-rdata:     5089 8 2 a17021ada565f6b13749741dc51a25b0f524bae6b753343155cfe8426cd29462
+ds-rdata:     63412 8 2 574852572a5d0fa1b6c9d1b008851e74a34298e5dcbb0979c347753eec1a23d4
 
 whois:        whois.nic.cam
 
@@ -9070,7 +9071,7 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.cam/
 
 created:      2016-06-09
-changed:      2022-02-07
+changed:      2024-04-30
 source:       IANA
 
 % IANA WHOIS server
@@ -10527,23 +10528,20 @@ source:       IANA
 
 domain:       CFD
 
-organisation: DOTCFD REGISTRY LTD
-address:      Boston Ivy
-address:      Cannon Bridge House
-address:      25 Dowgate Hill
-address:      London EC4R 2YA
-address:      United Kingdom of Great Britain and Northern Ireland (the)
+organisation: Shortdot SA
+address:      29 Boulevard de la Grande-Duchesse Charlotte
+address:      Luxembourg City L-1331
+address:      Luxembourg
 
 contact:      administrative
-name:         Head of Registry Services
-organisation: DOTCFD REGISTRY LTD
-address:      Boston Ivy
-address:      Cannon Bridge House
-address:      25 Dowgate Hill
-address:      London EC4R 2YA
-address:      United Kingdom of Great Britain and Northern Ireland (the)
-phone:        +44.2033880600
-e-mail:       ig@centralnic.com
+name:         CEO
+organisation: Shortdot SA
+address:      29 Boulevard de la Grande-Duchesse Charlotte
+address:      Luxembourg City L-1331
+address:      Luxembourg
+phone:        +352621811103
+fax-no:       +35227862529
+e-mail:       sales@nic.icu
 
 contact:      technical
 name:         CTO
@@ -10569,7 +10567,7 @@ status:       ACTIVE
 remarks:      Registration information: http://bostonivy.co
 
 created:      2015-03-06
-changed:      2024-01-31
+changed:      2024-04-29
 source:       IANA
 
 % IANA WHOIS server
@@ -11763,10 +11761,10 @@ address:      Canada
 phone:        +1.949.903.3449
 e-mail:       trs-ops@tucows.com
 
-nserver:      NS1.UNIREGISTRY.NET 2620:57:4000:1:0:0:0:1 64.96.1.1
-nserver:      NS2.UNIREGISTRY.INFO 64.96.2.1
-nserver:      NS3.UNIREGISTRY.NET 185.159.197.3 2620:10a:80aa:0:0:0:0:3
-nserver:      NS4.UNIREGISTRY.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
+nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
+nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
+nserver:      NS01.TRS-DNS.NET 64.96.2.1
+nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
 ds-rdata:     65517 13 2 d09a2c14c4382634edccf9634fb32e91511e1e642f3c38468ba2407f1d1bad24
 
 whois:        whois.nic.click
@@ -11775,7 +11773,7 @@ status:       ACTIVE
 remarks:      Registration information: https://internetnaming.co
 
 created:      2014-08-15
-changed:      2023-01-18
+changed:      2024-04-26
 source:       IANA
 
 % IANA WHOIS server
@@ -11958,10 +11956,6 @@ nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
 nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
 nserver:      NS01.TRS-DNS.NET 64.96.2.1
 nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
-nserver:      NS1.UNIREGISTRY.NET 2620:57:4000:1:0:0:0:1 64.96.1.1
-nserver:      NS2.UNIREGISTRY.INFO 64.96.2.1
-nserver:      NS3.UNIREGISTRY.NET 185.159.197.3 2620:10a:80aa:0:0:0:0:3
-nserver:      NS4.UNIREGISTRY.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
 ds-rdata:     48499 8 2 655c17351152d0b6a959b7ac2c674ca37bb3513f612cf803eae16f572c648ab4
 
 whois:        whois.nic.cloud
@@ -11970,7 +11964,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.get.cloud
 
 created:      2015-06-18
-changed:      2024-04-23
+changed:      2024-04-25
 source:       IANA
 
 % IANA WHOIS server
@@ -13197,10 +13191,6 @@ nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
 nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
 nserver:      NS01.TRS-DNS.NET 64.96.2.1
 nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
-nserver:      NS1.UNIREGISTRY.NET 2620:57:4000:1:0:0:0:1 64.96.1.1
-nserver:      NS2.UNIREGISTRY.INFO 64.96.2.1
-nserver:      NS3.UNIREGISTRY.NET 185.159.197.3 2620:10a:80aa:0:0:0:0:3
-nserver:      NS4.UNIREGISTRY.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
 ds-rdata:     39183 13 2 fd71e26868bf7f277dfa0800aa6f51e12e00c8b61841b35daae12cd86a34606f
 
 whois:        whois.nic.coop
@@ -13209,7 +13199,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.coop
 
 created:      2001-12-15
-changed:      2024-04-23
+changed:      2024-04-25
 source:       IANA
 
 % IANA WHOIS server
@@ -13288,10 +13278,10 @@ address:      Canada
 phone:        +1.949.903.3449
 e-mail:       trs-ops@tucows.com
 
-nserver:      NS1.UNIREGISTRY.NET 2620:57:4000:1:0:0:0:1 64.96.1.1
-nserver:      NS2.UNIREGISTRY.INFO 64.96.2.1
-nserver:      NS3.UNIREGISTRY.NET 185.159.197.3 2620:10a:80aa:0:0:0:0:3
-nserver:      NS4.UNIREGISTRY.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
+nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
+nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
+nserver:      NS01.TRS-DNS.NET 64.96.2.1
+nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
 ds-rdata:     28436 13 2 94dd44e372b69204cb1fe63ddd1d7a831642d96d00e9dda589ddaa02e0922cdd
 
 whois:        whois.nic.country
@@ -13300,7 +13290,7 @@ status:       ACTIVE
 remarks:      Registration information: https://internetnaming.co
 
 created:      2014-02-28
-changed:      2023-01-18
+changed:      2024-04-26
 source:       IANA
 
 % IANA WHOIS server
@@ -16898,7 +16888,7 @@ source:       IANA
 
 domain:       DVR
 
-organisation: Hughes Satellite Systems Corporation
+organisation: DISH Technologies L.L.C.
 address:      100 Inverness Terrace East
 address:      Englewood CO 80112
 address:      United States of America (the)
@@ -16936,7 +16926,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.echostar.com
 
 created:      2016-09-22
-changed:      2023-08-11
+changed:      2024-04-25
 source:       IANA
 
 % IANA WHOIS server
@@ -20931,10 +20921,10 @@ ds-rdata:     29133 13 2 1303e8da8fb60db500d5bea1ee5dc9a2bcc93dfe2fc43d346576658
 whois:        whois.nic.fr
 
 status:       ACTIVE
-remarks:      Registration information: http://www.nic.fr
+remarks:      Registration information: https://www.nic.fr
 
 created:      1986-09-02
-changed:      2024-03-12
+changed:      2024-04-26
 source:       IANA
 
 % IANA WHOIS server
@@ -22692,6 +22682,10 @@ address:      Canada
 phone:        +1.949.903.3449
 e-mail:       trs-ops@tucows.com
 
+nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
+nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
+nserver:      NS01.TRS-DNS.NET 64.96.2.1
+nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
 nserver:      NS1.UNIREGISTRY.NET 2620:57:4000:1:0:0:0:1 64.96.1.1
 nserver:      NS2.UNIREGISTRY.INFO 64.96.2.1
 nserver:      NS3.UNIREGISTRY.NET 185.159.197.3 2620:10a:80aa:0:0:0:0:3
@@ -22704,7 +22698,7 @@ status:       ACTIVE
 remarks:      Registration information: http://uniregistry.link
 
 created:      2014-01-09
-changed:      2022-11-22
+changed:      2024-05-01
 source:       IANA
 
 % IANA WHOIS server
@@ -25512,10 +25506,6 @@ nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
 nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
 nserver:      NS01.TRS-DNS.NET 64.96.2.1
 nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
-nserver:      NS1.UNIREGISTRY.NET 2620:57:4000:1:0:0:0:1 64.96.1.1
-nserver:      NS2.UNIREGISTRY.INFO 64.96.2.1
-nserver:      NS3.UNIREGISTRY.NET 185.159.197.3 2620:10a:80aa:0:0:0:0:3
-nserver:      NS4.UNIREGISTRY.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
 ds-rdata:     7668 13 2 de0bde4365798b5080d31d7a5a8e7182d4924938761bfd506af371ea5cb36ab0
 
 whois:        whois.nic.hiphop
@@ -25524,7 +25514,7 @@ status:       ACTIVE
 remarks:      Registration information: https://get.hiphop
 
 created:      2014-05-08
-changed:      2024-04-24
+changed:      2024-04-29
 source:       IANA
 
 % IANA WHOIS server
@@ -25651,10 +25641,10 @@ address:      Canada
 phone:        +1.949.903.3449
 e-mail:       trs-ops@tucows.com
 
-nserver:      NS1.UNIREGISTRY.NET 2620:57:4000:1:0:0:0:1 64.96.1.1
-nserver:      NS2.UNIREGISTRY.INFO 64.96.2.1
-nserver:      NS3.UNIREGISTRY.NET 185.159.197.3 2620:10a:80aa:0:0:0:0:3
-nserver:      NS4.UNIREGISTRY.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
+nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
+nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
+nserver:      NS01.TRS-DNS.NET 64.96.2.1
+nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
 ds-rdata:     50937 13 2 139053a1dd36c05b171d5adb695cedcd3db6eea7b7a2b0700aadc4c8712b1344
 
 whois:        whois.nic.hiv
@@ -25663,7 +25653,7 @@ status:       ACTIVE
 remarks:      Registration information: https://internetnaming.co
 
 created:      2014-05-22
-changed:      2023-01-18
+changed:      2024-04-26
 source:       IANA
 
 % IANA WHOIS server
@@ -29998,10 +29988,10 @@ address:      Canada
 phone:        +1.949.903.3449
 e-mail:       trs-ops@tucows.com
 
-nserver:      NS1.UNIREGISTRY.NET 2620:57:4000:1:0:0:0:1 64.96.1.1
-nserver:      NS2.UNIREGISTRY.INFO 64.96.2.1
-nserver:      NS3.UNIREGISTRY.NET 185.159.197.3 2620:10a:80aa:0:0:0:0:3
-nserver:      NS4.UNIREGISTRY.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
+nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
+nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
+nserver:      NS01.TRS-DNS.NET 64.96.2.1
+nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
 ds-rdata:     29108 13 2 a05ce9ac7dd78b8c400aee67a0f85d3aa82b99c07745748021a53bc35e9fc0f3
 
 whois:        whois.uniregistry.net
@@ -30010,7 +30000,7 @@ status:       ACTIVE
 remarks:      Registration information: http://uniregistry.link
 
 created:      2014-05-08
-changed:      2024-04-11
+changed:      2024-05-01
 source:       IANA
 
 % IANA WHOIS server
@@ -33719,7 +33709,6 @@ nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
 nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
 nserver:      NS01.TRS-DNS.NET 64.96.2.1
 nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
-ds-rdata:     6301 8 2 2a62e4284ad1157a9994be5022a76cf66c2c233ceede058c673d065fee63b90e
 ds-rdata:     12691 8 2 db488867de794ae457267a654fe9266d4d03dde9031da92dd58a14e551b6da01
 
 whois:        whois.nic.locker
@@ -33728,7 +33717,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dish.com
 
 created:      2016-05-19
-changed:      2024-01-30
+changed:      2024-04-25
 source:       IANA
 
 % IANA WHOIS server
@@ -34006,10 +33995,6 @@ nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
 nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
 nserver:      NS01.TRS-DNS.NET 64.96.2.1
 nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
-nserver:      NS1.UNIREGISTRY.NET 2620:57:4000:1:0:0:0:1 64.96.1.1
-nserver:      NS2.UNIREGISTRY.INFO 64.96.2.1
-nserver:      NS3.UNIREGISTRY.NET 185.159.197.3 2620:10a:80aa:0:0:0:0:3
-nserver:      NS4.UNIREGISTRY.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
 ds-rdata:     27205 13 2 099baacef86a52379cdc0f6756d1eadaa7963ff5c3a16cfe32340b109580b84b
 
 whois:        whois.nic.love
@@ -34018,7 +34003,7 @@ status:       ACTIVE
 remarks:      Registration information: http://get.love
 
 created:      2015-03-25
-changed:      2024-04-23
+changed:      2024-04-25
 source:       IANA
 
 % IANA WHOIS server
@@ -36742,10 +36727,10 @@ ds-rdata:     59534 13 2 25455417c20c22d815e00232defb2fc78e7b728600c91aadb21f870
 whois:        whois.nic.mma
 
 status:       ACTIVE
-remarks:      Registration information: http://www.mma.fr
+remarks:      Registration information: https://www.mma.fr
 
 created:      2015-02-27
-changed:      2024-04-03
+changed:      2024-04-30
 source:       IANA
 
 % IANA WHOIS server
@@ -38317,6 +38302,8 @@ nserver:      A1.NIC.MY 202.171.47.204
 nserver:      B.MYNIC.CENTRALNIC-DNS.COM 185.24.64.114 2a04:2b00:13cc:0:0:0:1:114
 nserver:      C.MYNIC.CENTRALNIC-DNS.COM 212.18.248.114 2a04:2b00:13ee:0:0:0:0:114
 nserver:      D.MYNIC.CENTRALNIC-DNS.COM 212.18.249.114 2a04:2b00:13ff:0:0:0:0:114
+nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
+nserver:      NS01.TRS-DNS.NET 64.96.2.1
 ds-rdata:     174 8 2 fb9e2f10f50a09e3614a9e6a2c76c1ae7554711e5242b7f516a8078d86ed87b9
 ds-rdata:     35481 8 2 ae555a40f6bdb488eb025822a71c91c94e1f339fdd71e0386561c3c4b7d2b198
 
@@ -38326,7 +38313,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.mynic.my
 
 created:      1987-06-08
-changed:      2023-02-22
+changed:      2024-04-30
 source:       IANA
 
 % IANA WHOIS server
@@ -41263,22 +41250,18 @@ source:       IANA
 
 domain:       OOO
 
-organisation: INFIBEAM INCORPORATION LIMITED
-address:      9th Floor, A Wing
-address:      Gopal Palace
-address:      Nehrunagar
-address:      Ahmedabad Gujarat 380015
+organisation: INFIBEAM AVENUES LIMITED
+address:      28th Floor, GIFT Two Tower, Block - 56, Road 5C, ZONE-5, GIFT CITY,
+address:      Gandhinagar Gujarat 382355
 address:      India
 
 contact:      administrative
 name:         CEO
-organisation: Infibeam.com
-address:      9th Floor, A Wing
-address:      Gopal Palace
-address:      Nehrunagar
-address:      Ahmedabad Gujarat 380015
+organisation: Infibeam Avenues Limited
+address:      28th Floor, GIFT Two Tower, Block - 56, Road 5C, ZONE-5, GIFT CITY,
+address:      Gandhinagar Gujarat 382355
 address:      India
-phone:        +91 8374000134
+phone:        +91 7967772279
 fax-no:       +91 07940503219
 e-mail:       ooocompliance@infibeam.net
 
@@ -41306,7 +41289,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.infibeam.com
 
 created:      2014-07-31
-changed:      2023-11-06
+changed:      2024-04-30
 source:       IANA
 
 % IANA WHOIS server
@@ -43122,6 +43105,7 @@ nserver:      B.NIC.PID 185.24.64.47 2a04:2b00:13cc:0:0:0:1:47
 nserver:      C.NIC.PID 212.18.248.47 2a04:2b00:13ee:0:0:0:0:47
 nserver:      D.NIC.PID 212.18.249.47 2a04:2b00:13ff:0:0:0:0:47
 ds-rdata:     35396 8 2 e8653b5c02c27cc66fd56d529656c23da9dc0231f060d527e231659f9ef27964
+ds-rdata:     40310 8 2 2415bf6a21e16aa37db85091772fd176ca35ac24ca8ab1c95b81df13f7fa0754
 
 whois:        whois.nic.pid
 
@@ -43129,7 +43113,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.topspectrum.com/
 
 created:      2015-12-10
-changed:      2021-11-29
+changed:      2024-04-30
 source:       IANA
 
 % IANA WHOIS server
@@ -44703,10 +44687,10 @@ address:      Canada
 phone:        +1.949.903.3449
 e-mail:       trs-ops@tucows.com
 
-nserver:      NS1.UNIREGISTRY.NET 2620:57:4000:1:0:0:0:1 64.96.1.1
-nserver:      NS2.UNIREGISTRY.INFO 64.96.2.1
-nserver:      NS3.UNIREGISTRY.NET 185.159.197.3 2620:10a:80aa:0:0:0:0:3
-nserver:      NS4.UNIREGISTRY.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
+nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
+nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
+nserver:      NS01.TRS-DNS.NET 64.96.2.1
+nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
 ds-rdata:     33049 13 2 6dff521d658293fd458e615debb6ca0c76341775f72f340bcd3960851b4c536f
 
 whois:        whois.nic.property
@@ -44715,7 +44699,7 @@ status:       ACTIVE
 remarks:      Registration information: https://internetnaming.co
 
 created:      2014-08-15
-changed:      2023-11-01
+changed:      2024-04-26
 source:       IANA
 
 % IANA WHOIS server
@@ -45474,7 +45458,6 @@ nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      E.EXT.NIC.FR 193.176.144.22 2a00:d78:0:102:193:176:144:22
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
-ds-rdata:     49754 13 2 ce6c40407ed006c7a2d34b04f01ea0d825a64fa2418d6e994192ad05ad24ff68
 ds-rdata:     61047 13 2 6a6546f44c8680c705612f9722a591dbbb88bf0d40e89e1cb45fad18eee3d4ea
 
 whois:        whois.nic.re
@@ -45483,7 +45466,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.re
 
 created:      1997-04-07
-changed:      2024-04-22
+changed:      2024-04-26
 source:       IANA
 
 % IANA WHOIS server
@@ -46160,7 +46143,6 @@ nserver:      F.ZDNSCLOUD.COM 114.67.16.204
 nserver:      G.ZDNSCLOUD.COM 42.62.2.16
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
-ds-rdata:     770 8 2 897ea15932fa4407809d32ca7c7da4b0c0e455316a897970f152109f18ce6cd9
 ds-rdata:     6712 8 2 06090fb53ae539ce051d9236a0c6b5fd58361167bc0d7f5e8e9eab4f62d4fffb
 
 whois:        whois.nic.ren
@@ -46169,7 +46151,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.ren/
 
 created:      2014-02-28
-changed:      2024-02-22
+changed:      2024-04-26
 source:       IANA
 
 % IANA WHOIS server
@@ -48564,20 +48546,20 @@ source:       IANA
 
 domain:       SBS
 
-organisation: SPECIAL BROADCASTING SERVICE CORPORATION
-address:      14 Herbert Street
-address:      Artarmon NSW 2064
-address:      Australia
+organisation: Shortdot SA
+address:      29 Boulevard de la Grande-Duchesse Charlotte
+address:      Luxembourg City L-1331
+address:      Luxembourg
 
 contact:      administrative
-name:         Manager, Strategy & Innovation
-organisation: SPECIAL BROADCASTING SERVICE CORPORATION
-address:      14 Herbert Street
-address:      Artarmon NSW 2064
-address:      Australia
-phone:        +612 9430 3047
-fax-no:       +612 9430 3047
-e-mail:       ngtld-sbs@cscinfo.com
+name:         CEO
+organisation: Shortdot SA
+address:      29 Boulevard de la Grande-Duchesse Charlotte
+address:      Luxembourg City L-1331
+address:      Luxembourg
+phone:        +352621811103
+fax-no:       +35227862529
+e-mail:       sales@nic.icu
 
 contact:      technical
 name:         CTO
@@ -48603,7 +48585,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.icu
 
 created:      2015-09-24
-changed:      2021-10-12
+changed:      2024-04-30
 source:       IANA
 
 % IANA WHOIS server
@@ -48646,13 +48628,13 @@ nserver:      D0.CCTLD.AFILIAS-NST.ORG 199.254.62.1 2001:500:28:0:0:0:0:1
 nserver:      NS1.NIC.SC 41.86.57.54
 ds-rdata:     2539 8 2 8293fa3ac08be770a400dde4f250dc6bf1046f34430be12e65c15bf2f482b26c
 
-whois:        whois2.afilias-grs.net
+whois:        whois.nic.sc
 
 status:       ACTIVE
 remarks:      Registration information: http://www.nic.sc
 
 created:      1997-05-09
-changed:      2020-10-16
+changed:      2024-04-29
 source:       IANA
 
 % IANA WHOIS server
@@ -49753,10 +49735,10 @@ address:      Canada
 phone:        +1.949.903.3449
 e-mail:       trs-ops@tucows.com
 
-nserver:      NS1.UNIREGISTRY.NET 2620:57:4000:1:0:0:0:1 64.96.1.1
-nserver:      NS2.UNIREGISTRY.INFO 64.96.2.1
-nserver:      NS3.UNIREGISTRY.NET 185.159.197.3 2620:10a:80aa:0:0:0:0:3
-nserver:      NS4.UNIREGISTRY.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
+nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
+nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
+nserver:      NS01.TRS-DNS.NET 64.96.2.1
+nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
 ds-rdata:     42010 13 2 a0e135ac7e6ffb2cad1574c08c837bb5d5a4e34c60356498389e69b55943d58c
 
 whois:        whois.nic.sexy
@@ -49765,7 +49747,7 @@ status:       ACTIVE
 remarks:      Registration information: https://internetnaming.co
 
 created:      2013-11-08
-changed:      2023-01-18
+changed:      2024-05-01
 source:       IANA
 
 % IANA WHOIS server
@@ -51043,7 +51025,7 @@ source:       IANA
 
 domain:       SLING
 
-organisation: Hughes Satellite Systems Corporation
+organisation: DISH Technologies L.L.C.
 address:      100 Inverness Terrace East
 address:      Englewood CO 80112
 address:      United States of America (the)
@@ -51081,7 +51063,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.echostar.com/
 
 created:      2016-08-04
-changed:      2023-08-11
+changed:      2024-04-25
 source:       IANA
 
 % IANA WHOIS server
@@ -51267,10 +51249,10 @@ ds-rdata:     36827 13 2 992ed3a8cd111420e26fd9a8b8885c3beafa13507eb0606449aea1d
 whois:        whois.nic.sn
 
 status:       ACTIVE
-remarks:      Registration information: http://www.nicsenegal.sn
+remarks:      Registration information: https://www.nicsenegal.sn
 
 created:      1993-03-19
-changed:      2023-03-14
+changed:      2024-04-26
 source:       IANA
 
 % IANA WHOIS server
@@ -55881,7 +55863,7 @@ source:       IANA
 
 domain:       TOP
 
-organisation: Jiangsu Bangning Science & Technology Co.,Ltd.
+organisation: .TOP Registry
 address:      3th Floor, BangNing Technology Park, 2 YuHua Avenue
 address:      Yuhuatai District
 address:      Nanjing Jiangsu
@@ -55926,7 +55908,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.top
 
 created:      2014-07-24
-changed:      2024-04-02
+changed:      2024-04-26
 source:       IANA
 
 % IANA WHOIS server
@@ -56634,10 +56616,10 @@ address:      Canada
 phone:        +1.949.903.3449
 e-mail:       trs-ops@tucows.com
 
-nserver:      NS1.UNIREGISTRY.NET 2620:57:4000:1:0:0:0:1 64.96.1.1
-nserver:      NS2.UNIREGISTRY.INFO 64.96.2.1
-nserver:      NS3.UNIREGISTRY.NET 185.159.197.3 2620:10a:80aa:0:0:0:0:3
-nserver:      NS4.UNIREGISTRY.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
+nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
+nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
+nserver:      NS01.TRS-DNS.NET 64.96.2.1
+nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
 ds-rdata:     33872 13 2 d324a81281464251e04686f4e75d2978b119496fe596012a89647ff6af0eefc3
 
 whois:        whois.nic.trust
@@ -56646,7 +56628,7 @@ status:       ACTIVE
 remarks:      Registration information: https://internetnaming.co
 
 created:      2014-11-26
-changed:      2023-05-16
+changed:      2024-05-01
 source:       IANA
 
 % IANA WHOIS server
@@ -59610,10 +59592,10 @@ ds-rdata:     19549 8 2 328b02976180a88840e22a052b3d03c8ce7b67609b7cc1840e0e0fe7
 whois:        whois.gtld.knet.cn
 
 status:       ACTIVE
-remarks:      Registration information: http://www.zodiacregistry.com
+remarks:      Registration information: http://www.nic.wang
 
 created:      2013-12-12
-changed:      2024-03-27
+changed:      2024-04-29
 source:       IANA
 
 % IANA WHOIS server

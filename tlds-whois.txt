@@ -2529,13 +2529,11 @@ e-mail:       newgtld_legal@360.cn
 
 contact:      technical
 name:         CTO
-organisation: Beijing Tele-info Network Technology Co., Ltd.
-address:      Building 21, 1 Gaolizhang Road
-address:      Haidian District
-address:      Beijing 100095
+organisation: Beijing Tele-info Technology Co., Ltd.
+address:      21st Floor, Block D, Beihang Zhizhen Building, No. 7 Zhichun Road, Haidan District
+address:      Beijing 100088
 address:      China
-phone:        +86 10 5884 6931
-fax-no:       +86 10 5884 6939
+phone:        +86 18910283591
 e-mail:       gtld@teleinfo.cn
 
 nserver:      NS1.TELEINFO.CN 103.61.60.1 2402:7d80:0:0:0:0:0:1
@@ -2550,7 +2548,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.teleinfo.cn
 
 created:      2016-03-18
-changed:      2024-04-19
+changed:      2024-05-06
 source:       IANA
 
 % IANA WHOIS server
@@ -11957,6 +11955,7 @@ nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
 nserver:      NS01.TRS-DNS.NET 64.96.2.1
 nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
 ds-rdata:     48499 8 2 655c17351152d0b6a959b7ac2c674ca37bb3513f612cf803eae16f572c648ab4
+ds-rdata:     7041 13 2 03e1b41319fdd3a14e27ce35ffba8036da51e328165ce102ae69a6c1203f64e4
 
 whois:        whois.nic.cloud
 
@@ -11964,7 +11963,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.get.cloud
 
 created:      2015-06-18
-changed:      2024-04-25
+changed:      2024-05-08
 source:       IANA
 
 % IANA WHOIS server
@@ -16012,6 +16011,7 @@ nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
 nserver:      NS01.TRS-DNS.NET 64.96.2.1
 nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
 ds-rdata:     41150 8 2 d206fa304919c1b109784efe3704271919a8da8ab5dfe8637c22e1ae7c8c46ab
+ds-rdata:     33264 13 2 24a91796a02821f094f089fb6001bac99b9b0bd2a8b0b89e63231da8f2c79788
 
 whois:        whois.nic.diy
 
@@ -16019,7 +16019,7 @@ status:       ACTIVE
 remarks:      Registration information: https://internetnaming.co
 
 created:      2016-07-21
-changed:      2024-04-24
+changed:      2024-05-07
 source:       IANA
 
 % IANA WHOIS server
@@ -19192,7 +19192,6 @@ nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
 nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
 nserver:      NS01.TRS-DNS.NET 64.96.2.1
 nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
-ds-rdata:     16786 8 2 00f7f4b6df67dc7b828c14829884908ee92e57fe312ed483c43da299fa5ddae5
 ds-rdata:     37115 8 2 234ee176851a803e7cb19fafc25c1f2dc1090e119fcee44fa63140bd014c64f2
 
 whois:        whois.nic.feedback
@@ -19201,7 +19200,7 @@ status:       ACTIVE
 remarks:      Registration information: http://centralnic.com
 
 created:      2014-03-06
-changed:      2024-04-23
+changed:      2024-05-02
 source:       IANA
 
 % IANA WHOIS server
@@ -20532,6 +20531,7 @@ nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
 nserver:      NS01.TRS-DNS.NET 64.96.2.1
 nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
 ds-rdata:     3415 8 2 ca071e56345c271f2097dea2fd030a761869d20acaf34540f56c26eb484a4eea
+ds-rdata:     29023 13 2 5cfba2baaa02242b1a9b83677493f4205a70f202a7ae2afced9f907af47b0ea1
 
 whois:        
 
@@ -20539,7 +20539,7 @@ status:       ACTIVE
 remarks:      Registration information: https://internetnaming.co
 
 created:      2016-11-04
-changed:      2024-04-24
+changed:      2024-05-07
 source:       IANA
 
 % IANA WHOIS server
@@ -20772,7 +20772,6 @@ nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
 nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
 nserver:      NS01.TRS-DNS.NET 64.96.2.1
 nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
-ds-rdata:     9475 8 2 a53a95d8ab4105b83918a104f8828b1e0dddb48c290a8eff1960918e01eafae6
 ds-rdata:     12827 8 2 07ad0e47c13b5699efcbdf1a3717b66e2601748b09256173ff713b4d1346512c
 
 whois:        whois.nic.forum
@@ -20781,7 +20780,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.topspectrum.com
 
 created:      2015-06-11
-changed:      2024-04-18
+changed:      2024-05-02
 source:       IANA
 
 % IANA WHOIS server
@@ -22168,8 +22167,8 @@ e-mail:       kausar@gdnregistry.com
 nserver:      NS1.NIC.GDN 194.0.25.18 2001:678:20:0:0:0:0:18
 nserver:      NS3.NIC.GDN 194.0.26.11 2001:67c:10e0:0:0:0:0:11
 nserver:      NS4.NIC.GDN 194.0.24.11 2001:678:24:0:0:0:0:11
-ds-rdata:     30307 8 1 7a16bf5938b9fe7cf2ac5be9c472e81443944686
 ds-rdata:     28906 8 1 157427e9d56b06de066a0bee607c2f3314b85fea
+ds-rdata:     31405 8 1 00275a5feec994177d0c012b7239ca8ad41ec030
 
 whois:        whois.nic.gdn
 
@@ -22177,7 +22176,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.gdn
 
 created:      2014-12-04
-changed:      2023-05-09
+changed:      2024-05-06
 source:       IANA
 
 % IANA WHOIS server
@@ -22686,10 +22685,6 @@ nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
 nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
 nserver:      NS01.TRS-DNS.NET 64.96.2.1
 nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
-nserver:      NS1.UNIREGISTRY.NET 2620:57:4000:1:0:0:0:1 64.96.1.1
-nserver:      NS2.UNIREGISTRY.INFO 64.96.2.1
-nserver:      NS3.UNIREGISTRY.NET 185.159.197.3 2620:10a:80aa:0:0:0:0:3
-nserver:      NS4.UNIREGISTRY.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
 ds-rdata:     45508 13 2 eea1dc9ae9e1bd91256962bfb0d639c8df881e8c56981b667fffc27daf293a6b
 
 whois:        whois.uniregistry.net
@@ -22698,7 +22693,7 @@ status:       ACTIVE
 remarks:      Registration information: http://uniregistry.link
 
 created:      2014-01-09
-changed:      2024-05-01
+changed:      2024-05-02
 source:       IANA
 
 % IANA WHOIS server
@@ -23115,7 +23110,7 @@ e-mail:       admin@nic.gm
 
 nserver:      NS-GM.AFRINIC.NET 196.216.168.29 2001:43f8:120:0:0:0:0:29
 nserver:      NS1.NIC.GM 194.63.250.217
-nserver:      NS2.NIC.GM 20.102.113.6
+nserver:      NS2.NIC.GM 209.250.227.199 2a05:f480:1000:235:5400:4ff:fee5:2f89
 
 whois:        
 
@@ -23123,7 +23118,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.gm
 
 created:      1997-03-28
-changed:      2024-01-12
+changed:      2024-05-06
 source:       IANA
 
 % IANA WHOIS server
@@ -31468,10 +31463,10 @@ address:      Canada
 phone:        +1.949.903.3449
 e-mail:       trs-ops@tucows.com
 
-nserver:      NS1.UNIREGISTRY.NET 2620:57:4000:1:0:0:0:1 64.96.1.1
-nserver:      NS2.UNIREGISTRY.INFO 64.96.2.1
-nserver:      NS3.UNIREGISTRY.NET 185.159.197.3 2620:10a:80aa:0:0:0:0:3
-nserver:      NS4.UNIREGISTRY.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
+nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
+nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
+nserver:      NS01.TRS-DNS.NET 64.96.2.1
+nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
 ds-rdata:     38821 13 2 7fc55d2cabba85a2ca6831aca0565a64d7ad91e4861b114f317392b680dc6cbc
 
 whois:        whois.kyregistry.ky
@@ -31480,7 +31475,7 @@ status:       ACTIVE
 remarks:      Registration information: http://uniregistry.com
 
 created:      1995-05-03
-changed:      2022-11-22
+changed:      2024-05-03
 source:       IANA
 
 % IANA WHOIS server
@@ -32949,6 +32944,7 @@ nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
 nserver:      NS01.TRS-DNS.NET 64.96.2.1
 nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
 ds-rdata:     19435 8 2 4fae9da930da43ca7d112abeeb973fc22de2a72b39f7570dbd1d7cf825aae708
+ds-rdata:     49384 13 2 2ff50c386c9de4489845f15c9269cd0757699b8e021ccbd0826312cdb18b2808
 
 whois:        whois.nic.lifestyle
 
@@ -32956,7 +32952,7 @@ status:       ACTIVE
 remarks:      Registration information: https://internetnaming.co
 
 created:      2015-10-01
-changed:      2024-04-24
+changed:      2024-05-07
 source:       IANA
 
 % IANA WHOIS server
@@ -33284,10 +33280,10 @@ address:      Canada
 phone:        +1.949.903.3449
 e-mail:       trs-ops@tucows.com
 
-nserver:      NS1.UNIREGISTRY.NET 2620:57:4000:1:0:0:0:1 64.96.1.1
-nserver:      NS2.UNIREGISTRY.INFO 64.96.2.1
-nserver:      NS3.UNIREGISTRY.NET 185.159.197.3 2620:10a:80aa:0:0:0:0:3
-nserver:      NS4.UNIREGISTRY.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
+nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
+nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
+nserver:      NS01.TRS-DNS.NET 64.96.2.1
+nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
 ds-rdata:     16766 13 2 40f1045035d7ba48d27a66442b2c71ca159d219756d3ad4d35cf1e80419228b5
 
 whois:        whois.uniregistry.net
@@ -33296,7 +33292,7 @@ status:       ACTIVE
 remarks:      Registration information: http://uniregistry.link
 
 created:      2014-01-09
-changed:      2022-11-22
+changed:      2024-05-03
 source:       IANA
 
 % IANA WHOIS server
@@ -33427,6 +33423,7 @@ nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
 nserver:      NS01.TRS-DNS.NET 64.96.2.1
 nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
 ds-rdata:     59309 8 2 276c77d08efe6388824f1726e7c6d754189f9ea1747718d4960c5ee66ae2837a
+ds-rdata:     5373 13 2 8aefbb2d3a5149b5d4a165973063d733d3d18505bf6ffeeb3d319c6ac0f45a94
 
 whois:        
 
@@ -33434,7 +33431,7 @@ status:       ACTIVE
 remarks:      Registration information: https://internetnaming.co
 
 created:      2015-12-10
-changed:      2024-04-24
+changed:      2024-05-07
 source:       IANA
 
 % IANA WHOIS server
@@ -35218,8 +35215,8 @@ source:       IANA
 domain:       MARRIOTT
 
 organisation: Marriott Worldwide Corporation
-address:      10400 Fernwood Road
-address:      Bethesda MD 20817
+address:      7750 Wisconsin Ave
+address:      Bethesda MD 20814
 address:      United States of America (the)
 
 contact:      administrative
@@ -35233,15 +35230,14 @@ fax-no:       +1.202.223.9256
 e-mail:       marriottregistry@fairwindspartners.com
 
 contact:      technical
-name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias
-address:      300 Welsh Road
-address:      Building 3, Suite 105
-address:      Horsham PA 19044
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
 address:      United States of America (the)
-phone:        +1 215.706.5700
-fax-no:       +1 215.706.5701
-e-mail:       tld-tech-poc@afilias.info
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
 
 nserver:      A0.NIC.MARRIOTT 2a01:8840:e6:0:0:0:0:9 65.22.236.9
 nserver:      A2.NIC.MARRIOTT 2a01:8840:e9:0:0:0:0:9 65.22.239.9
@@ -35255,7 +35251,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.marriott.com
 
 created:      2014-12-18
-changed:      2023-08-04
+changed:      2024-05-02
 source:       IANA
 
 % IANA WHOIS server
@@ -40602,7 +40598,6 @@ nserver:      NS5.DNS.NET.NZ 185.159.197.130 2620:10a:80aa:0:0:0:0:130
 nserver:      NS6.DNS.NET.NZ 185.159.198.130 2620:10a:80ab:0:0:0:0:130
 nserver:      NS7.DNS.NET.NZ 194.146.106.54 2001:67c:1010:13:0:0:0:53
 ds-rdata:     49157 8 2 44628e9bf710b40d5a5b19087a119eaf2c0b5ced7e7ba4268f4fc35bef14b1c0
-ds-rdata:     13646 8 2 569b1bae369fd18f03d088fba91bd58a830e4e21d2c96155ced267544cac14b1
 ds-rdata:     63529 8 2 65c9663eacc1ad314058a5a7b127d409d144bba9a58ec0b6a7f4f028574df47b
 
 whois:        whois.irs.net.nz
@@ -40611,7 +40606,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dnc.org.nz/
 
 created:      1987-01-19
-changed:      2023-05-26
+changed:      2024-05-02
 source:       IANA
 
 % IANA WHOIS server
@@ -40807,10 +40802,10 @@ source:       IANA
 
 domain:       OLAYAN
 
-organisation: Crescent Holding GmbH
-address:      Opernring - Stiege R top Nr. 709-714
-address:      Vienna 1010
-address:      Austria
+organisation: Competrol (Luxembourg) Sarl
+address:      25B Boulevard Royal
+address:      Luxembourg L-2449
+address:      Luxembourg
 
 contact:      administrative
 name:         Mr
@@ -40846,7 +40841,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.olayan.com/
 
 created:      2016-04-21
-changed:      2023-12-13
+changed:      2024-05-08
 source:       IANA
 
 % IANA WHOIS server
@@ -40855,10 +40850,10 @@ source:       IANA
 
 domain:       OLAYANGROUP
 
-organisation: Crescent Holding GmbH
-address:      Opernring - Stiege R top Nr. 709-714
-address:      Vienna 1010
-address:      Austria
+organisation: Competrol (Luxembourg) Sarl
+address:      25B Boulevard Royal
+address:      Luxembourg L-2449
+address:      Luxembourg
 
 contact:      administrative
 name:         Mr
@@ -40894,7 +40889,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.olayan.com/
 
 created:      2016-04-21
-changed:      2023-12-13
+changed:      2024-05-08
 source:       IANA
 
 % IANA WHOIS server
@@ -45655,6 +45650,7 @@ nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
 nserver:      NS01.TRS-DNS.NET 64.96.2.1
 nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
 ds-rdata:     21334 8 2 613e789594bc8fce2381f7b1c2f4232093b017f5eef5444eb0f1d8ef5c2f65e2
+ds-rdata:     12180 13 2 a7c0a9bbad77a51be0e829afbfc839aa15ad00945bbc03e3ed719d0710023957
 
 whois:        whois.nic.realty
 
@@ -45662,7 +45658,7 @@ status:       ACTIVE
 remarks:      Registration information: https://internetnaming.co
 
 created:      2015-06-11
-changed:      2024-04-23
+changed:      2024-05-07
 source:       IANA
 
 % IANA WHOIS server
@@ -46963,7 +46959,7 @@ nserver:      DNS-RO.DENIC.DE 81.91.161.99
 nserver:      PRIMARY.ROTLD.RO 192.162.16.18 2a03:5e80:0:4:192:162:16:18
 nserver:      SEC-DNS-A.ROTLD.RO 192.162.16.20 2a03:5e80:0:4:192:162:16:20
 nserver:      SEC-DNS-B.ROTLD.RO 193.230.31.230 2a03:5e80:0:5:193:230:31:230
-ds-rdata:     9784 8 2 0a8ed773f6bbf8c5d2f687c26a9a904c76de41db74f329501e23f206c9c3b078
+ds-rdata:     61039 8 2 7c53f10e86835711c3cc6ba9632e4295a077e6a0a148059195371c3e5d07e10f
 
 whois:        whois.rotld.ro
 
@@ -46971,7 +46967,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.rotld.ro/
 
 created:      1993-02-26
-changed:      2023-05-08
+changed:      2024-05-06
 source:       IANA
 
 % IANA WHOIS server
@@ -50353,13 +50349,11 @@ e-mail:       newgtld_legal@360.cn
 
 contact:      technical
 name:         CTO
-organisation: Beijing Tele-info Network Technology Co., Ltd.
-address:      Building 21, 1 Gaolizhang Road
-address:      Haidian District
-address:      Beijing 100095
+organisation: Beijing Tele-info Technology Co., Ltd.
+address:      21st Floor, Block D, Beihang Zhizhen Building, No. 7 Zhichun Road, Haidan District
+address:      Beijing 100088
 address:      China
-phone:        +86 10 5884 6931
-fax-no:       +86 10 5884 6939
+phone:        +86 18910283591
 e-mail:       gtld@teleinfo.cn
 
 nserver:      NS1.TELEINFO.CN 103.61.60.1 2402:7d80:0:0:0:0:0:1
@@ -50374,7 +50368,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.teleinfo.cn
 
 created:      2016-03-18
-changed:      2024-04-19
+changed:      2024-05-06
 source:       IANA
 
 % IANA WHOIS server
@@ -52315,15 +52309,14 @@ phone:        +912266305555
 e-mail:       star.gtl.admin@disney.com
 
 contact:      technical
-name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias
-address:      300 Welsh Road
-address:      Building 3, Suite 105
-address:      Horsham PA 19044
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue Washington 98004
 address:      United States of America (the)
-phone:        +1 215.706.5700
-fax-no:       +1 215.706.5701
-e-mail:       tld-tech-poc@afilias.info
+phone:        +14252982200
+fax-no:       +14252980020
+e-mail:       tldtech@identity.digital
 
 nserver:      A0.NIC.STAR 2a01:8840:36:0:0:0:0:9 65.22.56.9
 nserver:      A2.NIC.STAR 2a01:8840:39:0:0:0:0:9 65.22.59.9
@@ -52337,7 +52330,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.startv.com
 
 created:      2015-12-10
-changed:      2024-02-14
+changed:      2024-05-03
 source:       IANA
 
 % IANA WHOIS server
@@ -57889,6 +57882,7 @@ nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
 nserver:      NS01.TRS-DNS.NET 64.96.2.1
 nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
 ds-rdata:     16105 8 2 f270cc6904f1292fbe949fc33c20cf64887d06cc82d2243413eccaeb98e7221c
+ds-rdata:     54748 13 2 0b9756a259636eb994a12d49a21d3b6be0ad2e5ccb3462478284f6b27a02290b
 
 whois:        whois.nic.vana
 
@@ -57896,7 +57890,7 @@ status:       ACTIVE
 remarks:      Registration information: https://internetnaming.co
 
 created:      2015-09-24
-changed:      2024-04-24
+changed:      2024-05-07
 source:       IANA
 
 % IANA WHOIS server
@@ -61231,13 +61225,11 @@ e-mail:       newgtld_legal@360.cn
 
 contact:      technical
 name:         CTO
-organisation: Beijing Tele-info Network Technology Co., Ltd.
-address:      Building 21, 1 Gaolizhang Road
-address:      Haidian District
-address:      Beijing 100095
+organisation: Beijing Tele-info Technology Co., Ltd.
+address:      21st Floor, Block D, Beihang Zhizhen Building, No. 7 Zhichun Road, Haidan District
+address:      Beijing 100088
 address:      China
-phone:        +86 10 5884 6931
-fax-no:       +86 10 5884 6939
+phone:        +86 18910283591
 e-mail:       gtld@teleinfo.cn
 
 nserver:      NS1.TELEINFO.CN 103.61.60.1 2402:7d80:0:0:0:0:0:1
@@ -61252,7 +61244,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.teleinfo.cn
 
 created:      2016-03-18
-changed:      2024-04-19
+changed:      2024-05-06
 source:       IANA
 
 % IANA WHOIS server
@@ -61627,13 +61619,11 @@ e-mail:       arto.isokoski@internetregistry.info
 
 contact:      technical
 name:         CTO
-organisation: Beijing Tele-info Network Technology Co., Ltd.
-address:      Building 21, 1 Gaolizhang Road
-address:      Haidian District
-address:      Beijing 100095
+organisation: Beijing Tele-info Technology Co., Ltd.
+address:      21st Floor, Block D, Beihang Zhizhen Building, No. 7 Zhichun Road, Haidan District
+address:      Beijing 100088
 address:      China
-phone:        +86 10 5884 6931
-fax-no:       +86 10 5884 6939
+phone:        +86 13811939493
 e-mail:       gtld@teleinfo.cn
 
 nserver:      NS1.TELEINFO.CN 103.61.60.1 2402:7d80:0:0:0:0:0:1
@@ -61648,7 +61638,7 @@ status:       ACTIVE
 remarks:      Registration information: http://internetregistry.info/
 
 created:      2013-12-19
-changed:      2022-09-20
+changed:      2024-05-06
 source:       IANA
 
 % IANA WHOIS server
@@ -62034,6 +62024,7 @@ nserver:      NSA.NS.IL 192.115.7.53 2a01:4280:7:0:0:0:0:53
 nserver:      NSB.NS.IL 192.115.7.60 2a01:4280:7:0:0:0:0:60
 nserver:      NSE.NS.IL 192.115.4.235
 ds-rdata:     48814 13 2 0255186b246dca8e53de92159f38ef7b209cca2a1be875cb1a1dad2d592a9c9e
+ds-rdata:     5893 13 2 575289a1f1a3f38caade5b063d2977185d2ce1a573087d9b33ab2b6dbde83f29
 
 whois:        whois.isoc.org.il
 
@@ -62042,7 +62033,7 @@ remarks:      Registration information:
 remarks:      http://en.isoc.org.il/il-cctld/accredited-registrars/domain-name-registrars
 
 created:      2020-06-16
-changed:      2023-05-18
+changed:      2024-05-07
 source:       IANA
 
 % IANA WHOIS server
@@ -63921,13 +63912,11 @@ e-mail:       arto.isokoski@internetregistry.info
 
 contact:      technical
 name:         CTO
-organisation: Beijing Tele-info Network Technology Co., Ltd.
-address:      Building 21, 1 Gaolizhang Road
-address:      Haidian District
+organisation: Beijing Tele-info Technology Co., Ltd.
+address:      21st Floor, Block D, Beihang Zhizhen Building, No. 7 Zhichun Road, Haidan District
 address:      Beijing 100095
 address:      China
-phone:        +86 10 5884 6931
-fax-no:       +86 10 5884 6939
+phone:        +86 13811939493
 e-mail:       gtld@teleinfo.cn
 
 nserver:      NS1.TELEINFO.CN 103.61.60.1 2402:7d80:0:0:0:0:0:1
@@ -63942,7 +63931,7 @@ status:       ACTIVE
 remarks:      Registration information: http://internetregistry.info/
 
 created:      2013-12-19
-changed:      2022-09-20
+changed:      2024-05-06
 source:       IANA
 
 % IANA WHOIS server
@@ -65592,10 +65581,10 @@ source:       IANA
 domain:       العليان
 domain-ace:   XN--MGBA7C0BBN0A
 
-organisation: Crescent Holding GmbH
-address:      Opernring - Stiege R top Nr. 709-714
-address:      Vienna 1010
-address:      Austria
+organisation: Competrol (Luxembourg) Sarl
+address:      25B, Boulevard Royal
+address:      Luxembourg L-2449
+address:      Luxembourg
 
 contact:      administrative
 name:         Mr
@@ -65631,7 +65620,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.olayan.com/
 
 created:      2016-04-21
-changed:      2023-12-13
+changed:      2024-05-08
 source:       IANA
 
 % IANA WHOIS server
@@ -69378,13 +69367,11 @@ e-mail:       newgtld_legal@360.cn
 
 contact:      technical
 name:         CTO
-organisation: Beijing Tele-info Network Technology Co., Ltd.
-address:      Building 21, 1 Gaolizhang Road
-address:      Haidian District
-address:      Beijing 100095
+organisation: Beijing Tele-info Technology Co., Ltd.
+address:      21st Floor, Block D, Beihang Zhizhen Building, No. 7 Zhichun Road, Haidan District
+address:      Beijing 100088
 address:      China
-phone:        +86 10 5884 6931
-fax-no:       +86 10 5884 6939
+phone:        +86 18910283591
 e-mail:       gtld@teleinfo.cn
 
 nserver:      NS1.TELEINFO.CN 103.61.60.1 2402:7d80:0:0:0:0:0:1
@@ -69399,7 +69386,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.teleinfo.cn
 
 created:      2016-03-18
-changed:      2024-04-19
+changed:      2024-05-06
 source:       IANA
 
 % IANA WHOIS server

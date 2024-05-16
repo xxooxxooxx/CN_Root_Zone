@@ -3238,8 +3238,8 @@ e-mail:       contact1@nicgouwu.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
@@ -3259,7 +3259,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nicgouwu.com/
 
 created:      2016-01-08
-changed:      2023-12-13
+changed:      2024-05-11
 source:       IANA
 
 % IANA WHOIS server

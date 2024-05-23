@@ -793,6 +793,7 @@ nserver:      AD.NS.NIC.ES 194.69.254.15 2001:67c:21cc:2000:0:0:64:47
 nserver:      ANYCAST23.IRONDNS.NET 195.253.65.11 2a01:5b0:5:0:0:0:0:b
 nserver:      ANYCAST9.IRONDNS.NET 195.253.64.11 2a01:5b0:4:0:0:0:0:b
 nserver:      NS3.NIC.FR 192.134.0.49 2001:660:3006:1:0:0:1:1
+ds-rdata:     6062 8 2 3c07a798097f38d173d98194f436a2ed29443ecc1da0d9f8da8abfa29348d6ce
 
 whois:        
 
@@ -800,7 +801,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.ad
 
 created:      1996-01-09
-changed:      2024-05-11
+changed:      2024-05-16
 source:       IANA
 
 % IANA WHOIS server
@@ -10581,26 +10582,30 @@ address:      Brazzaville
 address:      Congo (the)
 
 contact:      administrative
-name:         Monsieur Romuald Bonvin
-organisation: Interpoint Switzerland
+name:         Romuald Bonvin
+organisation: Romuald Bonvin c/o Interpoint Switzerland
 address:      c/o ARPCE
 address:      Avenue de l’Amitié, Centre-Ville
 address:      Brazzaville
 address:      Congo (the)
 phone:        +41 44 519 00 60
+fax-no:       +41 27 508 55 85
 e-mail:       contact-admin@dnsafrica.net
 
 contact:      technical
-name:         Monsieur Frédéric Grégoire
-organisation: Interpoint Switzerland
-address:      Fidugestion & Conseils
+name:         Frédéric Grégoire
+organisation: Frédéric Grégoire c/o Interpoint Switzerland
+address:      c/o Fidugestion & Conseils
 address:      Route de Denges 40
 address:      Lonay 1027
 address:      Switzerland
 phone:        +41 44 519 00 60
+fax-no:       +41 27 508 55 85
 e-mail:       contact-tech@dnsafrica.net
 
+nserver:      DNS-CA.DNSAFRICA.NET 2607:5300:201:3100:0:0:0:2b7c 54.39.22.36
 nserver:      DNS-FR.DNSAFRICA.NET 151.80.35.161
+nserver:      DNS-SG.DNSAFRICA.NET 2402:1f00:8000:800:0:0:0:25ed 51.79.160.242
 nserver:      DNS-ZA.DNSAFRICA.NET 41.185.30.170
 nserver:      SUNIC.SUNET.SE 192.36.125.2 2001:6b0:7:0:0:0:0:2
 
@@ -10610,7 +10615,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.dnsafrica.net
 
 created:      1997-01-14
-changed:      2023-01-18
+changed:      2024-05-17
 source:       IANA
 
 % IANA WHOIS server
@@ -16035,26 +16040,24 @@ address:      Djibouti 990000
 address:      Djibouti
 
 contact:      administrative
-name:         ADJIB Admin Contact
+name:         DJIBTEL Admin Contact
 organisation: Djibouti Telecom S.A
 address:      3, BD Georges Pompidou
 address:      P.O. BOX 2105
 address:      Djibouti 990000
 address:      Djibouti
-phone:        00253 321100
-fax-no:       00253 355757
-e-mail:       dj-admin@nic.dj
+phone:        +253 21321247
+e-mail:       bourhan.abdoulkader@djibtel.dj
 
 contact:      technical
-name:         ADJIB Tech Contact
+name:         DJIBTEL Tech Contact
 organisation: Djibouti Telecom S.A
 address:      3, BD Georges Pompidou
 address:      P.O. BOX 2105
 address:      Djibouti 990000
 address:      Djibouti
-phone:        00253 321306
-fax-no:       00253 300013
-e-mail:       dj-tech@nic.dj
+phone:        +253 21357710
+e-mail:       abdillahi.youssouf@djibtel.dj
 
 nserver:      BOW1.INTNET.DJ 197.241.17.130
 nserver:      BOW5.INTNET.DJ 196.201.196.41
@@ -16066,7 +16069,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.dj
 
 created:      1996-05-22
-changed:      2017-11-01
+changed:      2024-05-16
 source:       IANA
 
 % IANA WHOIS server
@@ -32944,7 +32947,6 @@ nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
 nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
 nserver:      NS01.TRS-DNS.NET 64.96.2.1
 nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
-ds-rdata:     19435 8 2 4fae9da930da43ca7d112abeeb973fc22de2a72b39f7570dbd1d7cf825aae708
 ds-rdata:     49384 13 2 2ff50c386c9de4489845f15c9269cd0757699b8e021ccbd0826312cdb18b2808
 
 whois:        whois.nic.lifestyle
@@ -32953,7 +32955,7 @@ status:       ACTIVE
 remarks:      Registration information: https://internetnaming.co
 
 created:      2015-10-01
-changed:      2024-05-07
+changed:      2024-05-22
 source:       IANA
 
 % IANA WHOIS server
@@ -33423,7 +33425,6 @@ nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
 nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
 nserver:      NS01.TRS-DNS.NET 64.96.2.1
 nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
-ds-rdata:     59309 8 2 276c77d08efe6388824f1726e7c6d754189f9ea1747718d4960c5ee66ae2837a
 ds-rdata:     5373 13 2 8aefbb2d3a5149b5d4a165973063d733d3d18505bf6ffeeb3d319c6ac0f45a94
 
 whois:        
@@ -33432,7 +33433,7 @@ status:       ACTIVE
 remarks:      Registration information: https://internetnaming.co
 
 created:      2015-12-10
-changed:      2024-05-07
+changed:      2024-05-21
 source:       IANA
 
 % IANA WHOIS server
@@ -33708,6 +33709,7 @@ nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
 nserver:      NS01.TRS-DNS.NET 64.96.2.1
 nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
 ds-rdata:     12691 8 2 db488867de794ae457267a654fe9266d4d03dde9031da92dd58a14e551b6da01
+ds-rdata:     13510 13 2 2d3be42cc855b6935e8611fb8190cab72b60f2bceb8b16906db2bae3da0a1912
 
 whois:        whois.nic.locker
 
@@ -33715,7 +33717,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dish.com
 
 created:      2016-05-19
-changed:      2024-04-25
+changed:      2024-05-16
 source:       IANA
 
 % IANA WHOIS server
@@ -38052,10 +38054,10 @@ ds-rdata:     21969 13 2 bdb65bca27b34a0c9e296fb79efc78615678f7cc46eab5ef86fe59f
 whois:        whois.nic.museum
 
 status:       ACTIVE
-remarks:      Registration information: http://about.museum
+remarks:      Registration information: https://about.museum
 
 created:      2001-10-20
-changed:      2024-04-03
+changed:      2024-05-16
 source:       IANA
 
 % IANA WHOIS server
@@ -38096,7 +38098,7 @@ nserver:      B.NIC.MUSIC 185.24.64.142 2a04:2b00:13cc:0:0:0:1:142
 nserver:      C.NIC.MUSIC 212.18.248.142 2a04:2b00:13ee:0:0:0:0:142
 nserver:      D.NIC.MUSIC 212.18.249.142 2a04:2b00:13ff:0:0:0:0:142
 ds-rdata:     60004 8 2 f4025f7b5c848808861bd35868bae0cfcf7a0fe3aa1f79bb222093687462f3fb
-ds-rdata:     60004 8 1 ee80f198da75c68c32a632e895502f3f2a32940e
+ds-rdata:     11216 8 2 d45430b83157049bebd9590cf68625c5161b1902e6c0a708c34c6c71461d1f6f
 
 whois:        whois.nic.music
 
@@ -38104,7 +38106,7 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.music/
 
 created:      2021-10-14
-changed:      2023-03-03
+changed:      2024-05-16
 source:       IANA
 
 % IANA WHOIS server
@@ -40688,7 +40690,6 @@ nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
 nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
 nserver:      NS01.TRS-DNS.NET 64.96.2.1
 nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
-ds-rdata:     61001 8 2 73ad12c51e27b349f25a52045c94b7e62ee76ea3061c1addda4ced8fc3038c94
 ds-rdata:     15964 13 2 406b287804778738dcf0b6d94bf410455d500e7a3dceaf8d34c5afa86c91a6e1
 
 whois:        whois.nic.observer
@@ -40697,7 +40698,7 @@ status:       ACTIVE
 remarks:      Registration information: https://internetnaming.co
 
 created:      2016-09-15
-changed:      2024-05-09
+changed:      2024-05-22
 source:       IANA
 
 % IANA WHOIS server
@@ -45651,7 +45652,6 @@ nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
 nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
 nserver:      NS01.TRS-DNS.NET 64.96.2.1
 nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
-ds-rdata:     21334 8 2 613e789594bc8fce2381f7b1c2f4232093b017f5eef5444eb0f1d8ef5c2f65e2
 ds-rdata:     12180 13 2 a7c0a9bbad77a51be0e829afbfc839aa15ad00945bbc03e3ed719d0710023957
 
 whois:        whois.nic.realty
@@ -45660,7 +45660,7 @@ status:       ACTIVE
 remarks:      Registration information: https://internetnaming.co
 
 created:      2015-06-11
-changed:      2024-05-07
+changed:      2024-05-21
 source:       IANA
 
 % IANA WHOIS server
@@ -46433,7 +46433,6 @@ nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
 nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
 nserver:      NS01.TRS-DNS.NET 64.96.2.1
 nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
-ds-rdata:     1306 8 2 291a11f18605131354f74ccd032e1ebc65cf837656234b50bb52669088112aff
 ds-rdata:     50905 13 2 a417bf8770704c9fe539aacd4c60d0d1f06b64e6367ba2130af2b60c96508adf
 
 whois:        whois.nic.rest
@@ -46442,7 +46441,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.register.rest/
 
 created:      2014-03-06
-changed:      2024-05-09
+changed:      2024-05-22
 source:       IANA
 
 % IANA WHOIS server
@@ -56937,11 +56936,11 @@ e-mail:       ict@gov.tv
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
-phone:        +1 480 505-8800
-fax-no:       +1 480 624-2546
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
 nserver:      A.NIC.TV 2001:dcd:1:0:0:0:0:6 37.209.192.6
@@ -56956,7 +56955,7 @@ status:       ACTIVE
 remarks:      Registration information: https://turnon.tv/
 
 created:      1996-03-18
-changed:      2023-12-13
+changed:      2024-05-20
 source:       IANA
 
 % IANA WHOIS server
@@ -57884,7 +57883,6 @@ nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
 nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
 nserver:      NS01.TRS-DNS.NET 64.96.2.1
 nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
-ds-rdata:     16105 8 2 f270cc6904f1292fbe949fc33c20cf64887d06cc82d2243413eccaeb98e7221c
 ds-rdata:     54748 13 2 0b9756a259636eb994a12d49a21d3b6be0ad2e5ccb3462478284f6b27a02290b
 
 whois:        whois.nic.vana
@@ -57893,7 +57891,7 @@ status:       ACTIVE
 remarks:      Registration information: https://internetnaming.co
 
 created:      2015-09-24
-changed:      2024-05-07
+changed:      2024-05-21
 source:       IANA
 
 % IANA WHOIS server
@@ -59376,8 +59374,8 @@ e-mail:       iana@trbr.vu
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
@@ -59395,7 +59393,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.hello.vu
 
 created:      1995-04-10
-changed:      2023-12-13
+changed:      2024-05-21
 source:       IANA
 
 % IANA WHOIS server
@@ -63675,7 +63673,7 @@ phone:        +32 2 401 27 50
 fax-no:       +32 2 401 27 51
 e-mail:       domain-tech@eurid.eu
 
-nserver:      BE.DNS.EU 149.38.1.26 2001:978:2:1:0:0:93:2
+nserver:      BE.DNS.EU 149.38.1.26
 nserver:      SI.DNS.EU 193.2.221.62 2001:1470:8000:100:0:0:0:62
 nserver:      W.DNS.EU 194.0.25.28 2001:678:20:0:0:0:0:28
 nserver:      X.DNS.EU 185.151.141.1 2a02:568:fe00:0:0:0:0:6575
@@ -67476,7 +67474,7 @@ phone:        +32 2 401 27 50
 fax-no:       +32 2 401 27 51
 e-mail:       domain-tech@eurid.eu
 
-nserver:      BE.DNS.EU 149.38.1.26 2001:978:2:1:0:0:93:2
+nserver:      BE.DNS.EU 149.38.1.26
 nserver:      SI.DNS.EU 193.2.221.62 2001:1470:8000:100:0:0:0:62
 nserver:      W.DNS.EU 194.0.25.28 2001:678:20:0:0:0:0:28
 nserver:      X.DNS.EU 185.151.141.1 2a02:568:fe00:0:0:0:0:6575

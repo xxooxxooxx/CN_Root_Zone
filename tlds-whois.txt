@@ -5478,23 +5478,20 @@ source:       IANA
 domain:       BD
 
 organisation: Posts and Telecommunications Division
-address:      Ministry of Posts, Telecommunications and Information Technology
-address:      Bangladesh Secretariat
-address:      Abdul Ghani Road
+address:      Ministry of Posts, Telecommunications and Information Technology, Government of the People's Republic of Bangladesh
+address:      Abdul Goni Road
 address:      Dhaka 1000
 address:      Bangladesh
 
 contact:      administrative
-name:         Director (Telecom)
+name:         Deputy Secretary
 organisation: Posts and Telecommunications Division
 address:      Ministry of Posts, Telecommunications and Information Technology
-address:      Bangladesh Secretariat
-address:      Abdul Ghani Road
+address:      Abdul Goni Road
 address:      Dhaka 1000
 address:      Bangladesh
-phone:        +880 2 9574446
-fax-no:       +880 2 9515599
-e-mail:       dirt@ptd.gov.bd
+phone:        +8802 223354448
+e-mail:       telecom1@ptd.gov.bd
 
 contact:      technical
 name:         Deputy General Manager (Domain)
@@ -5521,7 +5518,7 @@ status:       ACTIVE
 remarks:      Registration information: http://domainreg.btcl.com.bd/
 
 created:      1999-05-20
-changed:      2024-04-03
+changed:      2024-05-29
 source:       IANA
 
 % IANA WHOIS server
@@ -16148,10 +16145,10 @@ phone:        +1 (767) 448-1531
 e-mail:       cto@dotdm.dm
 
 nserver:      NS.BLACKNIGHTSOLUTIONS.COM 2a01:a8:dc1:33:0:0:0:33 81.17.240.204
-nserver:      NS1.UNIREGISTRY.NET 2620:57:4000:1:0:0:0:1 64.96.1.1
+nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
+nserver:      NS01.TRS-DNS.NET 64.96.2.1
 nserver:      NS2.BLACKNIGHTSOLUTIONS.COM 2a01:a8:dc2:33:0:0:0:33 78.153.202.4
 nserver:      NS2.NIC.DM 199.127.196.35
-nserver:      NS2.UNIREGISTRY.INFO 64.96.2.1
 nserver:      NS34.CDNS.NET 194.0.1.34 2001:678:4:0:0:0:0:22
 ds-rdata:     55698 13 2 ad4401344bef3bd1f86737a2e2d008d5f5d138e101f4396a0461ff93a313c50e
 
@@ -16161,7 +16158,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.dm
 
 created:      1991-09-03
-changed:      2024-05-21
+changed:      2024-05-29
 source:       IANA
 
 % IANA WHOIS server
@@ -16749,13 +16746,13 @@ address:      Wilmington DE 19805
 address:      United States of America (the)
 
 contact:      administrative
-name:         Karen Galbraith
+name:         Dasaradharamaraju Uppalapati
 organisation: DuPont Specialty Products USA, LLC
 address:      CRP 730/3rd floor, 974 Centre Road
 address:      P.O. Box 2915
 address:      Wilmington DE 19805
 address:      United States of America (the)
-phone:        +1 302 992 2941
+phone:        +91 8498887111
 e-mail:       contact@dupont.com
 
 contact:      technical
@@ -16782,7 +16779,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.dupont.com
 
 created:      2016-05-05
-changed:      2024-05-11
+changed:      2024-06-04
 source:       IANA
 
 % IANA WHOIS server
@@ -19190,7 +19187,6 @@ nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
 nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
 nserver:      NS01.TRS-DNS.NET 64.96.2.1
 nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
-ds-rdata:     37115 8 2 234ee176851a803e7cb19fafc25c1f2dc1090e119fcee44fa63140bd014c64f2
 ds-rdata:     8710 13 2 d28054e80046b19c06009c25b451836bebe30a7516ed8c8e51b044e0d2144b64
 
 whois:        whois.nic.feedback
@@ -19199,7 +19195,7 @@ status:       ACTIVE
 remarks:      Registration information: http://centralnic.com
 
 created:      2014-03-06
-changed:      2024-05-09
+changed:      2024-05-29
 source:       IANA
 
 % IANA WHOIS server
@@ -23865,7 +23861,6 @@ nserver:      A.NS.GOV 199.33.230.1 2001:503:ff40:0:0:0:0:1
 nserver:      B.NS.GOV 199.33.231.1 2001:503:ff41:0:0:0:0:1
 nserver:      C.NS.GOV 199.33.232.1 2001:503:ff42:0:0:0:0:1
 nserver:      D.NS.GOV 199.33.233.1 2001:503:ff43:0:0:0:0:1
-ds-rdata:     64280 8 2 d66cdda12234c22c5e6fd1c894dbd682fe7967e111793485a281972bfb164377
 ds-rdata:     2536 13 2 0baf26b7bbf313a859046fd3b1ee49ddfba33934cfb3e717c21e2a2935c2f259
 
 whois:        whois.dotgov.gov
@@ -23874,7 +23869,7 @@ status:       ACTIVE
 remarks:      Registration information: https://get.gov
 
 created:      1985-01-01
-changed:      2024-05-24
+changed:      2024-05-29
 source:       IANA
 
 % IANA WHOIS server
@@ -30368,8 +30363,8 @@ nserver:      A.NIC.KFH 194.169.218.43 2001:67c:13cc:0:0:0:1:43
 nserver:      B.NIC.KFH 185.24.64.43 2a04:2b00:13cc:0:0:0:1:43
 nserver:      C.NIC.KFH 212.18.248.43 2a04:2b00:13ee:0:0:0:0:43
 nserver:      D.NIC.KFH 212.18.249.43 2a04:2b00:13ff:0:0:0:0:43
-ds-rdata:     47020 8 1 2ff9a7948808d902d399e6119e3734c64078ba79
 ds-rdata:     47020 8 2 602ee5eb852a6581e8cbdabe8d6685a881cc2783b4de8d8947393231243b80b2
+ds-rdata:     23849 8 2 025679b3fa1c06955dc8722820dc339e4d419a6198f053f98843e40488bdb09c
 
 whois:        whois.nic.kfh
 
@@ -30377,7 +30372,7 @@ status:       ACTIVE
 remarks:      Registration information: http://kfh.com
 
 created:      2015-10-29
-changed:      2021-10-12
+changed:      2024-06-05
 source:       IANA
 
 % IANA WHOIS server
@@ -31177,6 +31172,7 @@ nserver:      B.NIC.KPN 185.24.64.90 2a04:2b00:13cc:0:0:0:1:90
 nserver:      C.NIC.KPN 212.18.248.90 2a04:2b00:13ee:0:0:0:0:90
 nserver:      D.NIC.KPN 212.18.249.90 2a04:2b00:13ff:0:0:0:0:90
 ds-rdata:     10051 7 2 f265871198c769849f8acf952f01fcd412c9b3dc5dbf8fca98911d5052c0a240
+ds-rdata:     6010 7 2 e5a8e92b179784641c4fcb989bd6946ea85a03812039f5061922d1815992fbc6
 
 whois:        
 
@@ -31184,7 +31180,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2015-12-04
-changed:      2021-10-12
+changed:      2024-06-04
 source:       IANA
 
 % IANA WHOIS server
@@ -35311,13 +35307,13 @@ address:      El Segundo CA 90245
 address:      United States of America (the)
 
 contact:      administrative
-name:         Tom Lynch
+name:         Domain Administrator
 organisation: Mattel, Inc.
-address:      333 Continental Blvd., M1-1518
+address:      333 Continental Blvd.
 address:      El Segundo CA 90245
 address:      United States of America (the)
-phone:        +1 310 252 3527
-fax-no:       +1 310-252-4991
+phone:        +1 310 252 4220
+fax-no:       +1 310 252 3861
 e-mail:       proxyadm@mattel.com
 
 contact:      technical
@@ -35344,7 +35340,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.mattel.com
 
 created:      2016-01-22
-changed:      2024-05-11
+changed:      2024-06-05
 source:       IANA
 
 % IANA WHOIS server
@@ -40815,14 +40811,14 @@ fax-no:       +44.2077966586
 e-mail:       john.wilks@dlapiper.com
 
 contact:      technical
-name:         Mr
+name:         Mr Michel Abi Aad
 organisation: Crescent Holding GmbH
 address:      Opernring - Stiege R top Nr. 709-714
 address:      Vienna 1010
 address:      Austria
 phone:        +30.2108913000
 fax-no:       +30.2108913000
-e-mail:       a.kade@olayangroup.com
+e-mail:       m.abiaad@olayangroup.com
 
 nserver:      A.NIC.OLAYAN 2001:dcd:1:0:0:0:0:9 37.209.192.9
 nserver:      B.NIC.OLAYAN 2001:dcd:2:0:0:0:0:9 37.209.194.9
@@ -40838,7 +40834,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.olayan.com/
 
 created:      2016-04-21
-changed:      2024-05-08
+changed:      2024-05-31
 source:       IANA
 
 % IANA WHOIS server
@@ -40863,14 +40859,14 @@ fax-no:       +44.2077966586
 e-mail:       john.wilks@dlapiper.com
 
 contact:      technical
-name:         Mr
+name:         Mr Michel Abi Aad
 organisation: Crescent Holding GmbH
 address:      Opernring - Stiege R top Nr. 709-714
 address:      Vienna 1010
 address:      Austria
 phone:        +30.2108913000
 fax-no:       +30.2108913000
-e-mail:       a.kade@olayangroup.com
+e-mail:       m.abiaad@olayangroup.com
 
 nserver:      A.NIC.OLAYANGROUP 2001:dcd:1:0:0:0:0:9 37.209.192.9
 nserver:      B.NIC.OLAYANGROUP 2001:dcd:2:0:0:0:0:9 37.209.194.9
@@ -40886,7 +40882,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.olayan.com/
 
 created:      2016-04-21
-changed:      2024-05-08
+changed:      2024-05-31
 source:       IANA
 
 % IANA WHOIS server
@@ -41805,6 +41801,8 @@ nserver:      DNS-EXT.NIC.CR 200.107.82.219 2001:13c7:7004:110:0:0:0:219
 nserver:      NS.DNS.BR 200.160.0.5 2001:12ff:0:a20:0:0:0:5
 nserver:      NS.NIC.PA 168.77.8.4
 nserver:      NS.PA 168.77.8.2
+nserver:      NS1.ANYCASTDNS.CZ 185.38.108.108 2a00:fea0:dead:0:0:0:0:beef
+nserver:      NS2.ANYCASTDNS.CZ 185.28.194.194
 nserver:      NS2.PA 168.77.8.7
 nserver:      SSDNS-TLD.NIC.CL 200.7.5.14 2001:1398:276:0:200:7:5:14
 
@@ -41814,7 +41812,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.pa/
 
 created:      1994-05-25
-changed:      2023-01-17
+changed:      2024-06-03
 source:       IANA
 
 % IANA WHOIS server
@@ -48678,7 +48676,7 @@ e-mail:       bero@thains.co.th
 nserver:      C.NIC.SCB 194.0.1.35 2001:678:4:0:0:0:0:23
 nserver:      NN1.NIC.SCB 194.58.198.136 2a01:3f1:3032:8001:0:0:0:136
 nserver:      RZ.NIC.SCB 194.0.25.42 2001:678:20:0:0:0:0:42
-ds-rdata:     20801 8 2 16bff89dd2faf9ac06221f6de0e206ed57fec2e29316779e30789d7e00a5bd2f
+ds-rdata:     3706 8 2 4468ba63991268d9c1916a569dc1608b39413749679313161165c84b24016160
 
 whois:        whois.nic.scb
 
@@ -48687,7 +48685,7 @@ remarks:      Registration information:
 remarks:      https://www.scb.co.th/en/personal-banking/top-level-domain.html
 
 created:      2014-06-26
-changed:      2024-02-15
+changed:      2024-05-31
 source:       IANA
 
 % IANA WHOIS server
@@ -54778,6 +54776,7 @@ e-mail:       pensri@thnic.or.th
 nserver:      A.THAINS.CO.TH 122.155.23.64 2001:c38:2000:183:0:0:0:30
 nserver:      B.THAINS.CO.TH 203.159.64.64 2405:3340:e011:3000:0:0:0:30
 nserver:      C.THAINS.CO.TH 194.0.1.28 2001:678:4:0:0:0:0:1c
+nserver:      NN1.THAINS.CO.TH 194.146.106.154 2001:67c:1010:39:0:0:0:53
 nserver:      NS.THNIC.NET 202.28.0.1
 nserver:      P.THAINS.CO.TH 2001:500:14:6126:ad:0:0:1 204.61.216.126
 ds-rdata:     19117 8 2 e26bf35f73234ac50c600632fc717ae491f4a8b4f662fb29234f5499acfebf64
@@ -54788,7 +54787,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.thnic.co.th
 
 created:      1988-09-07
-changed:      2021-08-02
+changed:      2024-06-03
 source:       IANA
 
 % IANA WHOIS server
@@ -58886,8 +58885,8 @@ nserver:      A.NIC.VIVA 194.169.218.28 2001:67c:13cc:0:0:0:1:28
 nserver:      B.NIC.VIVA 185.24.64.28 2a04:2b00:13cc:0:0:0:1:28
 nserver:      C.NIC.VIVA 212.18.248.28 2a04:2b00:13ee:0:0:0:0:28
 nserver:      D.NIC.VIVA 212.18.249.28 2a04:2b00:13ff:0:0:0:0:28
-ds-rdata:     12386 8 1 4bcbdaa886b0dce29c68a90c49a964d61e95c59f
 ds-rdata:     12386 8 2 cfae0771825b368beb345f67a1a08a64415af41076486890eb62c79a32113f71
+ds-rdata:     49345 8 2 85418da0ff0d9ccc1e1eaac43b88dab60fa42e51af3341b9e61d31ee23916875
 
 whois:        whois.nic.viva
 
@@ -58895,7 +58894,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.stc.com.sa
 
 created:      2015-08-20
-changed:      2021-10-12
+changed:      2024-05-30
 source:       IANA
 
 % IANA WHOIS server
@@ -65590,14 +65589,14 @@ fax-no:       +44.2077966586
 e-mail:       john.wilks@dlapiper.com
 
 contact:      technical
-name:         Mr
+name:         Mr Michel Abi Aad
 organisation: Crescent Holding GmbH
 address:      Opernring - Stiege R top Nr. 709-714
 address:      Vienna 1010
 address:      Austria
 phone:        +30.2108913000
 fax-no:       +30.2108913000
-e-mail:       a.kade@olayangroup.com
+e-mail:       m.abiaad@olayangroup.com
 
 nserver:      A.NIC.XN--MGBA7C0BBN0A 2001:dcd:1:0:0:0:0:9 37.209.192.9
 nserver:      B.NIC.XN--MGBA7C0BBN0A 2001:dcd:2:0:0:0:0:9 37.209.194.9
@@ -65613,7 +65612,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.olayan.com/
 
 created:      2016-04-21
-changed:      2024-05-08
+changed:      2024-05-31
 source:       IANA
 
 % IANA WHOIS server
@@ -66688,8 +66687,8 @@ nserver:      A.NIC.XN--NGBE9E0A 194.169.218.22 2001:67c:13cc:0:0:0:1:22
 nserver:      B.NIC.XN--NGBE9E0A 185.24.64.22 2a04:2b00:13cc:0:0:0:1:22
 nserver:      C.NIC.XN--NGBE9E0A 212.18.248.22 2a04:2b00:13ee:0:0:0:0:22
 nserver:      D.NIC.XN--NGBE9E0A 212.18.249.22 2a04:2b00:13ff:0:0:0:0:22
-ds-rdata:     10552 8 1 c5f1478252dc3d25e585a8d43ad460c0e8f86863
 ds-rdata:     10552 8 2 b4b742442c6b66d321259fcd7608462a75f2a7ea70af4e42a6cad0430dd98d51
+ds-rdata:     5347 8 2 6e02d3ee5a203293f8cbaf20686aecd516e1363e231ec6db68e78e9f48090e47
 
 whois:        whois.nic.xn--ngbe9e0a
 
@@ -66697,7 +66696,7 @@ status:       ACTIVE
 remarks:      Registration information: http://kfh.com
 
 created:      2015-10-29
-changed:      2021-10-12
+changed:      2024-06-05
 source:       IANA
 
 % IANA WHOIS server
@@ -66989,6 +66988,7 @@ e-mail:       pensri@thnic.or.th
 
 nserver:      A.THAINS.CO.TH 122.155.23.64 2001:c38:2000:183:0:0:0:30
 nserver:      B.THAINS.CO.TH 203.159.64.64 2405:3340:e011:3000:0:0:0:30
+nserver:      NN1.THAINS.CO.TH 194.146.106.154 2001:67c:1010:39:0:0:0:53
 nserver:      NS.THNIC.NET 202.28.0.1
 nserver:      P.THAINS.CO.TH 2001:500:14:6126:ad:0:0:1 204.61.216.126
 ds-rdata:     27061 8 2 53856679ac45ea6562ef4ecd2de7aea57d786870979f09c4bc1d5244c2e2a9c9
@@ -66999,7 +66999,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.thnic.co.th
 
 created:      2010-08-19
-changed:      2023-03-07
+changed:      2024-06-03
 source:       IANA
 
 % IANA WHOIS server
@@ -68983,10 +68983,10 @@ address:      Canada
 phone:        +1.949.903.3449
 e-mail:       trs-ops@tucows.com
 
-nserver:      NS1.UNIREGISTRY.NET 2620:57:4000:1:0:0:0:1 64.96.1.1
-nserver:      NS2.UNIREGISTRY.INFO 64.96.2.1
-nserver:      NS3.UNIREGISTRY.NET 185.159.197.3 2620:10a:80aa:0:0:0:0:3
-nserver:      NS4.UNIREGISTRY.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
+nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
+nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
+nserver:      NS01.TRS-DNS.NET 64.96.2.1
+nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
 ds-rdata:     50324 13 2 3f25b6eaf2b08861672673779cb294ce5154337b250da78fb9ed949a997c38df
 
 whois:        
@@ -68995,7 +68995,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.yandex.ru/
 
 created:      2014-07-10
-changed:      2022-11-22
+changed:      2024-06-04
 source:       IANA
 
 % IANA WHOIS server

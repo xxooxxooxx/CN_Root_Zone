@@ -20433,8 +20433,8 @@ nserver:      A.NIC.FO 194.169.218.27 2001:67c:13cc:0:0:0:1:27
 nserver:      B.NIC.FO 185.24.64.27 2a04:2b00:13cc:0:0:0:1:27
 nserver:      C.NIC.FO 212.18.248.27 2a04:2b00:13ee:0:0:0:0:27
 nserver:      D.NIC.FO 212.18.249.27 2a04:2b00:13ff:0:0:0:0:27
-ds-rdata:     41527 8 2 6e7925d8d6f243ef35381231b955528f25087dbf3e61cc5fcbcfe72948d0470b
 ds-rdata:     6691 8 2 a752ceaae4e28b4232244e5486d55889f117a15b81d3128ce7e9359f1d47a445
+ds-rdata:     14231 8 2 2828b71e13a64b57b7bb68c56519d583597bec04ef2721d967622223f4ccf36b
 
 whois:        whois.nic.fo
 
@@ -20442,7 +20442,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.fo/
 
 created:      1993-05-14
-changed:      2021-10-27
+changed:      2024-06-11
 source:       IANA
 
 % IANA WHOIS server
@@ -38548,47 +38548,13 @@ source:       IANA
 
 domain:       NATURA
 
-organisation: NATURA COSMÉTICOS S.A.
-address:      Rodovia Régis Bittencourt s/n. km 293
-address:      Potuverá Edifício I 06882 700
-address:      Itapecerica da Serra São Paulo 06882-700
-address:      Brazil
+whois:        
 
-contact:      administrative
-name:         VP Tecnologia Digital
-organisation: NATURA COSMÉTICOS S.A.
-address:      Rodovia Régis Bittencourt s/n. km 293
-address:      Potuverá Edifício I 06882 700
-address:      Itapecerica da Serra São Paulo 06882-700
-address:      Brazil
-phone:        +55.11.4446.2000
-fax-no:       +55.11.4196.24134
-e-mail:       gtlds-tech@registro.br
-
-contact:      technical
-name:         NIC.br Registry Services - Tech Contact
-organisation: NIC.br
-address:      Av. das Nações Unidas, 11541, 7. andar
-address:      São Paulo SP 04578-000
-address:      Brazil
-phone:        +55 11 5509 3505
-e-mail:       gtlds-tech@registro.br
-
-nserver:      A.DNS.BR 200.219.148.10 2001:12f8:6:0:0:0:0:10
-nserver:      B.DNS.BR 200.189.41.10 2001:12f8:8:0:0:0:0:10
-nserver:      C.DNS.BR 200.192.233.10 2001:12f8:a:0:0:0:0:10
-nserver:      D.DNS.BR 200.219.154.10 2001:12f8:4:0:0:0:0:10
-nserver:      E.DNS.BR 200.229.248.10 2001:12f8:2:0:0:0:0:10
-nserver:      F.DNS.BR 200.219.159.10 2001:12f8:c:0:0:0:0:10
-ds-rdata:     50876 13 2 406b80a131f692452922a7e2448f78ebb85d60e28f766fb9f869c2636d441766
-
-whois:        whois.gtlds.nic.br
-
-status:       ACTIVE
-remarks:      Registration information: https://nic.natura
+status:       FORMER
+remarks:      Registration information: 
 
 created:      2016-01-29
-changed:      2023-11-14
+changed:      2024-06-12
 source:       IANA
 
 % IANA WHOIS server
@@ -52040,7 +52006,7 @@ phone:        +597 8809685
 e-mail:       furyal.naarden@telesur.sr
 
 nserver:      NS1.NIC.SR 168.195.219.210 2803:ff40:a251:0:168:195:219:2
-nserver:      NS2.NIC.SR 168.195.216.214
+nserver:      NS2.NIC.SR 168.195.216.214 2803:ff40:a000:2501:168:195:216:2
 
 whois:        
 
@@ -52048,7 +52014,7 @@ status:       ACTIVE
 remarks:      Registration information: https://isp.datasur.sr/
 
 created:      1991-09-03
-changed:      2024-05-26
+changed:      2024-06-10
 source:       IANA
 
 % IANA WHOIS server

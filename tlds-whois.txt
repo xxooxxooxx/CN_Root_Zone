@@ -4688,7 +4688,6 @@ nserver:      F.NIC.BANK 156.154.105.27 2610:a1:1012:0:0:0:0:27
 nserver:      W.NIC.BANK 2001:dcd:1:0:0:0:0:10 37.209.192.10
 nserver:      X.NIC.BANK 2001:dcd:2:0:0:0:0:10 37.209.194.10
 nserver:      Y.NIC.BANK 2001:dcd:3:0:0:0:0:10 37.209.196.10
-ds-rdata:     21997 8 2 07edd24219ee1fa88d97695ea28c3722a29b566813cbfdcc4dbf498892b8ff0c
 ds-rdata:     32743 13 2 c962ca12693bf639b1eeb2c9e5a5e90988ab334038e8daff0c1cd05454b57038
 
 whois:        whois.nic.bank
@@ -4697,7 +4696,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.ftld.com/
 
 created:      2014-11-26
-changed:      2024-06-21
+changed:      2024-07-01
 source:       IANA
 
 % IANA WHOIS server
@@ -6087,6 +6086,7 @@ nserver:      B.NIC.BH 185.24.64.115 2a04:2b00:13cc:0:0:0:1:115
 nserver:      C.NIC.BH 212.18.248.115 2a04:2b00:13ee:0:0:0:0:115
 nserver:      D.NIC.BH 212.18.249.115 2a04:2b00:13ff:0:0:0:0:115
 ds-rdata:     42035 8 2 de6b7cef6b195f0aac140c56c68868105d8f05967342c96a8192efe7b433bd1e
+ds-rdata:     17411 8 2 5585896549a2954516768f776e8a9e2610cbf5cbd7165389c0a5448435c71185
 
 whois:        whois.nic.bh
 
@@ -6094,7 +6094,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      1994-02-01
-changed:      2023-12-12
+changed:      2024-07-01
 source:       IANA
 
 % IANA WHOIS server
@@ -16059,7 +16059,9 @@ phone:        +253 21357710
 e-mail:       abdillahi.youssouf@djibtel.dj
 
 nserver:      BOW1.INTNET.DJ 197.241.17.130
-nserver:      BOW5.INTNET.DJ 196.201.196.41
+nserver:      NS1.DJIBTELECOM.DJ 197.241.17.175
+nserver:      NS2.DJIBTELECOM.DJ 196.201.196.54
+nserver:      NS3.DJIBTELECOM.DJ 52.213.131.190
 nserver:      VPS443605.OVH.NET 37.59.106.21
 
 whois:        
@@ -16068,7 +16070,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.dj
 
 created:      1996-05-22
-changed:      2024-05-20
+changed:      2024-07-01
 source:       IANA
 
 % IANA WHOIS server
@@ -18701,10 +18703,10 @@ address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 1865 332211
 e-mail:       registrytechnical@nominet.uk
 
-nserver:      NS1.NOMINETDNS.UK 213.248.219.135 2a01:618:403:0:0:0:0:135
-nserver:      NS2.NOMINETDNS.UK 103.49.83.135 2401:fd80:403:0:0:0:0:135
-nserver:      NS3.NOMINETDNS.UK 213.248.223.135 2a01:618:407:0:0:0:0:135
-nserver:      NS4.NOMINETDNS.UK 2401:fd80:407:0:0:0:0:135 43.230.51.135
+nserver:      DNS1.NIC.FAIRWINDS 213.248.219.135 2a01:618:403:0:0:0:0:135
+nserver:      DNS2.NIC.FAIRWINDS 103.49.83.135 2401:fd80:403:0:0:0:0:135
+nserver:      DNS3.NIC.FAIRWINDS 213.248.223.135 2a01:618:407:0:0:0:0:135
+nserver:      DNS4.NIC.FAIRWINDS 2401:fd80:407:0:0:0:0:135 43.230.51.135
 nserver:      NSA.NOMINETDNS.UK 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      NSB.NOMINETDNS.UK 156.154.101.3 2001:502:2eda:0:0:0:0:3
 nserver:      NSC.NOMINETDNS.UK 156.154.102.3 2610:a1:1009:0:0:0:0:3
@@ -18718,7 +18720,7 @@ remarks:      Registration information:
 remarks:      http://www.fairwindspartners.com
 
 created:      2015-10-29
-changed:      2024-05-13
+changed:      2024-07-03
 source:       IANA
 
 % IANA WHOIS server
@@ -27466,7 +27468,7 @@ nserver:      NS1.NS.IL 194.146.106.122 2001:67c:1010:31:0:0:0:53
 nserver:      NS3.NS.IL 194.0.11.103 2001:678:e:103:0:0:0:53
 nserver:      NS4.NS.IL 2001:500:14:6134:ad:0:0:1 204.61.216.134
 nserver:      NSA.NS.IL 192.115.7.53 2a01:4280:7:0:0:0:0:53
-nserver:      NSB.NS.IL 192.115.7.60 2a01:4280:7:0:0:0:0:60
+nserver:      NSB.NS.IL 192.115.7.60 2606:4700:52:0:0:0:ac40:349c 2606:4700:5a:0:0:0:ac40:3524
 nserver:      NSE.NS.IL 192.115.4.235
 ds-rdata:     16654 13 2 8eae70e9a2b930ed77e52c80b924add6925166081c8aabcd7023311d769bcebb
 
@@ -27476,7 +27478,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.isoc.org.il/domains
 
 created:      1985-10-24
-changed:      2024-02-20
+changed:      2024-07-03
 source:       IANA
 
 % IANA WHOIS server
@@ -28145,7 +28147,6 @@ nserver:      F.NIC.INSURANCE 156.154.105.22 2610:a1:1012:0:0:0:0:22
 nserver:      W.NIC.INSURANCE 2001:dcd:1:0:0:0:0:10 37.209.192.10
 nserver:      X.NIC.INSURANCE 2001:dcd:2:0:0:0:0:10 37.209.194.10
 nserver:      Y.NIC.INSURANCE 2001:dcd:3:0:0:0:0:10 37.209.196.10
-ds-rdata:     17830 8 2 b2969b333e64714f8ea3b5d1d691fe476194ff8c5b67ac78345ece07b77fa20c
 ds-rdata:     32830 13 2 f51790be5f8a3bec1d392a45882a76c5bda288395a3929e9714eb26193e80f5e
 
 whois:        whois.nic.insurance
@@ -28154,7 +28155,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.ftld.com/
 
 created:      2015-11-06
-changed:      2024-06-21
+changed:      2024-07-01
 source:       IANA
 
 % IANA WHOIS server
@@ -29514,14 +29515,14 @@ address:      New Brunswick NJ 08933
 address:      United States of America (the)
 
 contact:      administrative
-name:         Taylor Frank
-organisation: FairWinds Partners LLC
-address:      1000 Potomac Street NW #350
-address:      Washington DC 20007
-address:      United States of America (the)
-phone:        202-223-5232
-fax-no:       202-223-9256
-e-mail:       jnjregistry@fairwindspartners.com
+name:         Paul Freeman
+organisation: CentralNic
+address:      Saddlers House, 4th Floor 44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 (0) 20 33 88 0600
+fax-no:       +44 20 33 88 0601
+e-mail:       tld.ops@centralnic.com
 
 contact:      technical
 name:         IANA Contact
@@ -29547,7 +29548,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.jnj.com/
 
 created:      2016-01-14
-changed:      2024-05-11
+changed:      2024-07-01
 source:       IANA
 
 % IANA WHOIS server
@@ -61983,7 +61984,7 @@ nserver:      NS1.NS.IL 194.146.106.122 2001:67c:1010:31:0:0:0:53
 nserver:      NS3.NS.IL 194.0.11.103 2001:678:e:103:0:0:0:53
 nserver:      NS4.NS.IL 2001:500:14:6134:ad:0:0:1 204.61.216.134
 nserver:      NSA.NS.IL 192.115.7.53 2a01:4280:7:0:0:0:0:53
-nserver:      NSB.NS.IL 192.115.7.60 2a01:4280:7:0:0:0:0:60
+nserver:      NSB.NS.IL 192.115.7.60 2606:4700:52:0:0:0:ac40:349c 2606:4700:5a:0:0:0:ac40:3524
 nserver:      NSE.NS.IL 192.115.4.235
 ds-rdata:     5893 13 2 575289a1f1a3f38caade5b063d2977185d2ce1a573087d9b33ab2b6dbde83f29
 
@@ -66072,6 +66073,7 @@ nserver:      B.NIC.XN--MGBCPQ6GPA1A 185.24.64.115 2a04:2b00:13cc:0:0:0:1:115
 nserver:      C.NIC.XN--MGBCPQ6GPA1A 212.18.248.115 2a04:2b00:13ee:0:0:0:0:115
 nserver:      D.NIC.XN--MGBCPQ6GPA1A 212.18.249.115 2a04:2b00:13ff:0:0:0:0:115
 ds-rdata:     18592 8 2 0decd54d82c1c675e321c38a49e3193f83066bd70d1bfb108b62231c75b8b407
+ds-rdata:     18404 8 2 1dbc70cb85267da1054f652ac0b4aeeb76f17fb9648a490f4a0bb0d934bf6ac3
 
 whois:        
 
@@ -66079,7 +66081,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2019-06-13
-changed:      2023-03-07
+changed:      2024-07-01
 source:       IANA
 
 % IANA WHOIS server

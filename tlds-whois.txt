@@ -81,6 +81,7 @@ nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
 nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
 nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
 ds-rdata:     5751 8 2 7e8a14ab8f85009b9f19859815fa695954233fd9daa6ab359044d12621a77e9f
+ds-rdata:     26254 8 2 bff5bd7c3f7a468cdcc7caf66e978a5d9b5211f39241039a5218b82aa62fb6c6
 
 whois:        whois.nic.aarp
 
@@ -88,7 +89,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2015-10-22
-changed:      2020-10-01
+changed:      2024-07-08
 source:       IANA
 
 % IANA WHOIS server
@@ -1937,7 +1938,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.ally.com
 
 created:      2015-10-22
-changed:      2024-05-11
+changed:      2024-07-10
 source:       IANA
 
 % IANA WHOIS server
@@ -2213,6 +2214,7 @@ nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
 nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
 nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
 ds-rdata:     61398 8 2 f6890de22c9b4261c9fcfac53fe0849faa9b573ee95e027e070aba270cd966af
+ds-rdata:     16975 8 2 50d98dc6d7a2bc4ce8121a409ef96e22ea6ff8b0334f0629151093ac247bd80f
 
 whois:        whois.nic.americanfamily
 
@@ -2220,7 +2222,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2016-07-14
-changed:      2020-10-01
+changed:      2024-07-08
 source:       IANA
 
 % IANA WHOIS server
@@ -2308,6 +2310,7 @@ nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
 nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
 nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
 ds-rdata:     4101 8 2 d2c0246802aa5b615cfc8b700a5245adfca49477b37f870499a44ab272989a7d
+ds-rdata:     56680 8 2 18afbe180bf3ddde328e5f7e0d2bb7869db47ab073a3d4f29a7be3e65bdca003
 
 whois:        whois.nic.amfam
 
@@ -2315,7 +2318,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2016-07-14
-changed:      2020-10-01
+changed:      2024-07-08
 source:       IANA
 
 % IANA WHOIS server
@@ -18707,10 +18710,10 @@ nserver:      DNS1.NIC.FAIRWINDS 213.248.219.135 2a01:618:403:0:0:0:0:135
 nserver:      DNS2.NIC.FAIRWINDS 103.49.83.135 2401:fd80:403:0:0:0:0:135
 nserver:      DNS3.NIC.FAIRWINDS 213.248.223.135 2a01:618:407:0:0:0:0:135
 nserver:      DNS4.NIC.FAIRWINDS 2401:fd80:407:0:0:0:0:135 43.230.51.135
-nserver:      NSA.NOMINETDNS.UK 156.154.100.3 2001:502:ad09:0:0:0:0:3
-nserver:      NSB.NOMINETDNS.UK 156.154.101.3 2001:502:2eda:0:0:0:0:3
-nserver:      NSC.NOMINETDNS.UK 156.154.102.3 2610:a1:1009:0:0:0:0:3
-nserver:      NSD.NOMINETDNS.UK 156.154.103.3 2610:a1:1010:0:0:0:0:3
+nserver:      DNSA.NIC.FAIRWINDS 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.NIC.FAIRWINDS 156.154.101.3 2001:502:2eda:0:0:0:0:3
+nserver:      DNSC.NIC.FAIRWINDS 156.154.102.3 2610:a1:1009:0:0:0:0:3
+nserver:      DNSD.NIC.FAIRWINDS 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     48074 8 2 4375da09c7286dcde9acc036596d3f2b9f1347e1a83f13a1e98c7e9821d2ead9
 
 whois:        whois.nic.fairwinds
@@ -18720,7 +18723,7 @@ remarks:      Registration information:
 remarks:      http://www.fairwindspartners.com
 
 created:      2015-10-29
-changed:      2024-07-03
+changed:      2024-07-08
 source:       IANA
 
 % IANA WHOIS server
@@ -35960,7 +35963,6 @@ nserver:      C.NIC.MENU 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      X.NIC.MENU 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.MENU 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.MENU 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     31309 8 2 dea786e2b9c069e2595d79b03f3a920b0342bfbc017ec606a0184340e9c9c88d
 ds-rdata:     34801 8 2 9f75480edae26137d71c72574244ef65943199e92c89364035e6ba7b1f1bab32
 
 whois:        whois.nic.menu
@@ -35969,7 +35971,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.menu
 
 created:      2013-11-13
-changed:      2023-11-22
+changed:      2024-07-05
 source:       IANA
 
 % IANA WHOIS server
@@ -40086,50 +40088,49 @@ source:       IANA
 
 domain:       NOWRUZ
 
-organisation: Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.
-address:      Cobancesme Mah. Semt Sanayi Cd.
-address:      Nish Istanbul
-address:      No 44 D 174
-address:      Bahcelievler / Istanbul
-address:      Turkey
+organisation: Emergency Back-End Registry Operator Program - ICANN
+address:      12025 Waterfront Dr., Suite 300
+address:      Los Angeles CA 90094
+address:      United States of America (the)
 
 contact:      administrative
-name:         CEO
-organisation: Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.
-address:      Cobancesme Mah. Semt Sanayi Cd.
-address:      Nish Istanbul
-address:      No 44 D 174
-address:      Bahcelievler / Istanbul
-address:      Turkey
-phone:        +90 530 460 52 31
-fax-no:       +90 212 603 62 04
-e-mail:       iana-admin@agitsys.com
+name:         EBERO Event Director
+organisation: Internet Corporation for Assigned Names and Numbers (ICANN)
+address:      12025 Waterfront Dr., Suite 300
+address:      Los Angeles CA 90094
+address:      United States of America (the)
+phone:        +1(310) 301-5800
+fax-no:       +1(310) 823-8649
+e-mail:       eventdirector@icann.org
 
 contact:      technical
-name:         CTO
-organisation: Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.
-address:      Cobancesme Mah. Semt Sanayi Cd.
-address:      Nish Istanbul
-address:      No 44 D 174
-address:      Bahcelievler / Istanbul
-address:      Turkey
-phone:        +90 (555) 001 66 80
-fax-no:       +90 212 603 62 04
-e-mail:       iana-tech@agitsys.com
+name:         Nominet EBERO Event Manager
+organisation: Nominet
+address:      Minerva House, Edmund Halley Road, Oxford Science Park
+address:      Oxford Oxon OX4 4DQ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 1865 332470
+e-mail:       ebero@nominet.uk
 
-nserver:      A.NS.NIC.NOWRUZ 2620:171:a01:ad:0:0:0:10 72.0.49.10
-nserver:      B.NS.NIC.NOWRUZ 2620:171:d01:dc:0:0:0:10 72.42.113.10
-nserver:      NS1.ANYCASTDNS.CZ 185.38.108.108 2a00:fea0:dead:0:0:0:0:beef
-nserver:      NS2.ANYCASTDNS.CZ 185.28.194.194
+nserver:      DNS1.EMDNS.UK 213.248.217.153 2a01:618:401:0:0:0:0:153
+nserver:      DNS2.EMDNS.UK 103.49.81.153 2401:fd80:401:0:0:0:0:153
+nserver:      DNS3.EMDNS.UK 213.248.221.153 2a01:618:405:0:0:0:0:153
+nserver:      DNS4.EMDNS.UK 2401:fd80:405:0:0:0:0:153 43.230.49.153
+nserver:      DNSA.EMDNS.UK 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.EMDNS.UK 156.154.101.3 2001:502:2eda:0:0:0:0:3
+nserver:      DNSC.EMDNS.UK 156.154.102.3 2610:a1:1009:0:0:0:0:3
+nserver:      DNSD.EMDNS.UK 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     50845 8 2 f7691bfc344455bee7376fcf659fcf623ad2fd081900f4fb32db07c7bc6bdf57
+ds-rdata:     32206 8 2 1abee4364fcad18301f22226a9b13521e809a4abbbdb96d4c9b875ddf50eb03d
+ds-rdata:     34462 8 2 181f18dc171f0a918a8ba05ed8f1c8e00828068d7d1006167c15afe5def4d7d5
 
 whois:        whois.nic.nowruz
 
 status:       ACTIVE
-remarks:      Registration information: http://nic.nowruz
+remarks:      Registration information: https://icann.org/ebero
 
 created:      2015-11-25
-changed:      2023-02-28
+changed:      2024-07-08
 source:       IANA
 
 % IANA WHOIS server
@@ -49953,45 +49954,13 @@ source:       IANA
 
 domain:       SHAW
 
-organisation: Shaw Cablesystems G.P.
-address:      630 - 3rd Avenue SW
-address:      Calgary AB T2P 4L4
-address:      Canada
+whois:        
 
-contact:      administrative
-name:         Manager, Network Circuit Design
-organisation: Shaw Cablesystems G.P.
-address:      2728 Hopewell Place NE
-address:      Calgary AB T1Y 7J7
-address:      Canada
-phone:        +1 403.750.4500
-fax-no:       +1 403.750.4501
-e-mail:       shawicaanglobalsupport@sjrb.ca
-
-contact:      technical
-name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias
-address:      300 Welsh Road
-address:      Building 3, Suite 105
-address:      Horsham PA 19044
-address:      United States of America (the)
-phone:        +1 215.706.5700
-fax-no:       +1 215.706.5701
-e-mail:       tld-tech-poc@afilias.info
-
-nserver:      A0.NIC.SHAW 2a01:8840:56:0:0:0:0:17 65.22.88.17
-nserver:      A2.NIC.SHAW 2a01:8840:59:0:0:0:0:17 65.22.91.17
-nserver:      B0.NIC.SHAW 2a01:8840:57:0:0:0:0:17 65.22.89.17
-nserver:      C0.NIC.SHAW 2a01:8840:58:0:0:0:0:17 65.22.90.17
-ds-rdata:     29284 8 2 a5d4cf180ae979a32069cfc69304ad40f0bd7e0b6cfbd0b5611e49d1540edba4
-
-whois:        whois.afilias-srs.net
-
-status:       ACTIVE
-remarks:      Registration information: http://www.shaw.ca
+status:       FORMER
+remarks:      Registration information: 
 
 created:      2016-03-10
-changed:      2020-12-16
+changed:      2024-07-09
 source:       IANA
 
 % IANA WHOIS server
@@ -57923,15 +57892,14 @@ fax-no:       +1 784 457 2880
 e-mail:       jcreese@gov.vc
 
 contact:      technical
-name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias
-address:      300 Welsh Road
-address:      Building 3, Suite 105
-address:      Horsham PA 19044
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue Washington 98004
 address:      United States of America (the)
-phone:        +1 215 706 5700
-fax-no:       +1 215 706 5701
-e-mail:       tld-tech-poc@afilias.info
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
 
 nserver:      A0.CCTLD.AFILIAS-NST.INFO 199.254.59.1 2001:500:25:0:0:0:0:1
 nserver:      A2.CCTLD.AFILIAS-NST.INFO 199.249.116.1 2001:500:44:0:0:0:0:1
@@ -57941,13 +57909,13 @@ nserver:      C0.CCTLD.AFILIAS-NST.INFO 199.254.61.1 2001:500:27:0:0:0:0:1
 nserver:      D0.CCTLD.AFILIAS-NST.ORG 199.254.62.1 2001:500:28:0:0:0:0:1
 ds-rdata:     54391 8 2 8e38107261b61499f2e57a72e762ef501798a0462cb69e6afcc9c4a2539e6bff
 
-whois:        whois2.afilias-grs.net
+whois:        whois.identitydigital.services
 
 status:       ACTIVE
 remarks:      Registration information: 
 
 created:      1991-09-03
-changed:      2020-12-19
+changed:      2024-07-09
 source:       IANA
 
 % IANA WHOIS server

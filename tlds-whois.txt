@@ -7618,6 +7618,7 @@ nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
 ds-rdata:     45431 13 2 16d460de3b5d232225100e179ab80bd20a398618160c5b1c934a39f5e207ed45
+ds-rdata:     18147 13 2 e570bff87af9244279302e8ac77932222143c62ad60d6065b3bf6d691ef141ff
 
 whois:        whois.nic.bostik
 
@@ -7625,7 +7626,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.bostik.com
 
 created:      2015-11-06
-changed:      2024-03-12
+changed:      2024-07-17
 source:       IANA
 
 % IANA WHOIS server
@@ -15455,7 +15456,7 @@ remarks:      Registration information:
 remarks:      https://www.icann.org/resources/pages/ebero-2013-04-02-en
 
 created:      2014-03-06
-changed:      2023-10-23
+changed:      2024-07-12
 source:       IANA
 
 % IANA WHOIS server
@@ -24849,7 +24850,7 @@ status:       ACTIVE
 remarks:      Registration information: https://registry.gy/
 
 created:      1994-09-13
-changed:      2022-07-20
+changed:      2024-07-17
 source:       IANA
 
 % IANA WHOIS server
@@ -27447,7 +27448,7 @@ address:      Israel
 
 contact:      administrative
 name:         Doron Shikmoni
-organisation: Internet Society of Israel
+organisation: The Israel Internet Association (RA)
 address:      Bareket 6, POB 7210
 address:      Petach Tikva 4951774
 address:      Israel
@@ -27457,7 +27458,7 @@ e-mail:       doron@isoc.org.il
 
 contact:      technical
 name:         IL Technical Contact
-organisation: Internet Society of Israel
+organisation: The Israel Internet Association (RA)
 address:      Bareket 6, POB 7210
 address:      Petach Tikva 4951774
 address:      Israel
@@ -27481,7 +27482,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.isoc.org.il/domains
 
 created:      1985-10-24
-changed:      2024-07-03
+changed:      2024-07-11
 source:       IANA
 
 % IANA WHOIS server
@@ -32609,10 +32610,12 @@ phone:        +1-703-925-6999
 fax-no:       +1-703-948-3978
 e-mail:       info@verisign-grs.com
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+nserver:      V0N0.NIC.LEGO 2a01:8840:6a:0:0:0:0:14 65.22.108.14
+nserver:      V0N1.NIC.LEGO 2a01:8840:6b:0:0:0:0:14 65.22.109.14
+nserver:      V0N2.NIC.LEGO 2a01:8840:6c:0:0:0:0:14 65.22.110.14
+nserver:      V0N3.NIC.LEGO 161.232.32.14 2a01:8840:108:0:0:0:0:14
+nserver:      V2N0.NIC.LEGO 2a01:8840:6d:0:0:0:0:14 65.22.111.14
+nserver:      V2N1.NIC.LEGO 161.232.33.14 2a01:8840:109:0:0:0:0:14
 ds-rdata:     28536 8 2 fdcdbd92d8a27f3a19ba30ef37e04ff21188973ee8648975e5b9a77db48478d6
 ds-rdata:     5752 8 2 af9076e3b4365d770b2827a4a9f6ea142d12af52887d9ea685e34aa0acdeea40
 
@@ -32622,7 +32625,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2016-03-24
-changed:      2024-06-25
+changed:      2024-07-11
 source:       IANA
 
 % IANA WHOIS server
@@ -36717,6 +36720,7 @@ nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
 ds-rdata:     59534 13 2 25455417c20c22d815e00232defb2fc78e7b728600c91aadb21f8703ea1c314b
+ds-rdata:     56827 13 2 06df92e8eac85a48042b13dbee897a3f00c48496b6c35d6ab46ef3828f9338cf
 
 whois:        whois.nic.mma
 
@@ -36724,7 +36728,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.mma.fr
 
 created:      2015-02-27
-changed:      2024-04-30
+changed:      2024-07-17
 source:       IANA
 
 % IANA WHOIS server
@@ -40120,9 +40124,7 @@ nserver:      DNSA.EMDNS.UK 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.EMDNS.UK 156.154.101.3 2001:502:2eda:0:0:0:0:3
 nserver:      DNSC.EMDNS.UK 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.EMDNS.UK 156.154.103.3 2610:a1:1010:0:0:0:0:3
-ds-rdata:     50845 8 2 f7691bfc344455bee7376fcf659fcf623ad2fd081900f4fb32db07c7bc6bdf57
 ds-rdata:     32206 8 2 1abee4364fcad18301f22226a9b13521e809a4abbbdb96d4c9b875ddf50eb03d
-ds-rdata:     34462 8 2 181f18dc171f0a918a8ba05ed8f1c8e00828068d7d1006167c15afe5def4d7d5
 
 whois:        whois.nic.nowruz
 
@@ -40130,7 +40132,7 @@ status:       ACTIVE
 remarks:      Registration information: https://icann.org/ebero
 
 created:      2015-11-25
-changed:      2024-07-08
+changed:      2024-07-11
 source:       IANA
 
 % IANA WHOIS server
@@ -41928,50 +41930,49 @@ source:       IANA
 
 domain:       PARS
 
-organisation: Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.
-address:      Cobancesme Mah. Semt Sanayi Cd.
-address:      Nish Istanbul
-address:      No 44 D 174
-address:      Bahcelievler / Istanbul
-address:      Turkey
+organisation: Emergency Back-End Registry Operator Program - ICANN
+address:      12025 Waterfront Dr., Suite 300
+address:      Los Angeles CA 90094
+address:      United States of America (the)
 
 contact:      administrative
-name:         CEO
-organisation: Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.
-address:      Cobancesme Mah. Semt Sanayi Cd.
-address:      Nish Istanbul
-address:      No 44 D 174
-address:      Bahcelievler / Istanbul
-address:      Turkey
-phone:        +90 530 460 52 31
-fax-no:       +90 212 603 62 04
-e-mail:       iana-admin@agitsys.com
+name:         EBERO Event Director
+organisation: Internet Corporation for Assigned Names and Numbers (ICANN)
+address:      12025 Waterfront Dr., Suite 300
+address:      Los Angeles CA 90094
+address:      United States of America (the)
+phone:        +1 (310) 301-5800
+fax-no:       +1 (310) 823-8649
+e-mail:       eventdirector@icann.org
 
 contact:      technical
-name:         CTO
-organisation: Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.
-address:      Cobancesme Mah. Semt Sanayi Cd.
-address:      Nish Istanbul
-address:      No 44 D 174
-address:      Bahcelievler / Istanbul
-address:      Turkey
-phone:        +90 555 001 66 80
-fax-no:       +90 212 603 62 04
-e-mail:       iana-tech@agitsys.com
+name:         Nominet EBERO Event Manager
+organisation: Nominet
+address:      Minerva House, Edmund Halley Road, Oxford Science Park
+address:      Oxford Oxon OX4 4DQ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 1865 332470
+e-mail:       ebero@nominet.uk
 
-nserver:      A.NS.NIC.PARS 2620:171:a01:ad:0:0:0:5 72.0.49.5
-nserver:      B.NS.NIC.PARS 2620:171:d01:dc:0:0:0:5 72.42.113.5
-nserver:      NS1.ANYCASTDNS.CZ 185.38.108.108 2a00:fea0:dead:0:0:0:0:beef
-nserver:      NS2.ANYCASTDNS.CZ 185.28.194.194
+nserver:      DNS1.EMDNS.UK 213.248.217.153 2a01:618:401:0:0:0:0:153
+nserver:      DNS2.EMDNS.UK 103.49.81.153 2401:fd80:401:0:0:0:0:153
+nserver:      DNS3.EMDNS.UK 213.248.221.153 2a01:618:405:0:0:0:0:153
+nserver:      DNS4.EMDNS.UK 2401:fd80:405:0:0:0:0:153 43.230.49.153
+nserver:      DNSA.EMDNS.UK 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.EMDNS.UK 156.154.101.3 2001:502:2eda:0:0:0:0:3
+nserver:      DNSC.EMDNS.UK 156.154.102.3 2610:a1:1009:0:0:0:0:3
+nserver:      DNSD.EMDNS.UK 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     2911 8 2 bd1468967b866d21c106f1a2b92906604380e7787be97ac2855219dde2cd2285
+ds-rdata:     55552 8 2 c84d8d2021692fb2a427dfeb7a89e6bcf042886082f9f8a3c9a1139896bdc7bd
+ds-rdata:     25579 8 2 3267932db504f8ebd2ce521de598c9dcf92096c158dcacb57a96395d4cc5798f
 
 whois:        whois.nic.pars
 
 status:       ACTIVE
-remarks:      Registration information: http://www.nic.pars
+remarks:      Registration information: https://icann.org/ebero
 
 created:      2015-11-25
-changed:      2023-02-28
+changed:      2024-07-16
 source:       IANA
 
 % IANA WHOIS server
@@ -47509,10 +47510,12 @@ phone:        +1-703-925-6999
 fax-no:       +1-703-948-3978
 e-mail:       info@verisign-grs.com
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+nserver:      V0N0.NIC.RWE 2a01:8840:6a:0:0:0:0:18 65.22.108.18
+nserver:      V0N1.NIC.RWE 2a01:8840:6b:0:0:0:0:18 65.22.109.18
+nserver:      V0N2.NIC.RWE 2a01:8840:6c:0:0:0:0:18 65.22.110.18
+nserver:      V0N3.NIC.RWE 161.232.32.18 2a01:8840:108:0:0:0:0:18
+nserver:      V2N0.NIC.RWE 2a01:8840:6d:0:0:0:0:18 65.22.111.18
+nserver:      V2N1.NIC.RWE 161.232.33.18 2a01:8840:109:0:0:0:0:18
 ds-rdata:     3075 8 2 542f19df30f2c69f686e697cfbafd7da2afa039cb9d6620169895888188ac174
 ds-rdata:     23797 8 2 619690e3da5905b5ebf372e40c035832805aa26c0643e0f217556ef62d5d166a
 
@@ -47522,7 +47525,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2015-10-01
-changed:      2024-06-25
+changed:      2024-07-11
 source:       IANA
 
 % IANA WHOIS server
@@ -49455,10 +49458,12 @@ phone:        +1 703 925 6999
 fax-no:       +1 703 948 3978
 e-mail:       info@verisign-grs.com
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+nserver:      V0N0.NIC.SENER 2a01:8840:6a:0:0:0:0:19 65.22.108.19
+nserver:      V0N1.NIC.SENER 2a01:8840:6b:0:0:0:0:19 65.22.109.19
+nserver:      V0N2.NIC.SENER 2a01:8840:6c:0:0:0:0:19 65.22.110.19
+nserver:      V0N3.NIC.SENER 161.232.32.19 2a01:8840:108:0:0:0:0:19
+nserver:      V2N0.NIC.SENER 2a01:8840:6d:0:0:0:0:19 65.22.111.19
+nserver:      V2N1.NIC.SENER 161.232.33.19 2a01:8840:109:0:0:0:0:19
 ds-rdata:     40020 8 2 f580b1e1f989e14eb37da8cd7201254150e4c28f95ca0d1db7822a78c93eaf17
 ds-rdata:     724 8 2 f499bbdb5e9d28391ef6c0d2de9ea020632e6a2d521eebc7a1ae884d693c95b6
 
@@ -49468,7 +49473,7 @@ status:       ACTIVE
 remarks:      Registration information: http://sener.es
 
 created:      2015-04-02
-changed:      2024-06-25
+changed:      2024-07-11
 source:       IANA
 
 % IANA WHOIS server
@@ -50015,50 +50020,49 @@ source:       IANA
 
 domain:       SHIA
 
-organisation: Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.
-address:      Cobancesme Mah. Semt Sanayi Cd.
-address:      Nish Istanbul
-address:      No 44 D 174
-address:      Bahcelievler / Istanbul
-address:      Turkey
+organisation: Emergency Back-End Registry Operator Program - ICANN
+address:      12025 Waterfront Dr., Suite 300
+address:      Los Angeles CA 90094
+address:      United States of America (the)
 
 contact:      administrative
-name:         CEO
-organisation: Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.
-address:      Cobancesme Mah. Semt Sanayi Cd.
-address:      Nish Istanbul
-address:      No 44 D 174
-address:      Bahcelievler / Istanbul
-address:      Turkey
-phone:        +90 530 460 52 31
-fax-no:       +90 212 603 62 04
-e-mail:       iana-admin@agitsys.com
+name:         EBERO Event Director
+organisation: Internet Corporation for Assigned Names and Numbers (ICANN)
+address:      12025 Waterfront Dr., Suite 300
+address:      Los Angeles CA 90094
+address:      United States of America (the)
+phone:        +1 (310) 301-5800
+fax-no:       +1 (310) 823-8649
+e-mail:       eventdirector@icann.org
 
 contact:      technical
-name:         CTO
-organisation: Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.
-address:      Cobancesme Mah. Semt Sanayi Cd.
-address:      Nish Istanbul
-address:      No 44 D 174
-address:      Bahcelievler / Istanbul
-address:      Turkey
-phone:        +90 555 001 66 80
-fax-no:       +90 212 603 62 04
-e-mail:       iana-tech@agitsys.com
+name:         Nominet EBERO Event Manager
+organisation: Nominet
+address:      Minerva House, Edmund Halley Road, Oxford Science Park
+address:      Oxford Oxon OX4 4DQ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 1865 332470
+e-mail:       ebero@nominet.uk
 
-nserver:      A.NS.NIC.SHIA 2620:171:a01:ad:0:0:0:7 72.0.49.7
-nserver:      B.NS.NIC.SHIA 2620:171:d01:dc:0:0:0:7 72.42.113.7
-nserver:      NS1.ANYCASTDNS.CZ 185.38.108.108 2a00:fea0:dead:0:0:0:0:beef
-nserver:      NS2.ANYCASTDNS.CZ 185.28.194.194
+nserver:      DNS1.EMDNS.UK 213.248.217.153 2a01:618:401:0:0:0:0:153
+nserver:      DNS2.EMDNS.UK 103.49.81.153 2401:fd80:401:0:0:0:0:153
+nserver:      DNS3.EMDNS.UK 213.248.221.153 2a01:618:405:0:0:0:0:153
+nserver:      DNS4.EMDNS.UK 2401:fd80:405:0:0:0:0:153 43.230.49.153
+nserver:      DNSA.EMDNS.UK 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.EMDNS.UK 156.154.101.3 2001:502:2eda:0:0:0:0:3
+nserver:      DNSC.EMDNS.UK 156.154.102.3 2610:a1:1009:0:0:0:0:3
+nserver:      DNSD.EMDNS.UK 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     60644 8 2 dd38466778b19a58a550b69e4c5b0acefc7aab903b766a805deab97f282c913e
+ds-rdata:     52972 8 2 0e769d37171fbf3c34ba8e53e42b91907541a7438d9efd4b249f702c97d2ce70
+ds-rdata:     29999 8 2 4335c4460b7dbbbf0ce080c4d91e89a972abb52d0de7d242ac52a3c21d7d505d
 
 whois:        whois.nic.shia
 
 status:       ACTIVE
-remarks:      Registration information: http://nic.shia
+remarks:      Registration information: https://icann.org/ebero
 
 created:      2015-11-25
-changed:      2023-02-28
+changed:      2024-07-16
 source:       IANA
 
 % IANA WHOIS server
@@ -52829,7 +52833,7 @@ nserver:      B.DNS.RIPN.NET 194.85.252.62 2001:678:16:0:194:85:252:62
 nserver:      D.DNS.RIPN.NET 194.190.124.17 2001:678:18:0:194:190:124:17
 nserver:      E.DNS.RIPN.NET 193.232.142.17 2001:678:15:0:193:232:142:17
 nserver:      F.DNS.RIPN.NET 193.232.156.17 2001:678:14:0:193:232:156:17
-ds-rdata:     2074 8 2 9982cacc6de539a854c63d5657960120d4367845cc64be2999013bc28463c9f2
+ds-rdata:     52180 8 2 6c71a8d6b0c8b8c40a853c38e247d53011d2b4662164f0e645b8274ce2cf7c5b
 
 whois:        whois.tcinet.ru
 
@@ -52837,7 +52841,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      1990-09-19
-changed:      2023-09-08
+changed:      2024-07-16
 source:       IANA
 
 % IANA WHOIS server
@@ -54098,50 +54102,49 @@ source:       IANA
 
 domain:       TCI
 
-organisation: Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.
-address:      Cobancesme Mah. Semt Sanayi Cd.
-address:      Nish Istanbul
-address:      No 44 D 174
-address:      Bahcelievler / Istanbul
-address:      Turkey
+organisation: Emergency Back-End Registry Operator Program - ICANN
+address:      12025 Waterfront Dr., Suite 300
+address:      Los Angeles CA 90094
+address:      United States of America (the)
 
 contact:      administrative
-name:         CEO
-organisation: Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.
-address:      Cobancesme Mah. Semt Sanayi Cd.
-address:      Nish Istanbul
-address:      No 44 D 174
-address:      Bahcelievler / Istanbul
-address:      Turkey
-phone:        +90 530 460 52 31
-fax-no:       +90 212 603 62 04
-e-mail:       iana-admin@agitsys.com
+name:         EBERO Event Director
+organisation: Internet Corporation for Assigned Names and Numbers (ICANN)
+address:      12025 Waterfront Dr., Suite 300
+address:      Los Angeles CA 90094
+address:      United States of America (the)
+phone:        +1 (310) 301-5800
+fax-no:       +1 (310) 823-8649
+e-mail:       eventdirector@icann.org
 
 contact:      technical
-name:         CTO
-organisation: Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.
-address:      Cobancesme Mah. Semt Sanayi Cd.
-address:      Nish Istanbul
-address:      No 44 D 174
-address:      Bahcelievler / Istanbul
-address:      Turkey
-phone:        +90 555 001 66 80
-fax-no:       +90 212 603 62 04
-e-mail:       iana-tech@agitsys.com
+name:         Nominet EBERO Event Manager
+organisation: Nominet
+address:      Minerva House, Edmund Halley Road, Oxford Science Park
+address:      Oxford Oxon OX4 4DQ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 1865 332470
+e-mail:       ebero@nominet.uk
 
-nserver:      A.NS.NIC.TCI 2620:171:a01:ad:0:0:0:8 72.0.49.8
-nserver:      B.NS.NIC.TCI 2620:171:d01:dc:0:0:0:8 72.42.113.8
-nserver:      NS1.ANYCASTDNS.CZ 185.38.108.108 2a00:fea0:dead:0:0:0:0:beef
-nserver:      NS2.ANYCASTDNS.CZ 185.28.194.194
+nserver:      DNS1.EMDNS.UK 213.248.217.153 2a01:618:401:0:0:0:0:153
+nserver:      DNS2.EMDNS.UK 103.49.81.153 2401:fd80:401:0:0:0:0:153
+nserver:      DNS3.EMDNS.UK 213.248.221.153 2a01:618:405:0:0:0:0:153
+nserver:      DNS4.EMDNS.UK 2401:fd80:405:0:0:0:0:153 43.230.49.153
+nserver:      DNSA.EMDNS.UK 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.EMDNS.UK 156.154.101.3 2001:502:2eda:0:0:0:0:3
+nserver:      DNSC.EMDNS.UK 156.154.102.3 2610:a1:1009:0:0:0:0:3
+nserver:      DNSD.EMDNS.UK 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     12317 8 2 1d37f5016c69d56f3a3732434a0471fff1fffd580e4a7ce26816bc525095de83
+ds-rdata:     51364 8 2 8528ce5b798dfc0c1e84294addebc0e2cb0f4f5bbb9e0c9ac735ecaf41013bf7
+ds-rdata:     52844 8 2 8c7871967d2f0d9c396af5f498edccbb2bb4f9b29031aeaf3d103343c45c2ea7
 
 whois:        whois.nic.tci
 
 status:       ACTIVE
-remarks:      Registration information: http://nic.tci
+remarks:      Registration information: https://icann.org/ebero
 
 created:      2015-11-25
-changed:      2023-02-28
+changed:      2024-07-16
 source:       IANA
 
 % IANA WHOIS server
@@ -57786,19 +57789,19 @@ source:       IANA
 
 domain:       VANA
 
-organisation: Internet Naming Co.
-address:      23 Lime Tree Bay, West Bay
-address:      Grand Cayman KY1-1505
-address:      Cayman Islands (the)
+organisation: D3 Registry LLC
+address:      304 S Jones Blvd, Unit 3679
+address:      Las Vegas NV 89107
+address:      United States of America (the)
 
 contact:      administrative
-name:         Shayan Rostam, Principal
-organisation: Internet Naming Co.
-address:      23 Lime Tree Bay, West Bay
-address:      Grand Cayman KY1-1505
-address:      Cayman Islands (the)
+name:         President
+organisation: D3 Registry LLC
+address:      304 S Jones Blvd, Unit 3679
+address:      Las Vegas NV 89107
+address:      United States of America (the)
 phone:        +1.424.888.0690
-e-mail:       partners@inaming.co
+e-mail:       registry@d3.email
 
 contact:      technical
 name:         Francisco Obispo, Chief Technology Officer
@@ -57818,10 +57821,10 @@ ds-rdata:     54748 13 2 0b9756a259636eb994a12d49a21d3b6be0ad2e5ccb3462478284f6b
 whois:        whois.nic.vana
 
 status:       ACTIVE
-remarks:      Registration information: https://internetnaming.co
+remarks:      Registration information: https://nic.vana
 
 created:      2015-09-24
-changed:      2024-05-21
+changed:      2024-07-16
 source:       IANA
 
 % IANA WHOIS server
@@ -59955,7 +59958,7 @@ remarks:      Registration information:
 remarks:      https://www.icann.org/resources/pages/ebero-2013-04-02-en
 
 created:      2013-12-12
-changed:      2021-11-11
+changed:      2024-07-12
 source:       IANA
 
 % IANA WHOIS server
@@ -63511,7 +63514,7 @@ nserver:      B.DNS.RIPN.NET 194.85.252.62 2001:678:16:0:194:85:252:62
 nserver:      D.DNS.RIPN.NET 194.190.124.17 2001:678:18:0:194:190:124:17
 nserver:      E.DNS.RIPN.NET 193.232.142.17 2001:678:15:0:193:232:142:17
 nserver:      F.DNS.RIPN.NET 193.232.156.17 2001:678:14:0:193:232:156:17
-ds-rdata:     62719 8 2 78004ba803c2f5f251f3227c072df8c545d30f3a018288142692aa4d20ba3f24
+ds-rdata:     7826 8 2 60026babe0bfa28c5bddccaffaecfee3fce23e8ffcf6b03e5cdca6a620b75a0a
 
 whois:        whois.nic.xn--d1acj3b
 
@@ -63519,7 +63522,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dotdeti.ru
 
 created:      2014-02-13
-changed:      2023-09-12
+changed:      2024-07-15
 source:       IANA
 
 % IANA WHOIS server
@@ -66262,50 +66265,49 @@ source:       IANA
 domain:       همراه
 domain-ace:   XN--MGBT3DHD
 
-organisation: Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.
-address:      Cobancesme Mah. Semt Sanayi Cd.
-address:      Nish Istanbul
-address:      No 44 D 174
-address:      Bahcelievler / Istanbul
-address:      Turkey
+organisation: Emergency Back-End Registry Operator Program - ICANN
+address:      12025 Waterfront Dr., Suite 300
+address:      Los Angeles CA 90094
+address:      United States of America (the)
 
 contact:      administrative
-name:         CEO
-organisation: Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.
-address:      Cobancesme Mah. Semt Sanayi Cd.
-address:      Nish Istanbul
-address:      No 44 D 174
-address:      Bahcelievler / Istanbul
-address:      Turkey
-phone:        +90 530 460 52 31
-fax-no:       +90 212 603 62 04
-e-mail:       iana-admin@agitsys.com
+name:         EBERO Event Director
+organisation: Internet Corporation for Assigned Names and Numbers (ICANN)
+address:      12025 Waterfront Dr., Suite 300
+address:      Los Angeles CA 90094
+address:      United States of America (the)
+phone:        +1 (310) 301-5800
+fax-no:       +1 (310) 823-8649
+e-mail:       eventdirector@icann.org
 
 contact:      technical
-name:         CTO
-organisation: Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.
-address:      Cobancesme Mah. Semt Sanayi Cd.
-address:      Nish Istanbul
-address:      No 44 D 174
-address:      Bahcelievler / Istanbul
-address:      Turkey
-phone:        +90 555 001 66 80
-fax-no:       +90 212 603 62 04
-e-mail:       iana-tech@agitsys.com
+name:         Nominet EBERO Event Manager
+organisation: Nominet
+address:      Minerva House, Edmund Halley Road, Oxford Science Park
+address:      Oxford Oxon OX4 4DQ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 1865 332470
+e-mail:       ebero@nominet.uk
 
-nserver:      A.NS.NIC.XN--MGBT3DHD 2620:171:a01:ad:0:0:0:9 72.0.49.9
-nserver:      B.NS.NIC.XN--MGBT3DHD 2620:171:d01:dc:0:0:0:9 72.42.113.9
-nserver:      NS1.ANYCASTDNS.CZ 185.38.108.108 2a00:fea0:dead:0:0:0:0:beef
-nserver:      NS2.ANYCASTDNS.CZ 185.28.194.194
+nserver:      DNS1.EMDNS.UK 213.248.217.153 2a01:618:401:0:0:0:0:153
+nserver:      DNS2.EMDNS.UK 103.49.81.153 2401:fd80:401:0:0:0:0:153
+nserver:      DNS3.EMDNS.UK 213.248.221.153 2a01:618:405:0:0:0:0:153
+nserver:      DNS4.EMDNS.UK 2401:fd80:405:0:0:0:0:153 43.230.49.153
+nserver:      DNSA.EMDNS.UK 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.EMDNS.UK 156.154.101.3 2001:502:2eda:0:0:0:0:3
+nserver:      DNSC.EMDNS.UK 156.154.102.3 2610:a1:1009:0:0:0:0:3
+nserver:      DNSD.EMDNS.UK 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     11567 8 2 7c846e4d86211c362cecbcc868123aee04f14232306937417f4e8b15148d0c43
+ds-rdata:     38630 8 2 6bcb581d386795131792f97e7e96f22f60a2451c023c65a148522a36256a6097
+ds-rdata:     62006 8 2 ab5034009baabb6b126126beb35c57815683ce80935135f3a6f116ddc6dc0abc
 
 whois:        whois.nic.xn--mgbt3dhd
 
 status:       ACTIVE
-remarks:      Registration information: http://nic.xn--mgbt3dhd
+remarks:      Registration information: https://icann.org/ebero
 
 created:      2015-11-25
-changed:      2023-02-28
+changed:      2024-07-16
 source:       IANA
 
 % IANA WHOIS server
@@ -68821,10 +68823,12 @@ phone:        +1-703-925-6999
 fax-no:       +1-703-948-3978
 e-mail:       info@verisign-grs.com
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+nserver:      V0N0.NIC.YAHOO 2a01:8840:6a:0:0:0:0:26 65.22.108.26
+nserver:      V0N1.NIC.YAHOO 2a01:8840:6b:0:0:0:0:26 65.22.109.26
+nserver:      V0N2.NIC.YAHOO 2a01:8840:6c:0:0:0:0:26 65.22.110.26
+nserver:      V0N3.NIC.YAHOO 161.232.32.26 2a01:8840:108:0:0:0:0:26
+nserver:      V2N0.NIC.YAHOO 2a01:8840:6d:0:0:0:0:26 65.22.111.26
+nserver:      V2N1.NIC.YAHOO 161.232.33.26 2a01:8840:109:0:0:0:0:26
 ds-rdata:     52260 8 2 99da5ed59ca94fc8c28c5c7a4a817e7fc0c52688b115dcf743fb914be65ba447
 ds-rdata:     64675 8 2 674c472960577338b3372085bb0a35e23308226578f018401a20914d4c928ad4
 
@@ -68834,7 +68838,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.yahoo
 
 created:      2016-01-29
-changed:      2024-06-25
+changed:      2024-07-11
 source:       IANA
 
 % IANA WHOIS server
@@ -68973,6 +68977,7 @@ nserver:      SAH1.YE 195.94.0.34 2a02:e280:8:d000:0:0:0:34
 nserver:      SAH2.YE 195.94.0.35 2a02:e280:8:d000:0:0:0:35
 nserver:      TLD1.YE 195.94.10.22 2a02:e280:8:1000:0:0:0:1
 nserver:      TLD2.YE 195.94.13.22 2a02:e280:8:2000:0:0:0:1
+nserver:      TLD3.YE 2a02:2718:8:d3:0:0:0:244 82.114.164.244
 
 whois:        whois.y.net.ye
 
@@ -68980,7 +68985,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      1996-08-19
-changed:      2023-06-28
+changed:      2024-07-15
 source:       IANA
 
 % IANA WHOIS server

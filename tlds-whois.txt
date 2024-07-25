@@ -260,19 +260,21 @@ fax-no:       +1 818 553 7210
 e-mail:       ngtld-abc@cscglobal.com
 
 contact:      technical
-name:         Registry Customer Service
-organisation: Verisign, Inc.
-address:      12061 Bluemont Way
-address:      Reston VA 20190
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
 address:      United States of America (the)
-phone:        +1-703-925-6999
-fax-no:       +1-703-948-3978
-e-mail:       info@verisign-grs.com
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+nserver:      V0N0.NIC.ABC 2a01:8840:66:0:0:0:0:28 65.22.104.28
+nserver:      V0N1.NIC.ABC 2a01:8840:67:0:0:0:0:28 65.22.105.28
+nserver:      V0N2.NIC.ABC 2a01:8840:68:0:0:0:0:28 65.22.106.28
+nserver:      V0N3.NIC.ABC 161.232.30.28 2a01:8840:106:0:0:0:0:28
+nserver:      V2N0.NIC.ABC 2a01:8840:69:0:0:0:0:28 65.22.107.28
+nserver:      V2N1.NIC.ABC 161.232.31.28 2a01:8840:107:0:0:0:0:28
 ds-rdata:     39900 8 2 7abc5a1f64fbbfad550cfe06953aa56a030be7212a77a60813ff633de705dec8
 ds-rdata:     43549 8 2 7a1d01c238b756baa6e99c5add35fb9fc23bf4edaddb98cc42ab0a39f45f8f1b
 
@@ -282,7 +284,7 @@ status:       ACTIVE
 remarks:      Registration information: http://abc.com
 
 created:      2016-07-21
-changed:      2024-06-25
+changed:      2024-07-23
 source:       IANA
 
 % IANA WHOIS server
@@ -1938,7 +1940,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.ally.com
 
 created:      2015-10-22
-changed:      2024-07-10
+changed:      2024-07-18
 source:       IANA
 
 % IANA WHOIS server
@@ -7617,7 +7619,6 @@ e-mail:       pocbostik@afnic.fr
 nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
-ds-rdata:     45431 13 2 16d460de3b5d232225100e179ab80bd20a398618160c5b1c934a39f5e207ed45
 ds-rdata:     18147 13 2 e570bff87af9244279302e8ac77932222143c62ad60d6065b3bf6d691ef141ff
 
 whois:        whois.nic.bostik
@@ -7626,7 +7627,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.bostik.com
 
 created:      2015-11-06
-changed:      2024-07-17
+changed:      2024-07-19
 source:       IANA
 
 % IANA WHOIS server
@@ -25843,7 +25844,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.nic.hn
 
 created:      1993-04-16
-changed:      2022-11-21
+changed:      2024-07-24
 source:       IANA
 
 % IANA WHOIS server
@@ -31800,6 +31801,7 @@ nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
 ds-rdata:     63656 13 2 847b427327bf07fd61b821d3dc537401d3af0371c0771bebcaf2cdcf51aa108a
+ds-rdata:     13478 13 2 bfbd5142e935c01a65a186d56f01124d6832ac3cdc6ede681f50a12ff9c73ead
 
 whois:        whois.nic.lancaster
 
@@ -31807,7 +31809,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.lancaster.fr
 
 created:      2015-06-18
-changed:      2024-03-13
+changed:      2024-07-18
 source:       IANA
 
 % IANA WHOIS server
@@ -32601,14 +32603,14 @@ fax-no:       +45 75338853
 e-mail:       ngtld-lego@cscinfo.com
 
 contact:      technical
-name:         Registry Customer Service
-organisation: Verisign, Inc.
-address:      12061 Bluemont Way
-address:      Reston VA 20190
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
 address:      United States of America (the)
-phone:        +1-703-925-6999
-fax-no:       +1-703-948-3978
-e-mail:       info@verisign-grs.com
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
 
 nserver:      V0N0.NIC.LEGO 2a01:8840:6a:0:0:0:0:14 65.22.108.14
 nserver:      V0N1.NIC.LEGO 2a01:8840:6b:0:0:0:0:14 65.22.109.14
@@ -32625,7 +32627,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2016-03-24
-changed:      2024-07-11
+changed:      2024-07-23
 source:       IANA
 
 % IANA WHOIS server
@@ -36719,7 +36721,6 @@ e-mail:       pocmma@afnic.fr
 nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
-ds-rdata:     59534 13 2 25455417c20c22d815e00232defb2fc78e7b728600c91aadb21f8703ea1c314b
 ds-rdata:     56827 13 2 06df92e8eac85a48042b13dbee897a3f00c48496b6c35d6ab46ef3828f9338cf
 
 whois:        whois.nic.mma
@@ -36728,7 +36729,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.mma.fr
 
 created:      2015-02-27
-changed:      2024-07-17
+changed:      2024-07-23
 source:       IANA
 
 % IANA WHOIS server
@@ -40222,7 +40223,7 @@ nserver:      NP-NS.NPIX.NET.NP 198.32.126.50
 nserver:      NP.CCTLD.AUTHDNS.RIPE.NET 193.0.9.102 2001:67c:e0:0:0:0:0:102
 nserver:      NS4.APNIC.NET 2001:dd8:12:0:0:0:0:53 202.12.31.53
 nserver:      PCH.NNIC.NP 2001:500:14:6011:ad:0:0:1 204.61.216.11
-nserver:      SHIKHAR.MOS.COM.NP 202.52.255.5
+nserver:      SHIKHAR.MOS.COM.NP 27.111.31.5
 
 whois:        
 
@@ -40230,7 +40231,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.mos.com.np
 
 created:      1995-01-25
-changed:      2020-04-23
+changed:      2024-07-19
 source:       IANA
 
 % IANA WHOIS server
@@ -41962,8 +41963,6 @@ nserver:      DNSA.EMDNS.UK 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.EMDNS.UK 156.154.101.3 2001:502:2eda:0:0:0:0:3
 nserver:      DNSC.EMDNS.UK 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.EMDNS.UK 156.154.103.3 2610:a1:1010:0:0:0:0:3
-ds-rdata:     2911 8 2 bd1468967b866d21c106f1a2b92906604380e7787be97ac2855219dde2cd2285
-ds-rdata:     55552 8 2 c84d8d2021692fb2a427dfeb7a89e6bcf042886082f9f8a3c9a1139896bdc7bd
 ds-rdata:     25579 8 2 3267932db504f8ebd2ce521de598c9dcf92096c158dcacb57a96395d4cc5798f
 
 whois:        whois.nic.pars
@@ -41972,7 +41971,7 @@ status:       ACTIVE
 remarks:      Registration information: https://icann.org/ebero
 
 created:      2015-11-25
-changed:      2024-07-16
+changed:      2024-07-19
 source:       IANA
 
 % IANA WHOIS server
@@ -47501,14 +47500,14 @@ fax-no:       +49 201 12 15143
 e-mail:       ngtld-rwe@cscinfo.com
 
 contact:      technical
-name:         Registry Customer Service
-organisation: Verisign, inc.
-address:      12061 Bluemont Way
-address:      Reston VA 20190
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
 address:      United States of America (the)
-phone:        +1-703-925-6999
-fax-no:       +1-703-948-3978
-e-mail:       info@verisign-grs.com
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
 
 nserver:      V0N0.NIC.RWE 2a01:8840:6a:0:0:0:0:18 65.22.108.18
 nserver:      V0N1.NIC.RWE 2a01:8840:6b:0:0:0:0:18 65.22.109.18
@@ -47525,7 +47524,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2015-10-01
-changed:      2024-07-11
+changed:      2024-07-23
 source:       IANA
 
 % IANA WHOIS server
@@ -47616,7 +47615,6 @@ nserver:      M1.DNS.SA 2a02:ce0:1:30:0:0:0:5 86.51.77.213
 nserver:      M2.DNS.SA 2a02:ce0:1:91:0:0:0:5 86.51.28.37
 nserver:      N1.DNS.SA 194.146.106.102 2001:67c:1010:26:0:0:0:53
 nserver:      P1.DNS.SA 2001:500:14:6041:ad:0:0:1 204.61.216.41
-nserver:      S1.DNS.SA 2001:16a0:1:3002:0:0:0:2 37.107.223.170
 nserver:      S2.DNS.SA 2001:16a0:2:3002:0:0:0:2 37.107.255.170
 nserver:      SH1.DNS.SA 213.236.36.92 2a02:d70:64:68:0:0:0:2
 ds-rdata:     65380 8 2 0c3e281d035fd68a9bd2bbfe46348b7e000237385cd3a31c58a88cd652dc8785
@@ -47627,7 +47625,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.net.sa/
 
 created:      1994-05-17
-changed:      2023-11-22
+changed:      2024-07-23
 source:       IANA
 
 % IANA WHOIS server
@@ -49449,14 +49447,14 @@ fax-no:       +34 94 481 8110
 e-mail:       ngtld-sener@cscinfo.com
 
 contact:      technical
-name:         Registry Customer Service
-organisation: Verisign, inc.
-address:      12061 Bluemont Way
-address:      Reston VA 20190
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
 address:      United States of America (the)
-phone:        +1 703 925 6999
-fax-no:       +1 703 948 3978
-e-mail:       info@verisign-grs.com
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
 
 nserver:      V0N0.NIC.SENER 2a01:8840:6a:0:0:0:0:19 65.22.108.19
 nserver:      V0N1.NIC.SENER 2a01:8840:6b:0:0:0:0:19 65.22.109.19
@@ -49473,7 +49471,7 @@ status:       ACTIVE
 remarks:      Registration information: http://sener.es
 
 created:      2015-04-02
-changed:      2024-07-11
+changed:      2024-07-23
 source:       IANA
 
 % IANA WHOIS server
@@ -50052,8 +50050,6 @@ nserver:      DNSA.EMDNS.UK 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.EMDNS.UK 156.154.101.3 2001:502:2eda:0:0:0:0:3
 nserver:      DNSC.EMDNS.UK 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.EMDNS.UK 156.154.103.3 2610:a1:1010:0:0:0:0:3
-ds-rdata:     60644 8 2 dd38466778b19a58a550b69e4c5b0acefc7aab903b766a805deab97f282c913e
-ds-rdata:     52972 8 2 0e769d37171fbf3c34ba8e53e42b91907541a7438d9efd4b249f702c97d2ce70
 ds-rdata:     29999 8 2 4335c4460b7dbbbf0ce080c4d91e89a972abb52d0de7d242ac52a3c21d7d505d
 
 whois:        whois.nic.shia
@@ -50062,7 +50058,7 @@ status:       ACTIVE
 remarks:      Registration information: https://icann.org/ebero
 
 created:      2015-11-25
-changed:      2024-07-16
+changed:      2024-07-19
 source:       IANA
 
 % IANA WHOIS server
@@ -51981,6 +51977,7 @@ e-mail:       furyal.naarden@telesur.sr
 
 nserver:      NS1.NIC.SR 168.195.219.210 2803:ff40:a251:0:168:195:219:2
 nserver:      NS2.NIC.SR 168.195.216.214 2803:ff40:a000:2501:168:195:216:2
+ds-rdata:     46104 13 2 967a6b8f3c9c7fd0f981ea3eef1b8a6fe2c4043fbb1518d171d80e83ce4a84ee
 
 whois:        
 
@@ -51988,7 +51985,7 @@ status:       ACTIVE
 remarks:      Registration information: https://isp.datasur.sr/
 
 created:      1991-09-03
-changed:      2024-06-10
+changed:      2024-07-19
 source:       IANA
 
 % IANA WHOIS server
@@ -53943,7 +53940,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.tattoo/
 
 created:      2013-11-08
-changed:      2024-04-17
+changed:      2024-07-18
 source:       IANA
 
 % IANA WHOIS server
@@ -54134,8 +54131,6 @@ nserver:      DNSA.EMDNS.UK 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.EMDNS.UK 156.154.101.3 2001:502:2eda:0:0:0:0:3
 nserver:      DNSC.EMDNS.UK 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.EMDNS.UK 156.154.103.3 2610:a1:1010:0:0:0:0:3
-ds-rdata:     12317 8 2 1d37f5016c69d56f3a3732434a0471fff1fffd580e4a7ce26816bc525095de83
-ds-rdata:     51364 8 2 8528ce5b798dfc0c1e84294addebc0e2cb0f4f5bbb9e0c9ac735ecaf41013bf7
 ds-rdata:     52844 8 2 8c7871967d2f0d9c396af5f498edccbb2bb4f9b29031aeaf3d103343c45c2ea7
 
 whois:        whois.nic.tci
@@ -54144,7 +54139,7 @@ status:       ACTIVE
 remarks:      Registration information: https://icann.org/ebero
 
 created:      2015-11-25
-changed:      2024-07-16
+changed:      2024-07-19
 source:       IANA
 
 % IANA WHOIS server
@@ -54170,14 +54165,14 @@ phone:        +235 63 31 90 90
 e-mail:       abatcha.moussa@adetic.td
 
 contact:      technical
-name:         Ingenieur Systéme
+name:         Chef de Service Gestion du Noms de Domaines et des Adresses IP
 organisation: ADETIC
 address:      Rue du Colonel Hassan Moursal Kourda
 address:      P.O. Box 240
 address:      N'Djamena
 address:      Chad
-phone:        +235 66 23 16 68
-e-mail:       mahamat.hamid@adetic.td
+phone:        +235 66 86 55 86
+e-mail:       batran.mahamat@adetic.td
 
 nserver:      ANYCASTDNS1.NIC.TD 185.38.108.108 2a00:fea0:dead:0:0:0:0:beef
 nserver:      ANYCASTDNS2.NIC.TD 185.28.194.194
@@ -54190,7 +54185,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.td
 
 created:      1997-11-03
-changed:      2023-01-18
+changed:      2024-07-18
 source:       IANA
 
 % IANA WHOIS server
@@ -55974,6 +55969,7 @@ nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
 ds-rdata:     60785 13 2 eb38c07816fdf6cf8277071f558ac0c7c787088263271b55eee4e59981414d93
+ds-rdata:     2568 13 2 9ac9895253012c60a05e701fe237f2c356ba4a446f5f1669557fc11c7e029549
 
 whois:        whois.nic.total
 
@@ -55981,7 +55977,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.total
 
 created:      2016-02-05
-changed:      2024-03-11
+changed:      2024-07-18
 source:       IANA
 
 % IANA WHOIS server
@@ -62108,6 +62104,7 @@ nserver:      NS3.CONAC.CN 111.235.163.1 2401:b400:9:0:0:0:0:1
 nserver:      NS4.CONAC.CN 111.235.164.1
 nserver:      NS5.CONAC.CN 111.235.165.1
 ds-rdata:     48226 8 2 a16754c480e58c0d17126b3baf93f32bac39a916cf9d1f6f3a1f5c33687be80f
+ds-rdata:     21055 8 2 0d6f3aa00bb63f959e87931fea3f5d6e18a7c0f9f1408bfdf34113d88b191d37
 
 whois:        whois.conac.cn
 
@@ -62115,7 +62112,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.conac.cn
 
 created:      2013-12-12
-changed:      2019-08-27
+changed:      2024-07-18
 source:       IANA
 
 % IANA WHOIS server
@@ -66102,7 +66099,7 @@ nserver:      P1.DNS.SA 2001:500:14:6041:ad:0:0:1 204.61.216.41
 nserver:      S1.DNS.SA 2001:16a0:1:3002:0:0:0:2 37.107.223.170
 nserver:      S2.DNS.SA 2001:16a0:2:3002:0:0:0:2 37.107.255.170
 nserver:      SH1.DNS.SA 213.236.36.92 2a02:d70:64:68:0:0:0:2
-ds-rdata:     10444 8 2 ade9d322eace5b4843bec6973fccc5862bf52238076c973adbd7f166543eb298
+ds-rdata:     51067 8 2 71a90d5298b157332cf6dc7bc2105982054a8d5f5c74c67debbbee3afbe114d3
 
 whois:        whois.nic.net.sa
 
@@ -66110,7 +66107,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.net.sa/
 
 created:      2010-05-05
-changed:      2023-08-31
+changed:      2024-07-18
 source:       IANA
 
 % IANA WHOIS server
@@ -66297,8 +66294,6 @@ nserver:      DNSA.EMDNS.UK 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.EMDNS.UK 156.154.101.3 2001:502:2eda:0:0:0:0:3
 nserver:      DNSC.EMDNS.UK 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.EMDNS.UK 156.154.103.3 2610:a1:1010:0:0:0:0:3
-ds-rdata:     11567 8 2 7c846e4d86211c362cecbcc868123aee04f14232306937417f4e8b15148d0c43
-ds-rdata:     38630 8 2 6bcb581d386795131792f97e7e96f22f60a2451c023c65a148522a36256a6097
 ds-rdata:     62006 8 2 ab5034009baabb6b126126beb35c57815683ce80935135f3a6f116ddc6dc0abc
 
 whois:        whois.nic.xn--mgbt3dhd
@@ -66307,7 +66302,7 @@ status:       ACTIVE
 remarks:      Registration information: https://icann.org/ebero
 
 created:      2015-11-25
-changed:      2024-07-16
+changed:      2024-07-19
 source:       IANA
 
 % IANA WHOIS server
@@ -68641,6 +68636,7 @@ nserver:      NS3.CONAC.CN 111.235.163.1 2401:b400:9:0:0:0:0:1
 nserver:      NS4.CONAC.CN 111.235.164.1
 nserver:      NS5.CONAC.CN 111.235.165.1
 ds-rdata:     51421 8 2 9d673623e84d7e10b2aa5b376a3f617665f8b38ef442e8a7e86f0f18161c7801
+ds-rdata:     8245 8 2 ee6f394bd32d4bb28d43d2f2172121c90941e133d5b5bdbdcb72f86765bb95eb
 
 whois:        whois.conac.cn
 
@@ -68648,7 +68644,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.conac.cn
 
 created:      2013-12-12
-changed:      2019-08-27
+changed:      2024-07-18
 source:       IANA
 
 % IANA WHOIS server
@@ -68814,14 +68810,14 @@ phone:        +1 212 206 4400
 e-mail:       ngtld-oath@cscglobal.com
 
 contact:      technical
-name:         Registry Customer Service
-organisation: Verisign, Inc.
-address:      12061 Bluemont Way
-address:      Reston VA 20190
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
 address:      United States of America (the)
-phone:        +1-703-925-6999
-fax-no:       +1-703-948-3978
-e-mail:       info@verisign-grs.com
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
 
 nserver:      V0N0.NIC.YAHOO 2a01:8840:6a:0:0:0:0:26 65.22.108.26
 nserver:      V0N1.NIC.YAHOO 2a01:8840:6b:0:0:0:0:26 65.22.109.26
@@ -68838,7 +68834,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.yahoo
 
 created:      2016-01-29
-changed:      2024-07-11
+changed:      2024-07-23
 source:       IANA
 
 % IANA WHOIS server
@@ -68971,9 +68967,7 @@ phone:        +967 771715858
 fax-no:       +967 1 7521403
 e-mail:       m.a.thabet@teleyemen.com.ye
 
-nserver:      NS1.YEMEN.NET.YE 2a02:2718:4:0:0:0:0:33 65.162.184.33
 nserver:      NS2.YEMEN.NET.YE 2a02:2718:4:0:0:0:0:34 65.162.184.34
-nserver:      SAH1.YE 195.94.0.34 2a02:e280:8:d000:0:0:0:34
 nserver:      SAH2.YE 195.94.0.35 2a02:e280:8:d000:0:0:0:35
 nserver:      TLD1.YE 195.94.10.22 2a02:e280:8:1000:0:0:0:1
 nserver:      TLD2.YE 195.94.13.22 2a02:e280:8:2000:0:0:0:1
@@ -68985,7 +68979,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      1996-08-19
-changed:      2024-07-15
+changed:      2024-07-22
 source:       IANA
 
 % IANA WHOIS server

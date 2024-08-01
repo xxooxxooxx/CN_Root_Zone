@@ -76,10 +76,12 @@ phone:        1 703 925 6999
 fax-no:       1 703 948 3978
 e-mail:       info@verisign-grs.com
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+nserver:      A.NIC.AARP 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.AARP 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.AARP 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      X.NIC.AARP 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.AARP 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.AARP 156.154.174.82 2610:a1:1076:0:0:0:1:82
 ds-rdata:     5751 8 2 7e8a14ab8f85009b9f19859815fa695954233fd9daa6ab359044d12621a77e9f
 ds-rdata:     26254 8 2 bff5bd7c3f7a468cdcc7caf66e978a5d9b5211f39241039a5218b82aa62fb6c6
 
@@ -89,7 +91,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2015-10-22
-changed:      2024-07-08
+changed:      2024-07-30
 source:       IANA
 
 % IANA WHOIS server
@@ -275,7 +277,6 @@ nserver:      V0N2.NIC.ABC 2a01:8840:68:0:0:0:0:28 65.22.106.28
 nserver:      V0N3.NIC.ABC 161.232.30.28 2a01:8840:106:0:0:0:0:28
 nserver:      V2N0.NIC.ABC 2a01:8840:69:0:0:0:0:28 65.22.107.28
 nserver:      V2N1.NIC.ABC 161.232.31.28 2a01:8840:107:0:0:0:0:28
-ds-rdata:     39900 8 2 7abc5a1f64fbbfad550cfe06953aa56a030be7212a77a60813ff633de705dec8
 ds-rdata:     43549 8 2 7a1d01c238b756baa6e99c5add35fb9fc23bf4edaddb98cc42ab0a39f45f8f1b
 
 whois:        whois.nic.abc
@@ -284,7 +285,7 @@ status:       ACTIVE
 remarks:      Registration information: http://abc.com
 
 created:      2016-07-21
-changed:      2024-07-23
+changed:      2024-07-25
 source:       IANA
 
 % IANA WHOIS server
@@ -2211,10 +2212,12 @@ phone:        +1-703-925-6999
 fax-no:       +1-703-948-3978
 e-mail:       info@verisign-grs.com
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+nserver:      A.NIC.AMERICANFAMILY 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.AMERICANFAMILY 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.AMERICANFAMILY 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      X.NIC.AMERICANFAMILY 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.AMERICANFAMILY 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.AMERICANFAMILY 156.154.174.82 2610:a1:1076:0:0:0:1:82
 ds-rdata:     61398 8 2 f6890de22c9b4261c9fcfac53fe0849faa9b573ee95e027e070aba270cd966af
 ds-rdata:     16975 8 2 50d98dc6d7a2bc4ce8121a409ef96e22ea6ff8b0334f0629151093ac247bd80f
 
@@ -2224,7 +2227,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2016-07-14
-changed:      2024-07-08
+changed:      2024-07-30
 source:       IANA
 
 % IANA WHOIS server
@@ -2307,10 +2310,12 @@ phone:        +1-703-925-6999
 fax-no:       +1-703-948-3978
 e-mail:       info@verisign-grs.com
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+nserver:      A.NIC.AMFAM 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.AMFAM 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.AMFAM 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      X.NIC.AMFAM 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.AMFAM 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.AMFAM 156.154.174.82 2610:a1:1076:0:0:0:1:82
 ds-rdata:     4101 8 2 d2c0246802aa5b615cfc8b700a5245adfca49477b37f870499a44ab272989a7d
 ds-rdata:     56680 8 2 18afbe180bf3ddde328e5f7e0d2bb7869db47ab073a3d4f29a7be3e65bdca003
 
@@ -2320,7 +2325,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2016-07-14
-changed:      2024-07-08
+changed:      2024-07-30
 source:       IANA
 
 % IANA WHOIS server
@@ -30180,6 +30185,7 @@ nserver:      MZIZI.KENIC.OR.KE 196.1.4.130 196.1.4.3 196.13.202.53 198.32.67.9 
 nserver:      NS-KE.AFRINIC.NET 196.216.168.22 2001:43f8:120:0:0:0:0:22
 nserver:      NS.ANYCAST.KENIC.OR.KE 2001:500:14:6007:ad:0:0:1 204.61.216.7
 ds-rdata:     28886 8 2 19406c149df3db23a40a55194b87c7d78c9223427d4602b78b117ef20f072afd
+ds-rdata:     17597 8 2 4fef0bc48f3d29fb79eea0df695c2e0a3f768fe1c66133c8363909ac972e65d1
 
 whois:        whois.kenic.or.ke
 
@@ -30187,7 +30193,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.kenic.or.ke
 
 created:      1993-04-29
-changed:      2024-03-11
+changed:      2024-07-29
 source:       IANA
 
 % IANA WHOIS server
@@ -32618,7 +32624,6 @@ nserver:      V0N2.NIC.LEGO 2a01:8840:6c:0:0:0:0:14 65.22.110.14
 nserver:      V0N3.NIC.LEGO 161.232.32.14 2a01:8840:108:0:0:0:0:14
 nserver:      V2N0.NIC.LEGO 2a01:8840:6d:0:0:0:0:14 65.22.111.14
 nserver:      V2N1.NIC.LEGO 161.232.33.14 2a01:8840:109:0:0:0:0:14
-ds-rdata:     28536 8 2 fdcdbd92d8a27f3a19ba30ef37e04ff21188973ee8648975e5b9a77db48478d6
 ds-rdata:     5752 8 2 af9076e3b4365d770b2827a4a9f6ea142d12af52887d9ea685e34aa0acdeea40
 
 whois:        whois.nic.lego
@@ -32627,7 +32632,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2016-03-24
-changed:      2024-07-23
+changed:      2024-07-25
 source:       IANA
 
 % IANA WHOIS server
@@ -38093,7 +38098,10 @@ nserver:      A.NIC.MUSIC 194.169.218.142 2001:67c:13cc:0:0:0:1:142
 nserver:      B.NIC.MUSIC 185.24.64.142 2a04:2b00:13cc:0:0:0:1:142
 nserver:      C.NIC.MUSIC 212.18.248.142 2a04:2b00:13ee:0:0:0:0:142
 nserver:      D.NIC.MUSIC 212.18.249.142 2a04:2b00:13ff:0:0:0:0:142
-ds-rdata:     60004 8 2 f4025f7b5c848808861bd35868bae0cfcf7a0fe3aa1f79bb222093687462f3fb
+nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
+nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
+nserver:      NS01.TRS-DNS.NET 64.96.2.1
+nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
 ds-rdata:     11216 8 2 d45430b83157049bebd9590cf68625c5161b1902e6c0a708c34c6c71461d1f6f
 
 whois:        whois.nic.music
@@ -38102,7 +38110,7 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.music/
 
 created:      2021-10-14
-changed:      2024-06-21
+changed:      2024-07-26
 source:       IANA
 
 % IANA WHOIS server
@@ -40561,6 +40569,7 @@ nserver:      NS6.DNS.NET.NZ 185.159.198.130 2620:10a:80ab:0:0:0:0:130
 nserver:      NS7.DNS.NET.NZ 194.146.106.54 2001:67c:1010:13:0:0:0:53
 ds-rdata:     49157 8 2 44628e9bf710b40d5a5b19087a119eaf2c0b5ced7e7ba4268f4fc35bef14b1c0
 ds-rdata:     63529 8 2 65c9663eacc1ad314058a5a7b127d409d144bba9a58ec0b6a7f4f028574df47b
+ds-rdata:     934 8 2 9d58f1627c135043f2cb12df20545c53f02f1bb78e7ed562c802084dfb672e2e
 
 whois:        whois.irs.net.nz
 
@@ -40568,7 +40577,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dnc.org.nz/
 
 created:      1987-01-19
-changed:      2024-05-02
+changed:      2024-07-30
 source:       IANA
 
 % IANA WHOIS server
@@ -47515,7 +47524,6 @@ nserver:      V0N2.NIC.RWE 2a01:8840:6c:0:0:0:0:18 65.22.110.18
 nserver:      V0N3.NIC.RWE 161.232.32.18 2a01:8840:108:0:0:0:0:18
 nserver:      V2N0.NIC.RWE 2a01:8840:6d:0:0:0:0:18 65.22.111.18
 nserver:      V2N1.NIC.RWE 161.232.33.18 2a01:8840:109:0:0:0:0:18
-ds-rdata:     3075 8 2 542f19df30f2c69f686e697cfbafd7da2afa039cb9d6620169895888188ac174
 ds-rdata:     23797 8 2 619690e3da5905b5ebf372e40c035832805aa26c0643e0f217556ef62d5d166a
 
 whois:        whois.nic.rwe
@@ -47524,7 +47532,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2015-10-01
-changed:      2024-07-23
+changed:      2024-07-25
 source:       IANA
 
 % IANA WHOIS server
@@ -47617,7 +47625,7 @@ nserver:      N1.DNS.SA 194.146.106.102 2001:67c:1010:26:0:0:0:53
 nserver:      P1.DNS.SA 2001:500:14:6041:ad:0:0:1 204.61.216.41
 nserver:      S2.DNS.SA 2001:16a0:2:3002:0:0:0:2 37.107.255.170
 nserver:      SH1.DNS.SA 213.236.36.92 2a02:d70:64:68:0:0:0:2
-ds-rdata:     65380 8 2 0c3e281d035fd68a9bd2bbfe46348b7e000237385cd3a31c58a88cd652dc8785
+ds-rdata:     62932 8 2 2e80b1231d370f4933a26f19487946eaca1db9d41a53831c2a9e73368bbbaab5
 
 whois:        whois.nic.net.sa
 
@@ -47625,7 +47633,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.net.sa/
 
 created:      1994-05-17
-changed:      2024-07-23
+changed:      2024-07-29
 source:       IANA
 
 % IANA WHOIS server
@@ -49462,16 +49470,15 @@ nserver:      V0N2.NIC.SENER 2a01:8840:6c:0:0:0:0:19 65.22.110.19
 nserver:      V0N3.NIC.SENER 161.232.32.19 2a01:8840:108:0:0:0:0:19
 nserver:      V2N0.NIC.SENER 2a01:8840:6d:0:0:0:0:19 65.22.111.19
 nserver:      V2N1.NIC.SENER 161.232.33.19 2a01:8840:109:0:0:0:0:19
-ds-rdata:     40020 8 2 f580b1e1f989e14eb37da8cd7201254150e4c28f95ca0d1db7822a78c93eaf17
 ds-rdata:     724 8 2 f499bbdb5e9d28391ef6c0d2de9ea020632e6a2d521eebc7a1ae884d693c95b6
 
-whois:        
+whois:        whois.nic.rwe
 
 status:       ACTIVE
 remarks:      Registration information: http://sener.es
 
 created:      2015-04-02
-changed:      2024-07-23
+changed:      2024-07-25
 source:       IANA
 
 % IANA WHOIS server
@@ -51217,6 +51224,7 @@ nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
 ds-rdata:     42021 13 2 76868912d2c9ac062cc7b403ad3f32daffeb37cf4c220bf74e196fb75f7c861c
+ds-rdata:     55518 13 2 6fffe7594578aba56bebcb0b29c9d0ef8799597872eff2a353eb30ddab2bc47c
 
 whois:        whois.nic.sncf
 
@@ -51224,7 +51232,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.sncf.com
 
 created:      2015-05-08
-changed:      2024-04-16
+changed:      2024-07-31
 source:       IANA
 
 % IANA WHOIS server
@@ -51498,7 +51506,6 @@ nserver:      F.ZDNSCLOUD.COM 114.67.16.204
 nserver:      G.ZDNSCLOUD.COM 42.62.2.16
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
-ds-rdata:     25066 8 2 ce87e0735a424d4601fdb8d7691ff1b916c54c6ce367a9a66cce7f88ec8a9e97
 ds-rdata:     61396 8 2 44f80a22b60d8c7a4e02d5c1b57af36da11d0cefe4320e588e20dcd4b2a80f09
 
 whois:        
@@ -51507,7 +51514,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2014-02-27
-changed:      2024-02-29
+changed:      2024-07-25
 source:       IANA
 
 % IANA WHOIS server
@@ -66096,7 +66103,6 @@ nserver:      M1.DNS.SA 2a02:ce0:1:30:0:0:0:5 86.51.77.213
 nserver:      M2.DNS.SA 2a02:ce0:1:91:0:0:0:5 86.51.28.37
 nserver:      N1.DNS.SA 194.146.106.102 2001:67c:1010:26:0:0:0:53
 nserver:      P1.DNS.SA 2001:500:14:6041:ad:0:0:1 204.61.216.41
-nserver:      S1.DNS.SA 2001:16a0:1:3002:0:0:0:2 37.107.223.170
 nserver:      S2.DNS.SA 2001:16a0:2:3002:0:0:0:2 37.107.255.170
 nserver:      SH1.DNS.SA 213.236.36.92 2a02:d70:64:68:0:0:0:2
 ds-rdata:     51067 8 2 71a90d5298b157332cf6dc7bc2105982054a8d5f5c74c67debbbee3afbe114d3
@@ -66107,7 +66113,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.net.sa/
 
 created:      2010-05-05
-changed:      2024-07-18
+changed:      2024-07-29
 source:       IANA
 
 % IANA WHOIS server
@@ -68825,16 +68831,15 @@ nserver:      V0N2.NIC.YAHOO 2a01:8840:6c:0:0:0:0:26 65.22.110.26
 nserver:      V0N3.NIC.YAHOO 161.232.32.26 2a01:8840:108:0:0:0:0:26
 nserver:      V2N0.NIC.YAHOO 2a01:8840:6d:0:0:0:0:26 65.22.111.26
 nserver:      V2N1.NIC.YAHOO 161.232.33.26 2a01:8840:109:0:0:0:0:26
-ds-rdata:     52260 8 2 99da5ed59ca94fc8c28c5c7a4a817e7fc0c52688b115dcf743fb914be65ba447
 ds-rdata:     64675 8 2 674c472960577338b3372085bb0a35e23308226578f018401a20914d4c928ad4
 
-whois:        
+whois:        whois.nic.yahoo
 
 status:       ACTIVE
 remarks:      Registration information: http://nic.yahoo
 
 created:      2016-01-29
-changed:      2024-07-23
+changed:      2024-07-25
 source:       IANA
 
 % IANA WHOIS server

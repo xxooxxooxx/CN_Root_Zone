@@ -3704,6 +3704,7 @@ nserver:      R.AU 2a01:8840:bf:0:0:0:0:1 65.22.197.1
 nserver:      S.AU 2a01:8840:c0:0:0:0:0:1 65.22.198.1
 nserver:      T.AU 2a01:8840:c1:0:0:0:0:1 65.22.199.1
 ds-rdata:     51895 8 2 6c7d509bd4df32af255ff847152b7b00316ac0ba44b853b3c9f9c7119aaa599c
+ds-rdata:     1775 8 2 64dfdddd2c68aa5cc67e58cd88f1fbd7804f911aa3d3314cb59539763a0af89f
 
 whois:        whois.auda.org.au
 
@@ -3712,7 +3713,7 @@ remarks:      Registration information:
 remarks:      https://www.auda.org.au/domains/au-domains/
 
 created:      1986-03-05
-changed:      2024-03-21
+changed:      2024-08-08
 source:       IANA
 
 % IANA WHOIS server
@@ -9340,7 +9341,7 @@ address:      1680 Capital One Drive
 address:      McLean VA 22102
 address:      United States of America (the)
 phone:        +1 302 636 5400
-e-mail:       ngtld-capitalone@cscglobal.com
+e-mail:       capitalonegtld@gcd.com
 
 contact:      technical
 name:         Registry Customer Service
@@ -9364,7 +9365,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.capitalone.com
 
 created:      2016-08-04
-changed:      2020-10-01
+changed:      2024-08-09
 source:       IANA
 
 % IANA WHOIS server
@@ -14179,19 +14180,17 @@ address:      2109 Aglantzia, Nicosia
 address:      Nicosia
 address:      Cyprus
 phone:        +357 2289 4445
-fax-no:       +357 2289 5520
 e-mail:       christos@ucy.ac.cy
 
 contact:      technical
-name:         Panayiotou Fotia
+name:         Savvas Constantinou
 organisation: University of Cyprus
 address:      1 Panepistimiou Avenue
 address:      2109 Aglantzia, Nicosia
 address:      Nicosia
 address:      Cyprus
 phone:        +357 22 892165
-fax-no:       +357 22 895077
-e-mail:       panayiotou.fotia@ucy.ac.cy
+e-mail:       constantinou.j.savvas@ucy.ac.cy
 
 nserver:      CY-NS.ANYCAST.PCH.NET 2001:500:14:6044:ad:0:0:1 204.61.216.44
 nserver:      CYNIC4.DNS.CY 194.42.29.16
@@ -14207,7 +14206,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.cy
 
 created:      1994-07-26
-changed:      2023-02-28
+changed:      2024-08-13
 source:       IANA
 
 % IANA WHOIS server

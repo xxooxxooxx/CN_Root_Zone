@@ -38098,6 +38098,7 @@ nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
 nserver:      NS01.TRS-DNS.NET 64.96.2.1
 nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
 ds-rdata:     11216 8 2 d45430b83157049bebd9590cf68625c5161b1902e6c0a708c34c6c71461d1f6f
+ds-rdata:     8489 8 2 a9a8a4740c96dc2bf6c31baf38dc0c7f50862bfeed32db9df7e3956bf552ad10
 
 whois:        whois.nic.music
 
@@ -38105,7 +38106,7 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.music/
 
 created:      2021-10-14
-changed:      2024-08-07
+changed:      2024-08-17
 source:       IANA
 
 % IANA WHOIS server
@@ -40136,7 +40137,7 @@ status:       ACTIVE
 remarks:      Registration information: https://icann.org/ebero
 
 created:      2015-11-25
-changed:      2024-07-11
+changed:      2024-08-19
 source:       IANA
 
 % IANA WHOIS server
@@ -55538,7 +55539,7 @@ address:      Tunis 1002
 address:      Tunisia
 
 contact:      administrative
-name:         Mrs WAFA DAHMANI
+name:         Network Information Center Departement - NIC Admin
 organisation: Agence Tunisienne d'Internet
 address:      13 Rue Jugurtha Mutuelle-ville
 address:      Tunis 1002
@@ -55571,7 +55572,7 @@ status:       ACTIVE
 remarks:      Registration information: http://whois.ati.tn
 
 created:      1991-05-17
-changed:      2023-12-19
+changed:      2024-08-16
 source:       IANA
 
 % IANA WHOIS server

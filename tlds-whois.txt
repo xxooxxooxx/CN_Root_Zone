@@ -67,14 +67,14 @@ fax-no:       202 223 9256
 e-mail:       aarpregistry@fairwindspartners.com
 
 contact:      technical
-name:         Bonnie Bryant
-organisation: Verisign, Inc.
-address:      12061 Bluemont Way
-address:      Reston VA 20190
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
-phone:        1 703 925 6999
-fax-no:       1 703 948 3978
-e-mail:       info@verisign-grs.com
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
+e-mail:       iana@registry.godaddy
 
 nserver:      A.NIC.AARP 2001:dcd:1:0:0:0:0:9 37.209.192.9
 nserver:      B.NIC.AARP 2001:dcd:2:0:0:0:0:9 37.209.194.9
@@ -82,7 +82,6 @@ nserver:      C.NIC.AARP 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      X.NIC.AARP 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.AARP 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.AARP 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     5751 8 2 7e8a14ab8f85009b9f19859815fa695954233fd9daa6ab359044d12621a77e9f
 ds-rdata:     26254 8 2 bff5bd7c3f7a468cdcc7caf66e978a5d9b5211f39241039a5218b82aa62fb6c6
 
 whois:        whois.nic.aarp
@@ -91,7 +90,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2015-10-22
-changed:      2024-07-30
+changed:      2024-08-23
 source:       IANA
 
 % IANA WHOIS server
@@ -2203,14 +2202,14 @@ fax-no:       +1 202 223 9256
 e-mail:       amfamregistries@fairwindspartners.com
 
 contact:      technical
-name:         Registry Customer Service
-organisation: Verisign, Inc.
-address:      12061 Bluemont Way
-address:      Reston VA 20190
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
-phone:        +1-703-925-6999
-fax-no:       +1-703-948-3978
-e-mail:       info@verisign-grs.com
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
+e-mail:       iana@registry.godaddy
 
 nserver:      A.NIC.AMERICANFAMILY 2001:dcd:1:0:0:0:0:9 37.209.192.9
 nserver:      B.NIC.AMERICANFAMILY 2001:dcd:2:0:0:0:0:9 37.209.194.9
@@ -2218,7 +2217,6 @@ nserver:      C.NIC.AMERICANFAMILY 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      X.NIC.AMERICANFAMILY 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.AMERICANFAMILY 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.AMERICANFAMILY 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     61398 8 2 f6890de22c9b4261c9fcfac53fe0849faa9b573ee95e027e070aba270cd966af
 ds-rdata:     16975 8 2 50d98dc6d7a2bc4ce8121a409ef96e22ea6ff8b0334f0629151093ac247bd80f
 
 whois:        whois.nic.americanfamily
@@ -2227,7 +2225,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2016-07-14
-changed:      2024-07-30
+changed:      2024-08-23
 source:       IANA
 
 % IANA WHOIS server
@@ -2301,14 +2299,14 @@ fax-no:       +1 202 223 9256
 e-mail:       amfamregistries@fairwindspartners.com
 
 contact:      technical
-name:         Registry Customer Service
-organisation: Verisign, Inc.
-address:      12061 Bluemont Way
-address:      Reston VA 20190
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
-phone:        +1-703-925-6999
-fax-no:       +1-703-948-3978
-e-mail:       info@verisign-grs.com
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
+e-mail:       iana@registry.godaddy
 
 nserver:      A.NIC.AMFAM 2001:dcd:1:0:0:0:0:9 37.209.192.9
 nserver:      B.NIC.AMFAM 2001:dcd:2:0:0:0:0:9 37.209.194.9
@@ -2316,7 +2314,6 @@ nserver:      C.NIC.AMFAM 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      X.NIC.AMFAM 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.AMFAM 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.AMFAM 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     4101 8 2 d2c0246802aa5b615cfc8b700a5245adfca49477b37f870499a44ab272989a7d
 ds-rdata:     56680 8 2 18afbe180bf3ddde328e5f7e0d2bb7869db47ab073a3d4f29a7be3e65bdca003
 
 whois:        whois.nic.amfam
@@ -2325,7 +2322,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2016-07-14
-changed:      2024-07-30
+changed:      2024-08-23
 source:       IANA
 
 % IANA WHOIS server
@@ -2912,19 +2909,21 @@ fax-no:       +33 140541064
 e-mail:       naubin@universalflower.com
 
 contact:      technical
-name:         TLD Technical Contact
-organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
-address:      7, avenue du 8 mai 1945
-address:      Guyancourt 78280
-address:      France
-phone:        +33 1 39 30 83 00
-fax-no:       +33 1 39 30 83 01
-e-mail:       pocaquarelle@afnic.fr
+name:         Head of Registry Engineering
+organisation: CentralNic
+address:      Saddlers House, 4th Floor, 44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44.2033880600
+fax-no:       +44.2033880601
+e-mail:       tld.ops@centralnic.com
 
-nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
-nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
-nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
+nserver:      A.NIC.AQUARELLE 194.169.218.160 2001:67c:13cc:0:0:0:1:160
+nserver:      B.NIC.AQUARELLE 185.24.64.160 2a04:2b00:13cc:0:0:0:1:160
+nserver:      C.NIC.AQUARELLE 212.18.248.160 2a04:2b00:13ee:0:0:0:0:160
+nserver:      D.NIC.AQUARELLE 212.18.249.160 2a04:2b00:13ff:0:0:0:0:160
 ds-rdata:     22061 13 2 65a423ec214071521668ed047d2e74ba781e6495e0252cb8e08a7a633a89297d
+ds-rdata:     23208 13 2 3ce81b2d9619bd2e5ba77ba9005e79c77728f75983b7ef37d1944c0746ad4310
 
 whois:        whois.nic.aquarelle
 
@@ -2932,7 +2931,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.aquarelle.com
 
 created:      2014-11-06
-changed:      2024-04-24
+changed:      2024-08-23
 source:       IANA
 
 % IANA WHOIS server
@@ -4533,8 +4532,8 @@ nserver:      A.ZDNSCLOUD.COM 203.99.24.1
 nserver:      B.ZDNSCLOUD.COM 203.99.25.1
 nserver:      C.ZDNSCLOUD.COM 203.99.26.1
 nserver:      D.ZDNSCLOUD.COM 203.99.27.1
-nserver:      F.ZDNSCLOUD.COM 114.67.16.204
-nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      F.ZDNSCLOUD.COM 116.169.54.111
+nserver:      G.ZDNSCLOUD.COM 223.72.199.37
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     63817 8 2 13605ebd9736b66b1eb3b2db5865ca66b5efd2be720087fe4441039f3aa4cf3d
@@ -11476,8 +11475,8 @@ nserver:      A.ZDNSCLOUD.COM 203.99.24.1
 nserver:      B.ZDNSCLOUD.COM 203.99.25.1
 nserver:      C.ZDNSCLOUD.COM 203.99.26.1
 nserver:      D.ZDNSCLOUD.COM 203.99.27.1
-nserver:      F.ZDNSCLOUD.COM 114.67.16.204
-nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      F.ZDNSCLOUD.COM 116.169.54.111
+nserver:      G.ZDNSCLOUD.COM 223.72.199.37
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     12331 8 2 cdbfc9f67e7f97e1759bf1bcaa26c853bc5dde881551e1fa4a633e8bd6b8c9bd
@@ -16118,7 +16117,7 @@ nserver:      C.NIC.DK 185.159.199.45 2620:10a:80ac:0:0:0:0:45
 nserver:      H.NIC.DK 2a00:1b18:1:2:0:0:0:53 46.30.126.214
 nserver:      L.NIC.DK 130.226.213.138 2001:878:0:e000:82:e2:d5:8a
 nserver:      P.NIC.DK 194.0.47.42 2001:678:78:42:ad:0:0:53
-nserver:      S.NIC.DK 193.176.144.15 2a00:d78:0:102:193:176:144:15
+nserver:      S.NIC.DK 194.0.28.7 2001:678:2c:0:194:0:28:7
 ds-rdata:     2181 13 2 9e707b8c9a8ae4893f6ddf545957f9809fe8ba4747bf705263601466aa10051d
 
 whois:        whois.punktum.dk
@@ -16127,7 +16126,7 @@ status:       ACTIVE
 remarks:      Registration information: https://punktum.dk/
 
 created:      1987-07-14
-changed:      2024-06-20
+changed:      2024-08-26
 source:       IANA
 
 % IANA WHOIS server
@@ -27084,8 +27083,8 @@ nserver:      A.ZDNSCLOUD.COM 203.99.24.1
 nserver:      B.ZDNSCLOUD.COM 203.99.25.1
 nserver:      C.ZDNSCLOUD.COM 203.99.26.1
 nserver:      D.ZDNSCLOUD.COM 203.99.27.1
-nserver:      F.ZDNSCLOUD.COM 114.67.16.204
-nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      F.ZDNSCLOUD.COM 116.169.54.111
+nserver:      G.ZDNSCLOUD.COM 223.72.199.37
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     40582 8 2 7b808042c4c053d9af8f39b7e784a66c00ce1d9eef0bc1dc6e5d59a4451da05a
@@ -39563,7 +39562,7 @@ nserver:      NS.IDEAY.NET.NI 186.1.31.8
 nserver:      NS.NI 165.98.1.2
 nserver:      NS.UU.NET 137.39.1.3
 nserver:      NS2.NI 200.9.187.2
-nserver:      NS3.NI 190.85.232.145
+nserver:      NS3.NI 200.119.166.36
 
 whois:        
 
@@ -39571,7 +39570,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.ni
 
 created:      1989-10-13
-changed:      2023-05-31
+changed:      2024-08-22
 source:       IANA
 
 % IANA WHOIS server
@@ -40702,6 +40701,7 @@ nserver:      NS1.DNS.NIC.OFFICE 156.154.144.126 2610:a1:1071:0:0:0:0:7e
 nserver:      NS2.DNS.NIC.OFFICE 156.154.145.126 2610:a1:1072:0:0:0:0:7e
 nserver:      NS3.DNS.NIC.OFFICE 156.154.159.126 2610:a1:1073:0:0:0:0:7e
 ds-rdata:     9475 8 2 8193e9e63984c0eebac5e602c134ca712c7843002bcddef3c08a199ac9d4308d
+ds-rdata:     16229 8 2 274a1641ddcc58b8fa48db227dd26a8785b201363bb99a9ede5b5d2693b15def
 
 whois:        whois.nic.office
 
@@ -40709,7 +40709,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.office.com
 
 created:      2015-06-04
-changed:      2024-05-11
+changed:      2024-08-27
 source:       IANA
 
 % IANA WHOIS server
@@ -45757,8 +45757,8 @@ nserver:      A.ZDNSCLOUD.COM 203.99.24.1
 nserver:      B.ZDNSCLOUD.COM 203.99.25.1
 nserver:      C.ZDNSCLOUD.COM 203.99.26.1
 nserver:      D.ZDNSCLOUD.COM 203.99.27.1
-nserver:      F.ZDNSCLOUD.COM 114.67.16.204
-nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      F.ZDNSCLOUD.COM 116.169.54.111
+nserver:      G.ZDNSCLOUD.COM 223.72.199.37
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     55555 8 2 425cc5bc7add435160d3c70cba9d545be2ff5466ecc27fb46e520be2ec1f9d0d
@@ -46099,8 +46099,8 @@ nserver:      A.ZDNSCLOUD.COM 203.99.24.1
 nserver:      B.ZDNSCLOUD.COM 203.99.25.1
 nserver:      C.ZDNSCLOUD.COM 203.99.26.1
 nserver:      D.ZDNSCLOUD.COM 203.99.27.1
-nserver:      F.ZDNSCLOUD.COM 114.67.16.204
-nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      F.ZDNSCLOUD.COM 116.169.54.111
+nserver:      G.ZDNSCLOUD.COM 223.72.199.37
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     6712 8 2 06090fb53ae539ce051d9236a0c6b5fd58361167bc0d7f5e8e9eab4f62d4fffb
@@ -46111,7 +46111,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.ren/
 
 created:      2014-02-28
-changed:      2024-04-26
+changed:      2024-08-26
 source:       IANA
 
 % IANA WHOIS server
@@ -47618,6 +47618,7 @@ nserver:      M1.DNS.SA 2a02:ce0:1:30:0:0:0:5 86.51.77.213
 nserver:      M2.DNS.SA 2a02:ce0:1:91:0:0:0:5 86.51.28.37
 nserver:      N1.DNS.SA 194.146.106.102 2001:67c:1010:26:0:0:0:53
 nserver:      P1.DNS.SA 2001:500:14:6041:ad:0:0:1 204.61.216.41
+nserver:      S1.DNS.SA 2001:16a0:1:3002:0:0:0:2 37.107.223.170
 nserver:      S2.DNS.SA 2001:16a0:2:3002:0:0:0:2 37.107.255.170
 nserver:      SH1.DNS.SA 213.236.36.92 2a02:d70:64:68:0:0:0:2
 ds-rdata:     62932 8 2 2e80b1231d370f4933a26f19487946eaca1db9d41a53831c2a9e73368bbbaab5
@@ -47628,7 +47629,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.net.sa/
 
 created:      1994-05-17
-changed:      2024-07-29
+changed:      2024-08-28
 source:       IANA
 
 % IANA WHOIS server
@@ -50892,6 +50893,7 @@ nserver:      NS1.DNS.NIC.SKYPE 156.154.144.151 2610:a1:1071:0:0:0:0:97
 nserver:      NS2.DNS.NIC.SKYPE 156.154.145.151 2610:a1:1072:0:0:0:0:97
 nserver:      NS3.DNS.NIC.SKYPE 156.154.159.151 2610:a1:1073:0:0:0:0:97
 ds-rdata:     56554 8 2 ffa94dc331d59fbe4b7b2e51871b8ceeec8ce9baa00efb2a9553f09f84804e6a
+ds-rdata:     25544 8 2 2aaa5a12f194b174e8545dc683e987ae649ce73c0f8f979b9baee765c90ae78b
 
 whois:        whois.nic.skype
 
@@ -50899,7 +50901,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.skype.com
 
 created:      2015-03-19
-changed:      2024-05-11
+changed:      2024-08-27
 source:       IANA
 
 % IANA WHOIS server
@@ -51497,8 +51499,8 @@ nserver:      A.ZDNSCLOUD.COM 203.99.24.1
 nserver:      B.ZDNSCLOUD.COM 203.99.25.1
 nserver:      C.ZDNSCLOUD.COM 203.99.26.1
 nserver:      D.ZDNSCLOUD.COM 203.99.27.1
-nserver:      F.ZDNSCLOUD.COM 114.67.16.204
-nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      F.ZDNSCLOUD.COM 116.169.54.111
+nserver:      G.ZDNSCLOUD.COM 223.72.199.37
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     61396 8 2 44f80a22b60d8c7a4e02d5c1b57af36da11d0cefe4320e588e20dcd4b2a80f09
@@ -55820,8 +55822,8 @@ nserver:      A.ZDNSCLOUD.COM 203.99.24.1
 nserver:      B.ZDNSCLOUD.COM 203.99.25.1
 nserver:      C.ZDNSCLOUD.COM 203.99.26.1
 nserver:      D.ZDNSCLOUD.COM 203.99.27.1
-nserver:      F.ZDNSCLOUD.COM 114.67.16.204
-nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      F.ZDNSCLOUD.COM 116.169.54.111
+nserver:      G.ZDNSCLOUD.COM 223.72.199.37
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     56384 8 2 ba378c5913404ec654df544f519b0fb287e140d64dac5d59e349962393c17945
@@ -57328,8 +57330,8 @@ nserver:      A.ZDNSCLOUD.COM 203.99.24.1
 nserver:      B.ZDNSCLOUD.COM 203.99.25.1
 nserver:      C.ZDNSCLOUD.COM 203.99.26.1
 nserver:      D.ZDNSCLOUD.COM 203.99.27.1
-nserver:      F.ZDNSCLOUD.COM 114.67.16.204
-nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      F.ZDNSCLOUD.COM 116.169.54.111
+nserver:      G.ZDNSCLOUD.COM 223.72.199.37
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     51527 8 2 79fe987f5edef21f8afc9a56dfe663d4b6ae8e2b046f82ea092571b6b2871d96
@@ -57956,7 +57958,6 @@ nserver:      NS4.NIC.VE 190.202.128.43
 nserver:      NS5.NIC.VE 2801:18:8800:3:18ba:beff:fe61:d08b 45.175.22.88
 nserver:      NS6.NIC.VE 2801:18:8800:1:0:0:0:4 45.175.22.4
 nserver:      SSDNS-TLD.NIC.CL 200.7.5.14 2001:1398:276:0:200:7:5:14
-ds-rdata:     62041 8 2 78f2ecb0ecd744a381d514ec91ca6389921fe168f41c96a41d0d794caf30c3b1
 ds-rdata:     53545 8 2 0ba030fb1720bb0263e2ae748c9caa6fc7bebf30f4e1271af22554c6c43ef3fe
 
 whois:        whois.nic.ve
@@ -57965,7 +57966,7 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.ve/
 
 created:      1991-03-07
-changed:      2024-05-09
+changed:      2024-08-27
 source:       IANA
 
 % IANA WHOIS server
@@ -59509,8 +59510,8 @@ nserver:      A.ZDNSCLOUD.COM 203.99.24.1
 nserver:      B.ZDNSCLOUD.COM 203.99.25.1
 nserver:      C.ZDNSCLOUD.COM 203.99.26.1
 nserver:      D.ZDNSCLOUD.COM 203.99.27.1
-nserver:      F.ZDNSCLOUD.COM 114.67.16.204
-nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      F.ZDNSCLOUD.COM 116.169.54.111
+nserver:      G.ZDNSCLOUD.COM 223.72.199.37
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     19549 8 2 328b02976180a88840e22a052b3d03c8ce7b67609b7cc1840e0e0fe71a3e8e8e
@@ -61461,8 +61462,8 @@ nserver:      A.ZDNSCLOUD.COM 203.99.24.1
 nserver:      B.ZDNSCLOUD.COM 203.99.25.1
 nserver:      C.ZDNSCLOUD.COM 203.99.26.1
 nserver:      D.ZDNSCLOUD.COM 203.99.27.1
-nserver:      F.ZDNSCLOUD.COM 114.67.16.204
-nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      F.ZDNSCLOUD.COM 116.169.54.111
+nserver:      G.ZDNSCLOUD.COM 223.72.199.37
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     44210 8 2 ca8c1b37378e7eba858c4fe9bad7bd6748e70da47639c3a0e31db1f71f66f467
@@ -61512,8 +61513,8 @@ nserver:      A.ZDNSCLOUD.COM 203.99.24.1
 nserver:      B.ZDNSCLOUD.COM 203.99.25.1
 nserver:      C.ZDNSCLOUD.COM 203.99.26.1
 nserver:      D.ZDNSCLOUD.COM 203.99.27.1
-nserver:      F.ZDNSCLOUD.COM 114.67.16.204
-nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      F.ZDNSCLOUD.COM 116.169.54.111
+nserver:      G.ZDNSCLOUD.COM 223.72.199.37
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     35945 8 2 5a563eded23044a6c1b623a011123e7ad260b656f89301f500d7fcd04223a801
@@ -61900,8 +61901,8 @@ nserver:      A.ZDNSCLOUD.COM 203.99.24.1
 nserver:      B.ZDNSCLOUD.COM 203.99.25.1
 nserver:      C.ZDNSCLOUD.COM 203.99.26.1
 nserver:      D.ZDNSCLOUD.COM 203.99.27.1
-nserver:      F.ZDNSCLOUD.COM 114.67.16.204
-nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      F.ZDNSCLOUD.COM 116.169.54.111
+nserver:      G.ZDNSCLOUD.COM 223.72.199.37
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     21806 8 2 622cfb958a0ee383c82ce227dfed29b054b4db76b914ccf5d65703b41da6d536
@@ -62352,8 +62353,8 @@ nserver:      A.ZDNSCLOUD.COM 203.99.24.1
 nserver:      B.ZDNSCLOUD.COM 203.99.25.1
 nserver:      C.ZDNSCLOUD.COM 203.99.26.1
 nserver:      D.ZDNSCLOUD.COM 203.99.27.1
-nserver:      F.ZDNSCLOUD.COM 114.67.16.204
-nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      F.ZDNSCLOUD.COM 116.169.54.111
+nserver:      G.ZDNSCLOUD.COM 223.72.199.37
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     54794 8 2 04db2d2f9cab81d80fd8f7062b4e2a42a99f9fdf172a90039c30e4a6b9a844df
@@ -62613,8 +62614,8 @@ nserver:      A.ZDNSCLOUD.COM 203.99.24.1
 nserver:      B.ZDNSCLOUD.COM 203.99.25.1
 nserver:      C.ZDNSCLOUD.COM 203.99.26.1
 nserver:      D.ZDNSCLOUD.COM 203.99.27.1
-nserver:      F.ZDNSCLOUD.COM 114.67.16.204
-nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      F.ZDNSCLOUD.COM 116.169.54.111
+nserver:      G.ZDNSCLOUD.COM 223.72.199.37
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     44995 8 2 75ec90f39171d405cb5d609ab0c62f21b2c53da70d28d642d226121a4dc9a917
@@ -62857,8 +62858,8 @@ nserver:      A.ZDNSCLOUD.COM 203.99.24.1
 nserver:      B.ZDNSCLOUD.COM 203.99.25.1
 nserver:      C.ZDNSCLOUD.COM 203.99.26.1
 nserver:      D.ZDNSCLOUD.COM 203.99.27.1
-nserver:      F.ZDNSCLOUD.COM 114.67.16.204
-nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      F.ZDNSCLOUD.COM 116.169.54.111
+nserver:      G.ZDNSCLOUD.COM 223.72.199.37
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     46544 8 2 0310cad1673a9aeca7a4eb6c955ea0bebefd87c77c702772e94aa0eb31cb82d3
@@ -63356,8 +63357,8 @@ nserver:      A.ZDNSCLOUD.COM 203.99.24.1
 nserver:      B.ZDNSCLOUD.COM 203.99.25.1
 nserver:      C.ZDNSCLOUD.COM 203.99.26.1
 nserver:      D.ZDNSCLOUD.COM 203.99.27.1
-nserver:      F.ZDNSCLOUD.COM 114.67.16.204
-nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      F.ZDNSCLOUD.COM 116.169.54.111
+nserver:      G.ZDNSCLOUD.COM 223.72.199.37
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     56914 8 2 5465baa574aa100721edded85284559d873f32fed96c02d0144b0281569ff37d
@@ -63461,8 +63462,8 @@ nserver:      A.ZDNSCLOUD.COM 203.99.24.1
 nserver:      B.ZDNSCLOUD.COM 203.99.25.1
 nserver:      C.ZDNSCLOUD.COM 203.99.26.1
 nserver:      D.ZDNSCLOUD.COM 203.99.27.1
-nserver:      F.ZDNSCLOUD.COM 114.67.16.204
-nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      F.ZDNSCLOUD.COM 116.169.54.111
+nserver:      G.ZDNSCLOUD.COM 223.72.199.37
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     62552 8 2 a9400022e8ac90989aa6a0ecd9003dadc0902982336bafba4ce68e0fb15a8391
@@ -63705,8 +63706,8 @@ nserver:      A.ZDNSCLOUD.COM 203.99.24.1
 nserver:      B.ZDNSCLOUD.COM 203.99.25.1
 nserver:      C.ZDNSCLOUD.COM 203.99.26.1
 nserver:      D.ZDNSCLOUD.COM 203.99.27.1
-nserver:      F.ZDNSCLOUD.COM 114.67.16.204
-nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      F.ZDNSCLOUD.COM 116.169.54.111
+nserver:      G.ZDNSCLOUD.COM 223.72.199.37
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     16702 8 2 3dc3633898aef4cf395e3b558dddb6b02111abc6bc31be55346bb44cb7778e74
@@ -63899,8 +63900,8 @@ nserver:      A.ZDNSCLOUD.COM 203.99.24.1
 nserver:      B.ZDNSCLOUD.COM 203.99.25.1
 nserver:      C.ZDNSCLOUD.COM 203.99.26.1
 nserver:      D.ZDNSCLOUD.COM 203.99.27.1
-nserver:      F.ZDNSCLOUD.COM 114.67.16.204
-nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      F.ZDNSCLOUD.COM 116.169.54.111
+nserver:      G.ZDNSCLOUD.COM 223.72.199.37
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     38824 8 2 2de6674a0eb17276f0e601cbd11a42a23fa04016329f0fa30a80df7c6a5625f2
@@ -64647,8 +64648,8 @@ nserver:      A.ZDNSCLOUD.COM 203.99.24.1
 nserver:      B.ZDNSCLOUD.COM 203.99.25.1
 nserver:      C.ZDNSCLOUD.COM 203.99.26.1
 nserver:      D.ZDNSCLOUD.COM 203.99.27.1
-nserver:      F.ZDNSCLOUD.COM 114.67.16.204
-nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      F.ZDNSCLOUD.COM 116.169.54.111
+nserver:      G.ZDNSCLOUD.COM 223.72.199.37
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     59966 8 2 307e3f825424a5378d0069150e670e339c5beb63052166013cc43c72ef79f489
@@ -64747,8 +64748,8 @@ nserver:      A.ZDNSCLOUD.COM 203.99.24.1
 nserver:      B.ZDNSCLOUD.COM 203.99.25.1
 nserver:      C.ZDNSCLOUD.COM 203.99.26.1
 nserver:      D.ZDNSCLOUD.COM 203.99.27.1
-nserver:      F.ZDNSCLOUD.COM 114.67.16.204
-nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      F.ZDNSCLOUD.COM 116.169.54.111
+nserver:      G.ZDNSCLOUD.COM 223.72.199.37
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     14747 8 2 6581fd2fc61a9a81926e5dbe6f7eeb940402bf2db280c98f50aba666e4c74371
@@ -66098,6 +66099,7 @@ nserver:      M1.DNS.SA 2a02:ce0:1:30:0:0:0:5 86.51.77.213
 nserver:      M2.DNS.SA 2a02:ce0:1:91:0:0:0:5 86.51.28.37
 nserver:      N1.DNS.SA 194.146.106.102 2001:67c:1010:26:0:0:0:53
 nserver:      P1.DNS.SA 2001:500:14:6041:ad:0:0:1 204.61.216.41
+nserver:      S1.DNS.SA 2001:16a0:1:3002:0:0:0:2 37.107.223.170
 nserver:      S2.DNS.SA 2001:16a0:2:3002:0:0:0:2 37.107.255.170
 nserver:      SH1.DNS.SA 213.236.36.92 2a02:d70:64:68:0:0:0:2
 ds-rdata:     51067 8 2 71a90d5298b157332cf6dc7bc2105982054a8d5f5c74c67debbbee3afbe114d3
@@ -66108,7 +66110,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.net.sa/
 
 created:      2010-05-05
-changed:      2024-07-29
+changed:      2024-08-28
 source:       IANA
 
 % IANA WHOIS server
@@ -67017,8 +67019,8 @@ nserver:      A.ZDNSCLOUD.COM 203.99.24.1
 nserver:      B.ZDNSCLOUD.COM 203.99.25.1
 nserver:      C.ZDNSCLOUD.COM 203.99.26.1
 nserver:      D.ZDNSCLOUD.COM 203.99.27.1
-nserver:      F.ZDNSCLOUD.COM 114.67.16.204
-nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      F.ZDNSCLOUD.COM 116.169.54.111
+nserver:      G.ZDNSCLOUD.COM 223.72.199.37
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     61882 8 2 ef3f494c35f4c2c571a0e5644f6e2760818f2eb7b08e1b05b522d995022b6786
@@ -67705,8 +67707,8 @@ nserver:      A.ZDNSCLOUD.COM 203.99.24.1
 nserver:      B.ZDNSCLOUD.COM 203.99.25.1
 nserver:      C.ZDNSCLOUD.COM 203.99.26.1
 nserver:      D.ZDNSCLOUD.COM 203.99.27.1
-nserver:      F.ZDNSCLOUD.COM 114.67.16.204
-nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      F.ZDNSCLOUD.COM 116.169.54.111
+nserver:      G.ZDNSCLOUD.COM 223.72.199.37
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     34994 8 2 5ef0d396751ede7d6b87b3dda8d9ecc7883a45b21c1a8d60fbf0ff92b5c2c445

@@ -131,8 +131,8 @@ nserver:      A.ZDNSCLOUD.COM 203.99.24.1
 nserver:      B.ZDNSCLOUD.COM 203.99.25.1
 nserver:      C.ZDNSCLOUD.COM 203.99.26.1
 nserver:      D.ZDNSCLOUD.COM 203.99.27.1
-nserver:      F.ZDNSCLOUD.COM 114.67.16.204
-nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      F.ZDNSCLOUD.COM 116.169.54.111
+nserver:      G.ZDNSCLOUD.COM 223.72.199.37
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     63817 8 2 13605ebd9736b66b1eb3b2db5865ca66b5efd2be720087fe4441039f3aa4cf3d
@@ -182,8 +182,8 @@ nserver:      A.ZDNSCLOUD.COM 203.99.24.1
 nserver:      B.ZDNSCLOUD.COM 203.99.25.1
 nserver:      C.ZDNSCLOUD.COM 203.99.26.1
 nserver:      D.ZDNSCLOUD.COM 203.99.27.1
-nserver:      F.ZDNSCLOUD.COM 114.67.16.204
-nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      F.ZDNSCLOUD.COM 116.169.54.111
+nserver:      G.ZDNSCLOUD.COM 223.72.199.37
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     12331 8 2 cdbfc9f67e7f97e1759bf1bcaa26c853bc5dde881551e1fa4a633e8bd6b8c9bd
@@ -437,8 +437,8 @@ nserver:      A.ZDNSCLOUD.COM 203.99.24.1
 nserver:      B.ZDNSCLOUD.COM 203.99.25.1
 nserver:      C.ZDNSCLOUD.COM 203.99.26.1
 nserver:      D.ZDNSCLOUD.COM 203.99.27.1
-nserver:      F.ZDNSCLOUD.COM 114.67.16.204
-nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      F.ZDNSCLOUD.COM 116.169.54.111
+nserver:      G.ZDNSCLOUD.COM 223.72.199.37
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     40582 8 2 7b808042c4c053d9af8f39b7e784a66c00ce1d9eef0bc1dc6e5d59a4451da05a
@@ -971,8 +971,8 @@ nserver:      A.ZDNSCLOUD.COM 203.99.24.1
 nserver:      B.ZDNSCLOUD.COM 203.99.25.1
 nserver:      C.ZDNSCLOUD.COM 203.99.26.1
 nserver:      D.ZDNSCLOUD.COM 203.99.27.1
-nserver:      F.ZDNSCLOUD.COM 114.67.16.204
-nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      F.ZDNSCLOUD.COM 116.169.54.111
+nserver:      G.ZDNSCLOUD.COM 223.72.199.37
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     55555 8 2 425cc5bc7add435160d3c70cba9d545be2ff5466ecc27fb46e520be2ec1f9d0d
@@ -1023,8 +1023,8 @@ nserver:      A.ZDNSCLOUD.COM 203.99.24.1
 nserver:      B.ZDNSCLOUD.COM 203.99.25.1
 nserver:      C.ZDNSCLOUD.COM 203.99.26.1
 nserver:      D.ZDNSCLOUD.COM 203.99.27.1
-nserver:      F.ZDNSCLOUD.COM 114.67.16.204
-nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      F.ZDNSCLOUD.COM 116.169.54.111
+nserver:      G.ZDNSCLOUD.COM 223.72.199.37
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     6712 8 2 06090fb53ae539ce051d9236a0c6b5fd58361167bc0d7f5e8e9eab4f62d4fffb
@@ -1035,7 +1035,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.ren/
 
 created:      2014-02-28
-changed:      2024-04-26
+changed:      2024-08-26
 source:       IANA
 
 % IANA WHOIS server
@@ -1264,8 +1264,8 @@ nserver:      A.ZDNSCLOUD.COM 203.99.24.1
 nserver:      B.ZDNSCLOUD.COM 203.99.25.1
 nserver:      C.ZDNSCLOUD.COM 203.99.26.1
 nserver:      D.ZDNSCLOUD.COM 203.99.27.1
-nserver:      F.ZDNSCLOUD.COM 114.67.16.204
-nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      F.ZDNSCLOUD.COM 116.169.54.111
+nserver:      G.ZDNSCLOUD.COM 223.72.199.37
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     61396 8 2 44f80a22b60d8c7a4e02d5c1b57af36da11d0cefe4320e588e20dcd4b2a80f09
@@ -1317,8 +1317,8 @@ nserver:      A.ZDNSCLOUD.COM 203.99.24.1
 nserver:      B.ZDNSCLOUD.COM 203.99.25.1
 nserver:      C.ZDNSCLOUD.COM 203.99.26.1
 nserver:      D.ZDNSCLOUD.COM 203.99.27.1
-nserver:      F.ZDNSCLOUD.COM 114.67.16.204
-nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      F.ZDNSCLOUD.COM 116.169.54.111
+nserver:      G.ZDNSCLOUD.COM 223.72.199.37
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     56384 8 2 ba378c5913404ec654df544f519b0fb287e140d64dac5d59e349962393c17945
@@ -1370,8 +1370,8 @@ nserver:      A.ZDNSCLOUD.COM 203.99.24.1
 nserver:      B.ZDNSCLOUD.COM 203.99.25.1
 nserver:      C.ZDNSCLOUD.COM 203.99.26.1
 nserver:      D.ZDNSCLOUD.COM 203.99.27.1
-nserver:      F.ZDNSCLOUD.COM 114.67.16.204
-nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      F.ZDNSCLOUD.COM 116.169.54.111
+nserver:      G.ZDNSCLOUD.COM 223.72.199.37
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     51527 8 2 79fe987f5edef21f8afc9a56dfe663d4b6ae8e2b046f82ea092571b6b2871d96
@@ -1424,8 +1424,8 @@ nserver:      A.ZDNSCLOUD.COM 203.99.24.1
 nserver:      B.ZDNSCLOUD.COM 203.99.25.1
 nserver:      C.ZDNSCLOUD.COM 203.99.26.1
 nserver:      D.ZDNSCLOUD.COM 203.99.27.1
-nserver:      F.ZDNSCLOUD.COM 114.67.16.204
-nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      F.ZDNSCLOUD.COM 116.169.54.111
+nserver:      G.ZDNSCLOUD.COM 223.72.199.37
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     19549 8 2 328b02976180a88840e22a052b3d03c8ce7b67609b7cc1840e0e0fe71a3e8e8e
@@ -1719,8 +1719,8 @@ nserver:      A.ZDNSCLOUD.COM 203.99.24.1
 nserver:      B.ZDNSCLOUD.COM 203.99.25.1
 nserver:      C.ZDNSCLOUD.COM 203.99.26.1
 nserver:      D.ZDNSCLOUD.COM 203.99.27.1
-nserver:      F.ZDNSCLOUD.COM 114.67.16.204
-nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      F.ZDNSCLOUD.COM 116.169.54.111
+nserver:      G.ZDNSCLOUD.COM 223.72.199.37
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     38824 8 2 2de6674a0eb17276f0e601cbd11a42a23fa04016329f0fa30a80df7c6a5625f2
@@ -2070,8 +2070,8 @@ nserver:      A.ZDNSCLOUD.COM 203.99.24.1
 nserver:      B.ZDNSCLOUD.COM 203.99.25.1
 nserver:      C.ZDNSCLOUD.COM 203.99.26.1
 nserver:      D.ZDNSCLOUD.COM 203.99.27.1
-nserver:      F.ZDNSCLOUD.COM 114.67.16.204
-nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      F.ZDNSCLOUD.COM 116.169.54.111
+nserver:      G.ZDNSCLOUD.COM 223.72.199.37
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     21806 8 2 622cfb958a0ee383c82ce227dfed29b054b4db76b914ccf5d65703b41da6d536
@@ -2230,8 +2230,8 @@ nserver:      A.ZDNSCLOUD.COM 203.99.24.1
 nserver:      B.ZDNSCLOUD.COM 203.99.25.1
 nserver:      C.ZDNSCLOUD.COM 203.99.26.1
 nserver:      D.ZDNSCLOUD.COM 203.99.27.1
-nserver:      F.ZDNSCLOUD.COM 114.67.16.204
-nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      F.ZDNSCLOUD.COM 116.169.54.111
+nserver:      G.ZDNSCLOUD.COM 223.72.199.37
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     62552 8 2 a9400022e8ac90989aa6a0ecd9003dadc0902982336bafba4ce68e0fb15a8391
@@ -2281,8 +2281,8 @@ nserver:      A.ZDNSCLOUD.COM 203.99.24.1
 nserver:      B.ZDNSCLOUD.COM 203.99.25.1
 nserver:      C.ZDNSCLOUD.COM 203.99.26.1
 nserver:      D.ZDNSCLOUD.COM 203.99.27.1
-nserver:      F.ZDNSCLOUD.COM 114.67.16.204
-nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      F.ZDNSCLOUD.COM 116.169.54.111
+nserver:      G.ZDNSCLOUD.COM 223.72.199.37
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     56914 8 2 5465baa574aa100721edded85284559d873f32fed96c02d0144b0281569ff37d
@@ -2576,8 +2576,8 @@ nserver:      A.ZDNSCLOUD.COM 203.99.24.1
 nserver:      B.ZDNSCLOUD.COM 203.99.25.1
 nserver:      C.ZDNSCLOUD.COM 203.99.26.1
 nserver:      D.ZDNSCLOUD.COM 203.99.27.1
-nserver:      F.ZDNSCLOUD.COM 114.67.16.204
-nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      F.ZDNSCLOUD.COM 116.169.54.111
+nserver:      G.ZDNSCLOUD.COM 223.72.199.37
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     44210 8 2 ca8c1b37378e7eba858c4fe9bad7bd6748e70da47639c3a0e31db1f71f66f467
@@ -2627,8 +2627,8 @@ nserver:      A.ZDNSCLOUD.COM 203.99.24.1
 nserver:      B.ZDNSCLOUD.COM 203.99.25.1
 nserver:      C.ZDNSCLOUD.COM 203.99.26.1
 nserver:      D.ZDNSCLOUD.COM 203.99.27.1
-nserver:      F.ZDNSCLOUD.COM 114.67.16.204
-nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      F.ZDNSCLOUD.COM 116.169.54.111
+nserver:      G.ZDNSCLOUD.COM 223.72.199.37
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     54794 8 2 04db2d2f9cab81d80fd8f7062b4e2a42a99f9fdf172a90039c30e4a6b9a844df
@@ -2726,8 +2726,8 @@ nserver:      A.ZDNSCLOUD.COM 203.99.24.1
 nserver:      B.ZDNSCLOUD.COM 203.99.25.1
 nserver:      C.ZDNSCLOUD.COM 203.99.26.1
 nserver:      D.ZDNSCLOUD.COM 203.99.27.1
-nserver:      F.ZDNSCLOUD.COM 114.67.16.204
-nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      F.ZDNSCLOUD.COM 116.169.54.111
+nserver:      G.ZDNSCLOUD.COM 223.72.199.37
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     61882 8 2 ef3f494c35f4c2c571a0e5644f6e2760818f2eb7b08e1b05b522d995022b6786
@@ -2833,8 +2833,8 @@ nserver:      A.ZDNSCLOUD.COM 203.99.24.1
 nserver:      B.ZDNSCLOUD.COM 203.99.25.1
 nserver:      C.ZDNSCLOUD.COM 203.99.26.1
 nserver:      D.ZDNSCLOUD.COM 203.99.27.1
-nserver:      F.ZDNSCLOUD.COM 114.67.16.204
-nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      F.ZDNSCLOUD.COM 116.169.54.111
+nserver:      G.ZDNSCLOUD.COM 223.72.199.37
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     16702 8 2 3dc3633898aef4cf395e3b558dddb6b02111abc6bc31be55346bb44cb7778e74
@@ -2884,8 +2884,8 @@ nserver:      A.ZDNSCLOUD.COM 203.99.24.1
 nserver:      B.ZDNSCLOUD.COM 203.99.25.1
 nserver:      C.ZDNSCLOUD.COM 203.99.26.1
 nserver:      D.ZDNSCLOUD.COM 203.99.27.1
-nserver:      F.ZDNSCLOUD.COM 114.67.16.204
-nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      F.ZDNSCLOUD.COM 116.169.54.111
+nserver:      G.ZDNSCLOUD.COM 223.72.199.37
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     46544 8 2 0310cad1673a9aeca7a4eb6c955ea0bebefd87c77c702772e94aa0eb31cb82d3
@@ -2989,8 +2989,8 @@ nserver:      A.ZDNSCLOUD.COM 203.99.24.1
 nserver:      B.ZDNSCLOUD.COM 203.99.25.1
 nserver:      C.ZDNSCLOUD.COM 203.99.26.1
 nserver:      D.ZDNSCLOUD.COM 203.99.27.1
-nserver:      F.ZDNSCLOUD.COM 114.67.16.204
-nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      F.ZDNSCLOUD.COM 116.169.54.111
+nserver:      G.ZDNSCLOUD.COM 223.72.199.37
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     34994 8 2 5ef0d396751ede7d6b87b3dda8d9ecc7883a45b21c1a8d60fbf0ff92b5c2c445
@@ -3041,8 +3041,8 @@ nserver:      A.ZDNSCLOUD.COM 203.99.24.1
 nserver:      B.ZDNSCLOUD.COM 203.99.25.1
 nserver:      C.ZDNSCLOUD.COM 203.99.26.1
 nserver:      D.ZDNSCLOUD.COM 203.99.27.1
-nserver:      F.ZDNSCLOUD.COM 114.67.16.204
-nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      F.ZDNSCLOUD.COM 116.169.54.111
+nserver:      G.ZDNSCLOUD.COM 223.72.199.37
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     59966 8 2 307e3f825424a5378d0069150e670e339c5beb63052166013cc43c72ef79f489
@@ -3198,8 +3198,8 @@ nserver:      A.ZDNSCLOUD.COM 203.99.24.1
 nserver:      B.ZDNSCLOUD.COM 203.99.25.1
 nserver:      C.ZDNSCLOUD.COM 203.99.26.1
 nserver:      D.ZDNSCLOUD.COM 203.99.27.1
-nserver:      F.ZDNSCLOUD.COM 114.67.16.204
-nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      F.ZDNSCLOUD.COM 116.169.54.111
+nserver:      G.ZDNSCLOUD.COM 223.72.199.37
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     44995 8 2 75ec90f39171d405cb5d609ab0c62f21b2c53da70d28d642d226121a4dc9a917
@@ -3299,8 +3299,8 @@ nserver:      A.ZDNSCLOUD.COM 203.99.24.1
 nserver:      B.ZDNSCLOUD.COM 203.99.25.1
 nserver:      C.ZDNSCLOUD.COM 203.99.26.1
 nserver:      D.ZDNSCLOUD.COM 203.99.27.1
-nserver:      F.ZDNSCLOUD.COM 114.67.16.204
-nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      F.ZDNSCLOUD.COM 116.169.54.111
+nserver:      G.ZDNSCLOUD.COM 223.72.199.37
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     35945 8 2 5a563eded23044a6c1b623a011123e7ad260b656f89301f500d7fcd04223a801
@@ -3400,8 +3400,8 @@ nserver:      A.ZDNSCLOUD.COM 203.99.24.1
 nserver:      B.ZDNSCLOUD.COM 203.99.25.1
 nserver:      C.ZDNSCLOUD.COM 203.99.26.1
 nserver:      D.ZDNSCLOUD.COM 203.99.27.1
-nserver:      F.ZDNSCLOUD.COM 114.67.16.204
-nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      F.ZDNSCLOUD.COM 116.169.54.111
+nserver:      G.ZDNSCLOUD.COM 223.72.199.37
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     14747 8 2 6581fd2fc61a9a81926e5dbe6f7eeb940402bf2db280c98f50aba666e4c74371

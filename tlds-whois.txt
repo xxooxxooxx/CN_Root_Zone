@@ -1978,6 +1978,7 @@ nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
 ds-rdata:     7047 13 2 40ac4eda437f376b0a772ac6f570055a6aa58d635ac07946a778abebb8e5c024
+ds-rdata:     8797 13 2 9af8c74e940ed2d43eded6c22c4dde7acaa49f00f02bf85b8cd15b820e06821a
 
 whois:        whois.nic.alsace
 
@@ -1985,7 +1986,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.mondomaine.alsace
 
 created:      2014-09-18
-changed:      2024-04-24
+changed:      2024-09-11
 source:       IANA
 
 % IANA WHOIS server
@@ -2627,14 +2628,14 @@ phone:        +244 927 217 021
 e-mail:       andre.pedro@infosi.gov.ao
 
 contact:      technical
-name:         Assis Guerreiro
-organisation: Associação DNS.PT (DNS.PT)
-address:      Rua Eça de Queiroz, 29
-address:      Lisboa 1050-095
-address:      Portugal
-phone:        (+351) 211308200
-fax-no:       (+351) 211312720
-e-mail:       assis.guerreiro@dns.pt
+name:         Marcos Damiao
+organisation: INSTITUTO NACIONAL DE FOMENTO DA SOCIEDADE DA INFORMACAO-INFOSI
+address:      Cidade Alta Luanda
+address:      Luanda 1412
+address:      Angola
+phone:        +244927991964
+fax-no:       (+244)927 991964
+e-mail:       ao@dns.ao
 
 nserver:      A.NS.AO 206.51.254.4 2620:171:804:ad2:0:0:0:4
 nserver:      AO-E.NS.NIC.CZ 185.43.134.13 2001:148f:fffd:0:0:0:0:13
@@ -2647,7 +2648,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dns.ao/
 
 created:      1995-11-15
-changed:      2024-06-26
+changed:      2024-09-09
 source:       IANA
 
 % IANA WHOIS server
@@ -3551,7 +3552,6 @@ nserver:      J.NS.AT 194.146.106.50 2001:67c:1010:12:0:0:0:53
 nserver:      N.NS.AT 2a02:568:281:0:0:0:0:130 81.91.173.130
 nserver:      NS1.UNIVIE.AC.AT 2001:628:2030:4301:0:0:0:2 78.104.144.2
 nserver:      NS2.UNIVIE.AC.AT 192.92.125.2 2001:678:1c:0:0:0:0:2
-nserver:      NS9.UNIVIE.AC.AT 194.0.10.100 2001:678:d:0:0:0:0:cafe
 nserver:      R.NS.AT 194.0.25.10 2001:678:20:0:0:0:0:10
 nserver:      U.NS.AT 185.102.12.2 2a02:850:ffff:0:0:0:0:2
 ds-rdata:     1253 13 2 ba17c1bacb3fb49f7760ad1f7e71e17ab39ee0df3e9d3bf23fd3d70d6cf1719e
@@ -3563,7 +3563,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.at/
 
 created:      1988-01-20
-changed:      2023-04-25
+changed:      2024-09-10
 source:       IANA
 
 % IANA WHOIS server
@@ -8735,7 +8735,7 @@ e-mail:       pocbzh@afnic.fr
 nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
-ds-rdata:     21101 13 2 1142355e16da610e0872122f8e5f542ee0d3668abb727f3a031e2c14757b2445
+ds-rdata:     51731 13 2 d250d39d26a0438e9bf413cd47c06f61ffc1b50a0b163e27978bc4d25703d74d
 
 whois:        whois.nic.bzh
 
@@ -8743,7 +8743,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.pik.bzh
 
 created:      2014-05-29
-changed:      2024-04-24
+changed:      2024-09-11
 source:       IANA
 
 % IANA WHOIS server
@@ -13253,7 +13253,7 @@ e-mail:       pdtcorsica@afnic.fr
 nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
-ds-rdata:     16766 13 2 fb25f2d69835bf52cd5389473cd4b0c58d581385ee40b1d1a357135a8ce26997
+ds-rdata:     21857 13 2 238b2bc116369bacaf90b7cc71b61a9765aba03f6855db89cef0788193d99e20
 
 whois:        whois.nic.corsica
 
@@ -13261,7 +13261,7 @@ status:       ACTIVE
 remarks:      Registration information: https://puntu.corsica
 
 created:      2015-04-23
-changed:      2024-03-11
+changed:      2024-09-11
 source:       IANA
 
 % IANA WHOIS server
@@ -20923,7 +20923,6 @@ fax-no:       +33 1 39 30 83 01
 e-mail:       tld-tech@nic.fr
 
 nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
-nserver:      E.EXT.NIC.FR 193.176.144.22 2a00:d78:0:102:193:176:144:22
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
 ds-rdata:     29133 13 2 1303e8da8fb60db500d5bea1ee5dc9a2bcc93dfe2fc43d346576658feccf5749
@@ -20934,7 +20933,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.nic.fr
 
 created:      1986-09-02
-changed:      2024-04-26
+changed:      2024-09-09
 source:       IANA
 
 % IANA WHOIS server
@@ -22013,25 +22012,23 @@ organisation: Reserved Domain - IANA
 
 contact:      administrative
 name:         Naming Administrator
-organisation: The JNT Association trading as JANET(UK)
-address:      Lumen House, Library Avenue
-address:      Harwell Science and Innovation
-address:      Didcot Oxfordshire OX11 0SG
+organisation: Jisc
+address:      4 Portwall Ln
+address:      Redcliffe
+address:      Bristol BS1 6NB
 address:      United Kingdom of Great Britain and Northern Ireland (the)
-phone:        +44 1235 822 212
-fax-no:       +44 1235 822 397
-e-mail:       naming@ja.net
+phone:        +44 3003002212
+e-mail:       domains@jisc.ac.uk
 
 contact:      technical
 name:         Naming Administrator
-organisation: The JNT Association trading as JANET(UK)
-address:      Lumen House, Library Avenue
-address:      Harwell Science and Innovation
-address:      Didcot Oxfordshire OX11 0SG
+organisation: Jisc
+address:      4 Portwall Ln
+address:      Redcliffe
+address:      Bristol BS1 6NB
 address:      United Kingdom of Great Britain and Northern Ireland (the)
-phone:        +44 1235 822 212
-fax-no:       +44 1235 822 397
-e-mail:       naming@ja.net
+phone:        +44 3003002212
+e-mail:       domains@jisc.ac.uk
 
 nserver:      NS.UU.NET 137.39.1.3
 nserver:      NS0.JA.NET 128.86.1.20 193.63.94.20 2001:630:0:8:0:0:0:14 2001:630:0:9:0:0:0:14
@@ -22043,7 +22040,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      1985-07-24
-changed:      2011-06-04
+changed:      2024-09-10
 source:       IANA
 
 % IANA WHOIS server
@@ -26844,7 +26841,6 @@ nserver:      C.HU 195.111.1.92 2001:738:2:2:0:0:0:53
 nserver:      D.HU 2a00:e6a0:3:1014:0:0:53:99 5.28.0.99
 nserver:      E.HU 194.0.25.11 2001:678:20:0:0:0:0:11
 nserver:      F.HU 194.0.9.1 2001:678:c:0:0:0:0:1
-ds-rdata:     2104 8 2 65f5d64b860f26feae0bde3ca51b730b38381678c8c316f16b37e551105ebac5
 ds-rdata:     46162 8 2 09b29528cb5f451df8e98be0d82126e931a6a0a45349c4bf6516c49c8a64041b
 
 whois:        whois.nic.hu
@@ -26853,7 +26849,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.domain.hu
 
 created:      1990-11-07
-changed:      2024-04-22
+changed:      2024-09-06
 source:       IANA
 
 % IANA WHOIS server
@@ -31806,7 +31802,6 @@ e-mail:       poclancaster@afnic.fr
 nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
-ds-rdata:     63656 13 2 847b427327bf07fd61b821d3dc537401d3af0371c0771bebcaf2cdcf51aa108a
 ds-rdata:     13478 13 2 bfbd5142e935c01a65a186d56f01124d6832ac3cdc6ede681f50a12ff9c73ead
 
 whois:        whois.nic.lancaster
@@ -31815,7 +31810,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.lancaster.fr
 
 created:      2015-06-18
-changed:      2024-07-18
+changed:      2024-09-10
 source:       IANA
 
 % IANA WHOIS server
@@ -32480,7 +32475,7 @@ e-mail:       pocleclerc@afnic.fr
 nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
-ds-rdata:     60287 13 2 d64818b1cd557c6040e2f188d15748afb29ac5fac90e8403bd391776d34a9696
+ds-rdata:     56243 13 2 e6cd61fe33323d5b27b16bcb952512801ae7e4f4c860d733eb9148e409811a37
 
 whois:        whois.nic.leclerc
 
@@ -32489,7 +32484,7 @@ remarks:      Registration information:
 remarks:      http://www.mouvement-leclerc.com
 
 created:      2015-01-29
-changed:      2024-03-14
+changed:      2024-09-11
 source:       IANA
 
 % IANA WHOIS server
@@ -33482,6 +33477,7 @@ nserver:      NS1.AC.LK 192.248.1.162 2401:dd00:1:0:0:0:0:162
 nserver:      P.NIC.LK 2001:500:14:6027:ad:0:0:1 204.61.216.27
 nserver:      PENDRAGON.CS.PURDUE.EDU 128.10.2.5
 nserver:      T.NIC.LK 203.94.66.129 2402:d000:100c:0:0:0:0:129
+nserver:      Z.NIC.LK 185.38.108.108 2a00:fea0:dead:0:0:0:0:beef
 ds-rdata:     181 5 1 a1907f85d49081239389c216912b8937d0eceb3d
 ds-rdata:     181 5 2 87516d56b697cb3f7a7c3eb594ee0e16ae509d16a503089f4fbd4f347b336f93
 
@@ -33491,7 +33487,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.domains.lk/
 
 created:      1990-06-15
-changed:      2024-02-23
+changed:      2024-09-05
 source:       IANA
 
 % IANA WHOIS server
@@ -38053,7 +38049,7 @@ e-mail:       pocmuseum@afnic.fr
 nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
-ds-rdata:     21969 13 2 bdb65bca27b34a0c9e296fb79efc78615678f7cc46eab5ef86fe59f259cc03c5
+ds-rdata:     21025 13 2 9149a23c9151e0812505df827e0aaa504a43b830a58100512e976eeaaf0fa8cf
 
 whois:        whois.nic.museum
 
@@ -38061,7 +38057,7 @@ status:       ACTIVE
 remarks:      Registration information: https://about.museum
 
 created:      2001-10-20
-changed:      2024-05-16
+changed:      2024-09-11
 source:       IANA
 
 % IANA WHOIS server
@@ -41724,7 +41720,7 @@ e-mail:       pocovh@afnic.fr
 nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
-ds-rdata:     24939 13 2 02a3f789b7d6c726513eebadf7f64741fed1acd57405339d9d50191c620cd914
+ds-rdata:     2779 13 2 e6b3f359c1980de521369be4bd61fc91b9e311aa79221705d248925add22f1d1
 
 whois:        whois.nic.ovh
 
@@ -41732,7 +41728,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.ovh.com
 
 created:      2014-05-01
-changed:      2024-04-24
+changed:      2024-09-11
 source:       IANA
 
 % IANA WHOIS server
@@ -41921,7 +41917,7 @@ nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
 nserver:      H.EXT.NIC.FR 195.253.66.2 2a01:5b0:6:0:0:0:0:2
-ds-rdata:     36157 13 2 e9aa567b3ffad9aa9f2c6a0bc0b7fed6d338c5150bd5627812a5f9957969c37d
+ds-rdata:     29441 13 2 2a63e38eb019ad4300a2d9533fae0db139328ceffd0861cd8db1c401ca0258d9
 
 whois:        whois.nic.paris
 
@@ -41929,7 +41925,7 @@ status:       ACTIVE
 remarks:      Registration information: http://mondomaine.paris.fr/
 
 created:      2014-03-27
-changed:      2024-03-15
+changed:      2024-09-11
 source:       IANA
 
 % IANA WHOIS server
@@ -43067,8 +43063,12 @@ nserver:      A.NIC.PID 194.169.218.47 2001:67c:13cc:0:0:0:1:47
 nserver:      B.NIC.PID 185.24.64.47 2a04:2b00:13cc:0:0:0:1:47
 nserver:      C.NIC.PID 212.18.248.47 2a04:2b00:13ee:0:0:0:0:47
 nserver:      D.NIC.PID 212.18.249.47 2a04:2b00:13ff:0:0:0:0:47
-ds-rdata:     35396 8 2 e8653b5c02c27cc66fd56d529656c23da9dc0231f060d527e231659f9ef27964
+nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
+nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
+nserver:      NS01.TRS-DNS.NET 64.96.2.1
+nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
 ds-rdata:     40310 8 2 2415bf6a21e16aa37db85091772fd176ca35ac24ca8ab1c95b81df13f7fa0754
+ds-rdata:     59747 8 2 787344f262181e467e0adde855b6015f6020a0136ba6ee835b1719e298879304
 
 whois:        whois.nic.pid
 
@@ -43076,7 +43076,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.topspectrum.com/
 
 created:      2015-12-10
-changed:      2024-04-30
+changed:      2024-09-06
 source:       IANA
 
 % IANA WHOIS server
@@ -43694,7 +43694,6 @@ fax-no:       +33 1 39 30 83 01
 e-mail:       tld-tech@nic.fr
 
 nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
-nserver:      E.EXT.NIC.FR 193.176.144.22 2a00:d78:0:102:193:176:144:22
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
 ds-rdata:     6926 13 2 a6c8233fc45f53c788ee2adfeea7dac7abb8b7108c25e38b56a3fa6848715f48
@@ -43705,7 +43704,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.pm
 
 created:      1997-08-20
-changed:      2024-04-15
+changed:      2024-09-09
 source:       IANA
 
 % IANA WHOIS server
@@ -45418,7 +45417,6 @@ fax-no:       +33 1 39 30 83 01
 e-mail:       tld-tech@nic.fr
 
 nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
-nserver:      E.EXT.NIC.FR 193.176.144.22 2a00:d78:0:102:193:176:144:22
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
 ds-rdata:     61047 13 2 6a6546f44c8680c705612f9722a591dbbb88bf0d40e89e1cb45fad18eee3d4ea
@@ -45429,7 +45427,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.re
 
 created:      1997-04-07
-changed:      2024-04-26
+changed:      2024-09-09
 source:       IANA
 
 % IANA WHOIS server
@@ -51178,6 +51176,7 @@ nserver:      NS.UCAD.SN 196.1.95.1
 nserver:      NS1.SONATEL.SN 213.154.64.11
 nserver:      SN.CCTLD.AUTHDNS.RIPE.NET 193.0.9.111 2001:67c:e0:0:0:0:0:111
 ds-rdata:     36827 13 2 992ed3a8cd111420e26fd9a8b8885c3beafa13507eb0606449aea1dadc21b25f
+ds-rdata:     17591 13 2 b6dd49f142b2b79e8581db8ab1a9df7e9289bbdd06be3ddbae21673407e60287
 
 whois:        whois.nic.sn
 
@@ -51185,7 +51184,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.nicsenegal.sn
 
 created:      1993-03-19
-changed:      2024-04-26
+changed:      2024-09-11
 source:       IANA
 
 % IANA WHOIS server
@@ -51224,7 +51223,6 @@ e-mail:       pocsncf@afnic.fr
 nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
-ds-rdata:     42021 13 2 76868912d2c9ac062cc7b403ad3f32daffeb37cf4c220bf74e196fb75f7c861c
 ds-rdata:     55518 13 2 6fffe7594578aba56bebcb0b29c9d0ef8799597872eff2a353eb30ddab2bc47c
 
 whois:        whois.nic.sncf
@@ -51233,7 +51231,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.sncf.com
 
 created:      2015-05-08
-changed:      2024-07-31
+changed:      2024-09-11
 source:       IANA
 
 % IANA WHOIS server
@@ -54614,7 +54612,6 @@ fax-no:       +33 1 39 30 83 01
 e-mail:       tld-tech@nic.fr
 
 nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
-nserver:      E.EXT.NIC.FR 193.176.144.22 2a00:d78:0:102:193:176:144:22
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
 ds-rdata:     61832 13 2 9b5c9089b84d2138e6c30163d9b169e6e793236827ce2a0eedab7cb96c644d83
@@ -54625,7 +54622,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.tf
 
 created:      1997-08-26
-changed:      2024-03-14
+changed:      2024-09-09
 source:       IANA
 
 % IANA WHOIS server
@@ -56907,26 +56904,24 @@ address:      Madurai Tamil Nadu 625001
 address:      India
 
 contact:      administrative
-name:         Chief Digital Officer
-organisation: TVS & Sons Pvt Ltd
-address:      58, Eldams Road
-address:      Teynampet
-address:      Chennai Tamil Nadu 600018
-address:      India
-phone:        +91 44 66857717
-fax-no:       +91 44 66857750
-e-mail:       registry.gtld@tvs.in
+name:         Benoit Levac, SVice President, Engineering
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldadmin@identity.digital
 
 contact:      technical
-name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias
-address:      300 Welsh Road
-address:      Building 3, Suite 105
-address:      Horsham PA 19044
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue Washington 98004
 address:      United States of America (the)
-phone:        +1 215.706.5700
-fax-no:       +1 215.706.5701
-e-mail:       tld-tech-poc@afilias.info
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
 
 nserver:      A0.NIC.TVS 2a01:8840:c6:0:0:0:0:9 65.22.204.9
 nserver:      A2.NIC.TVS 2a01:8840:c9:0:0:0:0:9 65.22.207.9
@@ -56940,7 +56935,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.tvs.in
 
 created:      2016-02-05
-changed:      2020-10-30
+changed:      2024-09-05
 source:       IANA
 
 % IANA WHOIS server
@@ -60141,7 +60136,6 @@ fax-no:       +33 1 39 30 83 01
 e-mail:       tld-tech@nic.fr
 
 nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
-nserver:      E.EXT.NIC.FR 193.176.144.22 2a00:d78:0:102:193:176:144:22
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
 ds-rdata:     19250 13 2 6fa97d147253c2afb0cfcf18edb8c97e592d05e0845b6c644c3793fed8a756dd
@@ -60152,7 +60146,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.wf
 
 created:      1997-11-14
-changed:      2024-03-12
+changed:      2024-09-09
 source:       IANA
 
 % IANA WHOIS server
@@ -69261,7 +69255,6 @@ fax-no:       +33 1 39 30 83 01
 e-mail:       tld-tech@nic.fr
 
 nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
-nserver:      E.EXT.NIC.FR 193.176.144.22 2a00:d78:0:102:193:176:144:22
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
 ds-rdata:     2488 13 2 185aed42dc3641ea53ec74c474aeaf72f049556fe306ded0e748b60c5fed1000
@@ -69272,7 +69265,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.yt
 
 created:      1997-11-17
-changed:      2024-03-25
+changed:      2024-09-09
 source:       IANA
 
 % IANA WHOIS server

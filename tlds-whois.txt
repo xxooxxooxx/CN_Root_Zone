@@ -13497,7 +13497,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.cpa.com
 
 created:      2019-09-11
-changed:      2023-12-08
+changed:      2024-09-23
 source:       IANA
 
 % IANA WHOIS server
@@ -14364,45 +14364,13 @@ source:       IANA
 
 domain:       DABUR
 
-organisation: Dabur India Limited
-address:      Dabur Tower, Kaushambi, Sahibabad
-address:      Ghaziabad Uttar Pradesh 201010
-address:      India
+whois:        
 
-contact:      administrative
-name:         Head, IT
-organisation: Dabur India Limited
-address:      Dabur Tower, Kaushambi, Sahibabad
-address:      Ghaziabad Uttar Pradesh 201010
-address:      India
-phone:        +91.1203982000
-fax-no:       +91.1204374935
-e-mail:       domain.owner@dabur.com
-
-contact:      technical
-name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias
-address:      300 Welsh Road
-address:      Building 3, Suite 105
-address:      Horsham PA 19044
-address:      United States of America (the)
-phone:        +1 215.706.5700
-fax-no:       +1 215.706.5701
-e-mail:       tld-tech-poc@afilias.info
-
-nserver:      A0.NIC.DABUR 2a01:8840:ae:0:0:0:0:25 65.22.180.25
-nserver:      A2.NIC.DABUR 2a01:8840:b1:0:0:0:0:25 65.22.183.25
-nserver:      B0.NIC.DABUR 2a01:8840:af:0:0:0:0:25 65.22.181.25
-nserver:      C0.NIC.DABUR 2a01:8840:b0:0:0:0:0:25 65.22.182.25
-ds-rdata:     12355 8 2 bc18991e60b16ed8791d94ea935d83e9d40e2cba9ac8b824a40191e5f5f50ae4
-
-whois:        whois.nic.dabur
-
-status:       ACTIVE
-remarks:      Registration information: http://www.dabur.com
+status:       FORMER
+remarks:      Registration information: 
 
 created:      2015-01-15
-changed:      2023-08-04
+changed:      2024-09-25
 source:       IANA
 
 % IANA WHOIS server
@@ -36256,7 +36224,6 @@ nserver:      EUR1.NIPR.MIL 199.252.154.234 2608:4122:2:154:0:0:0:234
 nserver:      EUR2.NIPR.MIL 199.252.143.234 2608:4163:1:143:0:0:0:234
 nserver:      PAC1.NIPR.MIL 199.252.180.234 2608:c184:1:180:0:0:0:234
 nserver:      PAC2.NIPR.MIL 199.252.155.234 2608:c144:1:155:0:0:0:234
-ds-rdata:     16801 8 2 49013e5d5ed406c25c5a3e7f67c756e34c925342a34bd64d7427536c366df99a
 ds-rdata:     63500 8 2 3baa83867103d6604a124282063f295e1b15c87cc13cb875a42f5754a912ebe0
 
 whois:        
@@ -36265,7 +36232,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      1985-01-01
-changed:      2024-09-13
+changed:      2024-09-19
 source:       IANA
 
 % IANA WHOIS server
@@ -65793,7 +65760,7 @@ nserver:      CLOUDNS.NIC.NET.JO 2a05:d018:123c:3500:3e00:7185:3a6e:e082 54.155.
 nserver:      JO.CCTLD.AUTHDNS.RIPE.NET 193.0.9.83 2001:67c:e0:0:0:0:0:83
 nserver:      JORDAN1ST.NIC.GOV.JO 193.188.69.19 2a02:9c0:0:19:0:0:0:19
 nserver:      PETRA.NIC.GOV.JO 193.188.66.2
-ds-rdata:     16636 8 2 1897394f6281ab9881583bff57ee32b0200c1e30fe01f99405eede36ba83da7c
+ds-rdata:     31715 8 2 e7b5191787c7db3c20bfcf917807791eb09917e887ebb7cbb3d11678e9767ad1
 
 whois:        
 
@@ -65801,7 +65768,7 @@ status:       ACTIVE
 remarks:      Registration information: https://dns.jo/
 
 created:      2010-08-20
-changed:      2024-05-28
+changed:      2024-09-19
 source:       IANA
 
 % IANA WHOIS server

@@ -5569,7 +5569,6 @@ nserver:      C.NSSET.BE 194.0.43.1 2001:678:68:0:0:0:0:1
 nserver:      D.NSSET.BE 194.0.44.1 2001:678:6c:0:0:0:0:1
 nserver:      Y.NSSET.BE 120.29.253.8 2001:dcd:7:0:0:0:0:8
 nserver:      Z.NSSET.BE 194.0.25.36 2001:678:20:0:0:0:0:36
-ds-rdata:     12664 8 2 75141e9b1188a95a7a855bf47e278a742a5e3f2ddeed8e995d749d48f2f0e72d
 ds-rdata:     52756 8 2 5485ac33dd7c7ed237ea2a4bd269731c816960fe181042024484b5ceca6ecc9f
 
 whois:        whois.dns.be
@@ -5578,7 +5577,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.dnsbelgium.be
 
 created:      1988-08-05
-changed:      2021-03-22
+changed:      2024-10-02
 source:       IANA
 
 % IANA WHOIS server
@@ -8156,7 +8155,6 @@ nserver:      D.NSSET.BRUSSELS 194.0.44.1 2001:678:6c:0:0:0:0:1
 nserver:      Y.NSSET.BRUSSELS 120.29.253.8 2001:dcd:7:0:0:0:0:8
 nserver:      Z.NSSET.BRUSSELS 194.0.25.14 2001:678:20:0:0:0:0:14
 ds-rdata:     62419 8 2 d753ce72a834c746df60a7d2c7bd6e64151c576fcd066f95e451c3b5955d8294
-ds-rdata:     28780 8 2 ea50cab83940b6aa791bd1a0c47abd6c8549d43cf2776a48fac633260f3bee93
 
 whois:        whois.nic.brussels
 
@@ -8164,7 +8162,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.brussels
 
 created:      2014-06-05
-changed:      2021-01-25
+changed:      2024-10-01
 source:       IANA
 
 % IANA WHOIS server
@@ -27251,6 +27249,7 @@ nserver:      G.NS.IE 192.111.39.100 2001:7c8:2:a:0:0:0:64
 nserver:      H.NS.IE 192.93.0.4 2001:660:3005:1:0:0:1:2
 nserver:      I.NS.IE 194.0.25.35 2001:678:20:0:0:0:0:35
 ds-rdata:     15040 13 2 966ec13e38ad71eb585fb1982308930d96cf88873a065188ac11c469435abd39
+ds-rdata:     5150 13 2 8783faf3cc1a482638f1a822a92b6a0ffb791ab2a442232778acabfca26fea31
 
 whois:        whois.weare.ie
 
@@ -27258,7 +27257,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.weare.ie
 
 created:      1988-01-27
-changed:      2023-06-30
+changed:      2024-10-02
 source:       IANA
 
 % IANA WHOIS server
@@ -37912,14 +37911,14 @@ fax-no:       +852 2319 2626
 e-mail:       cherry.lam@hkirc.hk
 
 contact:      technical
-name:         James Ma
+name:         John Lam
 organisation: Hong Kong Internet Registration Corporation Limited
 address:      Unit 501, Level 5, Core C, Cyberport 3
 address:      100 Cyberport Road
 address:      Hong Kong
 phone:        +852 2319 2303
 fax-no:       +852 2319 2626
-e-mail:       james.ma@hkirc.hk
+e-mail:       john.lam@hkirc.hk
 
 nserver:      NS1.NIC.MTR 2001:dca:4000:0:0:0:cb77:2a4 203.119.2.164
 nserver:      NS2.NIC.MTR 2001:dca:2000:0:0:0:cb77:57a4 203.119.87.164
@@ -37933,7 +37932,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.mtr
 
 created:      2015-07-31
-changed:      2024-04-09
+changed:      2024-10-01
 source:       IANA
 
 % IANA WHOIS server
@@ -38070,7 +38069,7 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.music/
 
 created:      2021-10-14
-changed:      2024-08-17
+changed:      2024-10-02
 source:       IANA
 
 % IANA WHOIS server
@@ -38209,11 +38208,11 @@ phone:        +52 (81) 8864 2600
 e-mail:       tech-iana@nic.mx
 
 nserver:      C.MX-NS.MX 192.100.224.1 2001:1258:0:0:0:0:0:1
-nserver:      E.MX-NS.MX 189.201.244.1
-nserver:      I.MX-NS.MX 207.248.68.1
+nserver:      E.MX-NS.MX 189.201.244.1 2801:c4:c0:0:0:0:0:1
+nserver:      I.MX-NS.MX 207.248.68.1 2801:c4:d0:0:0:0:0:1
 nserver:      M.MX-NS.MX 200.94.176.1 2001:13c7:7000:0:0:0:0:1
-nserver:      O.MX-NS.MX 200.23.1.1
-nserver:      X.MX-NS.MX 201.131.252.1
+nserver:      O.MX-NS.MX 200.23.1.1 2001:1201:0:0:0:0:0:1
+nserver:      X.MX-NS.MX 2001:1201:10:0:0:0:0:1 201.131.252.1
 ds-rdata:     62752 8 2 1b2f55dbf6cfb9eb66b0963daa6bbe2cbbdcb851598fec25ec2ccdc9a3785a12
 
 whois:        whois.mx
@@ -38222,7 +38221,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.registry.mx/
 
 created:      1989-02-01
-changed:      2024-02-15
+changed:      2024-09-27
 source:       IANA
 
 % IANA WHOIS server
@@ -40972,6 +40971,7 @@ nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
 nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
 nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
 ds-rdata:     4269 8 2 439d91ed221de512cb04f3a7218db1b019340b8d6228ab73dead0df30ab5cf7b
+ds-rdata:     49055 8 2 7feb12a48d98dc3497171fa326dc92352f0c755d2cb7247950c3f42fe6f35871
 
 whois:        whois.nic.omega
 
@@ -40979,7 +40979,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.swatchgroup.com/
 
 created:      2015-04-23
-changed:      2022-08-15
+changed:      2024-09-27
 source:       IANA
 
 % IANA WHOIS server
@@ -43018,15 +43018,13 @@ fax-no:       +1.206-238-1232
 e-mail:       contact@topspectrum.com
 
 contact:      technical
-name:         CTO
-organisation: CentralNic
-address:      Saddlers House, 4th Floor
-address:      44 Gutter Lane
-address:      London EC2V 6BR
-address:      United Kingdom of Great Britain and Northern Ireland (the)
-phone:        +44 20 33 88 0600
-fax-no:       +44 20 33 88 0601
-e-mail:       tld.ops@centralnic.com
+name:         Francisco Obispo
+organisation: Tucows Inc
+address:      96 Mowat Avenue
+address:      Toronto Ontario M6K3M1
+address:      Canada
+phone:        +1.949.903.3449
+e-mail:       trs-ops@tucows.com
 
 nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
 nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
@@ -43041,7 +43039,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.topspectrum.com/
 
 created:      2015-12-10
-changed:      2024-09-16
+changed:      2024-09-30
 source:       IANA
 
 % IANA WHOIS server
@@ -49971,6 +49969,7 @@ nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
 nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
 nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
 ds-rdata:     55158 8 2 be8c4ab62ce5f9ac998c8c1383340f7800a43a6a903f061791b19af6f6dbb9d5
+ds-rdata:     63424 8 2 8429208f879143266aa1eec685057c5c099912031d27bd1e0bc61732036b4d50
 
 whois:        whois.nic.shell
 
@@ -49978,7 +49977,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.shell.com
 
 created:      2015-11-06
-changed:      2023-12-06
+changed:      2024-09-27
 source:       IANA
 
 % IANA WHOIS server
@@ -53237,6 +53236,7 @@ nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
 nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
 nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
 ds-rdata:     46125 8 2 f8f63257d53d748eac6844c412a246db125e330f646d32922fd947e9f6a1fac2
+ds-rdata:     63214 8 2 2cca5b625235170eea1b1151293b5ec127a83984bc6dd2af8cce71dd93d2a495
 
 whois:        whois.nic.swatch
 
@@ -53244,7 +53244,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.swatchgroup.com/
 
 created:      2015-04-23
-changed:      2022-08-15
+changed:      2024-09-27
 source:       IANA
 
 % IANA WHOIS server
@@ -58885,7 +58885,6 @@ nserver:      D.NSSET.VLAANDEREN 194.0.44.1 2001:678:6c:0:0:0:0:1
 nserver:      Y.NSSET.VLAANDEREN 120.29.253.8 2001:dcd:7:0:0:0:0:8
 nserver:      Z.NSSET.VLAANDEREN 194.0.25.19 2001:678:20:0:0:0:0:19
 ds-rdata:     9286 8 2 f04e1190a18d3e63b8fd5261768ef06f8fa5f27f80f39c54aa81753b203e05e7
-ds-rdata:     54397 8 2 2d655a3f1a0c26ad210018757ffbb754b2c4b167673283ddc1496c614ae7a9f5
 
 whois:        whois.nic.vlaanderen
 
@@ -58893,7 +58892,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.vlaanderen
 
 created:      2014-06-05
-changed:      2021-02-16
+changed:      2024-09-30
 source:       IANA
 
 % IANA WHOIS server

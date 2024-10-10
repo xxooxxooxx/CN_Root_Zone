@@ -27248,7 +27248,6 @@ nserver:      E.NS.IE 185.159.199.210 2620:10a:80ac:0:0:0:0:210
 nserver:      G.NS.IE 192.111.39.100 2001:7c8:2:a:0:0:0:64
 nserver:      H.NS.IE 192.93.0.4 2001:660:3005:1:0:0:1:2
 nserver:      I.NS.IE 194.0.25.35 2001:678:20:0:0:0:0:35
-ds-rdata:     15040 13 2 966ec13e38ad71eb585fb1982308930d96cf88873a065188ac11c469435abd39
 ds-rdata:     5150 13 2 8783faf3cc1a482638f1a822a92b6a0ffb791ab2a442232778acabfca26fea31
 
 whois:        whois.weare.ie
@@ -27257,7 +27256,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.weare.ie
 
 created:      1988-01-27
-changed:      2024-10-02
+changed:      2024-10-07
 source:       IANA
 
 % IANA WHOIS server
@@ -34535,6 +34534,7 @@ e-mail:       tech-c@nic.lv
 
 nserver:      A.NIC.LV 194.0.48.1 2001:678:7c:0:0:0:0:7c
 nserver:      B.NIC.LV 92.240.70.1
+nserver:      C.NIC.LV 185.159.199.140 2620:10a:80ac:0:0:0:0:140
 nserver:      D.NIC.LV 194.0.8.1 2001:678:b:1:0:0:0:1
 nserver:      N.NIC.LV 194.146.106.150 2001:67c:1010:38:0:0:0:53
 nserver:      NU.NIC.LV 2a01:3f0:0:312:0:0:0:53 77.72.229.249
@@ -34547,7 +34547,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.lv/
 
 created:      1993-04-29
-changed:      2021-12-23
+changed:      2024-10-04
 source:       IANA
 
 % IANA WHOIS server
@@ -38060,8 +38060,7 @@ nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
 nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
 nserver:      NS01.TRS-DNS.NET 64.96.2.1
 nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
-ds-rdata:     11216 8 2 d45430b83157049bebd9590cf68625c5161b1902e6c0a708c34c6c71461d1f6f
-ds-rdata:     8489 8 2 a9a8a4740c96dc2bf6c31baf38dc0c7f50862bfeed32db9df7e3956bf552ad10
+ds-rdata:     14632 13 2 68f411322e670c84337b2182422af6e8f95c367c24e79cd4326b2276f52f4603
 
 whois:        whois.nic.music
 
@@ -38069,7 +38068,7 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.music/
 
 created:      2021-10-14
-changed:      2024-10-02
+changed:      2024-10-08
 source:       IANA
 
 % IANA WHOIS server
@@ -40966,10 +40965,14 @@ phone:        +1-703-925-6999
 fax-no:       +1-703-948-3978
 e-mail:       info@verisign-grs.com
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+nserver:      DNS1.NIC.OMEGA 213.248.219.140 2a01:618:403:0:0:0:0:140
+nserver:      DNS2.NIC.OMEGA 103.49.83.140 2401:fd80:403:0:0:0:0:140
+nserver:      DNS3.NIC.OMEGA 213.248.223.140 2a01:618:407:0:0:0:0:140
+nserver:      DNS4.NIC.OMEGA 2401:fd80:407:0:0:0:0:140 43.230.51.140
+nserver:      DNSA.NIC.OMEGA 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.NIC.OMEGA 156.154.101.3 2001:502:2eda:0:0:0:0:3
+nserver:      DNSC.NIC.OMEGA 156.154.102.3 2610:a1:1009:0:0:0:0:3
+nserver:      DNSD.NIC.OMEGA 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     4269 8 2 439d91ed221de512cb04f3a7218db1b019340b8d6228ab73dead0df30ab5cf7b
 ds-rdata:     49055 8 2 7feb12a48d98dc3497171fa326dc92352f0c755d2cb7247950c3f42fe6f35871
 
@@ -40979,7 +40982,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.swatchgroup.com/
 
 created:      2015-04-23
-changed:      2024-09-27
+changed:      2024-10-08
 source:       IANA
 
 % IANA WHOIS server
@@ -43030,8 +43033,7 @@ nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
 nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
 nserver:      NS01.TRS-DNS.NET 64.96.2.1
 nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
-ds-rdata:     40310 8 2 2415bf6a21e16aa37db85091772fd176ca35ac24ca8ab1c95b81df13f7fa0754
-ds-rdata:     59747 8 2 787344f262181e467e0adde855b6015f6020a0136ba6ee835b1719e298879304
+ds-rdata:     43839 13 2 a8997ec116a3e8e9beff3c5170352c427956ddd9e3fbaa5166108d1a61574246
 
 whois:        whois.nic.pid
 
@@ -43039,7 +43041,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.topspectrum.com/
 
 created:      2015-12-10
-changed:      2024-09-30
+changed:      2024-10-08
 source:       IANA
 
 % IANA WHOIS server
@@ -47966,14 +47968,16 @@ phone:        +82 70 4310 9630
 fax-no:       +82 2 2028 0011
 e-mail:       info@yesnic.com
 
+nserver:      N1-A1.AKA-NS.NET 23.2.10.1 2600:1405:4800:0:0:0:0:1
+nserver:      N1-A13.AKA-NS.NET 184.29.150.1 2600:1405:400:0:0:0:0:1
+nserver:      N1-A20.AKA-NS.NET 184.29.154.1 2600:1405:2400:0:0:0:0:1
+nserver:      N1-A26.AKA-NS.NET 184.29.157.1 2600:1405:3c00:0:0:0:0:1
+nserver:      N1-A4.AKA-NS.NET 23.59.162.1 2600:1405:7800:0:0:0:0:1
+nserver:      N1-A7.AKA-NS.NET 2600:1405:a800:0:0:0:0:1 96.16.208.1
 nserver:      NS1.SAMSUNG.CENTRALNIC-DNS.COM 194.169.218.112 2001:67c:13cc:0:0:0:1:112
 nserver:      NS2.SAMSUNG.CENTRALNIC-DNS.COM 185.24.64.112 2a04:2b00:13cc:0:0:0:1:112
 nserver:      NS3.SAMSUNG.CENTRALNIC-DNS.COM 212.18.248.112 2a04:2b00:13ee:0:0:0:0:112
 nserver:      NS4.SAMSUNG.CENTRALNIC-DNS.COM 212.18.249.112 2a04:2b00:13ff:0:0:0:0:112
-nserver:      TLD01.AKAM.NET 23.201.98.96 2600:1480:5806:0:0:0:0:a0
-nserver:      TLD02.AKAM.NET 23.201.99.96 2600:1480:5807:0:0:0:0:a0
-nserver:      TLD03.AKAM.NET 23.201.100.96 2600:1480:5808:0:0:0:0:a0
-nserver:      TLD04.AKAM.NET 23.201.101.96 2600:1480:5809:0:0:0:0:a0
 ds-rdata:     19194 7 2 144b461cb8ad9212307c53173ef72139a418eab09997fc366484335d0aae91fe
 
 whois:        whois.nic.samsung
@@ -47982,7 +47986,7 @@ status:       ACTIVE
 remarks:      Registration information: http://samsungregistry.com
 
 created:      2014-10-30
-changed:      2024-01-16
+changed:      2024-10-04
 source:       IANA
 
 % IANA WHOIS server
@@ -49964,10 +49968,14 @@ phone:        +1-703-925-6999
 fax-no:       +1-703-948-3978
 e-mail:       info@verisign-grs.com
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+nserver:      DNS1.NIC.SHELL 213.248.219.137 2a01:618:403:0:0:0:0:137
+nserver:      DNS2.NIC.SHELL 103.49.83.137 2401:fd80:403:0:0:0:0:137
+nserver:      DNS3.NIC.SHELL 213.248.223.137 2a01:618:407:0:0:0:0:137
+nserver:      DNS4.NIC.SHELL 2401:fd80:407:0:0:0:0:137 43.230.51.137
+nserver:      DNSA.NIC.SHELL 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.NIC.SHELL 156.154.101.3 2001:502:2eda:0:0:0:0:3
+nserver:      DNSC.NIC.SHELL 156.154.102.3 2610:a1:1009:0:0:0:0:3
+nserver:      DNSD.NIC.SHELL 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     55158 8 2 be8c4ab62ce5f9ac998c8c1383340f7800a43a6a903f061791b19af6f6dbb9d5
 ds-rdata:     63424 8 2 8429208f879143266aa1eec685057c5c099912031d27bd1e0bc61732036b4d50
 
@@ -49977,7 +49985,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.shell.com
 
 created:      2015-11-06
-changed:      2024-09-27
+changed:      2024-10-08
 source:       IANA
 
 % IANA WHOIS server
@@ -53231,10 +53239,14 @@ phone:        +1-703-925-6999
 fax-no:       +1-703-948-3978
 e-mail:       info@verisign-grs.com
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+nserver:      DNS1.NIC.SWATCH 213.248.219.139 2a01:618:403:0:0:0:0:139
+nserver:      DNS2.NIC.SWATCH 103.49.83.139 2401:fd80:403:0:0:0:0:139
+nserver:      DNS3.NIC.SWATCH 213.248.223.139 2a01:618:407:0:0:0:0:139
+nserver:      DNS4.NIC.SWATCH 2401:fd80:407:0:0:0:0:139 43.230.51.139
+nserver:      DNSA.NIC.SWATCH 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.NIC.SWATCH 156.154.101.3 2001:502:2eda:0:0:0:0:3
+nserver:      DNSC.NIC.SWATCH 156.154.102.3 2610:a1:1009:0:0:0:0:3
+nserver:      DNSD.NIC.SWATCH 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     46125 8 2 f8f63257d53d748eac6844c412a246db125e330f646d32922fd947e9f6a1fac2
 ds-rdata:     63214 8 2 2cca5b625235170eea1b1151293b5ec127a83984bc6dd2af8cce71dd93d2a495
 
@@ -53244,7 +53256,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.swatchgroup.com/
 
 created:      2015-04-23
-changed:      2024-09-27
+changed:      2024-10-08
 source:       IANA
 
 % IANA WHOIS server
@@ -56177,6 +56189,8 @@ e-mail:       gokhan.usta@btk.gov.tr
 
 nserver:      NS41.NS.TR 185.7.0.2
 nserver:      NS42.NS.TR 185.7.0.3
+nserver:      NS43.NS.TR 185.7.0.4
+nserver:      NS44.NS.TR 185.7.0.5
 nserver:      NS61.NS.TR 206.51.254.1 2620:171:804:ad2:0:0:0:1
 nserver:      NS71.NS.TR 185.67.32.53
 nserver:      NS72.NS.TR 2603:1020:201:10:0:0:0:111 40.68.114.66
@@ -56190,7 +56204,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.trabis.gov.tr
 
 created:      1990-09-17
-changed:      2024-08-02
+changed:      2024-10-09
 source:       IANA
 
 % IANA WHOIS server
@@ -63217,14 +63231,16 @@ phone:        +82 70 4310 9630
 fax-no:       +82 2 2028 0011
 e-mail:       info@yesnic.com
 
+nserver:      N1-A1.AKA-NS.NET 23.2.10.1 2600:1405:4800:0:0:0:0:1
+nserver:      N1-A13.AKA-NS.NET 184.29.150.1 2600:1405:400:0:0:0:0:1
+nserver:      N1-A20.AKA-NS.NET 184.29.154.1 2600:1405:2400:0:0:0:0:1
+nserver:      N1-A26.AKA-NS.NET 184.29.157.1 2600:1405:3c00:0:0:0:0:1
+nserver:      N1-A4.AKA-NS.NET 23.59.162.1 2600:1405:7800:0:0:0:0:1
+nserver:      N1-A7.AKA-NS.NET 2600:1405:a800:0:0:0:0:1 96.16.208.1
 nserver:      NS1.XN--CG4BKI.CENTRALNIC-DNS.COM 194.169.218.113 2001:67c:13cc:0:0:0:1:113
 nserver:      NS2.XN--CG4BKI.CENTRALNIC-DNS.COM 185.24.64.113 2a04:2b00:13cc:0:0:0:1:113
 nserver:      NS3.XN--CG4BKI.CENTRALNIC-DNS.COM 212.18.248.113 2a04:2b00:13ee:0:0:0:0:113
 nserver:      NS4.XN--CG4BKI.CENTRALNIC-DNS.COM 212.18.249.113 2a04:2b00:13ff:0:0:0:0:113
-nserver:      TLD01.AKAM.NET 23.201.98.96 2600:1480:5806:0:0:0:0:a0
-nserver:      TLD02.AKAM.NET 23.201.99.96 2600:1480:5807:0:0:0:0:a0
-nserver:      TLD03.AKAM.NET 23.201.100.96 2600:1480:5808:0:0:0:0:a0
-nserver:      TLD04.AKAM.NET 23.201.101.96 2600:1480:5809:0:0:0:0:a0
 ds-rdata:     59631 7 2 7a16187809f4725a91f192336f6a9576f246df35edf500a1356b8c8dff2d59f1
 
 whois:        whois.kr
@@ -63233,7 +63249,7 @@ status:       ACTIVE
 remarks:      Registration information: http://samsungregistry.com
 
 created:      2013-12-12
-changed:      2024-01-16
+changed:      2024-10-04
 source:       IANA
 
 % IANA WHOIS server

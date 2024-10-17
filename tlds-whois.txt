@@ -1501,6 +1501,7 @@ nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
 nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
 nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
 ds-rdata:     31023 8 2 fafdd4f89fa42d1396b42a972019bd3de013bd1708888fd77bd7dada8a38936d
+ds-rdata:     51547 8 2 982b16e3bae278ab7146e3bdedaf3bfc9c8c46d7db3485321019d10c7f5108ee
 
 whois:        whois.nic.airbus
 
@@ -1508,7 +1509,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2016-05-26
-changed:      2020-10-01
+changed:      2024-10-15
 source:       IANA
 
 % IANA WHOIS server
@@ -13969,7 +13970,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.cu
 
 created:      1992-06-03
-changed:      2023-02-28
+changed:      2024-10-14
 source:       IANA
 
 % IANA WHOIS server
@@ -25644,14 +25645,14 @@ fax-no:       +852 2319 2626
 e-mail:       info@hkirc.hk
 
 contact:      technical
-name:         James Ma
+name:         John Lam
 organisation: Hong Kong Internet Registration Corporation Ltd.
 address:      Unit 501, Level 5, Core C, Cyberport 3
 address:      100 Cyberport Road
 address:      Hong Kong
 phone:        +852 2319 2303
 fax-no:       +852 2319 2626
-e-mail:       james.ma@hkirc.hk
+e-mail:       john.lam@hkirc.hk
 
 nserver:      C.HKIRC.NET.HK 2001:dca:4000:0:0:0:cb77:2da 203.119.2.218
 nserver:      D.HKIRC.NET.HK 2001:dca:2000:0:0:0:cb77:57da 203.119.87.218
@@ -25670,7 +25671,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.hkirc.hk
 
 created:      1990-01-03
-changed:      2024-04-11
+changed:      2024-10-10
 source:       IANA
 
 % IANA WHOIS server
@@ -28554,7 +28555,7 @@ e-mail:       cto@irnic.ir
 
 nserver:      A.NIC.IR 193.189.123.2 2001:678:b0:0:193:189:123:2
 nserver:      B.NIC.IR 193.189.122.83 2001:678:b1:0:193:189:122:83
-nserver:      C.NIC.IR 141.95.65.136 2001:41d0:700:5d88:0:0:0:0
+nserver:      C.NIC.IR 2a0c:6600:4:0:0:0:0:152 45.93.171.206
 nserver:      D.NIC.IR 194.225.70.83 2001:14e8:c:0:194:225:70:83
 ds-rdata:     47300 13 2 7ab287956a55abd60dc8697c2049738fd5eeab6f2070152b015d59929521dada
 ds-rdata:     47300 13 4 fe3a9bfd3aed31cbd1e2f6b45c88d81b5cca68cdc9d46080c1c4afbd491ae3a9f6dfbfc4320111144c375d648ae3cdf6
@@ -28565,7 +28566,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.ir
 
 created:      1994-04-06
-changed:      2023-10-17
+changed:      2024-10-15
 source:       IANA
 
 % IANA WHOIS server
@@ -29909,7 +29910,7 @@ nserver:      TLD2.NIC.JPRS 117.104.133.16 2001:218:3001:0:0:0:0:1
 nserver:      TLD3.NIC.JPRS 2a01:8840:1ba:0:0:0:0:1 65.22.40.1
 nserver:      TLD4.NIC.JPRS 103.198.210.1 2403:2880:0:0:0:0:0:1
 nserver:      TLD5.NIC.JPRS 2a01:8840:1ba:0:0:0:0:129 65.22.40.129
-ds-rdata:     58219 8 2 978a76db730f3ea33f8e68179624067461e501e870e2f7168c4c15eb3e1cedb7
+ds-rdata:     14500 8 2 1e07f9bc32099270bd8b9b91452ffbd6c04e5d4bf7b002703110d5c091df045d
 
 whois:        
 
@@ -29917,7 +29918,7 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.jprs/
 
 created:      2014-12-18
-changed:      2023-09-30
+changed:      2024-10-11
 source:       IANA
 
 % IANA WHOIS server
@@ -31060,7 +31061,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.star.co.kp
 
 created:      2007-09-24
-changed:      2023-02-28
+changed:      2024-10-14
 source:       IANA
 
 % IANA WHOIS server
@@ -38362,13 +38363,13 @@ nserver:      NA-NS.ANYCAST.PCH.NET 2001:500:14:6035:ad:0:0:1 204.61.216.35
 nserver:      NA.ANYCASTDNS.CZ 185.28.194.194 185.38.108.108
 ds-rdata:     25079 8 2 eae8c2767c1c52c78b844247a31b0ef44988782cb5517d502983ba75de98a627
 
-whois:        whois.na-nic.com.na
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.na-nic.com.na/
 
 created:      1991-05-08
-changed:      2022-10-04
+changed:      2024-10-16
 source:       IANA
 
 % IANA WHOIS server
@@ -39490,35 +39491,30 @@ source:       IANA
 
 domain:       NI
 
-organisation: Universidad Nacional del Ingernieria
-organisation: Centro de Computo
-address:      Avenida Universitaria
-address:      Frente a la UCA
-address:      Managua MR110
+organisation: Universidad Nacional del Ingernieria. Division de Tecnologias de la Informacion.
+address:      Sede Central Avenida Universitaria
+address:      Managua 5595
 address:      Nicaragua
 
 contact:      administrative
-name:         Nelson Moises Juarez Escorcia
+name:         Manuel Alejandro Godinez Duriez
 organisation: UNI (National University Engineering)
-address:      Avenida Universitaria Frente a la UCA
-address:      Rectoria UNI
-address:      Managua MR110
+address:      Sede Central Avenida Universitaria
+address:      Managua 5595
 address:      Nicaragua
 phone:        +505 2278-3142
 fax-no:       +505-2278-3141
-e-mail:       nelson.juarez@nic.uni.edu.ni
+e-mail:       manuel.godinez@dti.uni.edu.ni
 
 contact:      technical
-name:         Alfonso Boza
+name:         Manuel Alejandro Godinez Duriez
 organisation: Universidad Nacional del Ingernieria
-organisation: Administration NIC.NI
-address:      Avenida Universitaria
-address:      Frente a la UCA
-address:      Managua MR110
+address:      Sede Central Avenida Universitaria
+address:      Managua 5595
 address:      Nicaragua
-phone:        +505 278 3142
-fax-no:       +505 278 3141
-e-mail:       boza@nic.ni
+phone:        +505 2278 3142
+fax-no:       +505 2278 3141
+e-mail:       manuel.godinez@dti.uni.edu.ni
 
 nserver:      DNS-EXT.NIC.CR 200.107.82.219 2001:13c7:7004:110:0:0:0:219
 nserver:      NS.IDEAY.NET.NI 186.1.31.8
@@ -39533,7 +39529,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.ni
 
 created:      1989-10-13
-changed:      2024-08-22
+changed:      2024-10-11
 source:       IANA
 
 % IANA WHOIS server
@@ -46061,13 +46057,13 @@ address:      China
 phone:        86-10-58812426
 e-mail:       gaolei@zdns.cn
 
-nserver:      A.ZDNSCLOUD.COM 203.99.24.1
-nserver:      B.ZDNSCLOUD.COM 203.99.25.1
+nserver:      A.ZDNSCLOUD.CN 203.99.24.1
+nserver:      B.ZDNSCLOUD.CN 203.99.25.1
 nserver:      C.ZDNSCLOUD.COM 203.99.26.1
 nserver:      D.ZDNSCLOUD.COM 203.99.27.1
-nserver:      F.ZDNSCLOUD.COM 116.169.54.111
+nserver:      F.ZDNSCLOUD.CN 116.169.54.111
 nserver:      G.ZDNSCLOUD.COM 223.72.199.37
-nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
+nserver:      I.ZDNSCLOUD.CN 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     6712 8 2 06090fb53ae539ce051d9236a0c6b5fd58361167bc0d7f5e8e9eab4f62d4fffb
 
@@ -46077,7 +46073,7 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.ren/
 
 created:      2014-02-28
-changed:      2024-08-26
+changed:      2024-10-16
 source:       IANA
 
 % IANA WHOIS server
@@ -53401,7 +53397,7 @@ status:       ACTIVE
 remarks:      Registration information: http://tld.sy
 
 created:      1996-02-20
-changed:      2023-02-28
+changed:      2024-10-14
 source:       IANA
 
 % IANA WHOIS server
@@ -58704,6 +58700,7 @@ nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
 nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
 nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
 ds-rdata:     55863 8 2 b7d4dd6e17c137c8d9121055ec796100868870d2d31ac0dc5a2ce1972f692cb4
+ds-rdata:     61366 8 2 94d6f007f7a3cd81d061701497a7e54f801a495e219370723bab6f2707b68d6e
 
 whois:        whois.nic.visa
 
@@ -58711,7 +58708,7 @@ status:       ACTIVE
 remarks:      Registration information: http://visa.com
 
 created:      2016-06-30
-changed:      2020-10-01
+changed:      2024-10-15
 source:       IANA
 
 % IANA WHOIS server
@@ -64917,14 +64914,14 @@ fax-no:       +852 2319 2626
 e-mail:       info@hkirc.hk
 
 contact:      technical
-name:         James Ma
+name:         John Lam
 organisation: Hong Kong Internet Registration Corporation Ltd.
 address:      Unit 501, Level 5, Core C, Cyberport 3
 address:      100 Cyberport Road
 address:      Hong Kong
 phone:        +852 2319 2303
 fax-no:       +852 2319 2626
-e-mail:       james.ma@hkirc.hk
+e-mail:       john.lam@hkirc.hk
 
 nserver:      C.HKIRC.NET.HK 2001:dca:4000:0:0:0:cb77:2da 203.119.2.218
 nserver:      D.HKIRC.NET.HK 2001:dca:2000:0:0:0:cb77:57da 203.119.87.218
@@ -64943,7 +64940,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.hkirc.hk
 
 created:      2010-07-12
-changed:      2024-04-11
+changed:      2024-10-10
 source:       IANA
 
 % IANA WHOIS server
@@ -65481,7 +65478,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.ir
 
 created:      2011-02-05
-changed:      2023-08-22
+changed:      2024-10-14
 source:       IANA
 
 % IANA WHOIS server
@@ -66961,7 +66958,7 @@ status:       ACTIVE
 remarks:      Registration information: http://tld.sy
 
 created:      2011-02-05
-changed:      2023-03-07
+changed:      2024-10-14
 source:       IANA
 
 % IANA WHOIS server

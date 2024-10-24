@@ -2084,107 +2084,6 @@ source:       IANA
 % for more information on IANA, visit http://www.iana.org
 % This query returned 1 object
 
-domain:       AMAZON
-
-organisation: Amazon Registry Services, Inc.
-address:      410 Terry Avenue North
-address:      Seattle WA 98109
-address:      United States of America (the)
-
-contact:      administrative
-name:         Program Manager, Registry
-organisation: Amazon Registry Services, Inc
-address:      410 Terry Avenue North
-address:      Seattle WA 98109
-address:      United States of America (the)
-phone:        +1 206 646 5990
-fax-no:       +1-206-946-7702
-e-mail:       arsi-rzm@amazon.com
-
-contact:      technical
-name:         TLD Registry Services Technical
-organisation: Nominet
-address:      Minerva House
-address:      Edmund Halley Road
-address:      Oxford Science Park
-address:      Oxford OX4 4DQ
-address:      United Kingdom of Great Britain and Northern Ireland (the)
-phone:        +44.1865332211
-e-mail:       registrytechnical@nominet.uk
-
-nserver:      DNS1.NIC.AMAZON 213.248.218.90 2a01:618:402:0:0:0:0:90
-nserver:      DNS2.NIC.AMAZON 103.49.82.90 2401:fd80:402:0:0:0:0:90
-nserver:      DNS3.NIC.AMAZON 213.248.222.90 2a01:618:406:0:0:0:0:90
-nserver:      DNS4.NIC.AMAZON 2401:fd80:406:0:0:0:0:90 43.230.50.90
-nserver:      DNSA.NIC.AMAZON 156.154.100.3 2001:502:ad09:0:0:0:0:3
-nserver:      DNSB.NIC.AMAZON 156.154.101.3 2001:502:2eda:0:0:0:0:3
-nserver:      DNSC.NIC.AMAZON 156.154.102.3 2610:a1:1009:0:0:0:0:3
-nserver:      DNSD.NIC.AMAZON 156.154.103.3 2610:a1:1010:0:0:0:0:3
-ds-rdata:     14854 8 2 4f9f1805f5689bf4af48f0fa04bef8727b83eac65a669e8bf1a5eafa83350d39
-
-whois:        whois.nic.amazon
-
-status:       ACTIVE
-remarks:      Registration information:
-remarks:      https://www.amazonregistry.com/
-
-created:      2020-05-28
-changed:      2024-02-01
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
-domain:       AMERICANEXPRESS
-
-organisation: American Express Travel Related Services Company, Inc.
-address:      200 Vesey Street
-address:      New York NY 10285
-address:      United States of America (the)
-
-contact:      administrative
-name:         Admin
-organisation: American Express Travel Related Services, Inc.
-address:      200 Vesey Street
-address:      New York NY 10285
-address:      United States of America (the)
-phone:        +1 212 640 2000
-fax-no:       +1 212 640 9212
-e-mail:       ngtld-amex@cscglobal.com
-
-contact:      technical
-name:         IANA Contact
-organisation: GoDaddy Registry
-address:      100 S. Mill Ave, Suite 1600
-address:      Tempe AZ 85281
-address:      United States of America (the)
-phone:        +1 480 505 8800
-fax-no:       +1 480 624 2546
-e-mail:       iana@registry.godaddy
-
-nserver:      A.NIC.AMERICANEXPRESS 2001:dcd:1:0:0:0:0:9 37.209.192.9
-nserver:      B.NIC.AMERICANEXPRESS 2001:dcd:2:0:0:0:0:9 37.209.194.9
-nserver:      C.NIC.AMERICANEXPRESS 2001:dcd:3:0:0:0:0:9 37.209.196.9
-nserver:      NS1.DNS.NIC.AMERICANEXPRESS 156.154.144.9 2610:a1:1071:0:0:0:0:9
-nserver:      NS2.DNS.NIC.AMERICANEXPRESS 156.154.145.9 2610:a1:1072:0:0:0:0:9
-nserver:      NS3.DNS.NIC.AMERICANEXPRESS 156.154.159.9 2610:a1:1073:0:0:0:0:9
-ds-rdata:     34516 8 2 1586cd9180548b70d0d4978f816744c95202f6d63e8685866025116314e629a7
-
-whois:        
-
-status:       ACTIVE
-remarks:      Registration information:
-remarks:      https://www.americanexpress.com
-
-created:      2016-07-22
-changed:      2024-05-11
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
 domain:       AMERICANFAMILY
 
 organisation: AmFam, Inc.
@@ -3959,150 +3858,6 @@ source:       IANA
 % for more information on IANA, visit http://www.iana.org
 % This query returned 1 object
 
-domain:       AUTHOR
-
-organisation: Amazon Registry Services, Inc.
-address:      410 Terry Avenue North
-address:      Seattle WA 98109
-address:      United States of America (the)
-
-contact:      administrative
-name:         Program Manager, Registry
-organisation: Amazon Registry Services, Inc.
-address:      410 Terry Avenue North
-address:      Seattle WA 98109
-address:      United States of America (the)
-phone:        +1 206 646 5990
-fax-no:       +1 206 946 7702
-e-mail:       arsi-rzm@amazon.com
-
-contact:      technical
-name:         TLD Registry Services Technical
-organisation: Nominet
-address:      Minerva House
-address:      Edmund Halley Road
-address:      Oxford Science Park
-address:      Oxford OX4 4DQ
-address:      United Kingdom of Great Britain and Northern Ireland (the)
-phone:        +44.1865332211
-e-mail:       registrytechnical@nominet.uk
-
-nserver:      DNS1.NIC.AUTHOR 213.248.218.60 2a01:618:402:0:0:0:0:60
-nserver:      DNS2.NIC.AUTHOR 103.49.82.60 2401:fd80:402:0:0:0:0:60
-nserver:      DNS3.NIC.AUTHOR 213.248.222.60 2a01:618:406:0:0:0:0:60
-nserver:      DNS4.NIC.AUTHOR 2401:fd80:406:0:0:0:0:60 43.230.50.60
-nserver:      DNSA.NIC.AUTHOR 156.154.100.3 2001:502:ad09:0:0:0:0:3
-nserver:      DNSB.NIC.AUTHOR 156.154.101.3 2001:502:2eda:0:0:0:0:3
-nserver:      DNSC.NIC.AUTHOR 156.154.102.3 2610:a1:1009:0:0:0:0:3
-nserver:      DNSD.NIC.AUTHOR 156.154.103.3 2610:a1:1010:0:0:0:0:3
-ds-rdata:     4690 8 2 fc1aaa00c7d9798c3bbeed82b37aafba04ae15e97016e9a8b646ac5c37572da3
-
-whois:        whois.nic.author
-
-status:       ACTIVE
-remarks:      Registration information: https://www.amazonregistry.com
-
-created:      2015-11-12
-changed:      2024-02-01
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
-domain:       AUTO
-
-organisation: XYZ.COM LLC
-address:      2121 E Tropicana Ave, Suite 2
-address:      Las Vegas NV 89119
-address:      United States of America (the)
-
-contact:      administrative
-name:         Grant Carpenter
-organisation: XYZ.COM LLC
-address:      2121 E Tropicana Ave, Suite 2
-address:      Las Vegas NV 89119
-address:      United States of America (the)
-phone:        +1 702 757 6555
-e-mail:       hello@xyz.com
-
-contact:      technical
-name:         CTO
-organisation: CentralNic
-address:      Saddlers House, 4th Floor
-address:      44 Gutter Lane
-address:      London EC2V 6BR
-address:      United Kingdom of Great Britain and Northern Ireland (the)
-phone:        +44 20 33 88 0600
-fax-no:       +44 20 33 88 0601
-e-mail:       tld.ops@centralnic.com
-
-nserver:      A.NIC.AUTO 194.169.218.131 2001:67c:13cc:0:0:0:1:131
-nserver:      B.NIC.AUTO 185.24.64.131 2a04:2b00:13cc:0:0:0:1:131
-nserver:      C.NIC.AUTO 212.18.248.131 2a04:2b00:13ee:0:0:0:0:131
-nserver:      D.NIC.AUTO 212.18.249.131 2a04:2b00:13ff:0:0:0:0:131
-ds-rdata:     2612 13 2 5879176e57425ebe6945b1c4bbc9ae0404faf7eb8c216d23e8eb4b232c861d6e
-
-whois:        whois.nic.auto
-
-status:       ACTIVE
-remarks:      Registration information: https://www.nic.auto
-
-created:      2015-03-12
-changed:      2024-01-31
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
-domain:       AUTOS
-
-organisation: XYZ.COM LLC
-address:      2121 E Tropicana Ave, Suite 2
-address:      Las Vegas NV 89119
-address:      United States of America (the)
-
-contact:      administrative
-name:         General Counsel
-organisation: XYZ.COM LLC
-address:      2121 E Tropicana Ave, Suite 2
-address:      Las Vegas NV 89119
-address:      United States of America (the)
-phone:        +1 702 757 6555
-e-mail:       hello@xyz.com
-
-contact:      technical
-name:         CTO
-organisation: CentralNic
-address:      Saddlers House, 4th Floor
-address:      44 Gutter Lane
-address:      London EC2V 6BR
-address:      United Kingdom of Great Britain and Northern Ireland (the)
-phone:        +44 20 33 88 0600
-fax-no:       +44 20 33 88 0601
-e-mail:       tld.ops@centralnic.com
-
-nserver:      A.NIC.AUTOS 194.169.218.136 2001:67c:13cc:0:0:0:1:136
-nserver:      B.NIC.AUTOS 185.24.64.136 2a04:2b00:13cc:0:0:0:1:136
-nserver:      C.NIC.AUTOS 212.18.248.136 2a04:2b00:13ee:0:0:0:0:136
-nserver:      D.NIC.AUTOS 212.18.249.136 2a04:2b00:13ff:0:0:0:0:136
-ds-rdata:     61492 8 2 34f530b8473fa65a88c5f81552efad281321445f6dc77ed685e06071bb56f0dd
-ds-rdata:     54470 8 2 0987b3830036cbc40b69d253f16e81ea74dd9dbfb981a0c8c21b93d64d2ba35b
-
-whois:        whois.nic.autos
-
-status:       ACTIVE
-remarks:      Registration information: http://nic.autos
-
-created:      2014-05-01
-changed:      2023-11-27
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
 domain:       AVIANCA
 
 whois:        
@@ -5189,211 +4944,6 @@ source:       IANA
 % for more information on IANA, visit http://www.iana.org
 % This query returned 1 object
 
-domain:       BB
-
-organisation: Ministry of Innovation, Science and Smart Technology
-address:      Telecommunications Unit
-address:      Government of Barbados
-address:      Level 4
-address:      Baobab Tower
-address:      Warrens St. Michael
-address:      Barbados
-
-contact:      administrative
-name:         Clifford A Bostic
-organisation: Ministry of Innovation, Science and Smart Technology
-address:      Government of Barbados
-address:      Level 4
-address:      Baobab Tower
-address:      Warrens St. Michael
-address:      Barbados
-phone:        +1 246 535 2573
-e-mail:       clifford.bostic@barbados.gov.bb
-
-contact:      technical
-name:         George Foster
-organisation: Ministry of Innovation, Science and Smart Technology
-address:      Government of Barbados
-address:      Level 4
-address:      Baobab Tower
-address:      Warrens St. Michael
-address:      Barbados
-phone:        +1 246 535 2571
-e-mail:       george.foster@barbados.gov.bb
-
-nserver:      NS1.NIC.BB 2400:cb00:2049:1:0:0:a29f:1835 64.68.192.10
-nserver:      NS2.NIC.BB 198.41.222.254 2400:cb00:2049:1:0:0:c629:defe
-nserver:      NS3.NIC.BB 2620:49:3:0:0:0:0:10 64.68.196.10
-nserver:      NS4.NIC.BB 2620:49:4:0:0:0:0:10 64.68.197.10
-nserver:      NS5.NIC.BB 200.50.92.195
-
-whois:        
-
-status:       ACTIVE
-remarks:      Registration information:
-remarks:      http://www.whois.telecoms.gov.bb/
-
-created:      1991-09-03
-changed:      2022-03-08
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
-domain:       BBC
-
-organisation: British Broadcasting Corporation
-address:      Brandon Butterworth
-address:      Broadcasting House
-address:      Portland Place
-address:      London W1A 1AA
-address:      United Kingdom of Great Britain and Northern Ireland (the)
-
-contact:      administrative
-name:         Brandon Butterworth
-organisation: British Broadcasting Corporation
-address:      Broadcasting House
-address:      Portland Place
-address:      London W1A 1AA
-address:      United Kingdom of Great Britain and Northern Ireland (the)
-phone:        +44 3030409777
-fax-no:       +44 2088118815
-e-mail:       hostmaster@bbc.co.uk
-
-contact:      technical
-name:         Brandon Butterworth
-organisation: British Broadcasting Corporation
-address:      Broadcasting House
-address:      Portland Place
-address:      London W1A 1AA
-address:      United Kingdom of Great Britain and Northern Ireland (the)
-phone:        +44 303 040 9777
-fax-no:       +44 2088118815
-e-mail:       hostmaster@bbc.co.uk
-
-nserver:      DNS1.NIC.BBC 213.248.219.4 2a01:618:403:0:0:0:0:4
-nserver:      DNS2.NIC.BBC 103.49.83.4 2401:fd80:403:0:0:0:0:4
-nserver:      DNS3.NIC.BBC 213.248.223.4 2a01:618:407:0:0:0:0:4
-nserver:      DNS4.NIC.BBC 2401:fd80:407:0:0:0:0:4 43.230.51.4
-nserver:      DNSA.NIC.BBC 156.154.100.3 2001:502:ad09:0:0:0:0:3
-nserver:      DNSB.NIC.BBC 156.154.101.3 2001:502:2eda:0:0:0:0:3
-nserver:      DNSC.NIC.BBC 156.154.102.3 2610:a1:1009:0:0:0:0:3
-nserver:      DNSD.NIC.BBC 156.154.103.3 2610:a1:1010:0:0:0:0:3
-ds-rdata:     10550 8 2 a5006c3437ce92e184d0e45ad5e31c35ffc69353aefec0926b78d04a6d3c99bd
-
-whois:        whois.nic.bbc
-
-status:       ACTIVE
-remarks:      Registration information: http://www.bbc.co.uk
-
-created:      2015-03-12
-changed:      2021-11-10
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
-domain:       BBT
-
-organisation: BB&T Corporation
-address:      200 West Second Street
-address:      Winston Salem NC 27101
-address:      United States of America (the)
-
-contact:      administrative
-name:         AVP Strategy Analyst
-organisation: BB&T Corporation
-address:      200 West Second Street
-address:      Winston Salem NC 27101
-address:      United States of America (the)
-phone:        +1 919 745 5328
-fax-no:       +1 919 791 3356
-e-mail:       ngtld-bbt@cscinfo.com
-
-contact:      technical
-name:         Howard Eland, Senior Director, DNS Infrastructure Group
-organisation: Identity Digital Inc.
-address:      10500 NE 8th Street, Suite 750
-address:      Bellevue WA 98004
-address:      United States of America (the)
-phone:        +1.425.298.2200
-fax-no:       +1.425.671.0020
-e-mail:       tldtech@identity.digital
-
-nserver:      A0.NIC.BBT 2a01:8840:6e:0:0:0:0:44 65.22.112.44
-nserver:      A2.NIC.BBT 2a01:8840:71:0:0:0:0:44 65.22.115.44
-nserver:      B0.NIC.BBT 2a01:8840:6f:0:0:0:0:44 65.22.113.44
-nserver:      C0.NIC.BBT 2a01:8840:70:0:0:0:0:44 65.22.114.44
-ds-rdata:     41827 8 2 06a56f660dff926af3c13ea685e7322ebcae343d10a15aa9815f27e959b24ee5
-
-whois:        whois.nic.bbt
-
-status:       ACTIVE
-remarks:      Registration information: http://bbt.com
-
-created:      2016-05-12
-changed:      2023-08-11
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
-domain:       BBVA
-
-organisation: BANCO BILBAO VIZCAYA ARGENTARIA, S.A.
-address:      P. de la Castellana, 81
-address:      Planta 11
-address:      Madrid 28046
-address:      Spain
-
-contact:      administrative
-name:         Gestión Global de Marcas y TLDs – Abogado
-organisation: BBVA
-address:      P. de la Castellana, 81
-address:      Planta 11
-address:      Madrid 28046
-address:      Spain
-phone:        +34 91 374 63 21
-fax-no:       +34 91 537 72 34
-e-mail:       dietmar.lenden@valideus.com
-
-contact:      technical
-name:         TLD Registry Services Technical
-organisation: Nominet
-address:      Minerva House
-address:      Edmund Halley Road
-address:      Oxford Science Park
-address:      Oxford OX4 4DQ
-address:      United Kingdom of Great Britain and Northern Ireland (the)
-phone:        +44.1865332211
-e-mail:       registrytechnical@nominet.uk
-
-nserver:      DNS1.NIC.BBVA 213.248.219.44 2a01:618:403:0:0:0:0:44
-nserver:      DNS2.NIC.BBVA 103.49.83.44 2401:fd80:403:0:0:0:0:44
-nserver:      DNS3.NIC.BBVA 213.248.223.44 2a01:618:407:0:0:0:0:44
-nserver:      DNS4.NIC.BBVA 2401:fd80:407:0:0:0:0:44 43.230.51.44
-nserver:      DNSA.NIC.BBVA 156.154.100.3 2001:502:ad09:0:0:0:0:3
-nserver:      DNSB.NIC.BBVA 156.154.101.3 2001:502:2eda:0:0:0:0:3
-nserver:      DNSC.NIC.BBVA 156.154.102.3 2610:a1:1009:0:0:0:0:3
-nserver:      DNSD.NIC.BBVA 156.154.103.3 2610:a1:1010:0:0:0:0:3
-ds-rdata:     30962 8 2 e800c51f8933f6eb2f234b542f1c83c8e703d9448bff8aac4356edc1eb6ad7c9
-
-whois:        whois.nic.bbva
-
-status:       ACTIVE
-remarks:      Registration information: 
-
-created:      2015-04-23
-changed:      2021-11-10
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
 domain:       BCG
 
 organisation: The Boston Consulting Group, Inc.
@@ -5821,147 +5371,6 @@ remarks:      Registration information: http://nic.berlin/
 
 created:      2013-12-19
 changed:      2022-05-18
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
-domain:       BEST
-
-organisation: BestTLD Pty Ltd
-address:      Level 6
-address:      1 Chifley Square
-address:      Sydney NSW 2000
-address:      Australia
-
-contact:      administrative
-name:         CEO
-organisation: The Best SAS
-address:      295 Rue Du Professeur Paul Milliez
-address:      Champigny Sur Marne 94500
-address:      France
-phone:        +1.310.6518061
-e-mail:       contact@the.best
-
-contact:      technical
-name:         CTO
-organisation: CentralNic
-address:      Saddlers House, 4th Floor
-address:      44 Gutter Lane
-address:      London EC2V 6BR
-address:      United Kingdom of Great Britain and Northern Ireland (the)
-phone:        +44 20 33 88 0600
-fax-no:       +44 20 33 88 0601
-e-mail:       tld.ops@centralnic.com
-
-nserver:      A.NIC.BEST 194.169.218.109 2001:67c:13cc:0:0:0:1:109
-nserver:      B.NIC.BEST 185.24.64.109 2a04:2b00:13cc:0:0:0:1:109
-nserver:      C.NIC.BEST 212.18.248.109 2a04:2b00:13ee:0:0:0:0:109
-nserver:      D.NIC.BEST 212.18.249.109 2a04:2b00:13ff:0:0:0:0:109
-ds-rdata:     41279 8 2 d0c266b147e9fa7122215ccca36b23d43407bd2f03b2e3b6e917d350b31aa5fd
-ds-rdata:     13966 8 2 1b34271dc3cac4d1faa279893902bd3330eab9675dab6dba03fd163437e7d12a
-
-whois:        whois.nic.best
-
-status:       ACTIVE
-remarks:      Registration information: https://www.go.best
-
-created:      2014-02-20
-changed:      2023-10-05
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
-domain:       BESTBUY
-
-organisation: BBY Solutions, Inc.
-address:      7601 Penn Avenue South
-address:      Richfield MN 55423
-address:      United States of America (the)
-
-contact:      administrative
-name:         Chris Niemi
-organisation: Markmonitor Inc.
-address:      1120 S. Rackham Way, Suite 300
-address:      Meridian ID 83642
-address:      United States of America (the)
-phone:        +1 208 685 1857
-e-mail:       dotbestbuy@markmonitor.com
-
-contact:      technical
-name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias
-address:      300 Welsh Road
-address:      Building 3, Suite 105
-address:      Horsham PA 19044
-address:      United States of America (the)
-phone:        +1 215.706.5700
-fax-no:       +1 215.706.5701
-e-mail:       tld-tech-poc@afilias.info
-
-nserver:      A0.NIC.BESTBUY 2a01:8840:d2:0:0:0:0:9 65.22.216.9
-nserver:      A2.NIC.BESTBUY 2a01:8840:d5:0:0:0:0:9 65.22.219.9
-nserver:      B0.NIC.BESTBUY 2a01:8840:d3:0:0:0:0:9 65.22.217.9
-nserver:      C0.NIC.BESTBUY 2a01:8840:d4:0:0:0:0:9 65.22.218.9
-ds-rdata:     1501 8 2 6e98e0865f6a8cd3e69f0a03cb0d9d80333a31d113ad85bba7571f87262c5d32
-
-whois:        whois.nic.bestbuy
-
-status:       ACTIVE
-remarks:      Registration information: http://nic.bestbuy
-
-created:      2015-12-10
-changed:      2024-01-25
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
-domain:       BET
-
-organisation: Identity Digital Limited
-address:      c/o Identity Digital Limited
-address:      10500 NE 8th Street, Suite 750
-address:      Bellevue WA 98004
-address:      United States of America (the)
-
-contact:      administrative
-name:         Vice President, Engineering
-organisation: Identity Digital Limited
-address:      10500 NE 8th Street, Suite 750
-address:      Bellevue WA 98004
-address:      United States of America (the)
-phone:        +1.425.298.2200
-fax-no:       +1.425.671.0020
-e-mail:       tldadmin@identity.digital
-
-contact:      technical
-name:         Senior Director, DNS Infrastructure Group
-organisation: Identity Digital Limited
-address:      10500 NE 8th Street, Suite 750
-address:      Bellevue WA 98004
-address:      United States of America (the)
-phone:        +1.425.298.2200
-fax-no:       +1.425.671.0020
-e-mail:       tldtech@identity.digital
-
-nserver:      A0.NIC.BET 2a01:8840:26:0:0:0:0:17 65.22.36.17
-nserver:      A2.NIC.BET 2a01:8840:29:0:0:0:0:17 65.22.39.17
-nserver:      B0.NIC.BET 2a01:8840:27:0:0:0:0:17 65.22.37.17
-nserver:      C0.NIC.BET 2a01:8840:28:0:0:0:0:17 65.22.38.17
-ds-rdata:     34666 8 2 e514f93c9ff69ec196e47cdfa00e39946382363cf2cac7df3df562f35b31a2bc
-
-whois:        whois.nic.bet
-
-status:       ACTIVE
-remarks:      Registration information: https://www.identity.digital/
-
-created:      2015-07-16
-changed:      2023-09-01
 source:       IANA
 
 % IANA WHOIS server
@@ -9275,146 +8684,6 @@ source:       IANA
 % for more information on IANA, visit http://www.iana.org
 % This query returned 1 object
 
-domain:       CAPITAL
-
-organisation: Binky Moon, LLC
-address:      c/o Identity Digital Limited
-address:      10500 NE 8th Street, Suite 750
-address:      Bellevue WA 98004
-address:      United States of America (the)
-
-contact:      administrative
-name:         Vice President, Engineering
-organisation: Identity Digital Limited
-address:      10500 NE 8th Street, Suite 750
-address:      Bellevue WA 98004
-address:      United States of America (the)
-phone:        +1.425.298.2200
-fax-no:       +1.425.671.0020
-e-mail:       tldadmin@identity.digital
-
-contact:      technical
-name:         Senior Director, DNS Infrastructure Group
-organisation: Identity Digital Limited
-address:      10500 NE 8th Street, Suite 750
-address:      Bellevue WA 98004
-address:      United States of America (the)
-phone:        +1.425.298.2200
-fax-no:       +1.425.671.0020
-e-mail:       tldtech@identity.digital
-
-nserver:      V0N0.NIC.CAPITAL 2a01:8840:1e:0:0:0:0:10 65.22.28.10
-nserver:      V0N1.NIC.CAPITAL 2a01:8840:1f:0:0:0:0:10 65.22.29.10
-nserver:      V0N2.NIC.CAPITAL 2a01:8840:20:0:0:0:0:10 65.22.30.10
-nserver:      V0N3.NIC.CAPITAL 161.232.14.10 2a01:8840:f8:0:0:0:0:10
-nserver:      V2N0.NIC.CAPITAL 2a01:8840:21:0:0:0:0:10 65.22.31.10
-nserver:      V2N1.NIC.CAPITAL 161.232.15.10 2a01:8840:f9:0:0:0:0:10
-ds-rdata:     9469 8 2 e4832b3a24031e377c4d82a22c87efadee41fac941fd1fac7a2ab5ecc9b821a0
-
-whois:        whois.nic.capital
-
-status:       ACTIVE
-remarks:      Registration information: https://www.identity.digital/
-
-created:      2014-04-03
-changed:      2023-09-12
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
-domain:       CAPITALONE
-
-organisation: Capital One Financial Corporation
-address:      1680 Capital One Drive
-address:      McLean VA 22102
-address:      United States of America (the)
-
-contact:      administrative
-name:         Brand Governance
-organisation: Capital One Financial Corporation
-address:      1680 Capital One Drive
-address:      McLean VA 22102
-address:      United States of America (the)
-phone:        +1 302 636 5400
-e-mail:       capitalonegtld@gcd.com
-
-contact:      technical
-name:         Registry Customer Service
-organisation: Verisign, Inc.
-address:      12061 Bluemont Way
-address:      Reston VA 20190
-address:      United States of America (the)
-phone:        +1-703-925-6999
-fax-no:       +1-703-948-3978
-e-mail:       info@verisign-grs.com
-
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
-ds-rdata:     16365 8 2 017564f7c0204b23e19605e08e5dcf57c286d6d5097b53440de91d4f04d3abac
-
-whois:        whois.nic.capitalone
-
-status:       ACTIVE
-remarks:      Registration information: http://www.capitalone.com
-
-created:      2016-08-04
-changed:      2024-08-09
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
-domain:       CAR
-
-organisation: XYZ.COM LLC
-address:      2121 E Tropicana Ave, Suite 2
-address:      Las Vegas NV 89119
-address:      United States of America (the)
-
-contact:      administrative
-name:         General Counsel
-organisation: XYZ.COM LLC
-address:      2121 E Tropicana Ave, Suite 2
-address:      Las Vegas NV 89119
-address:      United States of America (the)
-phone:        +1 702 757 6555
-e-mail:       hello@xyz.com
-
-contact:      technical
-name:         CTO
-organisation: CentralNic
-address:      Saddlers House, 4th Floor
-address:      44 Gutter Lane
-address:      London EC2V 6BR
-address:      United Kingdom of Great Britain and Northern Ireland (the)
-phone:        +44 20 33 88 0600
-fax-no:       +44 20 33 88 0601
-e-mail:       tld.ops@centralnic.com
-
-nserver:      A.NIC.CAR 194.169.218.130 2001:67c:13cc:0:0:0:1:130
-nserver:      B.NIC.CAR 185.24.64.130 2a04:2b00:13cc:0:0:0:1:130
-nserver:      C.NIC.CAR 212.18.248.130 2a04:2b00:13ee:0:0:0:0:130
-nserver:      D.NIC.CAR 212.18.249.130 2a04:2b00:13ff:0:0:0:0:130
-ds-rdata:     35548 13 2 1d24872ac7b4db0623a7cb937fe46d53734f43301c4964136bb2bbbb8f5faeb7
-
-whois:        whois.nic.car
-
-status:       ACTIVE
-remarks:      Registration information: http://www.nic.car
-
-created:      2015-08-26
-changed:      2024-01-31
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
 domain:       CARAVAN
 
 organisation: Caravan International, Inc.
@@ -12525,21 +11794,6 @@ source:       IANA
 % for more information on IANA, visit http://www.iana.org
 % This query returned 1 object
 
-domain:       COMCAST
-
-whois:        
-
-status:       FORMER
-remarks:      Registration information: 
-
-created:      2016-06-16
-changed:      2024-02-07
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
 domain:       COMMBANK
 
 organisation: COMMONWEALTH BANK OF AUSTRALIA
@@ -13776,6 +13030,7 @@ nserver:      B.NS.NIC.CROWN 185.159.198.5 2620:10a:80ab:0:0:0:0:5
 nserver:      C.NS.NIC.CROWN 2a0e:dbc0:0:0:0:0:0:101 45.142.220.101
 nserver:      D.NS.NIC.CROWN 185.159.199.5 2620:10a:80ac:0:0:0:0:5
 ds-rdata:     41194 8 2 f7c822b56b709256e744781b677c0b32da1e218eac286a2543b064a19a40f3d5
+ds-rdata:     60289 8 2 2c3fb6688a1f691cbbdcada3c38551541f760ac99a4deaf39d2d2c183311b889
 
 whois:        whois.nic.crown
 
@@ -13783,7 +13038,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.crown.com/
 
 created:      2015-06-04
-changed:      2024-03-15
+changed:      2024-10-17
 source:       IANA
 
 % IANA WHOIS server
@@ -14513,53 +13768,6 @@ remarks:      Registration information: https://www.dish.com/
 
 created:      2016-12-15
 changed:      2023-08-11
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
-domain:       DATE
-
-organisation: dot Date Limited
-address:      2nd Floor, Leisure Island Business Centre, Ocean Village
-address:      Gibraltar  GX11 1AA
-address:      Gibraltar
-
-contact:      administrative
-name:         Edgar Charles Andrew Lavarello
-organisation: Pricewaterhousecoopers Ltd.
-address:      327 Main Street
-address:      Gibraltar  GX11 1AA
-address:      Gibraltar
-phone:        +350 200 73520
-e-mail:       edgar.c.lavarello@gi.pwc.com
-
-contact:      technical
-name:         IANA Contact
-organisation: GoDaddy Registry
-address:      100 S. Mill Ave, Suite 1600
-address:      Tempe AZ 85281
-address:      United States of America (the)
-phone:        +1 480 505 8800
-fax-no:       +1 480 624 2546
-e-mail:       iana@registry.godaddy
-
-nserver:      A.NIC.DATE 2001:dcd:1:0:0:0:0:10 37.209.192.10
-nserver:      B.NIC.DATE 2001:dcd:2:0:0:0:0:10 37.209.194.10
-nserver:      C.NIC.DATE 2001:dcd:3:0:0:0:0:10 37.209.196.10
-nserver:      NS1.DNS.NIC.DATE 156.154.144.46 2610:a1:1071:0:0:0:0:2e
-nserver:      NS2.DNS.NIC.DATE 156.154.145.46 2610:a1:1072:0:0:0:0:2e
-nserver:      NS3.DNS.NIC.DATE 156.154.159.46 2610:a1:1073:0:0:0:0:2e
-ds-rdata:     17974 8 2 89f996cd425d64fbd8deba987615d4c3d8de899f626643b4bfc6fa7bf8f996e5
-
-whois:        whois.nic.date
-
-status:       ACTIVE
-remarks:      Registration information: http://nic.date
-
-created:      2015-02-05
-changed:      2024-05-11
 source:       IANA
 
 % IANA WHOIS server
@@ -15999,102 +15207,7 @@ status:       ACTIVE
 remarks:      Registration information: https://internetnaming.co
 
 created:      2016-07-21
-changed:      2024-05-21
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
-domain:       DJ
-
-organisation: Djibouti Telecom S.A
-address:      3, BD Georges Pompidou
-address:      P.O. BOX 2105
-address:      Djibouti 2105
-address:      Djibouti
-
-contact:      administrative
-name:         DJIBTEL Admin Contact
-organisation: Djibouti Telecom S.A
-address:      3, BD Georges Pompidou
-address:      P.O. BOX 2105
-address:      Djibouti 2105
-address:      Djibouti
-phone:        +253 21321247
-e-mail:       bourhan.abdoulkader@djibtel.dj
-
-contact:      technical
-name:         DJIBTEL Tech Contact
-organisation: Djibouti Telecom S.A
-address:      3, BD Georges Pompidou
-address:      P.O. BOX 2105
-address:      Djibouti 2105
-address:      Djibouti
-phone:        +253 21357710
-e-mail:       abdillahi.youssouf@djibtel.dj
-
-nserver:      BOW1.INTNET.DJ 197.241.17.130
-nserver:      NS1.DJIBTELECOM.DJ 197.241.17.175
-nserver:      NS2.DJIBTELECOM.DJ 196.201.196.54
-nserver:      NS3.DJIBTELECOM.DJ 52.213.131.190
-nserver:      VPS443605.OVH.NET 37.59.106.21
-
-whois:        
-
-status:       ACTIVE
-remarks:      Registration information: http://www.nic.dj
-
-created:      1996-05-22
-changed:      2024-07-01
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
-domain:       DK
-
-organisation: Dansk Internet Forum
-address:      Ørestads Boulevard 108, 11th floor
-address:      Copenhagen DK-2300
-address:      Denmark
-
-contact:      administrative
-name:         Punktum dk Administrative Contact
-organisation: Punktum dk A/S
-address:      Ørestads Boulevard 108, 11th floor
-address:      Copenhagen DK-2300
-address:      Denmark
-phone:        +45 3364 6060
-fax-no:       +45 3364 6066
-e-mail:       tld2019admin@punktum.dk
-
-contact:      technical
-name:         Punktum dk Technical Contact
-organisation: Punktum dk A/S
-address:      Ørestads Boulevard 108, 11th floor
-address:      Copenhagen DK-2300
-address:      Denmark
-phone:        +45 3364 6060
-fax-no:       +45 3364 6066
-e-mail:       tld2019tech@punktum.dk
-
-nserver:      B.NIC.DK 193.163.102.222 2a01:630:0:80:0:0:0:53
-nserver:      C.NIC.DK 185.159.199.45 2620:10a:80ac:0:0:0:0:45
-nserver:      H.NIC.DK 2a00:1b18:1:2:0:0:0:53 46.30.126.214
-nserver:      L.NIC.DK 130.226.213.138 2001:878:0:e000:82:e2:d5:8a
-nserver:      P.NIC.DK 194.0.47.42 2001:678:78:42:ad:0:0:53
-nserver:      S.NIC.DK 194.0.28.7 2001:678:2c:0:194:0:28:7
-ds-rdata:     2181 13 2 9e707b8c9a8ae4893f6ddf545957f9809fe8ba4747bf705263601466aa10051d
-
-whois:        whois.punktum.dk
-
-status:       ACTIVE
-remarks:      Registration information: https://punktum.dk/
-
-created:      1987-07-14
-changed:      2024-08-26
+changed:      2024-10-21
 source:       IANA
 
 % IANA WHOIS server
@@ -16713,55 +15826,6 @@ remarks:      Registration information: http://www.goodyear.com
 
 created:      2015-12-17
 changed:      2023-08-11
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
-domain:       DUPONT
-
-organisation: DuPont Specialty Products USA, LLC
-address:      CRP 730/3rd floor, 974 Centre Road
-address:      P.O. Box 2915
-address:      Wilmington DE 19805
-address:      United States of America (the)
-
-contact:      administrative
-name:         Dasaradharamaraju Uppalapati
-organisation: DuPont Specialty Products USA, LLC
-address:      CRP 730/3rd floor, 974 Centre Road
-address:      P.O. Box 2915
-address:      Wilmington DE 19805
-address:      United States of America (the)
-phone:        +91 8498887111
-e-mail:       contact@dupont.com
-
-contact:      technical
-name:         IANA Contact
-organisation: GoDaddy Registry
-address:      100 S. Mill Ave, Suite 1600
-address:      Tempe AZ 85281
-address:      United States of America (the)
-phone:        +1 480 505 8800
-fax-no:       +1 480 624 2546
-e-mail:       iana@registry.godaddy
-
-nserver:      A.NIC.DUPONT 2001:dcd:1:0:0:0:0:9 37.209.192.9
-nserver:      B.NIC.DUPONT 2001:dcd:2:0:0:0:0:9 37.209.194.9
-nserver:      C.NIC.DUPONT 2001:dcd:3:0:0:0:0:9 37.209.196.9
-nserver:      NS4.DNS.NIC.DUPONT 156.154.156.52 2610:a1:1074:0:0:0:0:34
-nserver:      NS5.DNS.NIC.DUPONT 156.154.157.52 2610:a1:1075:0:0:0:0:34
-nserver:      NS6.DNS.NIC.DUPONT 156.154.158.52 2610:a1:1076:0:0:0:0:34
-ds-rdata:     44914 8 2 f94ef24de9794acaf4920bfe73388a466179c339bd33ddea11b1decd2a45611b
-
-whois:        
-
-status:       ACTIVE
-remarks:      Registration information: https://www.dupont.com
-
-created:      2016-05-05
-changed:      2024-06-04
 source:       IANA
 
 % IANA WHOIS server
@@ -18015,116 +17079,6 @@ source:       IANA
 % for more information on IANA, visit http://www.iana.org
 % This query returned 1 object
 
-domain:       ESTATE
-
-organisation: Binky Moon, LLC
-address:      c/o Identity Digital Limited
-address:      10500 NE 8th Street, Suite 750
-address:      Bellevue WA 98004
-address:      United States of America (the)
-
-contact:      administrative
-name:         Vice President, Engineering
-organisation: Identity Digital Limited
-address:      10500 NE 8th Street, Suite 750
-address:      Bellevue WA 98004
-address:      United States of America (the)
-phone:        +1.425.298.2200
-fax-no:       +1.425.671.0020
-e-mail:       tldadmin@identity.digital
-
-contact:      technical
-name:         Senior Director, DNS Infrastructure Group
-organisation: Identity Digital Limited
-address:      10500 NE 8th Street, Suite 750
-address:      Bellevue WA 98004
-address:      United States of America (the)
-phone:        +1.425.298.2200
-fax-no:       +1.425.671.0020
-e-mail:       tldtech@identity.digital
-
-nserver:      V0N0.NIC.ESTATE 2a01:8840:1e:0:0:0:0:47 65.22.28.47
-nserver:      V0N1.NIC.ESTATE 2a01:8840:1f:0:0:0:0:47 65.22.29.47
-nserver:      V0N2.NIC.ESTATE 2a01:8840:20:0:0:0:0:47 65.22.30.47
-nserver:      V0N3.NIC.ESTATE 161.232.14.47 2a01:8840:f8:0:0:0:0:47
-nserver:      V2N0.NIC.ESTATE 2a01:8840:21:0:0:0:0:47 65.22.31.47
-nserver:      V2N1.NIC.ESTATE 161.232.15.47 2a01:8840:f9:0:0:0:0:47
-ds-rdata:     9670 8 2 fbc7771a3f609853616f5b68203d1645dd9ed6d9d56ba3bba93429cf43af8562
-
-whois:        whois.nic.estate
-
-status:       ACTIVE
-remarks:      Registration information: https://www.identity.digital/
-
-created:      2013-11-08
-changed:      2023-09-13
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
-domain:       ET
-
-organisation: Ethio telecom
-address:      P.O. Box 1047
-address:      W. Churchill Rd.
-address:      Addis Ababa Region 14
-address:      Ethiopia
-
-contact:      administrative
-name:         Chief Information Officer (CIO)
-organisation: Ethio Telecom
-address:      P.O. Box 1047
-address:      W. Churchill Rd.
-address:      Addis Ababa Region 14
-address:      Ethiopia
-phone:        +251 911 208321
-fax-no:       +251 115 53 15 69
-e-mail:       endale.asrat@ethiotelecom.et
-
-contact:      technical
-name:         Value Added Services Operations Manager
-organisation: Ethio Telecom
-address:      P.O. Box 1047
-address:      W. Churchill Rd.
-address:      Addis Ababa Region 14
-address:      Ethiopia
-phone:        +251 911 107398
-fax-no:       +251 115 515777
-e-mail:       senait.mezgebu@ethiotelecom.et
-
-nserver:      A.NIC.ET 197.156.74.192
-nserver:      B.NIC.ET 197.156.74.193
-
-whois:        
-
-status:       ACTIVE
-remarks:      Registration information: http://www.ethiotelecom.et
-
-created:      1995-10-15
-changed:      2022-06-02
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
-domain:       ETISALAT
-
-whois:        
-
-status:       FORMER
-remarks:      Registration information: 
-
-created:      2017-05-11
-changed:      2023-11-17
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
 domain:       EU
 
 organisation: EURid vzw/asbl
@@ -18946,53 +17900,6 @@ source:       IANA
 % for more information on IANA, visit http://www.iana.org
 % This query returned 1 object
 
-domain:       FARMERS
-
-organisation: Farmers Insurance Exchange
-address:      6301 Owensmouth Avenue, 3rd Floor
-address:      Woodland Hills CA 91367
-address:      United States of America (the)
-
-contact:      administrative
-name:         Andy Kim
-organisation: Farmers Insurance Exchange
-address:      6301 Owensmouth Avenue, 3rd Floor
-address:      Woodland Hills CA 91367
-address:      United States of America (the)
-phone:        +1 323-762-0611
-e-mail:       andy.1.kim@farmersinsurance.com
-
-contact:      technical
-name:         IANA Contact
-organisation: GoDaddy Registry
-address:      100 S. Mill Ave, Suite 1600
-address:      Tempe AZ 85281
-address:      United States of America (the)
-phone:        +1 480 505 8800
-fax-no:       +1 480 624 2546
-e-mail:       iana@registry.godaddy
-
-nserver:      A.NIC.FARMERS 2001:dcd:1:0:0:0:0:9 37.209.192.9
-nserver:      B.NIC.FARMERS 2001:dcd:2:0:0:0:0:9 37.209.194.9
-nserver:      C.NIC.FARMERS 2001:dcd:3:0:0:0:0:9 37.209.196.9
-nserver:      NS1.DNS.NIC.FARMERS 156.154.144.55 2610:a1:1071:0:0:0:0:37
-nserver:      NS2.DNS.NIC.FARMERS 156.154.145.55 2610:a1:1072:0:0:0:0:37
-nserver:      NS3.DNS.NIC.FARMERS 156.154.159.55 2610:a1:1073:0:0:0:0:37
-ds-rdata:     22045 8 2 6bf128234cca6c4fb7ba28f87c84c2488333439e8877bab9e94ba8f65ba28123
-
-whois:        
-
-status:       ACTIVE
-remarks:      Registration information: https://www.farmers.com
-
-created:      2016-04-21
-changed:      2024-05-11
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
 domain:       FASHION
 
 organisation: Registry Services, LLC
@@ -19325,100 +18232,6 @@ remarks:      Registration information: https://domain.fi
 
 created:      1986-12-17
 changed:      2023-08-18
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
-domain:       FIDELITY
-
-organisation: Fidelity Brokerage Services LLC
-address:      82 Devonshire Street
-address:      Boston MA 02109
-address:      United States of America (the)
-
-contact:      administrative
-name:         Director Product Management
-organisation: Fidelity Brokerage Services LLC
-address:      82 Devonshire Street
-address:      Boston MA 02109
-address:      United States of America (the)
-phone:        +1 617 563 7000
-fax-no:       +1 617 692 1699
-e-mail:       ngtld-fidelity@cscinfo.com
-
-contact:      technical
-name:         Howard Eland, Senior Director, DNS Infrastructure Group
-organisation: Identity Digital Inc.
-address:      10500 NE 8th Street, Suite 750
-address:      Bellevue WA 98004
-address:      United States of America (the)
-phone:        +1.425.298.2200
-fax-no:       +1.425.671.0020
-e-mail:       tldtech@identity.digital
-
-nserver:      A0.NIC.FIDELITY 2a01:8840:6e:0:0:0:0:48 65.22.112.48
-nserver:      A2.NIC.FIDELITY 2a01:8840:71:0:0:0:0:48 65.22.115.48
-nserver:      B0.NIC.FIDELITY 2a01:8840:6f:0:0:0:0:48 65.22.113.48
-nserver:      C0.NIC.FIDELITY 2a01:8840:70:0:0:0:0:48 65.22.114.48
-ds-rdata:     1792 8 2 8a77aca7da9cb3000d7da7abdf46182cad3e20bd9b0ff7d685f70bc6dcf1d6f1
-
-whois:        whois.nic.fidelity
-
-status:       ACTIVE
-remarks:      Registration information: http://fidelity.com
-
-created:      2016-07-28
-changed:      2023-08-11
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
-domain:       FIDO
-
-organisation: Rogers Communications Canada Inc.
-address:      333 Bloor Street East
-address:      Toronto ON M4W1G9
-address:      Canada
-
-contact:      administrative
-name:         VP, Customer Intelligence & Digital Optimization
-organisation: Rogers Communications Canada Inc.
-address:      333 Bloor Street East
-address:      Toronto ON M4W1G9
-address:      Canada
-phone:        +1.416.935.7777
-fax-no:       +1.416.935.7627
-e-mail:       ngtld-rogers@cscinfo.com
-
-contact:      technical
-name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias
-address:      300 Welsh Road
-address:      Building 3, Suite 105
-address:      Horsham PA 19044
-address:      United States of America (the)
-phone:        +1 215.706.5700
-fax-no:       +1 215.706.5701
-e-mail:       tld-tech-poc@afilias.info
-
-nserver:      A0.NIC.FIDO 2a01:8840:6a:0:0:0:0:41 65.22.108.41
-nserver:      A2.NIC.FIDO 2a01:8840:6d:0:0:0:0:41 65.22.111.41
-nserver:      B0.NIC.FIDO 2a01:8840:6b:0:0:0:0:41 65.22.109.41
-nserver:      C0.NIC.FIDO 2a01:8840:6c:0:0:0:0:41 65.22.110.41
-ds-rdata:     16402 8 2 f1fdb16b12b96a368d95fcc0f2a37bc54588dc9d0049f066aa21fb095e5ea7d7
-
-whois:        whois.nic.fido
-
-status:       ACTIVE
-remarks:      Registration information:
-remarks:      http://www.rogers.com/consumer/home
-
-created:      2016-08-18
-changed:      2023-08-11
 source:       IANA
 
 % IANA WHOIS server
@@ -20018,7 +18831,7 @@ organisation: Falkland Islands Government
 address:      Legal & Regulation Directorate
 address:      Stanley FIQQ 1ZZ
 address:      Falkland Islands (the) [Malvinas]
-phone:        +500 28460
+phone:        +500 28428
 fax-no:       +500 27306
 e-mail:       regulator.telecoms@sec.gov.fk
 
@@ -20042,7 +18855,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.sure.co.fk
 
 created:      1997-03-26
-changed:      2023-03-24
+changed:      2024-10-17
 source:       IANA
 
 % IANA WHOIS server
@@ -20510,13 +19323,13 @@ nserver:      NS01.TRS-DNS.NET 64.96.2.1
 nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
 ds-rdata:     29023 13 2 5cfba2baaa02242b1a9b83677493f4205a70f202a7ae2afced9f907af47b0ea1
 
-whois:        
+whois:        whois.nic.food
 
 status:       ACTIVE
 remarks:      Registration information: https://internetnaming.co
 
 created:      2016-11-04
-changed:      2024-05-21
+changed:      2024-10-21
 source:       IANA
 
 % IANA WHOIS server
@@ -20719,51 +19532,6 @@ source:       IANA
 % for more information on IANA, visit http://www.iana.org
 % This query returned 1 object
 
-domain:       FORUM
-
-organisation: Fegistry, LLC
-address:      1845 West Mercer Way
-address:      Mercer Island WA 98040
-address:      United States of America (the)
-
-contact:      administrative
-name:         CEO
-organisation: Fegistry, LLC
-address:      1845 West Mercer Way
-address:      Mercer Island WA 98040
-address:      United States of America (the)
-phone:        206-397-8825
-fax-no:       206-238-1232
-e-mail:       jay@fegistry.com
-
-contact:      technical
-name:         Francisco Obispo
-organisation: Tucows Inc
-address:      96 Mowat Avenue
-address:      Toronto Ontario M6K3M1
-address:      Canada
-phone:        +1.949.903.3449
-e-mail:       trs-ops@tucows.com
-
-nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
-nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
-nserver:      NS01.TRS-DNS.NET 64.96.2.1
-nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
-ds-rdata:     48583 13 2 de6529ec2ac6952fe38e419097c4aed7de20b78b91c88753f70b254ccdfcd543
-
-whois:        whois.nic.forum
-
-status:       ACTIVE
-remarks:      Registration information: http://www.topspectrum.com
-
-created:      2015-06-11
-changed:      2024-05-22
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
 domain:       FOUNDATION
 
 organisation: Public Interest Registry (PIR)
@@ -20807,54 +19575,6 @@ remarks:      Registration information: http://nic.foundation
 
 created:      2014-02-06
 changed:      2023-01-18
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
-domain:       FOX
-
-organisation: FOX Registry, LLC
-address:      1211 Avenue of the Americas
-address:      New York NY 10036
-address:      United States of America (the)
-
-contact:      administrative
-name:         Director, Domain Name Strategy
-organisation: Fox Registry, LLC
-address:      2121 Avenue of the Stars
-address:      Suite 900
-address:      Los Angeles CA 90067
-address:      United States of America (the)
-phone:        +1 310 369 3620
-e-mail:       admin@domains.fox
-
-contact:      technical
-name:         IANA Contact
-organisation: GoDaddy Registry
-address:      100 S. Mill Ave, Suite 1600
-address:      Tempe AZ 85281
-address:      United States of America (the)
-phone:        +1 480 505 8800
-fax-no:       +1 480 624 2546
-e-mail:       iana@registry.godaddy
-
-nserver:      A.NIC.FOX 2001:dcd:1:0:0:0:0:9 37.209.192.9
-nserver:      B.NIC.FOX 2001:dcd:2:0:0:0:0:9 37.209.194.9
-nserver:      C.NIC.FOX 2001:dcd:3:0:0:0:0:9 37.209.196.9
-nserver:      NS1.DNS.NIC.FOX 156.154.144.63 2610:a1:1071:0:0:0:0:3f
-nserver:      NS2.DNS.NIC.FOX 156.154.145.63 2610:a1:1072:0:0:0:0:3f
-nserver:      NS3.DNS.NIC.FOX 156.154.159.63 2610:a1:1073:0:0:0:0:3f
-ds-rdata:     31102 8 2 675c7b085143739b2c32f301858c5ee3751b58e3a9776ee2a6dddc2c9c7a9e13
-
-whois:        whois.nic.fox
-
-status:       ACTIVE
-remarks:      Registration information: https://www.fox.com
-
-created:      2015-11-20
-changed:      2024-05-11
 source:       IANA
 
 % IANA WHOIS server
@@ -21148,53 +19868,6 @@ nserver:      NS1.DNS.NIC.FRONTIER 156.154.144.64 2610:a1:1071:0:0:0:0:40
 nserver:      NS2.DNS.NIC.FRONTIER 156.154.145.64 2610:a1:1072:0:0:0:0:40
 nserver:      NS3.DNS.NIC.FRONTIER 156.154.159.64 2610:a1:1073:0:0:0:0:40
 ds-rdata:     32674 8 2 43abf7b723073b5adb567bc9095eafc64367d702c7818dfd97b7c293eab0b4b1
-
-whois:        
-
-status:       ACTIVE
-remarks:      Registration information: http://frontier.com
-
-created:      2016-01-29
-changed:      2024-05-11
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
-domain:       FTR
-
-organisation: Frontier Communications Corporation
-address:      401 Merritt 7
-address:      Norwalk CT 06851
-address:      United States of America (the)
-
-contact:      administrative
-name:         Systems Administrator
-organisation: Frontier Communications Corporation
-address:      120 N Plymouth Ave
-address:      Rochester NY 14608
-address:      United States of America (the)
-phone:        +1 570-631-1245
-e-mail:       hostmaster@frontier.com
-
-contact:      technical
-name:         IANA Contact
-organisation: GoDaddy Registry
-address:      100 S. Mill Ave, Suite 1600
-address:      Tempe AZ 85281
-address:      United States of America (the)
-phone:        +1 480 505 8800
-fax-no:       +1 480 624 2546
-e-mail:       iana@registry.godaddy
-
-nserver:      A.NIC.FTR 2001:dcd:1:0:0:0:0:9 37.209.192.9
-nserver:      B.NIC.FTR 2001:dcd:2:0:0:0:0:9 37.209.194.9
-nserver:      C.NIC.FTR 2001:dcd:3:0:0:0:0:9 37.209.196.9
-nserver:      NS1.DNS.NIC.FTR 156.154.144.65 2610:a1:1071:0:0:0:0:41
-nserver:      NS2.DNS.NIC.FTR 156.154.145.65 2610:a1:1072:0:0:0:0:41
-nserver:      NS3.DNS.NIC.FTR 156.154.159.65 2610:a1:1073:0:0:0:0:41
-ds-rdata:     26692 8 2 bea8f6f61998570b7dc8d85b43487908e8cf2fa560e7255953e7fcbe29a80209
 
 whois:        
 
@@ -21590,102 +20263,6 @@ source:       IANA
 % for more information on IANA, visit http://www.iana.org
 % This query returned 1 object
 
-domain:       GALLERY
-
-organisation: Binky Moon, LLC
-address:      c/o Identity Digital Limited
-address:      10500 NE 8th Street, Suite 750
-address:      Bellevue WA 98004
-address:      United States of America (the)
-
-contact:      administrative
-name:         Vice President, Engineering
-organisation: Identity Digital Limited
-address:      10500 NE 8th Street, Suite 750
-address:      Bellevue WA 98004
-address:      United States of America (the)
-phone:        +1.425.298.2200
-fax-no:       +1.425.671.0020
-e-mail:       tldadmin@identity.digital
-
-contact:      technical
-name:         Senior Director, DNS Infrastructure Group
-organisation: Identity Digital Limited
-address:      10500 NE 8th Street, Suite 750
-address:      Bellevue WA 98004
-address:      United States of America (the)
-phone:        +1.425.298.2200
-fax-no:       +1.425.671.0020
-e-mail:       tldtech@identity.digital
-
-nserver:      V0N0.NIC.GALLERY 2a01:8840:1a:0:0:0:0:8 65.22.24.8
-nserver:      V0N1.NIC.GALLERY 2a01:8840:1b:0:0:0:0:8 65.22.25.8
-nserver:      V0N2.NIC.GALLERY 2a01:8840:1c:0:0:0:0:8 65.22.26.8
-nserver:      V0N3.NIC.GALLERY 161.232.12.8 2a01:8840:f6:0:0:0:0:8
-nserver:      V2N0.NIC.GALLERY 2a01:8840:1d:0:0:0:0:8 65.22.27.8
-nserver:      V2N1.NIC.GALLERY 161.232.13.8 2a01:8840:f7:0:0:0:0:8
-ds-rdata:     11671 8 2 6d21a1e67d81b0c40c63c22650433bfbca5ec66657bca99c01849387563f7bfe
-
-whois:        whois.nic.gallery
-
-status:       ACTIVE
-remarks:      Registration information: https://www.identity.digital/
-
-created:      2013-11-08
-changed:      2023-09-13
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
-domain:       GALLO
-
-organisation: Gallo Vineyards, Inc.
-address:      600 Yosemite Blvd.
-address:      Modesto CA 95354
-address:      United States of America (the)
-
-contact:      administrative
-name:         Principal IT Architect
-organisation: Gallo Vineyards, Inc.
-address:      600 Yosemite Blvd.
-address:      Modesto CA 95354
-address:      United States of America (the)
-phone:        +1 209 341 6349
-fax-no:       +1 209 573 8520
-e-mail:       ngtld-gallo@cscinfo.com
-
-contact:      technical
-name:         Howard Eland, Senior Director, DNS Infrastructure Group
-organisation: Identity Digital Inc.
-address:      10500 NE 8th Street, Suite 750
-address:      Bellevue WA 98004
-address:      United States of America (the)
-phone:        +1.425.298.2200
-fax-no:       +1.425.671.0020
-e-mail:       rzmtechcontact@identity.digital
-
-nserver:      A0.NIC.GALLO 2a01:8840:36:0:0:0:0:1 65.22.56.1
-nserver:      A2.NIC.GALLO 2a01:8840:39:0:0:0:0:1 65.22.59.1
-nserver:      B0.NIC.GALLO 2a01:8840:37:0:0:0:0:1 65.22.57.1
-nserver:      C0.NIC.GALLO 2a01:8840:38:0:0:0:0:1 65.22.58.1
-ds-rdata:     29001 8 2 4c475ad8273c49cced3d8fbf45f02ba8e1a2759f816bf2020a544b49b9b04cf6
-ds-rdata:     49567 8 2 5b769db94fcfcdd0acd004b90dc7ba248df09b3b7d7f29b40732b388a1ebf9c7
-
-whois:        whois.nic.gallo
-
-status:       ACTIVE
-remarks:      Registration information: http://www.gallo.com
-
-created:      2015-10-24
-changed:      2023-08-11
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
 domain:       GALLUP
 
 organisation: Gallup, Inc.
@@ -21727,52 +20304,6 @@ remarks:      Registration information: http://gallup.com
 
 created:      2015-10-15
 changed:      2023-08-11
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
-domain:       GAME
-
-organisation: XYZ.COM LLC
-address:      2121 E Tropicana Ave, Suite 2
-address:      Las Vegas NV 89119
-address:      United States of America (the)
-
-contact:      administrative
-name:         General Counsel
-organisation: XYZ.COM LLC
-address:      2121 E Tropicana Ave, Suite 2
-address:      Las Vegas NV 89119
-address:      United States of America (the)
-phone:        +1 702 763 2191
-e-mail:       hello@xyz.com
-
-contact:      technical
-name:         CTO
-organisation: CentralNic
-address:      Saddlers House, 4th Floor
-address:      44 Gutter Lane
-address:      London EC2V 6BR
-address:      United Kingdom of Great Britain and Northern Ireland (the)
-phone:        +44 20 33 88 0600
-fax-no:       +44 20 33 88 0601
-e-mail:       tld.ops@centralnic.com
-
-nserver:      A.NIC.GAME 194.169.218.147 2001:67c:13cc:0:0:0:1:147
-nserver:      B.NIC.GAME 185.24.64.147 2a04:2b00:13cc:0:0:0:1:147
-nserver:      C.NIC.GAME 212.18.248.147 2a04:2b00:13ee:0:0:0:0:147
-nserver:      D.NIC.GAME 212.18.249.147 2a04:2b00:13ff:0:0:0:0:147
-ds-rdata:     5155 13 2 684c2f8e41f67ed183c79321501f2a85674dc1e87c9ad293a6fff6dfe6efc296
-
-whois:        whois.nic.game
-
-status:       ACTIVE
-remarks:      Registration information: https://nic.game
-
-created:      2015-07-02
-changed:      2024-01-31
 source:       IANA
 
 % IANA WHOIS server
@@ -22244,105 +20775,6 @@ source:       IANA
 % for more information on IANA, visit http://www.iana.org
 % This query returned 1 object
 
-domain:       GENT
-
-organisation: Combell nv
-address:      Skaldenstraat 121
-address:      Gent 9042
-address:      Belgium
-
-contact:      administrative
-name:         Jimmy Cappaert
-organisation: Combell nv
-address:      Skaldenstraat 121
-address:      Gent 9042
-address:      Belgium
-phone:        +3292187979
-fax-no:       +3292187978
-e-mail:       jimmy.cappaert@combell.group
-
-contact:      technical
-name:         CTO
-organisation: CentralNic
-address:      Saddlers House, 4th Floor
-address:      44 Gutter Lane
-address:      London EC2V 6BR
-address:      United Kingdom of Great Britain and Northern Ireland (the)
-phone:        +44 20 33 88 0600
-fax-no:       +44 20 33 88 0601
-e-mail:       tld.ops@centralnic.com
-
-nserver:      A.NIC.GENT 194.169.218.89 2001:67c:13cc:0:0:0:1:89
-nserver:      B.NIC.GENT 185.24.64.89 2a04:2b00:13cc:0:0:0:1:89
-nserver:      C.NIC.GENT 212.18.248.89 2a04:2b00:13ee:0:0:0:0:89
-nserver:      D.NIC.GENT 212.18.249.89 2a04:2b00:13ff:0:0:0:0:89
-ds-rdata:     2640 13 2 e97c1f6f53e1284399d6daaf670d8fcbddb5618710ade52c1219757c14c77d88
-ds-rdata:     65113 13 2 ff773c6dfaaa57475219ba35030a346181a8737e02e2ea2566c452b5ffd5a69a
-
-whois:        whois.nic.gent
-
-status:       ACTIVE
-remarks:      Registration information: http://www.nic.gent
-
-created:      2014-07-03
-changed:      2023-10-05
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
-domain:       GENTING
-
-organisation: Resorts World Inc. Pte. Ltd.
-address:      3 Lim Teck Kim Road
-address:      #09-02 Genting Centre
-address:      Singapore 088934
-address:      Singapore
-
-contact:      administrative
-name:         VP
-organisation: Resorts World Inc. Pte. Ltd.
-address:      RW Tech Labs Sdn Bhd
-address:      Jalan Sultan Ismail 28
-address:      2nd Floor Wisma Genting
-address:      Kuala Lumpur 50250
-address:      Malaysia
-phone:        +65 6823 9106
-fax-no:       +65 6720 0866
-e-mail:       ngtld-genting@cscglobal.com
-
-contact:      technical
-name:         Howard Eland, Senior Director, DNS Infrastructure Group
-organisation: Identity Digital Inc.
-address:      10500 NE 8th Street, Suite 750
-address:      Bellevue WA 98004
-address:      United States of America (the)
-phone:        +1.425.298.2200
-fax-no:       +1.425.671.0020
-e-mail:       tldtech@identity.digital
-
-nserver:      V0N0.NIC.GENTING 2a01:8840:6a:0:0:0:0:13 65.22.108.13
-nserver:      V0N1.NIC.GENTING 2a01:8840:6b:0:0:0:0:13 65.22.109.13
-nserver:      V0N2.NIC.GENTING 2a01:8840:6c:0:0:0:0:13 65.22.110.13
-nserver:      V0N3.NIC.GENTING 161.232.32.13 2a01:8840:108:0:0:0:0:13
-nserver:      V2N0.NIC.GENTING 2a01:8840:6d:0:0:0:0:13 65.22.111.13
-nserver:      V2N1.NIC.GENTING 161.232.33.13 2a01:8840:109:0:0:0:0:13
-ds-rdata:     34012 8 2 edefc992a1962e973126b51f53a920da4c0caafe53491bd1dd768c440770961e
-
-whois:        whois.nic.genting
-
-status:       ACTIVE
-remarks:      Registration information: http://nic.genting/
-
-created:      2015-06-11
-changed:      2024-03-31
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
 domain:       GEORGE
 
 organisation: Wal-Mart Stores, Inc.
@@ -22721,55 +21153,6 @@ source:       IANA
 % for more information on IANA, visit http://www.iana.org
 % This query returned 1 object
 
-domain:       GIVES
-
-organisation: Public Interest Registry (PIR)
-address:      11911 Freedom Drive 10th Floor, Suite 1000
-address:      Reston VA 20190
-address:      United States of America (the)
-
-contact:      administrative
-name:         Director of Operations, Compliance and Customer Support
-organisation: Public Interest Registry (PIR)
-address:      11911 Freedom Drive,
-address:      10th Floor, Suite 1000
-address:      Reston VA 20190
-address:      United States of America (the)
-phone:        1 703 889 5778
-fax-no:       1 703 889 5779
-e-mail:       ops@pir.org
-
-contact:      technical
-name:         Senior Director, DNS Infrastructure Group
-organisation: Donuts Inc.
-address:      10500 NE 8th Street, Suite 750
-address:      Bellevue WA 98004
-address:      United States of America (the)
-phone:        +1.425.298.2200
-fax-no:       +1.425.671.0020
-e-mail:       tldtech@donuts.email
-
-nserver:      V0N0.NIC.GIVES 2a01:8840:22:0:0:0:0:61 65.22.32.61
-nserver:      V0N1.NIC.GIVES 2a01:8840:23:0:0:0:0:61 65.22.33.61
-nserver:      V0N2.NIC.GIVES 2a01:8840:24:0:0:0:0:61 65.22.34.61
-nserver:      V0N3.NIC.GIVES 161.232.16.61 2a01:8840:fa:0:0:0:0:61
-nserver:      V2N0.NIC.GIVES 2a01:8840:25:0:0:0:0:61 65.22.35.61
-nserver:      V2N1.NIC.GIVES 161.232.17.61 2a01:8840:fb:0:0:0:0:61
-ds-rdata:     51526 8 2 d1dd06d869102253fe38e8f665571b0f10a7f2c24ad4a92c10c47503919a6e1d
-
-whois:        whois.nic.gives
-
-status:       ACTIVE
-remarks:      Registration information: http://nic.gives
-
-created:      2014-05-29
-changed:      2023-01-18
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
 domain:       GIVING
 
 organisation: Public Interest Registry (PIR)
@@ -22812,54 +21195,6 @@ remarks:      Registration information: http://nic.giving
 
 created:      2015-06-11
 changed:      2023-01-18
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
-domain:       GL
-
-organisation: TELE Greenland A/S
-address:      Farip Aqqutaa 8
-address:      PO Box 1002
-address:      Nuuk 3900
-address:      Greenland
-
-contact:      administrative
-name:         Network Planning Department (NPL)
-organisation: TELE Greenland A/S
-address:      Farip Aqqutaa 8
-address:      PO Box 1002
-address:      Nuuk 3900
-address:      Greenland
-phone:        +299 341255
-fax-no:       +299 322966
-e-mail:       gl-admin@telepost.gl
-
-contact:      technical
-name:         Operations Support Systems Department (OSS)
-organisation: TELE Greenland A/S
-address:      Farip Aqqutaa 8
-address:      PO Box 1002
-address:      Nuuk 3900
-address:      Greenland
-phone:        +299 341255
-fax-no:       +299 322966
-e-mail:       gl-admin@telepost.gl
-
-nserver:      D.NIC.GL 2001:500:14:6049:ad:0:0:1 204.61.216.49
-nserver:      NS1.ANYCASTDNS.CZ 185.38.108.108 2a00:fea0:dead:0:0:0:0:beef
-nserver:      NS2.ANYCASTDNS.CZ 185.28.194.194
-ds-rdata:     11560 8 2 3d44df84c78a82e0e9824440f3e82b402551341dbff3bce72cd786435d15f1aa
-
-whois:        whois.nic.gl
-
-status:       ACTIVE
-remarks:      Registration information: http://www.nic.gl/
-
-created:      1994-04-08
-changed:      2022-11-26
 source:       IANA
 
 % IANA WHOIS server
@@ -23233,95 +21568,6 @@ remarks:      Registration information: http://www.gmoregistry.com/en/
 
 created:      2014-02-27
 changed:      2019-08-20
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
-domain:       GMX
-
-organisation: 1&1 Mail & Media GmbH
-address:      Brauerstrasse 48
-address:      Karlsruhe Baden-Württemberg 76135
-address:      Germany
-
-contact:      administrative
-name:         Senior Partner Manager
-organisation: 1&1 Mail & Media GmbH
-address:      Brauerstrasse 48
-address:      Karlsruhe Baden-Württemberg 76135
-address:      Germany
-phone:        +49 721 91374 3405
-e-mail:       gmxregistry@1und1.de
-
-contact:      technical
-name:         ironDNS Support
-organisation: Knipp Medien und Kommunikation GmbH
-address:      Martin-Schmeisser-Weg 9
-address:      Dortmund North Rhine-Westphalia 44227
-address:      Germany
-phone:        +49 231 9703 0
-fax-no:       +49 231 9703 200
-e-mail:       dnsmaster@irondns.net
-
-nserver:      ANYCAST10.IRONDNS.NET 195.253.64.12 2a01:5b0:4:0:0:0:0:c
-nserver:      ANYCAST23.IRONDNS.NET 195.253.65.11 2a01:5b0:5:0:0:0:0:b
-nserver:      ANYCAST24.IRONDNS.NET 195.253.65.12 2a01:5b0:5:0:0:0:0:c
-nserver:      ANYCAST9.IRONDNS.NET 195.253.64.11 2a01:5b0:4:0:0:0:0:b
-ds-rdata:     49537 10 2 ee15cf33c2e02f308291960df44a5a87e16c0535e34178528780a9a4f28a736f
-
-whois:        whois.nic.gmx
-
-status:       ACTIVE
-remarks:      Registration information: https://cp.nic.gmx
-
-created:      2014-08-07
-changed:      2022-09-02
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
-domain:       GN
-
-organisation: Centre National des Sciences Halieutiques de Boussoura
-address:      BP 1984
-address:      Conakry
-address:      Guinea
-
-contact:      administrative
-name:         Boubacar 55 Barry
-organisation: Association en charge pour le Nommage Internet en Coopération de la République de Guinée 'NIC.GN'
-address:      B.P 6505, Ratoma Centre, Commune de Ratoma
-address:      Conakry
-address:      Guinea
-phone:        +224 628 592 833
-e-mail:       president@nic.org.gn
-
-contact:      technical
-name:         Abdoul Khader Gakou
-organisation: Agence Nationale de Digitalisation de l’Etat (ANDE)
-address:      BP 5000, Kipé 'Immeuble Pacific,' Commune of Ratoma
-address:      Conakry
-address:      Guinea
-phone:        +224 622 298 656
-e-mail:       abdoulkhader.gakou@ande.gov.gn
-
-nserver:      FORK.STH.DNSNODE.NET 2a01:3f0:0:306:0:0:0:53 77.72.229.254
-nserver:      NS-GN.AFRINIC.NET 196.216.168.49 2001:43f8:120:0:0:0:0:49
-nserver:      NS-PCH.GN 2001:500:14:6147:ad:0:0:1 204.61.216.147
-nserver:      NS1.GN 41.77.190.237
-ds-rdata:     9311 8 2 e471b517052703360ca1c48be047e7c4316f507a07213ab25eceb6a63bc64c09
-
-whois:        whois.ande.gov.gn
-
-status:       ACTIVE
-remarks:      Registration information: https://ande.gov.gn/dns-gn/
-
-created:      1994-08-09
-changed:      2023-12-11
 source:       IANA
 
 % IANA WHOIS server
@@ -23808,52 +22054,6 @@ source:       IANA
 % for more information on IANA, visit http://www.iana.org
 % This query returned 1 object
 
-domain:       GOV
-
-organisation: Cybersecurity and Infrastructure Security Agency
-address:      CSD/CB – Attn: Cameron Dixon
-address:      CISA – NGR STOP 0645
-address:      1110 N. Glebe Rd.
-address:      Arlington VA 20598-0645
-address:      United States of America (the)
-
-contact:      administrative
-name:         Program Manager
-organisation: Cybersecurity and Infrastructure Security Agency
-address:      1110 N. Glebe Rd.
-address:      Arlington VA 20598-0645
-address:      United States of America (the)
-phone:        +1 888 282 0870
-e-mail:       help@get.gov
-
-contact:      technical
-name:         Registry Customer Service
-organisation: Cloudflare, Inc.
-address:      101 Townsend St.
-address:      San Francisco CA 94107
-address:      United States of America (the)
-phone:        +1 888 993 5273
-e-mail:       dotgov@cloudflare.com
-
-nserver:      A.NS.GOV 199.33.230.1 2001:503:ff40:0:0:0:0:1
-nserver:      B.NS.GOV 199.33.231.1 2001:503:ff41:0:0:0:0:1
-nserver:      C.NS.GOV 199.33.232.1 2001:503:ff42:0:0:0:0:1
-nserver:      D.NS.GOV 199.33.233.1 2001:503:ff43:0:0:0:0:1
-ds-rdata:     2536 13 2 0baf26b7bbf313a859046fd3b1ee49ddfba33934cfb3e717c21e2a2935c2f259
-
-whois:        whois.dotgov.gov
-
-status:       ACTIVE
-remarks:      Registration information: https://get.gov
-
-created:      1985-01-01
-changed:      2024-08-29
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
 domain:       GP
 
 organisation: Networking Technologies Group
@@ -24332,52 +22532,6 @@ source:       IANA
 % for more information on IANA, visit http://www.iana.org
 % This query returned 1 object
 
-domain:       GS
-
-organisation: Government of South Georgia and South Sandwich Islands (GSGSSI)
-address:      Government House
-address:      Stanley
-address:      Falkland Islands F1QQ 1ZZ
-address:      South Georgia and the South Sandwich Islands
-
-contact:      administrative
-name:         Customer Support and Development Officer
-organisation: Atlantis North Ltd
-address:      556 Strathmartine Road
-address:      Dundee DD3 9ER
-address:      United Kingdom of Great Britain and Northern Ireland (the)
-phone:        +44 121 318 6707
-fax-no:       +44 121 318 6707
-e-mail:       helpdesk@nic.gs
-
-contact:      technical
-name:         Technical Director
-organisation: Atlantis North Ltd
-address:      556 Strathmartine Road
-address:      Dundee DD3 9ER
-address:      United Kingdom of Great Britain and Northern Ireland (the)
-phone:        +44 121 318 6707
-fax-no:       +44 121 318 6707
-e-mail:       paul.shafi@sgisland.org
-
-nserver:      NS.ANYCAST.NIC.GS 2001:500:14:6021:ad:0:0:1 204.61.216.21
-nserver:      NS1.ANYCASTDNS.CZ 185.38.108.108 2a00:fea0:dead:0:0:0:0:beef
-nserver:      NS2.ANYCASTDNS.CZ 185.28.194.194
-ds-rdata:     23990 8 2 2cbc82da27fdb16662bf359f59df1b63fa0ab720bfc2120f17ba369a3249fc5e
-
-whois:        whois.nic.gs
-
-status:       ACTIVE
-remarks:      Registration information: http://secure.nic.gs
-
-created:      1997-07-31
-changed:      2024-03-20
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
 domain:       GT
 
 organisation: Universidad del Valle de Guatemala
@@ -24421,57 +22575,6 @@ remarks:      Registration information: http://www.gt
 
 created:      1992-08-14
 changed:      2024-01-16
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
-domain:       GU
-
-organisation: University of Guam
-address:      Office of Information Technology
-address:      303 University Drive
-address:      UOG Station
-address:      Mangilao 96923
-address:      Guam
-
-contact:      administrative
-name:         Chief Information Officer
-organisation: University of Guam
-address:      Office of Information Technology
-address:      303 University Drive
-address:      UOG Station
-address:      Mangilao 96923
-address:      Guam
-phone:        +16717352635
-fax-no:       +16717349422
-e-mail:       iso@triton.uog.edu
-
-contact:      technical
-name:         UOG NOC
-organisation: University of Guam
-address:      Office of Information Technology
-address:      303 University Drive
-address:      UOG Station
-address:      Mangilao 96923
-address:      Guam
-phone:        +16719692205
-fax-no:       +16717349422
-e-mail:       uognoc@triton.uog.edu
-
-nserver:      GOLD.UOG.EDU 168.123.250.66
-nserver:      GREEN.UOG.EDU 168.123.250.56
-nserver:      GU.CCTLD.AUTHDNS.RIPE.NET 193.0.9.78 2001:67c:e0:0:0:0:0:78
-nserver:      PHLOEM.UOREGON.EDU 128.223.32.35 2001:468:d01:20:0:0:80df:2023
-
-whois:        
-
-status:       ACTIVE
-remarks:      Registration information: https://give.uog.edu/shop/
-
-created:      1994-04-15
-changed:      2022-08-04
 source:       IANA
 
 % IANA WHOIS server
@@ -25438,50 +23541,6 @@ remarks:      Registration information: http://hermes.com
 
 created:      2014-10-30
 changed:      2023-08-31
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
-domain:       HIPHOP
-
-organisation: Dot Hip Hop, LLC
-address:      2051 Waters Edge Dr.
-address:      Pompano Beach FL 33062
-address:      United States of America (the)
-
-contact:      administrative
-name:         Chief Legal Officer
-organisation: Dot Hip Hop, LLC
-address:      2051 Waters Edge Dr.
-address:      Pompano Beach FL 33062
-address:      United States of America (the)
-phone:        +1.202.549.5079
-e-mail:       jeff@get.hiphop
-
-contact:      technical
-name:         Vice President, Engineering
-organisation: Tucows Inc
-address:      96 Mowat Avenue
-address:      Toronto ON M6K3M1
-address:      Canada
-phone:        +1.949.903.3449
-e-mail:       trs-ops@tucows.com
-
-nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
-nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
-nserver:      NS01.TRS-DNS.NET 64.96.2.1
-nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
-ds-rdata:     7668 13 2 de0bde4365798b5080d31d7a5a8e7182d4924938761bfd506af371ea5cb36ab0
-
-whois:        whois.nic.hiphop
-
-status:       ACTIVE
-remarks:      Registration information: https://get.hiphop
-
-created:      2014-05-08
-changed:      2024-04-29
 source:       IANA
 
 % IANA WHOIS server
@@ -30447,98 +28506,6 @@ source:       IANA
 % for more information on IANA, visit http://www.iana.org
 % This query returned 1 object
 
-domain:       KI
-
-organisation: Ministry of Information, Communications and Transport (MICT)
-address:      Betio
-address:      Tarawa
-address:      Kiribati
-
-contact:      administrative
-name:         Director of National ICT
-organisation: Ministry of Information, Communications and Transport
-address:      Betio
-address:      Tarawa
-address:      Kiribati
-phone:        +686 26003
-e-mail:       dnict@mict.gov.ki
-
-contact:      technical
-name:         Kaboterenga Romatoa
-organisation: Communications Commission of Kiribati
-address:      Main Road
-address:      Betio
-address:      Tarawa
-address:      Kiribati
-phone:        +686 25488
-e-mail:       kaboterenga.romatoa@cck.ki
-
-nserver:      ANYCASTDNS1.NIC.KI 185.38.108.108 2a00:fea0:dead:0:0:0:0:beef
-nserver:      ANYCASTDNS2.NIC.KI 185.28.194.194
-nserver:      PCH.NIC.KI 2001:500:14:6026:ad:0:0:1 204.61.216.26
-ds-rdata:     59540 8 2 fd3b27e5c171b883fe2815dde7fbbe7f2e5af826bff47c33b5970f53e2a855de
-
-whois:        whois.nic.ki
-
-status:       ACTIVE
-remarks:      Registration information: http://www.nic.ki
-
-created:      1995-04-19
-changed:      2024-02-06
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
-domain:       KIA
-
-organisation: KIA MOTORS CORPORATION
-address:      231 Yangjae-dong
-address:      Seocho-gu
-address:      Seoul 137-938
-address:      Korea (the Republic of)
-
-contact:      administrative
-name:         Chief Operating Officer
-organisation: GMO BRAND SECURITY Inc.
-address:      Cerulean Tower 26-1 Sakuragaoka-cho
-address:      Shibuya-ku Tokyo 150-8512
-address:      Japan
-phone:        +81.357841069
-fax-no:       +81.334625040
-e-mail:       registry@brightsconsulting.com
-
-contact:      technical
-name:         Director
-organisation: GMO Registry, Inc.
-address:      Cerulean Tower
-address:      26-1 Sakuragaoka-cho
-address:      Shibuya-ku Tokyo 150-8512
-address:      Japan
-phone:        +81.354561601
-fax-no:       +81.337805239
-e-mail:       newgtld@gmoregistry.com
-
-nserver:      A.GMOREGISTRY.NET 2001:dcd:1:0:0:0:0:4 37.209.192.4
-nserver:      B.GMOREGISTRY.NET 2001:dcd:2:0:0:0:0:4 37.209.194.4
-nserver:      K.GMOREGISTRY.NET 37.209.196.4
-nserver:      L.GMOREGISTRY.NET 2001:dcd:4:0:0:0:0:4 37.209.198.4
-ds-rdata:     2195 8 2 f0e9a6aaf2b84cdd23a98ec5926f0d9f921351207278b1d02ef8067895466377
-
-whois:        whois.nic.kia
-
-status:       ACTIVE
-remarks:      Registration information: http://www.kia.com
-
-created:      2015-09-17
-changed:      2023-06-20
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
 domain:       KIDS
 
 organisation: DotKids Foundation Limited
@@ -31261,197 +29228,6 @@ source:       IANA
 % for more information on IANA, visit http://www.iana.org
 % This query returned 1 object
 
-domain:       KRED
-
-organisation: KredTLD Pty Ltd
-address:      Level 6
-address:      1 Chifley Square
-address:      Sydney NSW 2000
-address:      Australia
-
-contact:      administrative
-name:         Jodee Rich
-organisation: KredTLD Pty Ltd
-address:      Level 6
-address:      1 Chifley Square
-address:      Sydney NSW 2000
-address:      Australia
-phone:        +61 2 9247 8230
-e-mail:       contact@peoplebrowsr.com
-
-contact:      technical
-name:         CTO
-organisation: CentralNic
-address:      Saddlers House, 4th Floor
-address:      44 Gutter Lane
-address:      London EC2V 6BR
-address:      United Kingdom of Great Britain and Northern Ireland (the)
-phone:        +44 20 33 88 0600
-fax-no:       +44 20 33 88 0601
-e-mail:       tld.ops@centralnic.com
-
-nserver:      A.NIC.KRED 194.169.218.79 2001:67c:13cc:0:0:0:1:79
-nserver:      B.NIC.KRED 185.24.64.79 2a04:2b00:13cc:0:0:0:1:79
-nserver:      C.NIC.KRED 212.18.248.79 2a04:2b00:13ee:0:0:0:0:79
-nserver:      D.NIC.KRED 212.18.249.79 2a04:2b00:13ff:0:0:0:0:79
-ds-rdata:     7366 8 2 46bb5d35906260d79f26c5639b8a1fe47061c329973204d07222808035cd11bf
-ds-rdata:     33850 8 2 2ed5e1e9ef263b8455a2df166c792df49a29c8294ae9999287b56d0b81d2ed70
-
-whois:        
-
-status:       ACTIVE
-remarks:      Registration information: http://www.peoplebrowsr.com
-
-created:      2014-02-20
-changed:      2023-11-17
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
-domain:       KUOKGROUP
-
-organisation: Kerry Trading Co. Limited
-address:      31/F Kerry Centre
-address:      683 King’s Road
-address:      Quarry Bay
-address:      Hong Kong
-
-contact:      administrative
-name:         Legal Executive
-organisation: Kerry Trading Co. Limited
-address:      31/F Kerry Centre
-address:      683 King’s Road
-address:      Quarry Bay
-address:      Hong Kong
-phone:        +852 2525 7211
-fax-no:       +852 2845 9000
-e-mail:       ngtld-kerry4@cscinfo.com
-
-contact:      technical
-name:         Howard Eland, Senior Director, DNS Infrastructure Group
-organisation: Identity Digital Inc.
-address:      10500 NE 8th Street, Suite 750
-address:      Bellevue WA 98004
-address:      United States of America (the)
-phone:        +1.425.298.2200
-fax-no:       +1.425.671.0020
-e-mail:       tldtech@identity.digital
-
-nserver:      A0.NIC.KUOKGROUP 2a01:8840:6e:0:0:0:0:56 65.22.112.56
-nserver:      A2.NIC.KUOKGROUP 2a01:8840:71:0:0:0:0:56 65.22.115.56
-nserver:      B0.NIC.KUOKGROUP 2a01:8840:6f:0:0:0:0:56 65.22.113.56
-nserver:      C0.NIC.KUOKGROUP 2a01:8840:70:0:0:0:0:56 65.22.114.56
-ds-rdata:     28711 8 2 19c2733eeb5ab3b49ce9d819206870d68b3bb15dd07f69f99175e27a984ed8d1
-
-whois:        whois.nic.kuokgroup
-
-status:       ACTIVE
-remarks:      Registration information: http://www.kerryprops.com
-
-created:      2015-12-17
-changed:      2023-08-11
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
-domain:       KW
-
-organisation: Communications and Information Technology Regulatory Authority
-address:      Khaled Ibn Alwaleed street, block 6, plot 1, aldhow tower, 12th floor
-address:      Al Asima Sharq 15300
-address:      Kuwait
-
-contact:      administrative
-name:         Manal AlMazyad
-organisation: Communications and Information Technology Regulatory Authority
-address:      Khaled Ibn Alwaleed street, block 6, plot 1, aldhow tower, 12th floor
-address:      Sharq
-address:      Al Asima 15300
-address:      Kuwait
-phone:        +965.22966000
-fax-no:       +965.00000000
-e-mail:       nic.admin@citra.gov.kw
-
-contact:      technical
-name:         Bashar Al-Abdulhadi
-organisation: Kuwaitnet General Trading & Contracting Co
-address:      P.O. Box 1230
-address:      Dasman
-address:      Al Asima 15463
-address:      Kuwait
-phone:        +965.1807060
-fax-no:       +965.22257060
-e-mail:       nic.tech@citra.gov.kw
-
-nserver:      A.NIC.KW 54.228.209.46
-nserver:      B.NIC.KW 168.187.100.84
-nserver:      C.NIC.KW 194.58.198.135 2a01:3f1:3032:8001:0:0:0:135
-nserver:      D.NIC.KW 185.42.137.135 2a01:3f0:400:8001:0:0:0:135
-nserver:      PCH.NIC.KW 2001:500:14:6118:ad:0:0:1 204.61.216.118
-ds-rdata:     53599 8 2 c5646a4e1bee8c2699d3cc3c4f597f8767b85a134fe5ee5dfe8b3d25b1534d3a
-
-whois:        
-
-status:       ACTIVE
-remarks:      Registration information: http://www.nic.kw
-
-created:      1992-10-26
-changed:      2023-01-18
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
-domain:       KY
-
-organisation: Utility Regulation and Competition Office (OfReg)
-address:      P.O. Box 2502
-address:      Grand Cayman KY1-1104
-address:      Cayman Islands (the)
-
-contact:      administrative
-name:         Acting Executive Director ICT
-organisation: Utility Regulation and Competition Office (OfReg)
-address:      P.O. Box 10189
-address:      Grand Cayman KY1-1002
-address:      Cayman Islands (the)
-phone:        1-345-946-4282
-fax-no:       1-345-945-8284
-e-mail:       sonji.myles@ofreg.ky
-
-contact:      technical
-name:         Vice President, Engineering
-organisation: Tucows Inc
-address:      96 Mowat Avenue
-address:      Toronto ON M6K3M1
-address:      Canada
-phone:        +1.949.903.3449
-e-mail:       trs-ops@tucows.com
-
-nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
-nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
-nserver:      NS01.TRS-DNS.NET 64.96.2.1
-nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
-ds-rdata:     38821 13 2 7fc55d2cabba85a2ca6831aca0565a64d7ad91e4861b114f317392b680dc6cbc
-
-whois:        whois.kyregistry.ky
-
-status:       ACTIVE
-remarks:      Registration information: http://uniregistry.com
-
-created:      1995-05-03
-changed:      2024-05-03
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
 domain:       KYOTO
 
 organisation: Academic Institution: Kyoto Jyoho Gakuen
@@ -32016,198 +29792,6 @@ remarks:      Registration information: https://nic.lat
 
 created:      2014-12-04
 changed:      2024-04-15
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
-domain:       LATINO
-
-organisation: Dish DBS Corporation
-address:      9601 S. Meridian Boulevard
-address:      Englewood CO 80112
-address:      United States of America (the)
-
-contact:      administrative
-name:         Director Advanced Video Products
-organisation: DISH DBS Corporation
-address:      9601 S. Meridian Boulevard
-address:      Englewood CO 80112
-address:      United States of America (the)
-phone:        +1.303.723.1000
-fax-no:       +1.303.723.1699
-e-mail:       ngtld-latino@cscglobal.com
-
-contact:      technical
-name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias
-address:      300 Welsh Road
-address:      Building 3, Suite 105
-address:      Horsham PA 19044
-address:      United States of America (the)
-phone:        +1 215.706.5700
-fax-no:       +1 215.706.5701
-e-mail:       tld-tech-poc@afilias.info
-
-nserver:      A0.NIC.LATINO 2a01:8840:5a:0:0:0:0:17 65.22.92.17
-nserver:      A2.NIC.LATINO 2a01:8840:5d:0:0:0:0:17 65.22.95.17
-nserver:      B0.NIC.LATINO 2a01:8840:5b:0:0:0:0:17 65.22.93.17
-nserver:      C0.NIC.LATINO 2a01:8840:5c:0:0:0:0:17 65.22.94.17
-ds-rdata:     28831 8 2 38d9082c093d8c2e653b0c2bfa3eaa463fc401fe31ed28c62b0a2b506bcf9d24
-
-whois:        whois.nic.latino
-
-status:       ACTIVE
-remarks:      Registration information: http://www.dish.com/
-
-created:      2016-06-30
-changed:      2023-08-11
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
-domain:       LATROBE
-
-organisation: La Trobe University
-address:      Bundoora
-address:      Melbourne VIC 3086
-address:      Australia
-
-contact:      administrative
-name:         David Hird
-organisation: La Trobe University
-address:      La Trobe University
-address:      Bundoora VIC 3086
-address:      Australia
-phone:        +61394796684
-fax-no:       +61394791991
-e-mail:       ngtld-latrobe@cscglobal.com
-
-contact:      technical
-name:         Anne-Mette Roed
-organisation: CSC Digital Brand Services
-address:      2711 Centerville Rd.
-address:      Suite 400
-address:      Wilmington DE 19808
-address:      United States of America (the)
-phone:        +442070151717
-e-mail:       ngtld-latrobe@cscglobal.com
-
-nserver:      A.NIC.LATROBE 2001:dcd:1:0:0:0:0:9 37.209.192.9
-nserver:      B.NIC.LATROBE 2001:dcd:2:0:0:0:0:9 37.209.194.9
-nserver:      C.NIC.LATROBE 2001:dcd:3:0:0:0:0:9 37.209.196.9
-nserver:      X.NIC.LATROBE 156.154.172.82 2610:a1:1074:0:0:0:1:82
-nserver:      Y.NIC.LATROBE 156.154.173.82 2610:a1:1075:0:0:0:1:82
-nserver:      Z.NIC.LATROBE 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     63574 8 2 e4568946895709133c39f850f8fa9a768b97993838ef69e35f2e3619f78ad08c
-
-whois:        whois.nic.latrobe
-
-status:       ACTIVE
-remarks:      Registration information: http://nic.latrobe
-
-created:      2014-11-06
-changed:      2023-11-30
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
-domain:       LAW
-
-organisation: Registry Services, LLC
-address:      100 S. Mill Ave, Suite 1600
-address:      Tempe AZ 85281
-address:      United States of America (the)
-
-contact:      administrative
-name:         IANA Contact
-organisation: GoDaddy Registry
-address:      100 S. Mill Ave, Suite 1600
-address:      Tempe AZ 85281
-address:      United States of America (the)
-phone:        +1 480-505-8800
-fax-no:       +1 480-624-2546
-e-mail:       iana@registry.godaddy
-
-contact:      technical
-name:         IANA Contact
-organisation: GoDaddy Registry
-address:      100 S. Mill Ave, Suite 1600
-address:      Tempe AZ 85281
-address:      United States of America (the)
-phone:        +1 480-505-8800
-fax-no:       +1 480-624-2546
-e-mail:       iana@registry.godaddy
-
-nserver:      A.NIC.LAW 2001:dcd:1:0:0:0:0:10 37.209.192.10
-nserver:      B.NIC.LAW 2001:dcd:2:0:0:0:0:10 37.209.194.10
-nserver:      C.NIC.LAW 2001:dcd:3:0:0:0:0:10 37.209.196.10
-nserver:      X.NIC.LAW 156.154.172.82 2610:a1:1074:0:0:0:1:82
-nserver:      Y.NIC.LAW 156.154.173.82 2610:a1:1075:0:0:0:1:82
-nserver:      Z.NIC.LAW 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     42496 8 2 f6daab5f4fc2a7d48c9e97623c3f0d478586fa882732ba0f86c31b291ad2f3f6
-
-whois:        whois.nic.law
-
-status:       ACTIVE
-remarks:      Registration information: http://nic.law/
-
-created:      2015-06-18
-changed:      2024-04-16
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
-domain:       LAWYER
-
-organisation: Dog Beach, LLC
-address:      c/o Identity Digital Limited
-address:      10500 NE 8th Street, Suite 750
-address:      Bellevue WA 98004
-address:      United States of America (the)
-
-contact:      administrative
-name:         Vice President, Engineering
-organisation: Identity Digital Limited
-address:      10500 NE 8th Street, Suite 750
-address:      Bellevue WA 98004
-address:      United States of America (the)
-phone:        +1.425.298.2200
-fax-no:       +1.425.671.0020
-e-mail:       tldadmin@identity.digital
-
-contact:      technical
-name:         Senior Director, DNS Infrastructure Group
-organisation: Identity Digital Limited
-address:      10500 NE 8th Street, Suite 750
-address:      Bellevue WA 98004
-address:      United States of America (the)
-phone:        +1.425.298.2200
-fax-no:       +1.425.671.0020
-e-mail:       tldtech@identity.digital
-
-nserver:      V0N0.NIC.LAWYER 2a01:8840:1a:0:0:0:0:14 65.22.24.14
-nserver:      V0N1.NIC.LAWYER 2a01:8840:1b:0:0:0:0:14 65.22.25.14
-nserver:      V0N2.NIC.LAWYER 2a01:8840:1c:0:0:0:0:14 65.22.26.14
-nserver:      V0N3.NIC.LAWYER 161.232.12.14 2a01:8840:f6:0:0:0:0:14
-nserver:      V2N0.NIC.LAWYER 2a01:8840:1d:0:0:0:0:14 65.22.27.14
-nserver:      V2N1.NIC.LAWYER 161.232.13.14 2a01:8840:f7:0:0:0:0:14
-ds-rdata:     24952 8 2 07f6239a01f7cab022db3f5773ea1f03bcf6780e4f87de8afd4f93883d19ebf8
-
-whois:        whois.nic.lawyer
-
-status:       ACTIVE
-remarks:      Registration information: https://www.identity.digital/
-
-created:      2014-05-22
-changed:      2023-09-12
 source:       IANA
 
 % IANA WHOIS server
@@ -32923,7 +30507,7 @@ status:       ACTIVE
 remarks:      Registration information: https://internetnaming.co
 
 created:      2015-10-01
-changed:      2024-05-22
+changed:      2024-10-21
 source:       IANA
 
 % IANA WHOIS server
@@ -33358,50 +30942,6 @@ remarks:      Registration information: https://www.identity.digital/
 
 created:      2015-06-25
 changed:      2023-09-12
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
-domain:       LIVING
-
-organisation: Internet Naming Co.
-address:      23 Lime Tree Bay, West Bay
-address:      Grand Cayman KY1-1505
-address:      Cayman Islands (the)
-
-contact:      administrative
-name:         Shayan Rostam, Principal
-organisation: Internet Naming Co.
-address:      23 Lime Tree Bay, West Bay
-address:      Grand Cayman KY1-1505
-address:      Cayman Islands (the)
-phone:        +1.424.888.0690
-e-mail:       partners@inaming.co
-
-contact:      technical
-name:         Francisco Obispo, Chief Technology Officer
-organisation: Tucows Inc
-address:      96 Mowat Avenue
-address:      Toronto Ontario M6K3M1
-address:      Canada
-phone:        +1-949-903-3449
-e-mail:       trs-ops@tucows.com
-
-nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
-nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
-nserver:      NS01.TRS-DNS.NET 64.96.2.1
-nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
-ds-rdata:     5373 13 2 8aefbb2d3a5149b5d4a165973063d733d3d18505bf6ffeeb3d319c6ac0f45a94
-
-whois:        
-
-status:       ACTIVE
-remarks:      Registration information: https://internetnaming.co
-
-created:      2015-12-10
-changed:      2024-05-21
 source:       IANA
 
 % IANA WHOIS server
@@ -34598,7 +32138,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.ly/
 
 created:      1997-04-23
-changed:      2021-05-10
+changed:      2024-10-23
 source:       IANA
 
 % IANA WHOIS server
@@ -35379,31 +32919,29 @@ source:       IANA
 domain:       MC
 
 organisation: Direction des Plateformes et des Ressources Numériques
-address:      19 Avenue des Castelans
-address:      Entrée C
+address:      2 rue du Gabian
+address:      c/o DITN
 address:      98000
 address:      Monaco
 
 contact:      administrative
-name:         Administrator
+name:         NIC Administrator
 organisation: Direction des Plateformes et des Ressources Numériques
-address:      19 Avenue des Castelans
-address:      Entrée C
+address:      2 rue du Gabian
+address:      c/o DITN
 address:      98000
 address:      Monaco
 phone:        +377 98 98 88 00
-fax-no:       +377 97 98 56 57
 e-mail:       nic@gouv.mc
 
 contact:      technical
-name:         Administrator
+name:         NIC Administrator
 organisation: Direction des Plateformes et des Ressources Numériques
-address:      19 Avenue des Castelans
-address:      Entrée C
+address:      2 rue du Gabian
+address:      c/o DITN
 address:      98000
 address:      Monaco
 phone:        +377 98 98 88 00
-fax-no:       +377 97 98 56 57
 e-mail:       nic@gouv.mc
 
 nserver:      MC.CCTLD.AUTHDNS.RIPE.NET 193.0.9.92
@@ -35418,7 +32956,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.nic.mc/
 
 created:      1995-01-20
-changed:      2023-06-30
+changed:      2024-10-22
 source:       IANA
 
 % IANA WHOIS server
@@ -36598,6 +34136,7 @@ nserver:      B.NS.NIC.MLS 185.159.198.8 2620:10a:80ab:0:0:0:0:8
 nserver:      C.NS.NIC.MLS 2a0e:dbc0:0:0:0:0:0:101 45.142.220.101
 nserver:      D.NS.NIC.MLS 185.159.199.8 2620:10a:80ac:0:0:0:0:8
 ds-rdata:     2629 8 2 1f831bf4f17ca7b3636eb20249abe2bc58fe071b0f6e8869ec904c8dd8a48cb8
+ds-rdata:     37745 8 2 b362a7e06d93497eb7833a1d5013b2ab859cf864966d724ab1fe0ec5c50fb577
 
 whois:        whois.nic.mls
 
@@ -36605,7 +34144,7 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2015-08-20
-changed:      2024-03-19
+changed:      2024-10-17
 source:       IANA
 
 % IANA WHOIS server
@@ -36698,64 +34237,6 @@ remarks:      Registration information: https://www.mma.fr
 
 created:      2015-02-27
 changed:      2024-07-23
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
-domain:       MN
-
-organisation: Datacom Co., Ltd.
-address:      Galaxy Tower Office Bldg, #5007,
-address:      Mahatma Gandhi Street,
-address:      Khan-Uul district
-address:      Ulaanbaatar 17010
-address:      Mongolia
-
-contact:      administrative
-name:         Enkhbat Dangaasuren
-organisation: Datacom Co., Ltd.
-address:      Galaxy Tower Office Bldg, #5007,
-address:      Mahatma Gandhi Street,
-address:      Khan-Uul district
-address:      Ulaanbaatar 17010
-address:      Mongolia
-phone:        +976 7000 0505
-fax-no:       +976 11 320 210
-e-mail:       enkhbat@datacom.mn
-
-contact:      technical
-name:         Enkhbold Gombo
-organisation: Datacom Co. Ltd.
-address:      Galaxy Tower Office Bldg, #5007,
-address:      Mahatma Gandhi Street,
-address:      Khan-Uul district
-address:      Ulaanbaatar 17010
-address:      Mongolia
-phone:        +976 7000 0505
-fax-no:       +976 11 320 210
-e-mail:       enkhbold@datacom.mn
-
-nserver:      A0.CCTLD.AFILIAS-NST.INFO 199.254.59.1 2001:500:25:0:0:0:0:1
-nserver:      A2.CCTLD.AFILIAS-NST.INFO 199.249.116.1 2001:500:44:0:0:0:0:1
-nserver:      B0.CCTLD.AFILIAS-NST.ORG 199.254.60.1 2001:500:26:0:0:0:0:1
-nserver:      B2.CCTLD.AFILIAS-NST.ORG 199.249.124.1 2001:500:4c:0:0:0:0:1
-nserver:      C0.CCTLD.AFILIAS-NST.INFO 199.254.61.1 2001:500:27:0:0:0:0:1
-nserver:      D0.CCTLD.AFILIAS-NST.ORG 199.254.62.1 2001:500:28:0:0:0:0:1
-nserver:      NS1.MAGIC.MN 202.131.0.10
-nserver:      NS2.MAGIC.MN 202.72.241.5
-nserver:      NS3.MAGIC.MN 202.131.224.80
-nserver:      NS4.MAGIC.MN 218.100.84.26
-ds-rdata:     22489 8 2 c069cd3e147e1f008fd2394a7112509c96d26094f876e48e56192779e1c47ba6
-
-whois:        whois.nic.mn
-
-status:       ACTIVE
-remarks:      Registration information: http://www.nic.mn
-
-created:      1995-03-02
-changed:      2022-06-15
 source:       IANA
 
 % IANA WHOIS server
@@ -36902,55 +34383,6 @@ remarks:      Registration information: https://www.dish.com/
 
 created:      2016-12-15
 changed:      2023-08-11
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
-domain:       MODA
-
-organisation: Dog Beach, LLC
-address:      c/o Identity Digital Limited
-address:      10500 NE 8th Street, Suite 750
-address:      Bellevue WA 98004
-address:      United States of America (the)
-
-contact:      administrative
-name:         Vice President, Engineering
-organisation: Identity Digital Limited
-address:      10500 NE 8th Street, Suite 750
-address:      Bellevue WA 98004
-address:      United States of America (the)
-phone:        +1.425.298.2200
-fax-no:       +1.425.671.0020
-e-mail:       tldadmin@identity.digital
-
-contact:      technical
-name:         Senior Director, DNS Infrastructure Group
-organisation: Identity Digital Limited
-address:      10500 NE 8th Street, Suite 750
-address:      Bellevue WA 98004
-address:      United States of America (the)
-phone:        +1.425.298.2200
-fax-no:       +1.425.671.0020
-e-mail:       tldtech@identity.digital
-
-nserver:      V0N0.NIC.MODA 2a01:8840:16:0:0:0:0:28 65.22.20.28
-nserver:      V0N1.NIC.MODA 2a01:8840:17:0:0:0:0:28 65.22.21.28
-nserver:      V0N2.NIC.MODA 2a01:8840:18:0:0:0:0:28 65.22.22.28
-nserver:      V0N3.NIC.MODA 161.232.10.28 2a01:8840:f4:0:0:0:0:28
-nserver:      V2N0.NIC.MODA 2a01:8840:19:0:0:0:0:28 65.22.23.28
-nserver:      V2N1.NIC.MODA 161.232.11.28 2a01:8840:f5:0:0:0:0:28
-ds-rdata:     60925 8 2 d9124bbc4096e70b4aab2a0328750836243bb8ff45fb0aa3000239e83d5da1cd
-
-whois:        whois.nic.moda
-
-status:       ACTIVE
-remarks:      Registration information: https://www.identity.digital/
-
-created:      2014-01-09
-changed:      2023-09-12
 source:       IANA
 
 % IANA WHOIS server
@@ -39440,148 +36872,6 @@ source:       IANA
 % for more information on IANA, visit http://www.iana.org
 % This query returned 1 object
 
-domain:       NHK
-
-organisation: Japan Broadcasting Corporation (NHK)
-address:      2-2-1 Jinnan
-address:      Shibuya-ku Tokyo
-address:      Japan
-
-contact:      administrative
-name:         Representative Director and CEO
-organisation: GMO Registry, Inc.
-address:      Cerulean Tower
-address:      26-1 Sakuragaoka-cho
-address:      Shibuya-ku Tokyo 150-8512
-address:      Japan
-phone:        +81 354561601
-fax-no:       +81 337805239
-e-mail:       newgtld@gmoregistry.com
-
-contact:      technical
-name:         Director
-organisation: GMO Registry, Inc.
-address:      Cerulean Tower
-address:      26-1 Sakuragaoka-cho
-address:      Shibuya-ku Tokyo 150-8512
-address:      Japan
-phone:        +81 354561601
-fax-no:       +81 337805239
-e-mail:       newgtld@gmoregistry.com
-
-nserver:      A.GMOREGISTRY.NET 2001:dcd:1:0:0:0:0:4 37.209.192.4
-nserver:      B.GMOREGISTRY.NET 2001:dcd:2:0:0:0:0:4 37.209.194.4
-nserver:      K.GMOREGISTRY.NET 37.209.196.4
-nserver:      L.GMOREGISTRY.NET 2001:dcd:4:0:0:0:0:4 37.209.198.4
-ds-rdata:     26765 8 2 6e9c65a3131229436d4c649a5b32377024f1a8d74ae38dfbadde3a007d00c6ae
-
-whois:        whois.nic.nhk
-
-status:       ACTIVE
-remarks:      Registration information:
-remarks:      http://www.gmo-registry.com/en/
-
-created:      2014-04-24
-changed:      2019-08-20
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
-domain:       NI
-
-organisation: Universidad Nacional del Ingernieria. Division de Tecnologias de la Informacion.
-address:      Sede Central Avenida Universitaria
-address:      Managua 5595
-address:      Nicaragua
-
-contact:      administrative
-name:         Manuel Alejandro Godinez Duriez
-organisation: UNI (National University Engineering)
-address:      Sede Central Avenida Universitaria
-address:      Managua 5595
-address:      Nicaragua
-phone:        +505 2278-3142
-fax-no:       +505-2278-3141
-e-mail:       manuel.godinez@dti.uni.edu.ni
-
-contact:      technical
-name:         Manuel Alejandro Godinez Duriez
-organisation: Universidad Nacional del Ingernieria
-address:      Sede Central Avenida Universitaria
-address:      Managua 5595
-address:      Nicaragua
-phone:        +505 2278 3142
-fax-no:       +505 2278 3141
-e-mail:       manuel.godinez@dti.uni.edu.ni
-
-nserver:      DNS-EXT.NIC.CR 200.107.82.219 2001:13c7:7004:110:0:0:0:219
-nserver:      NS.IDEAY.NET.NI 186.1.31.8
-nserver:      NS.NI 165.98.1.2
-nserver:      NS.UU.NET 137.39.1.3
-nserver:      NS2.NI 200.9.187.2
-nserver:      NS3.NI 200.119.166.36
-
-whois:        
-
-status:       ACTIVE
-remarks:      Registration information: http://www.nic.ni
-
-created:      1989-10-13
-changed:      2024-10-11
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
-domain:       NICO
-
-organisation: DWANGO Co., Ltd.
-address:      KABUKIZA TOWER., 4-12-15 Ginza Chuo-ku
-address:      Tokyo Tokyo 104-0061
-address:      Japan
-
-contact:      administrative
-name:         Representative Director
-organisation: GMO Registry, Inc.
-address:      26-1 Sakuragaoka-cho
-address:      Shibuya-ku Tokyo 1508512
-address:      Japan
-phone:        +81-3-5456-1601
-fax-no:       +81-3-3780-5239
-e-mail:       newgtld@gmoregistry.com
-
-contact:      technical
-name:         Director
-organisation: GMO Registry, Inc.
-address:      26-1 Sakuragaoka-cho
-address:      Shibuya-ku Tokyo 1508512
-address:      Japan
-phone:        +81-3-5456-1601
-fax-no:       +81-3-3780-5239
-e-mail:       newgtld@gmoregistry.com
-
-nserver:      A.GMOREGISTRY.NET 2001:dcd:1:0:0:0:0:4 37.209.192.4
-nserver:      B.GMOREGISTRY.NET 2001:dcd:2:0:0:0:0:4 37.209.194.4
-nserver:      K.GMOREGISTRY.NET 37.209.196.4
-nserver:      L.GMOREGISTRY.NET 2001:dcd:4:0:0:0:0:4 37.209.198.4
-ds-rdata:     48460 8 2 3f35a47bf0b6846b18a619300c133843de302c9606273a21a965f49da2f23e0a
-
-whois:        whois.nic.nico
-
-status:       ACTIVE
-remarks:      Registration information: http://nic.nico
-
-created:      2015-02-05
-changed:      2019-08-20
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
 domain:       NIKE
 
 organisation: NIKE, Inc.
@@ -40818,21 +38108,6 @@ remarks:      Registration information: http://www.olayan.com/
 
 created:      2016-04-21
 changed:      2024-05-31
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
-domain:       OLDNAVY
-
-whois:        
-
-status:       FORMER
-remarks:      Registration information: 
-
-created:      2016-07-14
-changed:      2024-01-22
 source:       IANA
 
 % IANA WHOIS server
@@ -43191,57 +40466,6 @@ source:       IANA
 % for more information on IANA, visit http://www.iana.org
 % This query returned 1 object
 
-domain:       PIONEER
-
-organisation: Pioneer Corporation
-address:      28-8, Honkomagome 2-chome
-address:      Bunkyo-ku Tokyo 113-0021
-address:      Japan
-
-contact:      administrative
-name:         Domain Manager
-organisation: Valideus
-address:      28-30 Little Russell Street
-address:      London WC1A 2HN
-address:      United Kingdom of Great Britain and Northern Ireland (the)
-phone:        +44 2074218299
-fax-no:       +44 8700118187
-e-mail:       technical@valideus.com
-
-contact:      technical
-name:         TLD Registry Services Technical
-organisation: Nominet
-address:      Minerva House
-address:      Edmund Halley Road
-address:      Oxford Science Park
-address:      Oxford OX4 4DQ
-address:      United Kingdom of Great Britain and Northern Ireland (the)
-phone:        +44.1865332211
-e-mail:       registrytechnical@nominet.uk
-
-nserver:      DNS1.NIC.PIONEER 213.248.219.126 2a01:618:403:0:0:0:0:126
-nserver:      DNS2.NIC.PIONEER 103.49.83.126 2401:fd80:403:0:0:0:0:126
-nserver:      DNS3.NIC.PIONEER 213.248.223.126 2a01:618:407:0:0:0:0:126
-nserver:      DNS4.NIC.PIONEER 2401:fd80:407:0:0:0:0:126 43.230.51.126
-nserver:      DNSA.NIC.PIONEER 156.154.100.3 2001:502:ad09:0:0:0:0:3
-nserver:      DNSB.NIC.PIONEER 156.154.101.3 2001:502:2eda:0:0:0:0:3
-nserver:      DNSC.NIC.PIONEER 156.154.102.3 2610:a1:1009:0:0:0:0:3
-nserver:      DNSD.NIC.PIONEER 156.154.103.3 2610:a1:1010:0:0:0:0:3
-ds-rdata:     52502 8 2 4c7837526065fad0933b836efbf1694b16e9c38115a1ad0317bcc4ba599fb367
-
-whois:        whois.nic.pioneer
-
-status:       ACTIVE
-remarks:      Registration information: http://www.nic.pioneer/
-
-created:      2016-05-26
-changed:      2022-09-30
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
 domain:       PIZZA
 
 organisation: Binky Moon, LLC
@@ -44530,193 +41754,6 @@ remarks:      Registration information: https://www.identity.digital/
 
 created:      2015-12-18
 changed:      2023-09-01
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
-domain:       PROPERTIES
-
-organisation: Binky Moon, LLC
-address:      c/o Identity Digital Limited
-address:      10500 NE 8th Street, Suite 750
-address:      Bellevue WA 98004
-address:      United States of America (the)
-
-contact:      administrative
-name:         Vice President, Engineering
-organisation: Identity Digital Limited
-address:      10500 NE 8th Street, Suite 750
-address:      Bellevue WA 98004
-address:      United States of America (the)
-phone:        +1.425.298.2200
-fax-no:       +1.425.671.0020
-e-mail:       tldadmin@identity.digital
-
-contact:      technical
-name:         Senior Director, DNS Infrastructure Group
-organisation: Identity Digital Limited
-address:      10500 NE 8th Street, Suite 750
-address:      Bellevue WA 98004
-address:      United States of America (the)
-phone:        +1.425.298.2200
-fax-no:       +1.425.671.0020
-e-mail:       tldtech@identity.digital
-
-nserver:      V0N0.NIC.PROPERTIES 2a01:8840:16:0:0:0:0:46 65.22.20.46
-nserver:      V0N1.NIC.PROPERTIES 2a01:8840:17:0:0:0:0:46 65.22.21.46
-nserver:      V0N2.NIC.PROPERTIES 2a01:8840:18:0:0:0:0:46 65.22.22.46
-nserver:      V0N3.NIC.PROPERTIES 161.232.10.46 2a01:8840:f4:0:0:0:0:46
-nserver:      V2N0.NIC.PROPERTIES 2a01:8840:19:0:0:0:0:46 65.22.23.46
-nserver:      V2N1.NIC.PROPERTIES 161.232.11.46 2a01:8840:f5:0:0:0:0:46
-ds-rdata:     24565 8 2 519c0cae03f6f4a6679f85ed1376f04a6702406f0731734618f608895306e4f5
-
-whois:        whois.nic.properties
-
-status:       ACTIVE
-remarks:      Registration information: https://www.identity.digital/
-
-created:      2014-01-30
-changed:      2023-09-13
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
-domain:       PROPERTY
-
-organisation: Digital Property Infrastructure Limited
-address:      Vistra Corporate Services Centre, Wickhams Cay II, Road Town
-address:      Tortola British Virgin Islands VG1110
-address:      Virgin Islands (British)
-
-contact:      administrative
-name:         Shayan Rostam
-organisation: Digital Property Infrastructure Limited
-address:      Vistra Corporate Services Centre, Wickhams Cay II, Road Town
-address:      Tortola British Virgin Islands VG1110
-address:      Virgin Islands (British)
-phone:        +1.424.888.0690
-e-mail:       registry@dpiregistry.com
-
-contact:      technical
-name:         Francisco Obispo
-organisation: Tucows Inc
-address:      96 Mowat Avenue
-address:      Toronto ON M6K3M1
-address:      Canada
-phone:        +1.949.903.3449
-e-mail:       trs-ops@tucows.com
-
-nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
-nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
-nserver:      NS01.TRS-DNS.NET 64.96.2.1
-nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
-ds-rdata:     33049 13 2 6dff521d658293fd458e615debb6ca0c76341775f72f340bcd3960851b4c536f
-
-whois:        whois.nic.property
-
-status:       ACTIVE
-remarks:      Registration information: https://internetnaming.co
-
-created:      2014-08-15
-changed:      2024-04-26
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
-domain:       PROTECTION
-
-organisation: XYZ.COM LLC
-address:      2121 E Tropicana Ave, Suite 2
-address:      Las Vegas NV 89119
-address:      United States of America (the)
-
-contact:      administrative
-name:         General Counsel
-organisation: XYZ.COM LLC
-address:      2121 E Tropicana Ave, Suite 2
-address:      Las Vegas NV 89119
-address:      United States of America (the)
-phone:        +1.7027632191
-e-mail:       hello@xyz.com
-
-contact:      technical
-name:         CTO
-organisation: CentralNic
-address:      Saddlers House, 4th Floor
-address:      44 Gutter Lane
-address:      London EC2V 6BR
-address:      United Kingdom of Great Britain and Northern Ireland (the)
-phone:        +44 20 33 88 0600
-fax-no:       +44 20 33 88 0601
-e-mail:       tld.ops@centralnic.com
-
-nserver:      A.NIC.PROTECTION 194.169.218.67 2001:67c:13cc:0:0:0:1:67
-nserver:      B.NIC.PROTECTION 185.24.64.67 2a04:2b00:13cc:0:0:0:1:67
-nserver:      E.NIC.PROTECTION 212.18.248.67 2a04:2b00:13ee:0:0:0:0:67
-nserver:      F.NIC.PROTECTION 212.18.249.67 2a04:2b00:13ff:0:0:0:0:67
-ds-rdata:     46846 8 2 3e780717cc500405e3e7869aebbe9f3d49ac770b338e216fca3f096efe92f2cf
-ds-rdata:     42842 8 2 a53b40df5d9fe9bcd1973b978c241562c22c70291dd829e6c59a864cb528b415
-
-whois:        whois.nic.protection
-
-status:       ACTIVE
-remarks:      Registration information: https://nic.protection/
-
-created:      2015-08-13
-changed:      2024-03-11
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
-domain:       PRU
-
-organisation: Prudential Financial, Inc.
-address:      751 Broad Street
-address:      Newark NJ 07102
-address:      United States of America (the)
-
-contact:      administrative
-name:         Adam Kaye
-organisation: Prudential Financial
-address:      213 Washington St
-address:      Newark NJ 07102
-address:      United States of America (the)
-phone:        +1 973 716 6632
-e-mail:       inet-admin@prudential.com
-
-contact:      technical
-name:         IANA Contact
-organisation: GoDaddy Registry
-address:      100 S. Mill Ave, Suite 1600
-address:      Tempe AZ 85281
-address:      United States of America (the)
-phone:        +1 480 505 8800
-fax-no:       +1 480 624 2546
-e-mail:       iana@registry.godaddy
-
-nserver:      A.NIC.PRU 2001:dcd:1:0:0:0:0:9 37.209.192.9
-nserver:      B.NIC.PRU 2001:dcd:2:0:0:0:0:9 37.209.194.9
-nserver:      C.NIC.PRU 2001:dcd:3:0:0:0:0:9 37.209.196.9
-nserver:      NS1.DNS.NIC.PRU 156.154.144.141 2610:a1:1071:0:0:0:0:8d
-nserver:      NS2.DNS.NIC.PRU 156.154.145.141 2610:a1:1072:0:0:0:0:8d
-nserver:      NS3.DNS.NIC.PRU 156.154.159.141 2610:a1:1073:0:0:0:0:8d
-ds-rdata:     54559 8 2 e38aaf4292647d64678f4e3819b5658570e058abbf7f60bae7a57c5369adcf73
-
-whois:        
-
-status:       ACTIVE
-remarks:      Registration information: https://www.prudential.com
-
-created:      2016-07-14
-changed:      2024-05-11
 source:       IANA
 
 % IANA WHOIS server
@@ -46323,55 +43360,6 @@ source:       IANA
 % for more information on IANA, visit http://www.iana.org
 % This query returned 1 object
 
-domain:       REST
-
-organisation: Punto 2012 Sociedad Anonima Promotora de Inversion de Capital Variable
-address:      Sierra Mojada 405, Nivel 3 Oficina B,
-address:      Col. Lomas De Chapultepec III Sección,
-address:      Miguel Hidalgo
-address:      Ciudad De México 11000
-address:      Mexico
-
-contact:      administrative
-name:         CEO
-organisation: Punto 2012 Sociedad Anonima Promotora de Inversion de Capital Variable
-address:      Sierra Mojada 405, Nivel 3 Oficina B,
-address:      Col. Lomas De Chapultepec III Sección,
-address:      Miguel Hidalgo
-address:      Ciudad De México 11000
-address:      Mexico
-phone:        +52.5585895544
-fax-no:       +52.5552505187
-e-mail:       info@punto2012.com
-
-contact:      technical
-name:         Francisco Obispo
-organisation: Tucows Inc
-address:      96 Mowat Avenue
-address:      Toronto Ontario M6K3M1
-address:      Canada
-phone:        +1.949.903.3449
-e-mail:       trs-ops@tucows.com
-
-nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
-nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
-nserver:      NS01.TRS-DNS.NET 64.96.2.1
-nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
-ds-rdata:     50905 13 2 a417bf8770704c9fe539aacd4c60d0d1f06b64e6367ba2130af2b60c96508adf
-
-whois:        whois.nic.rest
-
-status:       ACTIVE
-remarks:      Registration information: http://www.register.rest/
-
-created:      2014-03-06
-changed:      2024-05-22
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
 domain:       RESTAURANT
 
 organisation: Binky Moon, LLC
@@ -46754,52 +43742,6 @@ source:       IANA
 % for more information on IANA, visit http://www.iana.org
 % This query returned 1 object
 
-domain:       RIO
-
-organisation: Empresa Municipal de Informática SA - IPLANRIO
-address:      Av. Presidente Vargas, 3131 Sala 1204
-address:      Rio de Janeiro RJ 20210-030
-address:      Brazil
-
-contact:      administrative
-name:         Diretor Presidente
-organisation: Empresa Municipal de Informática SA - IPLANRIO
-address:      Av. Presidente Vargas, 3131 - 13. andar
-address:      Rio de Janeiro RJ 20210-030
-address:      Brazil
-phone:        +55 21 39711818
-e-mail:       gtlds-rio@registro.br
-
-contact:      technical
-name:         NIC.br Registry Services - Tech Contact
-organisation: NIC.br
-address:      Av. das Nações Unidas, 11541, 7. andar
-address:      São Paulo SP 04578-000
-address:      Brazil
-phone:        +55 11 5509 3505
-e-mail:       gtlds-tech@registro.br
-
-nserver:      A.DNS.BR 200.219.148.10 2001:12f8:6:0:0:0:0:10
-nserver:      B.DNS.BR 200.189.41.10 2001:12f8:8:0:0:0:0:10
-nserver:      C.DNS.BR 200.192.233.10 2001:12f8:a:0:0:0:0:10
-nserver:      D.DNS.BR 200.219.154.10 2001:12f8:4:0:0:0:0:10
-nserver:      E.DNS.BR 200.229.248.10 2001:12f8:2:0:0:0:0:10
-nserver:      F.DNS.BR 200.219.159.10 2001:12f8:c:0:0:0:0:10
-ds-rdata:     50876 13 2 b4e05083f7129fab32ea7a6c847999ae437c7f2a8fc11d621f73e4fb386347d4
-
-whois:        whois.gtlds.nic.br
-
-status:       ACTIVE
-remarks:      Registration information: https://nic.rio/
-
-created:      2014-05-15
-changed:      2023-11-14
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
 domain:       RIP
 
 organisation: Dog Beach, LLC
@@ -46843,57 +43785,6 @@ remarks:      Registration information: https://www.identity.digital/
 
 created:      2014-10-09
 changed:      2023-09-12
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
-domain:       RO
-
-organisation: National Institute for R&D in Informatics
-address:      Bd. Averescu 8-10
-address:      Sector 1
-address:      Bucharest 011454
-address:      Romania
-
-contact:      administrative
-name:         Ionut Eugen SANDU
-organisation: National Institute for R&D in Informatics
-address:      Bd. Averescu 8-10
-address:      Sector 1
-address:      Bucharest 011454
-address:      Romania
-phone:        +40 21 4057200
-fax-no:       +40 21 316 5340
-e-mail:       ionut@rotld.ro
-
-contact:      technical
-name:         .ro TLD Tech Contact
-organisation: National Institute for R&D in Informatics
-address:      Bd. Averescu 8-10
-address:      Sector 1
-address:      Bucharest 011454
-address:      Romania
-phone:        +40 21 4057200
-fax-no:       +40 21 316 1084
-e-mail:       dns@rotld.ro
-
-nserver:      DNS-AT.ROTLD.RO 2001:628:453:bb:0:0:0:6 78.104.145.6
-nserver:      DNS-C.ROTLD.RO 194.0.11.113 2001:678:e:113:0:0:0:53
-nserver:      DNS-RO.DENIC.DE 81.91.161.99
-nserver:      PRIMARY.ROTLD.RO 192.162.16.18 2a03:5e80:0:4:192:162:16:18
-nserver:      SEC-DNS-A.ROTLD.RO 192.162.16.20 2a03:5e80:0:4:192:162:16:20
-nserver:      SEC-DNS-B.ROTLD.RO 193.230.31.230 2a03:5e80:0:5:193:230:31:230
-ds-rdata:     61039 8 2 7c53f10e86835711c3cc6ba9632e4295a077e6a0a148059195371c3e5d07e10f
-
-whois:        whois.rotld.ro
-
-status:       ACTIVE
-remarks:      Registration information: http://www.rotld.ro/
-
-created:      1993-02-26
-changed:      2024-05-06
 source:       IANA
 
 % IANA WHOIS server
@@ -49955,14 +46846,15 @@ fax-no:       +44 87 0011 8187
 e-mail:       registry@comlaude.com
 
 contact:      technical
-name:         Registry Customer Service
-organisation: Verisign, Inc
-address:      12061 Bluemont Way
-address:      Reston VA 20190
-address:      United States of America (the)
-phone:        +1-703-925-6999
-fax-no:       +1-703-948-3978
-e-mail:       info@verisign-grs.com
+name:         TLD Registry Services Technical
+organisation: Nominet
+address:      Minerva House,
+address:      Edmund Halley Road,
+address:      Oxford Science Park
+address:      Oxford OX4 4DQ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44.1865332211
+e-mail:       registrytechnical@nominet.uk
 
 nserver:      DNS1.NIC.SHELL 213.248.219.137 2a01:618:403:0:0:0:0:137
 nserver:      DNS2.NIC.SHELL 103.49.83.137 2401:fd80:403:0:0:0:0:137
@@ -49981,7 +46873,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.shell.com
 
 created:      2015-11-06
-changed:      2024-10-08
+changed:      2024-10-23
 source:       IANA
 
 % IANA WHOIS server
@@ -50335,106 +47227,6 @@ remarks:      Registration information:
 
 created:      2016-07-21
 changed:      2023-10-25
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
-domain:       SI
-
-organisation: Academic and Research Network of Slovenia (ARNES)
-address:      Tehnološki park 18
-address:      Ljubljana 1000
-address:      Slovenia
-
-contact:      administrative
-name:         Barbara Povše
-organisation: Academic and Research Network of Slovenia (ARNES)
-address:      Tehnološki park 18
-address:      Ljubljana 1000
-address:      Slovenia
-phone:        +386 1 4798800
-fax-no:       +386 1 4798899
-e-mail:       barbara.povse@register.si
-
-contact:      technical
-name:         Benjamin Zwittnig
-organisation: Academic and Research Network of Slovenia (ARNES)
-address:      Tehnološki park 18
-address:      Ljubljana 1000
-address:      Slovenia
-phone:        +386 1 4798800
-fax-no:       +386 1 4798899
-e-mail:       benjamin.zwittnig@register.si
-
-nserver:      B.DNS.SI 153.5.81.140 2001:1470:8000:53:0:0:0:44
-nserver:      F.DNS.SI 194.146.106.62 2001:67c:1010:15:0:0:0:53
-nserver:      H.DNS.SI 2001:500:14:6054:ad:0:0:1 204.61.216.54
-nserver:      I.DNS.SI 194.0.25.22 2001:678:20:0:0:0:0:22
-nserver:      K.DNS.SI 185.159.197.11 2620:10a:80aa:0:0:0:0:11
-nserver:      L.DNS.SI 185.159.198.11 2620:10a:80ab:0:0:0:0:11
-ds-rdata:     53074 8 2 d3bbe46af529561a317922df27d89686e06b87343f22bac2569d38a549d996eb
-
-whois:        whois.register.si
-
-status:       ACTIVE
-remarks:      Registration information: https://www.registry.si/
-
-created:      1992-04-01
-changed:      2024-04-16
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
-domain:       SILK
-
-organisation: Amazon Registry Services, Inc.
-address:      410 Terry Avenue North
-address:      Seattle WA 98109
-address:      United States of America (the)
-
-contact:      administrative
-name:         Program Manager, Registry
-organisation: Amazon Registry Services, Inc.
-address:      410 Terry Avenue North
-address:      Seattle WA 98109
-address:      United States of America (the)
-phone:        +1 206 646 5990
-fax-no:       +12069467702
-e-mail:       arsi-rzm@amazon.com
-
-contact:      technical
-name:         TLD Registry Services Technical
-organisation: Nominet
-address:      Minerva House
-address:      Edmund Halley Road
-address:      Oxford Science Park
-address:      Oxford OX4 4DQ
-address:      United Kingdom of Great Britain and Northern Ireland (the)
-phone:        +44.1865332211
-e-mail:       registrytechnical@nominet.uk
-
-nserver:      DNS1.NIC.SILK 213.248.218.59 2a01:618:402:0:0:0:0:59
-nserver:      DNS2.NIC.SILK 103.49.82.59 2401:fd80:402:0:0:0:0:59
-nserver:      DNS3.NIC.SILK 213.248.222.59 2a01:618:406:0:0:0:0:59
-nserver:      DNS4.NIC.SILK 2401:fd80:406:0:0:0:0:59 43.230.50.59
-nserver:      DNSA.NIC.SILK 156.154.100.3 2001:502:ad09:0:0:0:0:3
-nserver:      DNSB.NIC.SILK 156.154.101.3 2001:502:2eda:0:0:0:0:3
-nserver:      DNSC.NIC.SILK 156.154.102.3 2610:a1:1009:0:0:0:0:3
-nserver:      DNSD.NIC.SILK 156.154.103.3 2610:a1:1010:0:0:0:0:3
-ds-rdata:     23695 8 2 04017ec2e893a546bd7d73575404015a5c904b9c4dbb33b2995ae37b4df0903b
-
-whois:        whois.nic.silk
-
-status:       ACTIVE
-remarks:      Registration information:
-remarks:      https://www.amazonregistry.com/
-
-created:      2016-05-19
-changed:      2024-02-01
 source:       IANA
 
 % IANA WHOIS server
@@ -53343,6 +50135,7 @@ nserver:      NS2.NS.SX 185.159.198.10 2620:10a:80ab:0:0:0:0:10
 nserver:      NS3.NS.SX 185.159.199.10 2620:10a:80ac:0:0:0:0:10
 nserver:      NS4.NS.SX 2a0e:dbc0:0:0:0:0:0:101 45.142.220.101
 ds-rdata:     34036 8 2 8fbc9761b3375b5a00ad9a7c0e1d22f7574c87efbbcdd5249845a9778f876ce6
+ds-rdata:     13049 8 2 30d0c7552eebf0586e848fd4cb7fb02c2ce377042aabe923304fa598be7082b4
 
 whois:        whois.sx
 
@@ -53350,7 +50143,7 @@ status:       ACTIVE
 remarks:      Registration information: http://registry.sx
 
 created:      2010-12-20
-changed:      2024-03-27
+changed:      2024-10-21
 source:       IANA
 
 % IANA WHOIS server
@@ -56448,144 +53241,6 @@ source:       IANA
 % for more information on IANA, visit http://www.iana.org
 % This query returned 1 object
 
-domain:       TRAVELERSINSURANCE
-
-organisation: Travelers TLD, LLC
-address:      One Tower Square
-address:      Hartford CT 06183
-address:      United States of America (the)
-
-contact:      administrative
-name:         2VP, Enterprise Web and Mobile
-organisation: Travelers TLD, LLC
-address:      One Tower Square
-address:      Hartford CT 06183
-address:      United States of America (the)
-phone:        +1 860 277 5150
-fax-no:       +1 860 277 5147
-e-mail:       ngtld-travelers@cscglobal.com
-
-contact:      technical
-name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias
-address:      300 Welsh Road
-address:      Building 3, Suite 105
-address:      Horsham PA 19044
-address:      United States of America (the)
-phone:        +1 215 706 5700
-fax-no:       +1 215 706 5701
-e-mail:       tld-tech-poc@afilias.info
-
-nserver:      A0.NIC.TRAVELERSINSURANCE 2a01:8840:c2:0:0:0:0:17 65.22.200.17
-nserver:      A2.NIC.TRAVELERSINSURANCE 2a01:8840:c5:0:0:0:0:17 65.22.203.17
-nserver:      B0.NIC.TRAVELERSINSURANCE 2a01:8840:c3:0:0:0:0:17 65.22.201.17
-nserver:      C0.NIC.TRAVELERSINSURANCE 2a01:8840:c4:0:0:0:0:17 65.22.202.17
-ds-rdata:     11389 8 2 1a8f262ddbe7316233e999f81ae452c17b3435c57bab9ceec4bae518f121e1f1
-
-whois:        whois.nic.travelersinsurance
-
-status:       ACTIVE
-remarks:      Registration information: http://www.travelers.com
-
-created:      2015-11-25
-changed:      2023-08-11
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
-domain:       TRUST
-
-organisation: Internet Naming Co.
-address:      23 Lime Tree Bay, West Bay
-address:      Grand Cayman KY1-1505
-address:      Cayman Islands (the)
-
-contact:      administrative
-name:         Shayan Rostam
-organisation: Internet Naming Co.
-address:      23 Lime Tree Bay, West Bay
-address:      Grand Cayman KY1-1505
-address:      Cayman Islands (the)
-phone:        +1.424.888.0690
-e-mail:       partners@inaming.co
-
-contact:      technical
-name:         Francisco Obispo
-organisation: Tucows Inc
-address:      96 Mowat Avenue
-address:      Toronto ON M6K3M1
-address:      Canada
-phone:        +1.949.903.3449
-e-mail:       trs-ops@tucows.com
-
-nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
-nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
-nserver:      NS01.TRS-DNS.NET 64.96.2.1
-nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
-ds-rdata:     33872 13 2 d324a81281464251e04686f4e75d2978b119496fe596012a89647ff6af0eefc3
-
-whois:        whois.nic.trust
-
-status:       ACTIVE
-remarks:      Registration information: https://internetnaming.co
-
-created:      2014-11-26
-changed:      2024-05-01
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
-domain:       TRV
-
-organisation: Travelers TLD, LLC
-address:      One Tower Square
-address:      Hartford CT 06183
-address:      United States of America (the)
-
-contact:      administrative
-name:         2VP, Enterprise Web and Mobile
-organisation: Travelers TLD, LLC
-address:      One Tower Square
-address:      Hartford CT 06183
-address:      United States of America (the)
-phone:        +1 860 277 5150
-fax-no:       +1 860 277 5147
-e-mail:       ngtld-travelers@cscglobal.com
-
-contact:      technical
-name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias
-address:      300 Welsh Road
-address:      Building 3, Suite 105
-address:      Horsham PA 19044
-address:      United States of America (the)
-phone:        +1 215 706 5700
-fax-no:       +1 215 706 5701
-e-mail:       tld-tech-poc@afilias.info
-
-nserver:      A0.NIC.TRV 2a01:8840:c2:0:0:0:0:25 65.22.200.25
-nserver:      A2.NIC.TRV 2a01:8840:c5:0:0:0:0:25 65.22.203.25
-nserver:      B0.NIC.TRV 2a01:8840:c3:0:0:0:0:25 65.22.201.25
-nserver:      C0.NIC.TRV 2a01:8840:c4:0:0:0:0:25 65.22.202.25
-ds-rdata:     48547 8 2 f525871ee63ffed32856ba0c67f5115d5b011a437b67250e357df2bdcf1ea31c
-
-whois:        whois.nic.trv
-
-status:       ACTIVE
-remarks:      Registration information: http://www.travelers.com
-
-created:      2015-11-25
-changed:      2023-08-11
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
 domain:       TT
 
 organisation: University of the West Indies
@@ -57800,7 +54455,7 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.vana
 
 created:      2015-09-24
-changed:      2024-07-16
+changed:      2024-10-23
 source:       IANA
 
 % IANA WHOIS server
@@ -58856,54 +55511,6 @@ remarks:      Registration information: http://www.vivo.com.br
 
 created:      2016-05-26
 changed:      2024-05-11
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
-domain:       VLAANDEREN
-
-organisation: DNS.be vzw
-address:      Ubicenter, Philipssite 5, bus 13
-address:      Leuven 3001
-address:      Belgium
-
-contact:      administrative
-name:         CEO
-organisation: DNS Belgium vzw
-address:      Ubicenter, Philipssite 5, bus 13
-address:      Leuven 3001
-address:      Belgium
-phone:        +32 16 284970
-fax-no:       +32 16 284971
-e-mail:       iana-admin@dnsbelgium.be
-
-contact:      technical
-name:         CTO
-organisation: DNS Belgium vzw
-address:      Ubicenter, Philipssite 5, bus 13
-address:      Leuven 3001
-address:      Belgium
-phone:        +32 16 284970
-fax-no:       +32 16 284971
-e-mail:       iana-tech@dnsbelgium.be
-
-nserver:      A.NSSET.VLAANDEREN 194.0.6.1 2001:678:9:0:0:0:0:1
-nserver:      B.NSSET.VLAANDEREN 194.0.37.1 2001:678:64:0:0:0:0:1
-nserver:      C.NSSET.VLAANDEREN 194.0.43.1 2001:678:68:0:0:0:0:1
-nserver:      D.NSSET.VLAANDEREN 194.0.44.1 2001:678:6c:0:0:0:0:1
-nserver:      Y.NSSET.VLAANDEREN 120.29.253.8 2001:dcd:7:0:0:0:0:8
-nserver:      Z.NSSET.VLAANDEREN 194.0.25.19 2001:678:20:0:0:0:0:19
-ds-rdata:     9286 8 2 f04e1190a18d3e63b8fd5261768ef06f8fa5f27f80f39c54aa81753b203e05e7
-
-whois:        whois.nic.vlaanderen
-
-status:       ACTIVE
-remarks:      Registration information: http://www.nic.vlaanderen
-
-created:      2014-06-05
-changed:      2024-09-30
 source:       IANA
 
 % IANA WHOIS server
@@ -61947,104 +58554,6 @@ source:       IANA
 % for more information on IANA, visit http://www.iana.org
 % This query returned 1 object
 
-domain:       موقع
-domain-ace:   XN--4GBRIM
-
-organisation: Helium TLDs Ltd
-address:      Saddlers House, 4th Floor
-address:      44 Gutter Lane
-address:      London EC2V 6BR
-address:      United Kingdom of Great Britain and Northern Ireland (the)
-
-contact:      administrative
-name:         Head of Registry Services
-organisation: CentralNic
-address:      Saddlers House, 4th Floor
-address:      44 Gutter Lane
-address:      London EC2V 6BR
-address:      United Kingdom of Great Britain and Northern Ireland (the)
-phone:        +44.2033880600
-fax-no:       +44.2033880601
-e-mail:       info@centralnic.com
-
-contact:      technical
-name:         CTO
-organisation: CentralNic
-address:      Saddlers House, 4th Floor
-address:      44 Gutter Lane
-address:      London EC2V 6BR
-address:      United Kingdom of Great Britain and Northern Ireland (the)
-phone:        +44.2033880600
-fax-no:       +44.2033880601
-e-mail:       tld.ops@centralnic.com
-
-nserver:      A.NIC.XN--4GBRIM 194.169.218.144 2001:67c:13cc:0:0:0:1:144
-nserver:      B.NIC.XN--4GBRIM 185.24.64.144 2a04:2b00:13cc:0:0:0:1:144
-nserver:      C.NIC.XN--4GBRIM 212.18.248.144 2a04:2b00:13ee:0:0:0:0:144
-nserver:      D.NIC.XN--4GBRIM 212.18.249.144 2a04:2b00:13ff:0:0:0:0:144
-ds-rdata:     25097 8 2 123b7c37a9dfd48ded1914c9172ee05865d10e47c0517f40659cb0305ba0d8b3
-ds-rdata:     62231 8 2 c095636f7f327234bd3ae9d0d1fac82d5f1e1ff46cb1fc5ea76628b1430e6dc8
-
-whois:        whois.nic.xn--4gbrim
-
-status:       ACTIVE
-remarks:      Registration information: http://www.dotmawqe.com
-
-created:      2014-05-15
-changed:      2023-11-17
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
-domain:       বাংলা
-domain-ace:   XN--54B7FTA0CC
-
-organisation: Posts and Telecommunications Division
-address:      Ministry of Posts, Telecommunications and Information Technology, Government of the People's Republic of Bangladesh
-address:      Abdul Goni Road
-address:      Dhaka 1000
-address:      Bangladesh
-
-contact:      administrative
-name:         Deputy Secretary
-organisation: Posts and Telecommunications Division
-address:      Ministry of Posts, Telecommunications and Information Technology,
-address:      Abdul Goni Road
-address:      Dhaka 1000
-address:      Bangladesh
-phone:        +8802 22335448
-e-mail:       telecom1@ptd.gov.bd
-
-contact:      technical
-name:         Deputy General Manager (Domain)
-organisation: Bangladesh Telecommunications Company Limited (BTCL)
-address:      Telejogajog Bhaban, 37/E, Eskaton Garden
-address:      Dhaka 1000
-address:      Bangladesh
-phone:        +880249354200
-e-mail:       dgm.domain@btcl.gov.bd
-
-nserver:      BAYANNO.BTCL.NET.BD 180.211.212.213 2407:5000:88:2:0:0:0:3
-nserver:      BD-NS.ANYCAST.PCH.NET 2001:500:14:6108:ad:0:0:1 204.61.216.108
-nserver:      EKUSHEY.BTCL.NET.BD 123.49.50.51 2407:5000:88:1:0:0:0:2
-ds-rdata:     63049 8 1 91e8936dfe81e7350daf041bd12b77f29643a13d
-ds-rdata:     63049 8 2 dcdd04c4493e029dee060d18a91e87be930b9ce4c54fc7921f51f27455843dcb
-
-whois:        
-
-status:       ACTIVE
-remarks:      Registration information: http://domainreg.btcl.com.bd/
-
-created:      2011-03-30
-changed:      2024-05-29
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
 domain:       公益
 domain-ace:   XN--55QW42G
 
@@ -63999,56 +60508,6 @@ source:       IANA
 % for more information on IANA, visit http://www.iana.org
 % This query returned 1 object
 
-domain:       娱乐
-domain-ace:   XN--FJQ720A
-
-organisation: Binky Moon, LLC
-address:      c/o Identity Digital Limited
-address:      10500 NE 8th Street, Suite 750
-address:      Bellevue WA 98004
-address:      United States of America (the)
-
-contact:      administrative
-name:         Vice President, Engineering
-organisation: Identity Digital Limited
-address:      10500 NE 8th Street, Suite 750
-address:      Bellevue WA 98004
-address:      United States of America (the)
-phone:        +1.425.298.2200
-fax-no:       +1.425.671.0020
-e-mail:       tldadmin@identity.digital
-
-contact:      technical
-name:         Senior Director, DNS Infrastructure Group
-organisation: Identity Digital Limited
-address:      10500 NE 8th Street, Suite 750
-address:      Bellevue WA 98004
-address:      United States of America (the)
-phone:        +1.425.298.2200
-fax-no:       +1.425.671.0020
-e-mail:       tldtech@identity.digital
-
-nserver:      V0N0.NIC.XN--FJQ720A 2a01:8840:16:0:0:0:0:66 65.22.20.66
-nserver:      V0N1.NIC.XN--FJQ720A 2a01:8840:17:0:0:0:0:66 65.22.21.66
-nserver:      V0N2.NIC.XN--FJQ720A 2a01:8840:18:0:0:0:0:66 65.22.22.66
-nserver:      V0N3.NIC.XN--FJQ720A 161.232.10.66 2a01:8840:f4:0:0:0:0:66
-nserver:      V2N0.NIC.XN--FJQ720A 2a01:8840:19:0:0:0:0:66 65.22.23.66
-nserver:      V2N1.NIC.XN--FJQ720A 161.232.11.66 2a01:8840:f5:0:0:0:0:66
-ds-rdata:     63835 8 2 e3f265b8894b76bab24512c5276be9243c0afb4595a14c879f9fb711e754c013
-
-whois:        whois.nic.xn--fjq720a
-
-status:       ACTIVE
-remarks:      Registration information: https://www.identity.digital/
-
-created:      2014-07-17
-changed:      2023-09-12
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
 domain:       谷歌
 domain-ace:   XN--FLW351E
 
@@ -65241,59 +61700,6 @@ remarks:      Registration information: http://www.rntd.cn
 
 created:      2014-06-05
 changed:      2023-01-19
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
-domain:       мон
-domain-ace:   XN--L1ACC
-
-organisation: Datacom Co.,Ltd
-address:      Galaxy Tower Office Bldg, #5007,
-address:      Mahatma Gandhi Street,
-address:      Khan-Uul district
-address:      Ulaanbaatar 17010
-address:      Mongolia
-
-contact:      administrative
-name:         Enkhbat Dangaasuren
-organisation: Datacom Co.,Ltd
-address:      Galaxy Tower Office Bldg, #5007,
-address:      Mahatma Gandhi Street,
-address:      Khan-Uul district
-address:      Ulaanbaatar 17010
-address:      Mongolia
-phone:        +976 11 311411
-fax-no:       +976 11 320210
-e-mail:       enkhbat@datacom.mn
-
-contact:      technical
-name:         Enkhbold Gombo
-organisation: Datacom Co.,Ltd
-address:      Galaxy Tower Office Bldg, #5007,
-address:      Mahatma Gandhi Street,
-address:      Khan-Uul district
-address:      Ulaanbaatar 17010
-address:      Mongolia
-phone:        +976 7000 0505
-fax-no:       +976 11 320210
-e-mail:       enkhbold@datacom.mn
-
-nserver:      NS1.IDN.MN 218.100.84.27
-nserver:      NS2.IDN.MN 202.170.80.40
-nserver:      NS3.IDN.MN 180.149.98.78
-ds-rdata:     45112 5 2 1cbba9081b31b12fa98f5b7fee95751bd16676e41a2abc0b25bd0c0031474492
-ds-rdata:     45112 5 1 1f4351261342fc31daa8d5e4f1d4fbf6ee0d9857
-
-whois:        
-
-status:       ACTIVE
-remarks:      Registration information: http://www.mon.mn/
-
-created:      2012-06-21
-changed:      2023-03-07
 source:       IANA
 
 % IANA WHOIS server
@@ -68280,57 +64686,6 @@ source:       IANA
 % for more information on IANA, visit http://www.iana.org
 % This query returned 1 object
 
-domain:       广东
-domain-ace:   XN--XHQ521B
-
-organisation: Guangzhou YU Wei Information Technology Co., Ltd.
-address:      3302 International Trade Center
-address:      No.1 Linhe Xi Road
-address:      Guangzhou Guangdong 510610
-address:      China
-
-contact:      administrative
-name:         Ai Xin
-organisation: Guangzhou YU Wei Information Technology Co., Ltd.
-address:      3302 International Trade Center
-address:      No.1 Linhe Xi Road
-address:      Guangzhou Guangdong 510610
-address:      China
-phone:        +86.2066222543
-fax-no:       +86.2066222864
-e-mail:       alice@yu-wei.cn
-
-contact:      technical
-name:         Jacky Luo
-organisation: Guangzhou YU Wei Information Technology Co., Ltd.
-address:      3302 International Trade Center
-address:      No.1 Linhe Xi Road
-address:      Guangzhou Guangdong 510610
-address:      China
-phone:        +86.2066222543
-fax-no:       +86.2066222864
-e-mail:       technology@yu-wei.cn
-
-nserver:      TA.NGTLD.CN 2001:dc7:ffd1:0:0:0:0:1 42.83.130.1
-nserver:      TB.NGTLD.CN 2001:dc7:ffd2:0:0:0:0:1 42.83.131.1
-nserver:      TC.NGTLD.CN 2001:dc7:ffd3:0:0:0:0:1 42.83.132.1
-nserver:      TD.NGTLD.CN 42.83.133.1
-nserver:      TE.NGTLD.CN 42.83.134.1
-ds-rdata:     2506 8 2 aab3b1cbc1b41da41348f9b7546b700ce2356d7627b9026fd616320f18b08fe8
-
-whois:        whois.ngtld.cn
-
-status:       ACTIVE
-remarks:      Registration information: http://www.yu-wei.cn/
-
-created:      2014-07-24
-changed:      2022-04-22
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
 domain:       இலங்கை
 domain-ace:   XN--XKC2AL3HYE2A
 
@@ -68377,101 +64732,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.lk
 
 created:      2010-08-19
-changed:      2023-03-07
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
-domain:       இந்தியா
-domain-ace:   XN--XKC2DL3A5EE0H
-
-organisation: National Internet Exchange of India
-address:      6C, 6D, 6E Hansalaya Building 15, Barakhamba Road
-address:      New Delhi 110 001
-address:      India
-
-contact:      administrative
-name:         Rajiv Kumar
-organisation: National Internet Exchange of India
-address:      6C, 6D, 6E Hansalaya Building 15, Barakhamba Road
-address:      New Delhi 110 001
-address:      India
-phone:        +91 11 4820 2011
-fax-no:       +91 11 4820 2013
-e-mail:       registry@nixi.in
-
-contact:      technical
-name:         Rajiv Kumar
-organisation: National Internet Exchange of India
-address:      6C, 6D, 6E Hansalaya Building 15, Barakhamba Road
-address:      New Delhi 110 001
-address:      India
-phone:        +91 11 4820 2011
-fax-no:       +91 11 4820 2013
-e-mail:       rajiv@nixi.in
-
-nserver:      NS1.REGISTRY.IN 2001:dcd:1:0:0:0:0:12 37.209.192.12
-nserver:      NS2.REGISTRY.IN 2001:dcd:2:0:0:0:0:12 37.209.194.12
-nserver:      NS3.REGISTRY.IN 2001:dcd:3:0:0:0:0:12 37.209.196.12
-nserver:      NS4.REGISTRY.IN 2001:dcd:4:0:0:0:0:12 37.209.198.12
-nserver:      NS5.REGISTRY.IN 156.154.100.20 2001:502:2eda:0:0:0:0:20
-nserver:      NS6.REGISTRY.IN 156.154.101.20 2001:502:ad09:0:0:0:0:20
-ds-rdata:     42949 8 2 5daf7ae834260d89a675de3088045669d58e6d9dcf2215ee95bd7c4c7a67bcf0
-
-whois:        whois.registry.in
-
-status:       ACTIVE
-remarks:      Registration information: https://www.registry.in
-
-created:      2011-02-05
-changed:      2023-07-25
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
-domain:       հայ
-domain-ace:   XN--Y9A3AQ
-
-organisation: "Internet Society" Non-governmental Organization
-address:      17 A.Khachaturyan str. #3
-address:      Yerevan 0012
-address:      Armenia
-
-contact:      administrative
-name:         Igor Mkrtumyan
-organisation: "Internet Society" Non-governmental Organization
-address:      17 A.Khachaturyan str. #3
-address:      Yerevan 0012
-address:      Armenia
-phone:        +374 91 415539
-fax-no:       +374 6027 2271
-e-mail:       imkrtumyan@isoc.am
-
-contact:      technical
-name:         Misak Khachatryan
-organisation: "Internet Society" Non-governmental Organization
-address:      17 A.Khachaturyan str. #3
-address:      Yerevan 0012
-address:      Armenia
-phone:        +374 93 199840
-e-mail:       misak@amnic.net
-
-nserver:      FORK.STH.DNSNODE.NET 2a01:3f0:0:306:0:0:0:53 77.72.229.254
-nserver:      NS-CDN.AMNIC.NET 194.0.1.26 2001:678:4:0:0:0:0:1a
-nserver:      NS-PCH.AMNIC.NET 2001:500:14:6096:ad:0:0:1 204.61.216.96
-nserver:      NS-PRI.NIC.AM 195.43.75.53 2001:7f9:8:53:0:0:0:1
-ds-rdata:     62869 13 2 815a710ebacaf9227c48a8c96dd1199c7822bb3fc6ece2620975b2a5fa16a0fb
-
-whois:        whois.amnic.net
-
-status:       ACTIVE
-remarks:      Registration information: https://www.amnic.net/
-
-created:      2014-11-26
 changed:      2023-03-07
 source:       IANA
 
@@ -68957,52 +65217,6 @@ remarks:      Registration information:
 
 created:      1996-08-19
 changed:      2024-08-06
-source:       IANA
-
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
-domain:       YODOBASHI
-
-organisation: YODOBASHI CAMERA CO.,LTD.
-address:      20-1 3-chome Kita-Shinjyuku
-address:      Shinjyuku-ku Tokyo 169-8585
-address:      Japan
-
-contact:      administrative
-name:         Representative Director
-organisation: GMO Registry, Inc.
-address:      26-1 Sakuragaoka-cho
-address:      Shibuya-ku Tokyo 1508512
-address:      Japan
-phone:        +81-3-5456-1601
-fax-no:       +81-3-3780-5239
-e-mail:       newgtld@gmoregistry.com
-
-contact:      technical
-name:         Director
-organisation: GMO Registry, Inc.
-address:      26-1 Sakuragaoka-cho
-address:      Shibuya-ku Tokyo 1508512
-address:      Japan
-phone:        +81-3-5456-1601
-fax-no:       +81-3-3780-5239
-e-mail:       newgtld@gmoregistry.com
-
-nserver:      A.GMOREGISTRY.NET 2001:dcd:1:0:0:0:0:4 37.209.192.4
-nserver:      B.GMOREGISTRY.NET 2001:dcd:2:0:0:0:0:4 37.209.194.4
-nserver:      K.GMOREGISTRY.NET 37.209.196.4
-nserver:      L.GMOREGISTRY.NET 2001:dcd:4:0:0:0:0:4 37.209.198.4
-ds-rdata:     40387 8 2 f2a6e4458136145067fca10141180bac9fd4ca768908707d98e5e2412039a1e3
-
-whois:        whois.nic.gmo
-
-status:       ACTIVE
-remarks:      Registration information: http://www.gmoregistry.com/en/
-
-created:      2015-02-13
-changed:      2019-08-20
 source:       IANA
 
 % IANA WHOIS server

@@ -1,12 +1,12 @@
 name: ccc
 
 on:
-#  push:
-#    branches: [ main ]
+  push:
+    branches: [ main ]
 #  pull_request:
 #    branches: [ main ]
-  schedule:
-    - cron:  '0 0 * * 4'
+#  schedule:
+#    - cron:  '0 0 * * 4'
 
 jobs:
   build:

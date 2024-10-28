@@ -20,6 +20,7 @@ jobs:
       - run: echo '```'>>README.md
       - run: cat china-tlds.txt >>README.md
       - run: echo '```'>>README.md
+      - run: rm *.txt*
       - name: Commit files
         run: |
           git config --local user.email "action@github.com"

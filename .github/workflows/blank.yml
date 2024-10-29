@@ -1,12 +1,12 @@
 name: ccc
 
 on:
-  push:
-    branches: [ main ]
+#  push:
+#    branches: [ main ]
 #  pull_request:
 #    branches: [ main ]
-#  schedule:
-#    - cron:  '0 0 * * 4'
+  schedule:
+    - cron:  '0 0 * * 4'
 
 jobs:
   build:
@@ -20,7 +20,7 @@ jobs:
       - run: echo '```'>>README.md
       - run: cat china-tlds.txt >>README.md
       - run: echo '```'>>README.md
-      - run: rm *.txt*
+      - run: rm *.txt
       - name: Commit files
         run: |
           git config --local user.email "action@github.com"

@@ -1,9 +1,9 @@
 # CN_Root_Zone
 ```
-ANQUAN
 ASIA
 BAIDU
 CITIC
+CN
 FANS
 HK
 HKT
@@ -65,7 +65,6 @@ YUN
 联通
 购物
 集团
-電訊盈科
 餐厅
 香格里拉
 香港

@@ -5,7 +5,6 @@ ASIA
 BAIDU
 CITIC
 CN
-FANS
 HK
 HKT
 ICBC
@@ -35,7 +34,6 @@ XIN
 YUN
 世界
 中信
-中国
 中國
 中文网
 佛山

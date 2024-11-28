@@ -5,6 +5,7 @@ ASIA
 BAIDU
 CITIC
 CN
+FANS
 HK
 HKT
 ICBC
@@ -30,13 +31,12 @@ UNICOM
 WANG
 WEIBO
 XIHUAN
-XIN
 YUN
 世界
 中信
+中国
 中國
 中文网
-佛山
 信息
 健康
 八卦

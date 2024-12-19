@@ -1,23 +1,25 @@
 # CN_Root_Zone
 ```
 ANQUAN
-ASIA
 BAIDU
 CITIC
 CN
 FANS
-ICBC
+HK
 KERRYHOTELS
 KERRYLOGISTICS
 KERRYPROPERTIES
+KIDS
 KUOKGROUP
 MO
 MTR
 NOWTV
 PCCW
+PH
 REDSTONE
 REN
 RICHARDLI
+SHANGRILA
 SHOUJI
 SINA
 SOHU
@@ -25,10 +27,13 @@ TOP
 UNICOM
 WANG
 WEIBO
+XIHUAN
 XIN
+YUN
 世界
 中信
 中国
+中國
 中文网
 佛山
 信息
@@ -39,7 +44,6 @@ XIN
 商城
 商标
 嘉里
-嘉里大酒店
 在线
 广东
 微博
@@ -47,6 +51,7 @@ XIN
 我爱你
 手机
 招聘
+政务
 新闻
 时尚
 澳門

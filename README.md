@@ -1,11 +1,12 @@
 # CN_Root_Zone
 ```
 ANQUAN
+ASIA
 BAIDU
 CITIC
 CN
 FANS
-HK
+ICBC
 KERRYHOTELS
 KERRYLOGISTICS
 KERRYPROPERTIES
@@ -44,6 +45,7 @@ YUN
 商城
 商标
 嘉里
+嘉里大酒店
 在线
 广东
 微博

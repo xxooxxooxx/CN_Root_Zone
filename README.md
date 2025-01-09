@@ -13,7 +13,6 @@ KERRYHOTELS
 KERRYLOGISTICS
 KERRYPROPERTIES
 KIDS
-KUOKGROUP
 MO
 MTR
 NOWTV
@@ -34,6 +33,9 @@ XIHUAN
 XIN
 YUN
 世界
+中信
+中国
+中國
 中文网
 佛山
 信息
@@ -44,7 +46,6 @@ YUN
 商城
 商标
 嘉里
-嘉里大酒店
 在线
 广东
 微博

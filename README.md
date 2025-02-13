@@ -20,7 +20,6 @@ NOWTV
 PCCW
 PH
 REDSTONE
-REN
 RICHARDLI
 SHANGRILA
 SHOUJI
@@ -36,11 +35,9 @@ YUN
 世界
 中信
 中国
-中國
 中文网
 佛山
 信息
-健康
 八卦
 公司
 公益
@@ -60,7 +57,6 @@ YUN
 时尚
 澳門
 网址
-网店
 网站
 网络
 联通

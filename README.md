@@ -14,12 +14,12 @@ KERRYLOGISTICS
 KERRYPROPERTIES
 KIDS
 KUOKGROUP
-MO
 MTR
 NOWTV
 PCCW
 PH
 REDSTONE
+REN
 RICHARDLI
 SHANGRILA
 SHOUJI
@@ -29,15 +29,16 @@ TOP
 UNICOM
 WANG
 WEIBO
-XIHUAN
 XIN
 YUN
 世界
 中信
 中国
+中國
 中文网
 佛山
 信息
+健康
 八卦
 公司
 公益
@@ -49,7 +50,6 @@ YUN
 广东
 微博
 慈善
-我爱你
 手机
 招聘
 政务
@@ -57,6 +57,7 @@ YUN
 时尚
 澳門
 网址
+网店
 网站
 网络
 联通

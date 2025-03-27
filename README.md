@@ -22,6 +22,8 @@ REDSTONE
 REN
 RICHARDLI
 SHANGRILA
+SHOUJI
+SINA
 SOHU
 TOP
 UNICOM
@@ -39,6 +41,7 @@ YUN
 信息
 健康
 八卦
+公司
 公益
 商城
 商标

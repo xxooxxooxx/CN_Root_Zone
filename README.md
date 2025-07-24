@@ -16,6 +16,7 @@ KUOKGROUP
 MO
 MTR
 NOWTV
+PCCW
 PH
 REDSTONE
 REN
@@ -67,5 +68,4 @@ YUN
 電訊盈科
 餐厅
 香格里拉
-香港
 ```

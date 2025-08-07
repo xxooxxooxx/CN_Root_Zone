@@ -1,7 +1,6 @@
 # CN_Root_Zone
 ```
 ANQUAN
-ASIA
 BAIDU
 CITIC
 CN
@@ -30,6 +29,7 @@ UNICOM
 WANG
 WEIBO
 XIHUAN
+XIN
 YUN
 世界
 中信
@@ -48,6 +48,7 @@ YUN
 嘉里大酒店
 在线
 广东
+微博
 慈善
 我爱你
 手机

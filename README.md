@@ -1,6 +1,5 @@
 # CN_Root_Zone
 ```
-ANQUAN
 ASIA
 BAIDU
 CITIC

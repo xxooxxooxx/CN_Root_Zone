@@ -16,7 +16,6 @@ KUOKGROUP
 MO
 MTR
 NOWTV
-PCCW
 PH
 REN
 RICHARDLI
@@ -52,7 +51,6 @@ YUN
 慈善
 我爱你
 手机
-招聘
 政务
 新闻
 时尚

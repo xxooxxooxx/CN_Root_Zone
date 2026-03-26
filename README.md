@@ -6,6 +6,7 @@ BAIDU
 CITIC
 CN
 FANS
+HK
 HKT
 ICBC
 KERRYHOTELS
@@ -40,7 +41,6 @@ YUN
 健康
 八卦
 公司
-公益
 商城
 商标
 嘉里

@@ -17,6 +17,7 @@ MO
 MTR
 NOWTV
 PCCW
+PH
 REN
 RICHARDLI
 SHANGRILA
@@ -59,6 +60,7 @@ YUN
 网址
 网店
 网站
+网络
 联通
 购物
 集团

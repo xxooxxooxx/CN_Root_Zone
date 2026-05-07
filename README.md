@@ -17,7 +17,6 @@ MO
 MTR
 NOWTV
 PCCW
-PH
 REN
 RICHARDLI
 SHANGRILA
@@ -44,6 +43,8 @@ YUN
 公益
 商城
 商标
+嘉里
+嘉里大酒店
 在线
 广东
 微博
@@ -51,7 +52,6 @@ YUN
 我爱你
 手机
 招聘
-政务
 新闻
 时尚
 澳門

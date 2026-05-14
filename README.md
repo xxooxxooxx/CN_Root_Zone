@@ -1,9 +1,9 @@
 # CN_Root_Zone
 ```
+ALIBABA
 ANQUAN
 ASIA
 BAIDU
-CITIC
 CN
 FANS
 HK
@@ -17,6 +17,7 @@ MO
 MTR
 NOWTV
 PCCW
+PH
 REN
 RICHARDLI
 SHANGRILA
@@ -49,9 +50,9 @@ YUN
 广东
 微博
 慈善
-我爱你
 手机
 招聘
+政务
 新闻
 时尚
 澳門

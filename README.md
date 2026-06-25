@@ -16,7 +16,6 @@ KIDS
 KUOKGROUP
 MO
 MTR
-NOWTV
 PCCW
 PH
 REN
@@ -59,6 +58,7 @@ YUN
 时尚
 澳門
 网址
+网店
 网站
 网络
 联通

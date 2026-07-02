@@ -16,6 +16,7 @@ KIDS
 KUOKGROUP
 MO
 MTR
+NOWTV
 PCCW
 PH
 REN
@@ -62,9 +63,7 @@ YUN
 网站
 网络
 联通
-购物
 集团
-電訊盈科
 餐厅
 香格里拉
 香港

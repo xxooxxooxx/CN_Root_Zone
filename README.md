@@ -12,7 +12,6 @@ HKT
 ICBC
 KERRYHOTELS
 KERRYPROPERTIES
-KIDS
 KUOKGROUP
 MO
 MTR
@@ -25,15 +24,12 @@ SHANGRILA
 SHOUJI
 SINA
 SOHU
-TOP
-UNICOM
 WANG
 WEIBO
 XIHUAN
 XIN
 YUN
 世界
-中信
 中国
 中國
 中文网
@@ -62,11 +58,9 @@ YUN
 网店
 网站
 网络
-联通
 购物
 集团
 電訊盈科
 餐厅
-香格里拉
 香港
 ```
